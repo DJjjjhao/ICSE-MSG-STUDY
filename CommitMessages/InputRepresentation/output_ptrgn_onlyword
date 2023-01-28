@@ -1,0 +1,7661 @@
+remove unused imports
+add 😝 to cassandradaemon
+fix textureutil equals
+add missing test
+add test for 😝
+fix 😝 😝
+don t show 😝 if there is no 😝
+add a comment
+fix flaky test
+add 😝 to 😝
+remove unused variable
+fix 😝 😝
+add a gservices setting to show the 😝
+fix pooledunsafedirectbytebuf newinternalniobuffer
+remove debug output
+remove unused code
+fix bug in commandlinetools
+add a todo
+don t use deprecated methods
+don t close the 😝
+fix npe in filedisplayactivity
+fix bug in ohazelcastplugin
+remove unnecessary code
+remove unused import
+fix npe in reducervalueupdater
+don t throw exception in flexadapter
+fix bug in biomedictionary
+remove unused method
+fix 😝 tests
+fix a bug in 😝
+remove unused code
+fix a bug in 😝
+remove unused import
+remove unused imports
+fix failing test
+fix bug in baseindex
+remove unnecessary code
+add missing 😝
+remove unused code
+add 😝 to 😝
+fix potential npe
+add more logging
+improved error message
+add test for 😝 😝
+fix 😝 😝
+fix npe in dtoconverter
+fix a bug where the 😝 could become stuck
+remove unused code
+add a comment
+fix a bug in 😝
+remove unused import
+fix log message
+fix javadoc warnings
+don t use 😝 😝
+don t use 😝 😝
+add missing test
+remove unused variable
+remove unused code
+fix 😝 😝
+add instrument method
+fix a bug in 😝
+improve javadoc for usedresource
+add missing test
+fix failing test
+fix npe in 😝
+add a todo
+add missing 😝
+fix a bug where the 😝 wasn t 😝
+remove unused imports
+fix npe in roundedbitmapdisplayer
+remove unused method
+make configurationclassbeandefinitionreader public
+fix license header
+don t show 😝 in 😝
+add null check
+fix npe in javastubgenerator
+fix bug in restmainaction
+fix npe in contactheaderwidget
+add javadoc for autowire
+remove unused method
+fix 😝 😝
+don t use 😝 😝
+fix a bug in 😝
+remove unused code
+fix a bug in 😝
+fix 😝 in appendprocessor
+remove unused code
+fix the build
+fix a bug where 😝 could not be 😝
+remove unused code
+remove unused code
+make dependencytree serializable
+add getter for antbuilder
+remove unnecessary system out
+add missing override
+remove unused method
+fix npe in pyintroduceparameterhandler
+fix npe in 😝
+fix typo in javadoc
+add 😝 to 😝
+fix npe in 😝
+fix a bug in 😝
+fix 😝 😝
+fix a bug where the 😝 wasn t stuck
+fix test case
+remove unnecessary code
+fix 😝 😝
+fix 😝 in es6rewriteblockscopeddeclaration
+remove obsolete comment
+don t show 😝 in psielementrenamehandler
+fix 😝 😝
+fix javadoc warning
+make charhandler static
+don t show 😝 on 😝
+throw an exception when a 😝 is used
+remove unused variable
+fix npe in setbroadcaster
+turn off debug logging
+fix bug in rajawalirenderer
+fix bug in turnvertex
+fix bug in standalonexml
+add a todo
+remove unused variable
+remove unnecessary cast
+add missing override
+fix npe in jsr310localdatetimetype
+fix npe in 😝
+add missing license header
+fix 😝 😝
+remove unused code
+add javadoc for getwaittimeout
+fix 😝 😝
+make hyperloglogoperators final
+fix joglcontext keyinput
+add a comment
+fix bug in serializerbase
+remove unnecessary code
+fix a bug where the 😝 could be 😝
+fix npe in 😝
+don t 😝 😝 😝
+add null check
+fix a bug in 😝
+remove unused method
+remove unused field
+fix bug in methodanalyzer
+fix exception message
+remove unused code
+add a comment
+fix npe in applicationpidlistener
+throw exception on failure
+fix bug in jobproxy
+add sethost to stompcomponent
+remove debug output
+fix typo in selectioncommands
+remove unused method
+fix a bug in 😝
+fix 😝 😝
+remove unused import
+fix bug in projectsettingsstepbase
+fix bug in handlecuiinitializationmessage
+fix bug in splitmanager
+don t show 😝 in 😝
+fix broken test
+remove unused constant
+remove unused method
+fix 😝 😝
+add a todo
+add logging of 😝
+rename classpathfile to pathresource
+fix bug in fragmentmanagerimpl
+make managedbeansubsystemelementparser public
+don t use deprecated method
+remove unused imports
+fix createdialogaction tostring
+make poolbagentry final
+add more debugging info to 😝
+fix javadoc warning
+fix npe in asyncimageview
+fix javadoc warning
+fix javadoc errors
+remove unused code
+fix race condition in druidcoordinator
+improve error message
+add missing 😝
+fix 😝 😝
+add missing license header
+remove unused code
+fix a bug in 😝
+add utility method to check if a user exists
+fix test failures
+remove unused imports
+fix javadoc warning
+fix npe in vertximpl
+fix javadoc errors
+remove unused method
+fix typo in javadoc
+remove unused code
+add missing test
+add missing override
+remove unnecessary cast
+remove unused method
+fix typo in javadoc
+remove unused code
+fix a bug where the 😝 wouldn t be 😝
+don t show error message for 😝
+fix a bug where the 😝 wouldn t show the 😝
+add a todo
+fix bug in discourseformat
+fix npe in 😝
+add null check
+remove deprecated annotation
+remove debug output
+fix npe in groovystdtypecalculators
+add null check
+fix bug in disassemblecommand
+remove unused import
+fix turnedge timelowerbound
+add null check
+fix issue with catalystinstanceimpl
+fix bug in executiongraph
+add a null check
+make nextstandnormaldistrdouble public
+remove debug code
+fix bug in coreapi
+remove unused method
+fix npe in jettestutils
+improve javadoc for scheduleasyncpersistenceinternal
+add missing license header
+make outputstreamoutputbuffer final
+remove unused method
+fix npe in abstractpartialinstant
+fix a bug in 😝
+fix bug in filesystemutils
+add a comment
+fix a bug in 😝
+remove unused constant
+fix javadoc errors
+don t show anonymous methods
+fix npe in rotationlocktile
+remove unused variable
+fix 😝 😝
+fix failing test
+add documentation to inputmethodinfo
+remove unused code
+fix typo in dashboardwidgetcreator
+fix a bug where the 😝 could be 😝
+fix bug in aiosocketchannel
+fix 😝 test
+remove unused code
+add a comment
+deprecate unused code
+add missing annotation
+fix npe in pooledbytebuf
+fix bug in hashgenerationoptimizer
+add missing annotation
+fix javadoc warnings
+add instancetype tostringrepresentation
+improve exception message
+fix typo in refparameter
+fix a bug in 😝
+fix npe in abstractdynamicmethodsinterceptor
+fix skylarktype convertfromskylark
+fix potential npe
+add a comment
+fix bug in packageviewdescriptorimpl
+fix typo in javadoc
+fix 😝 😝
+fix npe in 😝
+remove unused method
+add more tests
+don t log 😝 😝
+remove unused method
+remove unused import
+fix crash in osmoplugin
+fix npe in highlightmethodutil
+remove unnecessary cast
+fix potential npe
+fix 😝 😝
+fix a bug in memtable
+fix a bug in httpcontentdecoder
+remove unnecessary code
+don t show 😝 icon in 😝
+fix 😝 😝
+fix npe in grapeengineinstaller
+don t show 😝 on 😝
+add tostring to phoneaccount
+fix javadoc warning
+remove unused method
+fix clienthandler constructor
+remove unused code
+fix log message
+add 😝 to 😝
+remove unused import
+add missing override
+fix npe in j2objc
+fix a bug where 😝 wouldn t 😝
+fix npe in redundantlambdaparametertypeinspection
+fix npe in pipetransportpower
+fix bug in basemultilayernetwork
+add a comment
+remove unused code
+add a todo
+fix exception handling
+add javadoc to witherskull
+make collectorcomponent serializable
+do not show 😝 😝 in 😝
+don t show 😝 on 😝
+fix npe in formattedemailalertsender
+add a null check
+remove unused constants
+fix douglaspeucker 😝
+remove unused imports
+fix bug in sctpworker
+fix npe in alliswell
+remove unnecessary code
+fix 😝 😝
+ignore failing test
+add 😝 to operatorscopeitest
+fix test failures
+add a comment
+fix npe in builderfactory
+fix 😝 in flickrapi
+add 😝 😝
+fix javadoc warning
+add isuseragoat to isuseragoat
+add test for 😝 😝
+fix 😝 tests
+fix npe in 😝
+fix a bug where the 😝 could be stuck
+fix npe in httpservlet3requestfactory
+remove debug logging
+fix npe in replymessage
+remove unused code
+remove unused variable
+remove unused hittestresult
+fix a bug where the 😝 wasn t 😝
+fix javadoc warning
+remove system out
+add a method to close the 😝
+add a test for 😝 😝
+add missing 😝
+fix test case
+remove unused constants
+fix failing tests
+remove unused constructor
+fix a bug in 😝
+fix 😝 test
+add unit test
+fix javadoc warning
+remove unused code
+remove debug output
+add missing annotation
+remove unnecessary synchronization
+make businessoverduestatusmodeldao serializable
+ignore failing test
+fix jsontype equals
+remove unused method
+don t use deprecated methods
+fix typo in 😝
+remove unused method
+remove unused constant
+fix npe in rxpermissions
+remove unused method
+remove unused field
+add timeout to storeswapper
+add a comment
+remove unnecessary code
+add a todo
+fix bug in lzfdecoder
+improve javadoc in persistenceexceptiontranslator
+add null check
+fix npe in 😝
+remove 😝 border
+fix rowseq 😝
+add null check to requestbuilderbase
+fix a bug in realmwikiexample
+remove unused code
+fix 😝 test
+fix 😝 test
+remove obsolete comment
+remove unused method
+fix test on windows
+fix race condition in lwjglabstractdisplay
+add getfirstnode method
+add a comment
+remove debug output
+fix a typo
+remove unused code
+remove unused variable
+fix typo in log message
+add a comment
+fix typo in javadoc
+don t use 😝 😝
+fix 😝 test
+add missing iqofflinemessageshandler
+improved error message
+fix a bug in 😝
+fix bug in delayedactionsystem
+remove unused code
+fix failing test
+add tostring to mutablepackagefragmentdescriptor
+fix a compilation error
+fix a bug where 😝 could not be 😝
+fix bug in 😝
+fix nouninflector tostring
+fix javadoc errors
+remove unnecessary assertion
+fix bug in dictionaryexporter
+fix bug in titanblueprintstransaction
+remove unused field
+fix npe in ccdeletetaskwindow
+fix default value of initial_token
+throw exception instead of runtimeexception
+fix javadoc warnings
+remove unused code
+remove unused method
+fix javadoc warning
+remove unnecessary code
+fix a crash in 😝
+fix javadoc warnings
+add title to 😝
+fix bug in uploader
+remove 😝 😝
+don t run 😝 on 😝
+don t use 😝 😝
+improved error message
+improve javadoc for hasop
+remove unused method
+add missing constructor
+remove unused method
+fix typo in javadoc
+improve exception message
+add missing methods
+fix npe in javaplugin
+remove suppressforbidden printstacktrace
+fix bug in workduration
+remove unused imports
+add a comment
+remove unused code
+fix a bug in slidinguppanellayout
+fix test failure
+remove unused imports
+add missing 😝
+catch exception thrown in 😝
+fix npe in searchresponsecsvwriter
+fix npe in undertowdeploymentservice
+add support for 😝
+fix test case
+add some comments
+improved error message
+sourceformatter remove unused variable
+remove system out
+fix graphmlwriter equals
+remove unused method
+make cycleconfigentity serializable
+fix potential npe
+fix npe in multidetector
+remove unnecessary comment
+add missing 😝
+add support for 😝
+fix 😝 😝
+fix possible npe
+add 😝 😝
+fix crash in backupmanagerservice
+remove unused method
+fix typo in hystrixconfigurationdefinition
+remove unused method
+throw exception when parsing an exception
+fix a bug in 😝
+remove unused code
+fix 😝 😝
+make viewnameresolver public
+fix crash in 😝
+fix bug in filedownloadstatus
+fix crash in pdfviewer
+add some comments
+remove unnecessary method
+add a comment
+remove debug output
+add a todo
+fix npe in 😝
+remove unused field
+remove unused imports
+add border to 😝
+fix npe in mediascanner
+don t swallow throwable
+add hashcode method
+make dijkstrasimpletest public
+fix 😝 😝
+fix bug in switchrenderer
+fix npe in jcmediamanager
+remove unnecessary suppresswarnings
+fix 😝 color
+remove unused code
+fix npe in 😝
+add missing javadoc
+fix a bug in certificatevalidatorcache
+fix failing test
+don t show 😝 😝 when 😝
+fix 😝 annotation
+remove empty line
+don t show 😝 😝 when 😝
+remove deprecated methods
+remove unnecessary code
+remove unnecessary cast
+fix propertyexpression transformexpression
+remove unused constant
+add missing 😝
+add missing threadleaklingering
+add javadoc for primarykey
+add null check
+handle 😝 in zookeepermastermodel
+remove unused method
+do not run 😝 in tests
+fix bug in pifacebinding
+remove unused constructor
+fix a bug where 😝 could not be 😝
+remove 😝 dependency
+fix javadoc warnings
+fix javadoc warning
+fix the build
+add basedanmakuparser settimer
+add missing override
+add a comment
+fix 😝 😝
+fix npe in debuggerutilsex
+catch throwable in <delete>
+add null check
+remove unnecessary code
+remove unused method
+remove unnecessary code
+add support for 😝
+fix npe in timeretentionstrategy
+remove unused method
+fix spongemod constructor
+add more logging
+fix a bug in withingsgenericbindingprovider
+add null check
+remove unnecessary override
+remove redundant equals
+fix 😝 in printfformat
+remove unused code
+ignore exceptions in 😝
+fix timestamped equals
+make constructor public
+add missing override
+fix assertion in dhistogram
+remove unused constants
+fix npe in sqlfilechange
+add a comment
+fix bug in iobalancerstresstest
+remove unused field
+fix a bug in multiselectmanager
+fix 😝 tests
+add a test for searchforuser
+fix failing test
+fix residentqueryparsercache constructor
+add missing break
+fix npe in sipphone
+remove unused field
+remove unused imports
+remove unused variable
+fix javadoc warnings
+add missing 😝
+do not merge fix npe
+remove unused method
+remove debug output
+fix bug in resconfigflags
+fix iconroundcornerprogressbar 😝
+add getselectionreason to modulerevisionresolvestate
+don t show 😝 if there is no 😝
+fix npe in <delete>
+add missing override
+add 😝 tests
+fix license header
+add missing 😝
+add log message for 😝
+fix 😝 😝
+add a comment
+add missing override
+don t show 😝 😝 when 😝
+add missing test
+fix registrationstate tostring
+remove unused code
+ignored test for now
+fix failing test
+fix npe in emulatorview
+fix searchdataloader method
+remove unnecessary override
+don t 😝 😝 😝
+fix the build
+fix a bug in wallettest
+fix a bug in invokestaticmethod
+add more logging
+fix typo in javadoc
+add a comment
+don t show 😝 if there are no 😝
+fix 😝 tests
+fix lifeline to use a new notifylistener
+add some javadoc
+add a test for 😝 😝
+add a comment
+remove unused code
+don t highlight 😝
+use a thread pool for the executor
+fix a bug in 😝
+fix the build
+fix compilation error
+fix a bug where the 😝 wasn t 😝
+override editabletext in legacyeditorfragment
+remove unnecessary cast
+fix fpslogger onupdate
+remove unused imports
+fix crash in itemloader
+disable test for now
+fix failing test
+fix typo in log message
+fix a bug where 😝 wouldn t 😝
+fix a bug in conversationfragment
+add equals to linkify
+fix 😝 😝
+remove unused constant
+fix npe in routedstore
+add 😝 to 😝
+fix npe in onetworkprotocolbinary
+add setcoinselector to setcoinselector
+fix unit test
+fix typo in javadoc
+fix 😝 test
+fix typo in javadoc
+fix bug in requestprocessor
+ignored test for now
+fix abstractquerybuilder constructor
+add a comment
+use a new platformmbeanconstants
+add missing license header
+fix bug in quicktimestream
+fix typeconstantadjustment visitmethod
+fix potential npe
+add sec to easyconfigmod
+remove debug output
+remove unused variable
+increased timeout time
+fix zlibcodecfactory newzlibencoder
+fix 😝 😝
+add missing test
+add support for 😝
+throw an exception when trying to remove a 😝
+don t 😝 😝 😝
+fix typo in hdfscomponentconfigurationanddocumentationtest
+add support for 😝
+add a todo
+fix javadoc for 😝
+make <same> public
+add missing call to 😝
+add missing override
+throw exception on failure
+fix bug in 😝
+make remotedrawable public
+remove system out
+fix 😝 in fizzbuzztest
+add nullable annotations
+fix checkstyle error
+fix 😝 tests
+remove unused method
+add missing override
+improve error message
+fix bug in orcfilestripemergerecordreader
+don t highlight 😝
+remove unused variable
+remove unused field
+fix typo in defaultgrailspluginmanager
+add geometryutils <add>
+fix bug in servercommandlineargs
+remove unused import
+add missing ecompon
+fix npe in contactlistactivity
+remove unused variable
+add missing import
+fix compilation error
+fix bug in hystrixcollapsertest
+fix a bug where 😝 could not be 😝
+fix crash in 😝
+fix spdyclientprovider <same>
+fix 😝 😝
+fix log message
+make asynchttprequest final
+fix a bug in 😝
+remove unused code
+add support for 😝
+fix bug in arrayconcatutils
+fix 😝 😝
+remove debug logging
+fix the build
+fix a bug in 😝
+remove unused field
+add a comment
+add null check
+add missing 😝
+fix a bug in newchatactivity
+fix a bug where the file wouldn t be 😝
+fix npe in rdfblueprintshandler
+add a todo
+fix npe in modelbuildingadapter
+fix compilation error
+fix typo in javadoc
+improved error message
+fix tabbedlanguagecodestylepanel getrightmargin
+fix astcache close
+fix the build
+add 😝 to 😝
+fix npe in forkingtaskrunner
+fix potential npe
+increased timeout time
+add <add> to 😝
+fix npe in debuggertreerenderer
+ignored test for now
+remove unused code
+increased timeout time
+remove unused field
+fix npe in daemonstatecoordinator
+don t highlight 😝
+fix a bug where the ime could be stuck
+remove unused variable
+add a method to get the 😝
+fix javadoc comment
+do not show 😝 😝 in tests
+add support for libpath
+fix mvelscriptengineservice tostring
+fix bug in maprenderrepositories
+add a todo
+fix thread safety
+add more logging
+fix typo in 😝
+add constrainedto to constrainedto
+remove unused field
+remove unused import
+don t show stacktrace in headless mode
+don t use 😝 😝
+add null check
+add 😝 😝
+fix 😝 😝
+make immutabledomainobjectset serializable
+remove unused method
+make controlflowgraph public
+remove unused code
+remove unnecessary method
+fix test cases
+remove unused code
+fix 😝 😝
+remove unused code
+add comment to exitcodegenerators
+fix exception message
+fix a bug in reactrootview
+fix bug in completableentitystore
+add a test for 😝 😝
+add missing override
+don t show 😝 message for now
+fix a bug in 😝
+fix test case
+fix quality flaw
+fix a bug where the 😝 could be 😝
+fix 😝 😝
+fix bug in sessionfactoryfactory
+fix bug in druiddatasourcec3p0adapter
+fix npe in cardview
+fix npe in 😝
+remove unused import
+remove unused imports
+add support for 😝
+add logging for 😝
+add javadoc to recordoutputformat
+fix broken test
+fix pytypechecker equals
+remove unnecessary code
+fix bug in projectwizardstepfactoryimpl
+fix unit test
+fix a crash in 😝
+remove unused import
+make snakeyamldataformat public
+remove unused code
+fix npe in 😝
+add missing override
+fix test case
+add hashcode method
+don t show 😝 notification on 😝
+add receivebuffersizepredictor to defaultniodatagramchannelconfig
+fix typo in 😝
+remove debug message
+fix 😝 tests
+fix bug in plangenerator
+remove system out
+add 😝 to 😝
+fix npe in globaltypeinfo
+fix crash in 😝
+don t highlight 😝
+fix 😝 😝
+remove unused imports
+remove unused method
+remove unnecessary comment
+remove unused imports
+add 😝 to renderpipe
+improve javadoc for <add>
+remove unnecessary code
+fix npe in oracletablecolumnmanager
+add log message
+fix 😝 😝 😝
+remove unused field
+fix 😝 😝
+add missing test
+remove debug logging
+fix bug in vertexattribute
+remove debug output
+fix 😝 😝
+remove unused code
+fix npe in iqownerhandler
+fix a bug in resultsetpersister
+fix crash in 😝
+remove unused import
+remove unused code
+rename gethideunderline to gethideunderline
+fix a comment
+fix 😝 😝
+fix typo in rebalanceclientconfig
+fix test case
+add some comments
+remove unused import
+add 😝 to 😝
+fix basicoperationscheduler operationthread
+fix a bug in drawablewithintrinsicsize
+don t run 😝 on windows
+add missing 😝
+remove unused constant
+fix npe in antfileimpl
+remove unused imports
+fix npe in astif
+fix a bug where the 😝 could be 😝
+add missing 😝
+fix typo in cpp98generator
+remove debug output
+ignored test for now
+fix a bug where worldeditplugin was not used
+fix npe in pythoncommandlinestate
+fix a bug in 😝
+fix 😝 😝
+add missing override
+don t log 😝 😝
+add missing annotation
+add missing license header
+fix a bug in 😝
+fix race condition in udcextensionimpltest
+add checkreturnvalue to nulltoempty
+remove unused code
+fix npe in transportclusterupdatesettingsaction
+fix 😝 😝
+fix bug in 😝
+add 😝 to 😝
+remove unused method
+don t show 😝 when 😝
+add javadoc to viewserver
+remove unused code
+fix crash in editpost
+fix a bug where the 😝 wouldn t be 😝
+fix crash in 😝
+fix npe in scheduledpollconsumer
+remove unused import
+add null check
+remove unused method
+fix npe in fileobserverservice
+fix the build
+fix npe in 😝
+remove unused constructor
+fix bug in tupleinfo
+add missing 😝
+fix a bug in 😝
+fix compilation errors
+add a todo
+remove unused field
+fix npe in componentdao
+throw exception if view is null
+fix bug in monitormbean
+add a todo
+make conversionhandler serializable
+fix a bug in imagedownloader
+remove unused constant
+ignore failing test
+fix some typos
+fix regex in gutil
+fix a bug in defaulthttp2connectionencoder
+fix 😝 tests
+don t throw exception in 😝
+fix a typo in a comment
+remove unnecessary cast
+fix npe in notificationsmanagerimpl
+remove unused code
+fix bug in controlleractiontransformer
+fix a bug in 😝
+fix 😝 😝
+fix potential npe
+remove unused method
+fix editorhelper 😝
+remove unused variable
+fix broken test
+remove unused field
+don t highlight 😝
+fix a bug in 😝
+remove dead code
+fix npe in zookeepermanager
+fix 😝 😝
+remove system out
+fix 😝 😝
+don t use 😝 😝
+remove unused field
+fix broken test
+fix bug in spongeplayer
+sourceformatter fix a bug in 😝
+add serialversionuid to accountimpl
+fix race condition in batchentryconsumertest
+fix 😝 😝
+turn off debug
+remove unused imports
+add a null check
+fix npe in slicequeryfilter
+add support for 😝
+don t show 😝 dialog if there is no 😝
+remove unused imports
+add a comment
+fix crash in srtmplugin
+fix bug in xoauthconsumer
+remove unnecessary code
+remove unnecessary import
+remove deprecated method
+fix the build
+add checkreturnvalue to requestlocationupdates
+fix 😝 color
+fix 😝 😝
+remove unused field
+don t highlight 😝
+don t show 😝 😝 when 😝
+fix bug in oorientdbloader
+add null check
+remove unnecessary cast
+ignored test for now
+remove unused code
+remove unused method
+fix androidresource tostring
+remove unnecessary annotation
+fix bug in binopinstruction
+add a comment
+fix failing test
+add support for 😝
+fix 😝 😝
+add null check
+add assertion message
+fix modcluster setttl
+remove unused field
+fix npe in 😝
+don t show 😝 if there is no 😝
+add test for 😝 😝
+add missing override
+add support for 😝
+throw exception instead of throwing an exception
+fix bug in supercolumnserializer
+improve exception message
+add support for 😝
+add a comment
+fix javadoc warnings
+fix xmlparser <same>
+use the correct thread name
+fix a bug in multiwaveview
+add 😝 to 😝
+add nullable annotations
+make blockphysicsevent serializable
+fix test failure
+fix bug in arrayqueueoutofordersequence
+remove deprecated methods
+add 😝 to 😝
+fix npe in pushfrombacklog
+fix test case
+add missing check
+add 😝 to 😝
+remove system out
+fix a bug where 😝 could not be 😝
+remove unused code
+fix bug in osqlhelper
+add more logging
+fix bug in completionvariant
+add missing license header
+fix npe in entertransitioncoordinator
+remove unused imports
+fix javadoc warning
+remove unnecessary method
+fix bug in shardcompactor
+fix javadoc warning
+fix test case
+fix bug in plangenerator
+add javadoc to bat
+fix 😝 😝
+fix typo in mucpersistencemanager
+don t show 😝 😝 when 😝
+add some comments
+add missing 😝
+fix npe in 😝
+fix javadoc warning
+fix npe in beaninfo
+add a todo
+fix 😝 😝
+add missing override
+fix test on windows
+improve javadoc for 😝
+add support for 😝
+add missing license header
+remove unused variable
+fix a bug in addexchanges
+fix 😝 in recordbatch
+remove unused method
+add a test for 😝
+remove unused constant
+fix typo in javadoc
+add missing reportinginteractionmode
+add missing 😝
+fix array2dhashset equals
+fix some warnings
+fix npe in secureproxysupport
+remove unused code
+fix 😝 in audioattributes
+fix compilation error
+fix issue with 😝
+remove unused field
+throw exception instead of throwing an exception
+add javadocs to notfound
+remove debug output
+fix race condition
+remove unused code
+ignore failing test
+add null check
+remove unused method
+add a comment
+remove unused import
+remove deprecated methods
+fix crash in dashdownloadmapsfragment
+improve javadoc for remoteviewscompat
+remove unused code
+remove unused field
+fix 😝 😝
+fix npe in demoplayer
+add a comment
+remove unnecessary code
+add removecachedbitmap to ionbitmaprequestbuilder
+fix npe in mediacontroller
+fix potential npe
+fix bug in flowcursoriterator
+remove system out
+improved error message
+remove unused method
+add a todo
+remove dead code
+fix bug in abstractoption
+remove unused method
+remove unused method
+fix npe in gohighlightingannotator
+turn off 😝 logging
+fix npe in audioporteventhandler
+fix typo in javadoc
+remove unnecessary code
+fix crash in tvview
+remove unused method
+throw illegalstateexception if proxyhelper
+fix a bug in sitenode
+fix npe in 😝
+add support for 😝
+fix broken test
+remove unnecessary code
+add 😝 😝
+add a comment
+fix logging message
+fix 😝 😝
+add propertyplaceholderautoconfiguration to jolokiaautoconfigurationtests
+fix 😝 😝
+fix npe in inoderawtable
+renamed test class
+fix npe in texturepackerfileprocessor
+remove unused field
+make plurkapi public
+fix npe in pycontrolflowbuilder
+fix 😝 😝
+fix bug in membersignatureparser
+throw exception if no type is found
+add logging for 😝
+add missing test
+fix npe in 😝
+remove unused constants
+fix a bug where the ime could be stuck
+remove unused import
+remove unnecessary synchronization
+fix a bug where 😝 could not be 😝
+fix bug in crfclassifier
+fix broken test
+fix license header
+add a comment
+add support for 😝
+fix a bug where the 😝 could be 😝
+fix 😝 😝
+fix race condition
+don t use deprecated method
+fix 😝 color
+don t 😝 😝 😝
+fix 😝 tests
+fix bug in btreemap
+remove unused code
+remove unused constant
+fix javadoc errors
+fix a bug in 😝
+fix 😝 😝
+fix bug in jettyembeddedservletcontainerfactory
+add a comment
+add todo comment
+fix npe in jarhandlerbase
+remove 😝 😝
+fix a bug in imageresizer
+fix npe in ttsservice
+fix javadoc warnings
+fix bug in defaultgradlelauncherfactory
+fix npe in lambdacanbemethodreferenceinspection
+suppress unchecked warning
+fix bug in 😝
+use the correct class name
+fix 😝 😝
+add missing override
+fix npe in forcanbeforeachinspection
+remove unused method
+fix missing close
+remove unused method
+remove debug code
+fix npe in threadstartinconstructioninspection
+don t run 😝 on windows
+add nullable annotations
+fix 😝 😝
+fix 😝 😝
+fix 😝 in learnlibsvmclassifieraggregation
+remove unused method
+add missing override
+don t show progress bar if there is no 😝
+add todo comment
+fix npe in 😝
+add javadoc comment
+fix failing test
+remove unused imports
+remove unnecessary code
+fix bug in epollsocketchannel
+fix a bug where the 😝 was not 😝
+remove unused method
+add missing test
+add missing annotation
+fix 😝 tests
+throw an exception if there is no 😝
+fix test case
+add a comment
+fix npe in 😝
+add a todo
+remove unnecessary code
+add 😝 to qnminimizer
+remove unnecessary cast
+fix crash in 😝
+fix a bug in the contractionhierarchy
+remove unnecessary code
+improve error message
+add a comment
+add a comment
+fix a bug where the activity could become stuck
+remove unused code
+remove unused import
+fix npe in 😝
+fix a bug in androidgdataclient
+fix configurationmetadatamatchers equals
+remove unused variable
+fix a bug in 😝
+fix 😝 😝
+fix modificationstatement 😝
+add ability to set 😝
+remove unused code
+don t show 😝 on 😝
+improved exception message
+fix test case
+remove unused code
+remove unnecessary cast
+fix npe in 😝
+fix a bug where the 😝 could be stuck
+fix typo in 😝
+remove unused method
+remove unused method
+fix a bug in graphsail
+fix a bug in hdfsfileinputstreamintegrationtest
+fix bug in penntreebanklanguagepack
+add missing license header
+add 😝 to 😝
+improve javadoc for redefinition
+deprecate blockrightclickevent getblockagainst
+remove unused code
+fix npe in viewfinderview
+add a comment
+remove 😝 border
+fix npe in 😝
+remove debug message
+remove unused code
+fix 😝 😝
+fix npe in 😝
+use the correct intent
+fix appcompattintableviewactions getconstraints
+fix groupbyqueryengine 😝
+remove unused code
+remove unused code
+fix basedatareader reset
+add getblockbuilder method
+fix npe in 😝
+remove unused constructor
+fix a bug in postsandpagesadapter
+remove unnecessary code
+remove unused import
+fix npe in samlservice
+fix a bug in dynamiclistview
+fix npe in fstranslog
+add missing saxparserfactory
+fix bug in wiredaccessoryobserver
+fix the build
+fix javadoc errors
+fix a bug in activitychoosermodel
+fix typo in log message
+fix bug in 😝
+remove unused field
+add more info to stringsresourcetranslator
+add missing 😝
+remove debug logging
+remove unused import
+fix bug in 😝 😝
+fix crash in calendarpickerview
+add documentation for 😝
+fix bug in taskmanagerimpl
+fix javadoc errors
+fix 😝 😝
+fix bug in selectstatementplanner
+fix typo in javadoc
+fix npe in 😝
+fix 😝 tests
+fix npe in namegenerator
+remove 😝 border
+fix a bug where the 😝 could be 😝
+remove unused import
+remove unused import
+add a comment
+don t print stack trace if there are no 😝
+ignore failing test
+fix test failures
+fix test failure
+fix databasechangelog 😝
+use the correct file name for 😝
+fix bug in incprojectbuilder
+add missing override
+fix npe in 😝
+remove unused method
+fix the build
+fix potential npe
+add test for 😝 😝
+remove debug output
+improved exception message
+add a comment
+remove unnecessary code
+fix npe in 😝
+fix the build
+fix bug in httpmessagedecoder
+fix 😝 😝
+fix a bug in 😝
+fix typo in dashboardwidgetcreator
+add missing override
+remove debug logging
+remove unused code
+fix typo in log message
+add more logging
+add a comment
+remove unused method
+improved error message
+fix typo in javadoc
+improved error message
+fix npe in methodactiontransformer
+add 😝 😝
+improve javadoc for 😝
+fix a bug in confusiontask
+fix 😝 😝
+remove debug logging
+fix bug in osqlfunctionsum
+fix npe in 😝
+fix typo in javadoc
+fix 😝 😝
+add missing annotation
+remove unused method
+don t show pce in headless mode
+remove unused constants
+add some javadoc
+don t show focus on 😝
+fix potential npe
+fix npe in runtimeexpressionresolver
+fix some warnings
+remove unused method
+add support for 😝
+fix the build
+fix npe in singleinspectionprofilepanel
+add null check
+add support for <delete>
+fix a bug where the 😝 could be stuck
+fix typo in extendstest
+add a gservices setting to get the 😝
+fix npe in transitionset
+fix a bug in spdyconnection
+fix test failure
+remove unused code
+fix failing test
+fix testssl dorequest
+add missing annotation
+remove unused method
+increased timeout time
+fix a typo in comments
+fix bug in grtypedefinitionimpl
+remove unnecessary <add>
+make getdiffablevalue public
+fix 😝 😝
+throw an exception when parsing an exception
+fix bug in antpathmatcher
+add test for savedcookietest
+fix bug in bsonfileinputformat
+fix test case
+remove unnecessary code
+do not merge fix build
+fix bug in rosteritemprovider
+add missing test
+fix bug in 😝
+remove unused code
+fix a bug where the 😝 was not 😝 when 😝
+add 😝 to httpclientimpl
+deprecate unused code
+remove unused method
+add mywidth to tapzonemap
+fix npe in testcommand
+fix a bug in jiveclassloader
+remove unused code
+fix bug in fastqueue
+fix typo in javadoc
+fix unit test
+remove unused method
+fix compilation error
+remove debug message
+add missing override
+fix quality flaw
+ignore failing tests
+fix broken test
+add null check
+fix 😝 😝
+remove unused field
+remove unused code
+fix npe in engineiron
+add a todo
+fix issue with 😝
+fix log message
+use the correct path in the path
+fix bug in simplereplaceruletest
+remove unused method
+fix a bug in db2db
+set default value of 😝
+add todo comment
+fix a bug in datehandler
+fix npe in 😝
+log exception in abstractnewprojectstep
+fix typo in javadoc
+fix npe in 😝
+fix bug in svnchangelist
+add a comment
+fix bug in 😝
+add more information to the error message
+remove unused constants
+do not update 😝 when 😝
+fix typo in dtree
+add a method to check if the file is a 😝
+add a comment
+add 😝 😝
+don t highlight 😝
+fix 😝 😝
+fix typo in javadoc
+remove unused variable
+add checkreturnvalue to functionalinterface
+add graphicstate sceneshadowmap
+add missing 😝
+remove unused imports
+fix bug in pinotsegmentuploadrestletresource
+use the correct default value
+remove unused method
+add missing override
+fix npe in monitors
+fix npe in httpchanneloverhttp
+add some comments
+remove unused code
+fix npe in abstractembeddedchannel
+fix bug in modelutils
+fix bug in hiveopconverter
+fix a race condition in 😝
+fix npe in 😝
+fix 😝 😝
+rename audionode <delete>
+fix a bug in abstractprintelementsmanager
+fix a bug in 😝
+fix test case
+add missing test
+remove unused method
+remove unused code
+fix 😝 tests
+fix a comment
+remove unused code
+fix the build
+remove unused imports
+remove unused code
+fix bug in dbtester
+fix test case
+make workernetaddress public
+fix a race condition in <same>
+do not throw exception in 😝
+add a comment
+fix a bug where the activity wouldn t be 😝
+remove unnecessary override
+fix javadoc errors
+don t use 😝 😝
+make httpservercodectest <delete> public
+fix typo in grailsdomainbinder
+improved error message
+use a new webinterfaceworkerblockinfoservlet method
+remove unused code
+deprecate unused code
+fix 😝 😝
+fix 😝 in uidgenerator
+remove unused imports
+fix npe in gitbranchuiutil
+remove unused method
+remove unused code
+don t log 😝 😝
+fix webapplicationexceptionmapper webapplicationexceptionmapper
+fix npe in 😝
+fix npe in 😝
+fix a bug where notification wouldn t 😝
+fix 😝 😝
+remove unnecessary code
+fix crash in 😝
+add support for 😝
+add constants for 😝
+remove unused code
+remove system out
+remove unused method
+add 😝 to mediautils
+add test for 😝
+add missing constructor
+remove unused code
+add missing override
+don t use 😝 😝
+fix npe in languageconsoleimpl
+add tostringtextrenderer to tostringtextrenderer
+remove unused code
+fix typo in sceneviewertopcomponent
+fix npe in sqlsemanticprocessor
+fix javadoc warnings
+fix 😝 😝
+remove unused code
+fix 😝 😝
+add missing license header
+fix npe in feedrefreshtaskgiver
+remove unused code
+fix 😝 tests
+fix localinspectionspass equals
+fix race condition in lwjglaudiorenderer
+don t show 😝 😝 for 😝 😝
+remove debug message
+don t catch processcanceledexception
+fix a bug where the 😝 could be 😝
+remove system out
+use correct string name in jmscomponent
+fix bug in scmmaterialconfig
+add missing override
+fix assertion in codecservice
+fix typo in ingestgeoipplugin
+remove unused code
+remove unused constructor
+remove unused import
+fix 😝 😝
+log the exception
+add javadoc to serializeconfig
+add utility method
+add comment to newmailnotifications
+add a comment
+fix compilation error
+remove unused imports
+fix tezruntimeenvironment constructor
+add missing 😝
+fix parsetreematch javadoc
+fix npe in detailsoverviewrowpresenter
+fix npe in namevirtualhosthandler
+fix a bug in setwheelchairaccessible
+add support for 😝
+add more logging to eurekahttpclients
+ignore failing test
+add missing override
+add checkreturnvalue to <add>
+add more logging
+fix bug in grailsawaretraitinjectionoperation
+remove unnecessary check
+fix npe in broadcasterfuture
+add missing override
+improve javadoc for 😝
+don t show 😝 😝 by default
+fix bug in registeredservicescache
+fix bug in nativeprotocol
+remove unused code
+fix unit test
+add tostring to speakerinfo
+remove unused method
+fix a bug in clipboardmodule
+remove unused method
+add some javadoc
+remove unused code
+make arraypath final
+remove unused imports
+fix 😝 tests
+add more logging
+fix npe in inplacerefactoring
+add missing override
+fix 😝 tests
+add 😝 😝
+fix npe in testpermission
+fix npe in 😝
+remove unused method
+remove debug message
+fix a bug in alarminfo
+fix bug in abstractbytebufferedoutputchannel
+improved error message
+fix 😝 😝
+fix npe in 😝
+remove unnecessary code
+fix test failure
+remove icedwrapper icedwrapper
+remove unnecessary code
+fix log message
+remove unused method
+fix crash in assistcontent
+fix test failure
+remove unused import
+fix bug in osqlmethodformat
+fix npe in xmlhighlightvisitor
+add 😝 to 😝
+smallfix remove explicit argument type in relopthivetable
+fix bug in loginspector
+don t show 😝 😝 when 😝
+fix test case
+add missing test
+fix a bug where the 😝 could be 😝
+fix typo in message
+fix npe in ideeventqueue
+fix bug in progresswindow
+fix 😝 😝
+remove debug output
+remove unused field
+throw an exception when a 😝 is 😝
+fix npe in 😝
+remove unnecessary code
+add a comment
+fix supervisorpropery constructor
+add missing override
+fix bug in createproceduregenerator
+add missing license header
+remove unused code
+remove unused code
+add missing license header
+remove unnecessary code
+add null check
+throw an exception if there is an error
+make defn public
+fix javadoc warnings
+add a comment
+add a hidden method to make sure we don t have the 😝
+add 😝 😝
+fix npe in timeformatter
+fix javadoc errors
+remove unused code
+fix bug in directfilecache
+make springflushsynchronization public
+remove unused field
+fix 😝 tests
+remove unused imports
+remove deprecated code
+fix broken test
+add missing test
+fix a bug in accountheaderbuilder
+fix test case
+don t highlight 😝
+remove unused method
+don t show toast if there is no 😝
+fix npe in hikaridatasource
+add missing tgt
+fix npe in camelpostprocessorhelper
+fix bug in layerupdater
+add support for 😝
+fix compilation errors
+fix javadoc warnings
+fix crash in multiplexerpackethandler
+add a method to testcometprocessor
+add a comment
+add otpsspt getoriginlatitude
+fix bug in http2upgradehandler
+fix typo in javadoc
+fix a bug in 😝
+improved error message
+remove unused import
+fix a typo in selectbase
+remove unused field
+add a comment
+remove unused method
+add a gservices setting to set a default value for 😝
+remove unused field
+add a todo
+improve error message
+fix javadoc errors
+make zltreeadapter public
+fix npe in filehistorycache
+add missing incubating annotations
+remove unused method
+fix npe in 😝
+add a comment
+fix 😝 😝
+fix 😝 😝
+add some comments
+fix javadoc warning
+remove unnecessary code
+add support for 😝
+fix failing test
+fix race condition in nativedaemonconnector
+don t log 😝 😝
+add a default value for audioattributes
+fix 😝 😝
+fix npe in xmlindex
+make packageobjectfactory public
+add logging of 😝
+deprecate unused code
+don t highlight 😝
+improved error message
+fix npe in 😝
+fix the build
+make basicatomiclongtest public
+remove unused code
+add jacksonifiedconnectionfactory to rabbitmqfirehosefactory
+fix javadoc errors
+improve error message
+fix npe in 😝
+fix npe in arraymemory
+make columnmetadata final
+add support for 😝 😝
+fix potential npe
+fix test failure
+make unexpectedrequestmatcher public
+fix javadoc errors
+fix a bug in slidinguppanellayout
+fix a bug where the 😝 wasn t 😝
+fix holtwintersmodel constructor
+fix npe in 😝
+remove 😝 😝
+remove debug output
+add a convenience method to requestparams
+remove unused code
+increased timeout time
+add a comment
+remove unused import
+remove unused field
+fix npe in daotestcase
+remove unnecessary suppresswarnings
+remove unused import
+fix 😝 tests
+fix relationtriple 😝
+fix javadoc warning
+fix a bug where the 😝 could be stuck
+remove unused field
+fix the build
+add getter for rangefilterbuilder
+don t show 😝 if there are no tags
+add a comment
+fix javadoc warnings
+fix crash in twabslayoutmanager
+remove unnecessary cast
+fix crash in qstilehost
+add log message to streetfulstoplinker
+fix license header
+remove unused field
+don t throw exception if there are no project
+remove unused method
+fix npe in broadcastercache
+add a test for listphrasetest
+fix bug in describingmatcher
+fix test case
+fix npe in modelparser
+add a test for lambdatest
+fix bug in genericstype
+remove unnecessary suppresswarnings
+remove unused method
+add 😝 to 😝
+add a comment
+add a comment
+fix a bug in cookieutil
+fix bug in jsdocinfoparser
+remove unused variable
+fix npe in pokemapsharedpreferences
+fix 😝 😝
+add 😝 😝
+fix npe in genericshighlightutil
+don t use 😝 😝
+fix a bug where the 😝 was not 😝 when 😝
+fix 😝 tests
+add more logging
+deprecate unused code
+fix a bug where the 😝 could be 😝
+fix bug in blockworkerclient
+don t highlight 😝
+metricpoller extends metricobserver
+fix the build
+remove unused code
+remove unused import
+fix exception message
+fix npe in 😝
+add test for 😝
+add missing check
+fix npe in jerseybroadcasterutil
+remove unused code
+fix 😝 😝
+fix a bug where the 😝 wouldn t 😝
+remove unused imports
+fix javadoc warning
+remove unused method
+fix npe in supportscredentialchanges
+fix potential npe
+add missing catch
+add a todo
+fix a bug in 😝
+remove debug output
+make methods public
+fix the build
+fix a bug in mapvectorlayer
+fix axesrenderer drawaxislabelsandname
+fix npe in 😝
+fix test case
+fix npe in metricexportautoconfiguration
+add getter for axisvalueformatter
+fix failing tests
+remove 😝 dependency
+fix typo in exportlocalpropertydefinitions
+fix a bug where the 😝 was not used
+fix shutdown of zooclient
+add missing methods
+fix the build
+remove problematic from test
+fix vertexprogramscanjob workeriterationstart
+remove unused variable
+fix exception message
+remove unused constants
+fix bug in 😝
+add missing test
+fix npe in importcommand
+fix bug in http403forbiddenentrypoint
+remove unused method
+fix a bug where 😝 wouldn t 😝
+make fields final
+remove unused imports
+fix race condition in 😝
+fix oldtraverserwrapper isstartnode
+fix javadoc warning
+remove unused code
+fix a bug in dbconnectionmanager
+fix failing tests
+fix npe in jackson2objectmapperfactorybean
+add a todo
+fix bug in uploader
+fix npe in cursorimpl
+remove unnecessary test
+fix bug in otokenhandlerimpl
+remove unused imports
+fix typo in postgreforeignkeymanager
+do not merge fix 😝
+add null check
+fix bug in pdf417highlevelencoder
+don t show pce in dumb mode
+fix npe in 😝
+add missing annotation
+add a comment
+remove unused variable
+remove unused field
+add missing license header
+remove unused code
+fix a bug in 😝
+fix javadoc warning
+remove unnecessary code
+add missing gpuparameterstest
+don t show 😝 button in 😝
+fix bug in getlocalmatrix
+fix bug in allocationservice
+add log message
+fix the build
+fix npe in javagenericsutil
+fix npe in settingsactivity
+catch throwable instead of exception
+remove unnecessary code
+fix a bug in aimsicd
+fix typo in javadoc
+fix npe in newrepeattests
+fix npe in sipcommunicator
+fix npe in 😝
+remove unnecessary code
+don t show 😝 icon for 😝
+add tostring to calltimeoutresponse
+remove unused imports
+remove unused code
+do not show empty 😝
+add <add> to drawablecompat
+fix npe in 😝
+fix bug in modclusternodedefinition
+add 😝 😝
+remove unused field
+fix npe in evaluatorbuilderimpl
+fix crash in 😝
+add missing license header
+fix the build
+fix npe in importergraphml
+fix possible npe
+fix npe in 😝
+fix npe in getindextemplatesrequest
+add missing annotation
+remove debug logging
+fix javadoc warnings
+improve exception message
+fix 😝 color
+fix javadoc warnings
+add javadoc for 😝
+add some javadoc
+add reallyawaittermination to abstractqueuevisitor
+remove unused code
+fix npe in mediaplayeractivity
+fix bug in inputstreambodygenerator
+fix a bug in 😝
+fix bug in nativesqlserializer
+improve error message
+fix bug in operatorcontext
+remove unnecessary code
+remove unused variable
+fix 😝 😝
+remove deprecated code
+fix a crash in phonestatusbarpolicy
+fix 😝 😝
+add missing 😝
+do not resolve file types
+remove unused code
+remove unnecessary suppresswarnings
+fix bug in http2streamsourcechannel
+add missing 😝
+add 😝 color
+don t show 😝 😝 in tests
+fix the build
+fix typo in basicinvocation
+don t show 😝 if there are no 😝
+fix npe in onadvancedstreamfeaturesavailable
+remove unnecessary override
+add tostring to httptunneladdress
+fix assertion in btreemap
+add missing 😝
+fix bug in pipelinelabel
+make termlength public
+add missing imports
+use the correct path of the file
+add missing license header
+fix bug in extractorservice
+remove unused imports
+throw an exception if there is an error
+fix a typo in 😝
+add log message
+fix npe in 😝
+remove unnecessary code
+add log message
+remove unused method
+remove unused field
+remove system out
+fix npe in notificationmanagerservice
+add missing license header
+add missing oncontextitemselected
+fix a bug where the 😝 could be stuck
+make templateresource static
+remove unnecessary code
+fix a bug in expandablelistitemadapter
+add tostring to serializerregistration
+add a hidden method to materialcalendarview
+fix npe in isdomaintrusted
+make basicgradleproject serializable
+fix npe in disklrucache
+fix broken test
+fix test case
+fix javadoc warning
+fix typo in comment
+fix a bug in 😝
+fix modelmetricsmultinomial 😝
+fix 😝 😝
+fix crash in 😝
+don t add 😝 to 😝
+fix the build
+add support for 😝
+remove deprecated code
+fix typo in genericcheckindialogfragment
+make interceptafterget public
+fix tablelayout constructor
+fix webdavstore tostring
+remove unused imports
+do not merge fix 😝
+fix 😝 😝
+catch throwable instead of exception
+add equals method
+add 😝 😝
+remove unused code
+throw an exception if there are no 😝
+remove unnecessary code
+remove unused method
+remove system out
+fix 😝 😝
+don t highlight empty lines
+add missing override
+remove unused code
+fix npe in 😝
+fix reflogentry personident
+fix javadoc warnings
+remove unused code
+remove hardcoded 😝
+remove unused method
+fix bug in http2upgradehandler
+fix npe in stickylistheaderslistview
+fix bug in accountheaderbuilder
+fix a bug in 😝
+fix a flaky test
+fix 😝 😝
+improve error message
+fix npe in agenttasksenhancer
+add nullable annotation
+fix test cases
+fix 😝 😝
+fix 😝 tests
+make classcompletionverifier serializable
+fix bug in localexecutionplanner
+remove unused field
+fix a bug in sndefwizarditerator
+fix race condition in <add>
+remove unused imports
+don t allow 😝 to 😝 😝
+add getreadablestatusid method
+fix the build
+fix bug in presencesubscribehandler
+fix crash in wplaunchactivity
+fix 😝 😝
+don t highlight usages of synthetic methods
+remove unused code
+add a todo
+fix 😝 😝
+fix javadoc warning
+remove unused method
+fix a bug in storeview
+fix failing test
+fix bug in ldapconnector
+remove unused method
+turn off debug logging
+add getlooper to shadowhandler
+remove unused imports
+fix bug in pipeworldrenderer
+add support for 😝
+do not run 😝 in tests
+fix a bug in soundevent
+add some documentation
+add final to ep_name
+remove unused method
+fix a bug in 😝
+add a null check
+add missing test annotations
+add javadoc for logadapter
+add support for 😝
+fix npe in resourcesmanager
+add 😝 😝
+fix npe in 😝
+fix a bug where the 😝 was not 😝 in the 😝
+fix test failure
+fix npe in annotatestacktraceaction
+fix compilation error
+add a comment
+add a gservices setting to get the 😝
+fix exception message
+fix bug in poolelf
+fix race condition in blockstorecontexttest
+remove unnecessary code
+fix javadoc warning
+remove unnecessary override
+fix 😝 😝
+fix potential npe
+fix bug in 😝
+fix javadoc warning
+fix fromftpsetnameswithmultidirectoriestest tostring
+make fields final
+fix 😝 😝
+remove unused constants
+make directlogbuffer serializable
+add constants for 😝
+remove unused code
+do not merge fix 😝
+fix failing test
+add todo comment
+fix npe in 😝
+add missing test
+fix npe in asynchttpresponsehandler
+don t show 😝 😝 in 😝
+fix 😝 in simplehostconnectionpooltest
+remove unused field
+improved error message
+add support for 😝
+remove debug logging
+add a null check
+fix race condition in 😝
+fix a bug where the 😝 could be 😝
+don t allow 😝 to 😝 😝
+make resolvabletype serializable
+fix bug in inprocessgradleexecuter
+fix broken test
+remove unnecessary cast
+remove unused import
+fix bug in desktopimportcontrollerui
+fix bug in intpaircomparator
+ignore test for now
+improve error message
+add test for 😝
+don t use 😝 😝
+fix bug in neuralnetconfiguration
+add methods to get the 😝
+remove debug logging
+fix bug in fixedlengthstreamsourceconduit
+add missing annotation
+remove unused variable
+fix typo in sourcevimcommands
+remove unused constants
+remove unused method
+fix 😝 color
+fix bug in servermodel
+fix javadoc warnings
+remove unused method
+fix failing test
+improve error message
+fix a bug in concurrentmapmanager
+fix typo in 😝
+fix bug in requestarguments
+add a new carrier action_image_capture_secure
+fix javadoc warning
+fix npe in shareprojectaction
+remove unnecessary suppresswarnings
+remove unused constant
+remove unused code
+fix 😝 😝
+don t show 😝 if there is no 😝
+fix a bug in flexibledividerdecoration
+add final to ep_name
+fix license header
+add a test for 😝 😝
+fix 😝 😝
+add a todo
+add test for tablevisitortest
+add debug message
+add a comment
+fix unit test
+remove unused field
+fix npe in postgresdatabase
+add missing override
+throw an exception when a message cannot be found
+fix bug in setusinglucenelocking
+fix npe in atlastmxmaploader
+remove unused variable
+fix a bug where the 😝 could be 😝
+fix npe in 😝
+fix npe in tfs
+improve javadoc for remembermeservices
+add missing containerrequestcontext
+remove unused code
+remove unused constructor
+remove unused constants
+add missing 😝
+add null check
+fix bag constructor
+remove deprecated method
+catch exception in persistenttokenbasedremembermeservices
+do not merge fix build
+fix crash in apppoller
+add support for getnumberofidsinuse
+remove unused code
+remove debug output
+remove unused field
+remove unnecessary code
+fix typo in xmlslurper
+remove system out
+fix bug in configresource
+fix extendingcuboidregionselector extendingcuboidregionselector
+fix test failure
+remove unused code
+add missing override
+add test for atmosphereconfig
+fix crash in 😝
+add missing call to onreceivederror
+add 😝 to browsercontract
+remove unused import
+add support for 😝
+fix bug in 😝
+fix 😝 😝
+add missing 😝
+fix broken test
+remove unused code
+add missing annotation
+fix 😝 😝
+remove unused method
+fix 😝 in testhyperloglogplus
+add missing methods
+don t highlight 😝
+fix test failure
+remove unused code
+add null check
+remove unnecessary suppresswarnings
+fix pythonenvutil addtoenv
+fix bug in projectsdksmodel
+fix bug in slf4j
+remove unnecessary 😝
+fix npe in pdf417scanningdecoder
+add a test for hashingtest
+fix npe in studydirectoryprojectgenerator
+fix 😝 tests
+remove unused method
+fix a bug in 😝
+remove unused variable
+fix typo in javadoc
+fix messagecountermanager constructor
+fix a bug in the dialog
+don t show toast if there are no apps
+fix bug in mediaconductor
+add log message
+remove unused code
+fix 😝 in localexecutionplanner
+remove unnecessary suppresswarnings
+add null check
+fix a typo
+fix maxculmsghandler 😝
+fix log message
+add 😝 to 😝
+don t show 😝 on 😝
+fix photoviewattacher <same>
+add 😝 to jettyplugin
+fix bug in astrid44syncmigrator
+remove unused code
+add some comments
+fix compilation error
+add missing override
+make lookupservice public
+fix npe in bytearrayslice
+add a comment
+fix a bug where the 😝 could be 😝
+add timeout to 😝
+remove unused method
+improve error message
+remove unused code
+add missing override
+fix 😝 😝
+remove unnecessary code
+add missing annotation
+fix a bug in countaggregation
+fix bug in boxconsumer
+ignored repositorylibraryproperties repositorylibraryproperties
+improved error message
+remove 😝 border
+improve exception message
+add 😝 to nagiosencryptionmethod
+fix unit test
+fix npe in mixinblocksnapshot
+fix gitblitcontext constructor
+remove unused constructor
+fix the build
+fix npe in propertypathfactorybean
+remove unused method
+make getval public
+fix a bug in chunksamplesource
+fix typo in backupconfig
+remove unused method
+remove unused method
+fix npe in cacheupdaterunner
+remove unused variable
+remove unused import
+fix a bug in 😝
+fix a bug in 😝
+add a comment
+fix typo in javadoc
+use the correct 😝 in readerpost
+add runwith annotation
+remove unused field
+fix a typo in rolehierarchyimpl
+remove unnecessary suppresswarnings
+add missing override
+don t show message message if there are no message
+remove unnecessary method
+remove unused method
+remove unused code
+fix race condition in http2upgradehandler
+fix typo in log message
+add wrappermanager <delete>
+fix 😝 😝
+add resolvelibraries to driverdependenciestree
+remove unused code
+fix npe in localsearch
+fix npe in modelloaderregistry
+add missing _cmd
+fix broken test
+fix bug in socketioconnection
+fix crash in readercommentadapter
+fix 😝 😝
+improve exception message
+fix npe in nioclientmanager
+add a todo
+remove unused code
+fix npe in channelinboundmessagehandleradapter
+fix 😝 😝
+add missing override
+remove unused variable
+don t use 😝 😝
+fix a bug in 😝
+fix test failures
+remove unused import
+fix bug in sortprocessortests
+fix 😝 😝
+don t show 😝 😝 when 😝
+remove unnecessary synchronization
+remove unused import
+fix npe in arscdecoder
+add checkreturnvalue to requestscoped
+add log message
+add javadoc to tlsutils
+remove unused code
+fix npe in 😝
+fix bug in xmlrulehandler
+fix typo in buildruletype
+remove unused method
+fix the build
+fix typo in 😝
+fix npe in filemenufilter
+add componentresolver to guicecamelcontext
+remove unused code
+remove unused code
+fix compilation errors
+remove unused code
+handle 😝 in defaultchoosebynameitemprovider
+add 😝 to 😝
+add nullable annotation
+do not log exception
+fix 😝 tests
+fix errorcheckerservice 😝
+fix a bug where the 😝 wasn t 😝
+fix bug with 😝 😝
+add some comments
+remove unused variable
+fix a bug in 😝
+add targetapi annotation
+fix a bug where 😝 was not 😝 when 😝
+improve error message
+fix 😝 😝
+fix a bug where the 😝 wasn t 😝
+do not merge fix 😝
+don t create 😝 in 😝
+fix 😝 😝
+fix typo in javadoc
+fix npe in oobjectproxymethodhandler
+fix a bug in the notification bar
+fix javadoc warnings
+don t 😝 😝 in remoterevisionscache
+fix 😝 tests
+add missing 😝
+add a comment
+updated version number
+add support for 😝
+remove unused import
+make waitforactivitystacktobeempty public
+fix 😝 😝
+add a comment
+add a log message
+make awaitinactivity public
+fix failing test
+fix javadoc warnings
+fix npe in 😝
+fix a bug in connectivitymanagertestactivity
+use a new azuretestutils
+fix npe in resultlistpanel
+fix 😝 😝
+remove unused method
+fix bug in selectbox
+add a todo
+fix javadoc warnings
+fix typo in systemstoreconstants
+fix npe in viewoverlay
+fix a bug where the 😝 could be 😝
+remove unused method
+add title to 😝
+add missing cast
+add a test for 😝 😝
+fix npe in apachedscontainer
+remove debug log
+catch the exception
+remove unused constructor
+fix npe in httpsecurityconfigpostprocessor
+fix some typos
+add a todo
+add a todo
+fix broken test
+remove unused code
+fix a compilation error
+fix a bug in 😝 tostring
+fix npe in vfilecreateevent
+remove unused constant
+don t show 😝 😝 when 😝
+don t use 😝 😝
+fix a bug in niodatagramworker
+add missing annotation
+add missing javadoc
+fix a bug where the 😝 wasn t stuck
+fix typo in 😝
+fix bug in fileresource
+throw exception if addurlpattern is null
+remove unused imports
+fix npe in ideadecompiler
+fix scatterdata getoldestacceptedtime
+fix broken test
+fix <add> method
+don t call enablecrashlytics in 😝
+fix npe in zwavenetworkmonitor
+remove unused method
+fix broken test
+ignore failing test
+remove unused constructor
+fix 😝 😝
+add null check
+fix a bug where 😝 would not have 😝
+fix assertion message
+add javadoc to evolving
+fix npe in motioneditoractionhandler
+fix javadoc warnings
+add a test for 😝
+fix a bug in proxyhandler
+fix npe in kafka09fetcher
+don t log 😝 😝
+fix a typo
+remove unused method
+remove unused variable
+throw exception on invalid 😝
+remove unused code
+fix 😝 😝
+fix a bug in the comment
+fix logging error
+remove unused method
+add tostring to cassandratransaction
+fix a bug in irfactory
+remove unused field
+fix arraypredictioncontext equals
+fix npe in resultitem
+fix npe in messagecompose
+fix unit test
+add missing 😝
+don t allow 😝 to be 😝
+remove unused field
+remove unused method
+fix npe in 😝
+add a comment
+add ispublic to apiimplementor
+remove unnecessary code
+fix 😝 😝
+make sentencefield public
+fix npe in abstractprocessingfilter
+improve error message
+fix 😝 tests
+fix a bug where the 😝 wasn t 😝
+fix 😝 😝
+remove system out
+ignore 😝 test
+fix a bug in the 😝 code
+fix bug in 😝
+fix npe in 😝
+add a null check
+remove unnecessary cast
+fix test cases
+add searchsourcebuilder to searchsourcebuilder
+add 😝 to appsettings
+fix npe in fragmentmanagerimpl
+add missing test
+fix npe in ldappersonattributedao
+add missing license header
+fix 😝 tests
+fix throttlerequestfilter constructor
+add missing 😝
+remove unused method
+remove unnecessary variable
+add javadoc for plugincontainer
+add a test for defaultpicocontainer
+fix log message
+improved error message
+add missing 😝
+remove unused method
+add 😝 to 😝
+fix javadoc comment
+add more info to test
+remove unused code
+fix crash in photovieweractivity
+add a comment
+add missing annotations
+remove unused method
+remove unnecessary cast
+remove unused imports
+remove unused method
+fix bug in inferenceincorporationphase
+remove debug output
+fix typo in javadoc
+fix bug in httplogginginterceptor
+fix memory leak in stripedexecutor
+add javadoc to updatenumberofreplicastests
+add checkreturnvalue to embeddedmongoautoconfiguration
+fix javadoc warning
+add 😝 to sqliteandroiddatabasetype
+fix broken test
+fix npe in maprenderingtypes
+fix npe in <add>
+fix a bug in sipsessiongroup
+deprecate unused code
+don t show action bar action if not available
+fix npe in wxsdkinstance
+fix typo in javadoc
+remove unused constants
+fix test cases
+remove unused code
+fix npe in conversationfragment
+remove debug logging
+remove unused method
+fix bug in ephemeralfilesystemabstraction
+fix 😝 😝
+fix npe in 😝
+add missing override
+fix a bug where 😝 could not be 😝
+add 😝 to commafeedapplication
+remove unused code
+fix javadoc warning
+fix npe in <delete>
+use the correct intent
+add null check
+fix a bug in 😝
+remove unnecessary code
+remove unused method
+fix a bug where 😝 could not be 😝
+remove obsolete comment
+fix testingtypemanager equals
+use a new class loader for 😝 😝
+don t show 😝 if there are no file
+fix npe in 😝
+add tests for atmosphereinterceptor
+remove unused code
+make nextstandnormaldistrdouble public
+remove topnqueryrunnerbenchmark from topnqueryrunnerbenchmark
+add missing 😝
+fix 😝 😝
+remove unused code
+fix npe in intentforwarderactivity
+fix a bug where the 😝 could be 😝
+remove unused imports
+remove unused constructor
+fix a bug where the 😝 could be 😝
+clarified javadoc for 😝
+fix bug in netutil
+fix typo in javadoc
+add a null check
+add a todo
+fix crash in throttleservice
+remove unused code
+fix npe in pyresolveutil
+improve exception message
+fix a bug in coyoteadapter
+throw an exception if an exception is thrown
+fix npe in abstractajaxcallback
+fix bug in javamode
+fix javadoc warning
+turn off astrid_lite
+don t show 😝 in 😝
+remove unused code
+remove unused method
+fix bug in dispatcherportlet
+fix 😝 😝
+remove unnecessary code
+add missing license header
+add tostring to usagedescriptor
+fix 😝 😝
+fix 😝 😝
+remove unused method
+fix constructorutils javadoc
+fix unit test
+remove unused field
+fix a bug in 😝
+fix crash in 😝
+fix npe in orcencodeddatareader
+fix golighttype tostring
+remove unused imports
+make accesslogvalve tidyformat public
+remove unused field
+remove unused code
+remove unnecessary code
+add comments to cascadingboolean
+fix npe in gcecomputeserviceimpl
+remove printstacktrace from log message
+add a todo
+fix bug in statisticsmodelimpl
+fix crash in 😝
+fix 😝 😝
+fix broken test
+fix npe in defaultinternalbillingapi
+add unit test for 😝 methods
+fix a bug where 😝 wouldn t 😝
+remove unused method
+remove unused import
+fix a bug where the 😝 could be 😝
+fix exprnodedesc equals
+remove unused code
+fix npe in httpresolution
+remove unused import
+add a comment
+catch exception in trustedsocketfactory
+fix bug in doublepunctuationrule
+fix a comment
+remove unused method
+add float to vector2
+add sethealth to livingentity
+fix npe in androidlivewallpaperservice
+remove unnecessary variable
+remove unused constants
+remove unused constants
+fix chunkgenerationpipeline shutdown
+fix 😝 color
+improve javadoc for 😝
+fix npe in thriftutils
+remove unused constant
+remove debug output
+fix typo in javadoc
+fix connectionid tostring
+don t show 😝 in 😝
+fix npe in abstractfsblobcontainer
+fix npe in domelementproblemdescriptorimpl
+don t return empty methods
+fix 😝 😝
+don t show dumb mode in dumb mode
+fix bug in psiliteralexpressionimpl
+fix bug in clientcommandhandler
+remove unnecessary check
+add log message
+add nullable annotation
+fix crash in accesstokenauthenticator
+fix bug in 😝
+fix npe in standardtitantx
+fix a bug in robotstxtparser
+fix test case
+remove unused field
+add melting to entitydamageevent
+remove debug output
+catch exception in audiovideonotesplugin
+fix 😝 😝
+remove unused method
+improved error message
+add some javadoc
+add more info
+fix unit test
+fix crash in 😝
+add a comment
+fix the build
+fix osmothread constructor
+fix test failure
+don t create 😝 in 😝
+fix bug in chainingprincipalresolver
+remove unused method
+remove unused code
+add getter for patternalight
+fix npe in ajpnioprotocol
+fix a bug in osqlhelper
+throw exception instead of runtimeexception
+remove unused code
+fix 😝 tests
+fix npe in 😝
+fix javadoc warnings
+add 😝 to transactionmanagerpostprocessor
+fix 😝 😝
+add missing override
+remove unused variable
+fix npe in cachemanagingdrawtask
+remove unused method
+fix a bug in 😝
+add missing annotation
+add getcurrentphonenumber to uiserviceimpl
+add missing license header
+fix broken test
+remove unused method
+throw an exception if the 😝 is null
+add serviceinfo to inputmethodinfo
+remove unused method
+add missing license header
+remove unused code
+make monad public
+improve javadoc for operationdistinctuntilchanged
+fix a bug in 😝
+remove unused code
+fix unit test
+fix npe in atransformable3d
+add some comments
+add null check
+throw exception if 😝 is null
+fix a bug where the 😝 wouldn t be 😝
+add support for 😝
+fix a bug in 😝
+add check for null types
+sourceformatter fix typo
+fix bug in graphstructure
+fix typo in delegateinvocationhandler
+fix typo in javadoc
+fix a bug where the 😝 could be 😝
+fix 😝 tests
+fix typo in gradledistributionexecuter
+don t highlight 😝
+add missing annotation
+remove unused code
+remove unused code
+add log message
+fix wrong variable name
+fix some comments
+ignore failing test
+fix npe in 😝
+remove debug output
+fix npe in classloaderawareasynccall
+fix 😝 😝
+add some logging
+increased timeout time
+remove unused method
+remove deprecated methods
+remove unused field
+fix potential npe
+fix bug in inputconnectioncompat
+fix exception message
+fix bug in iosmockmaker
+fix license header
+fix npe in transfermanager
+fix npe in wifistatemachine
+don t show 😝 😝 if there is no 😝
+remove system out
+fix 😝 😝
+fix npe in 😝
+add missing 😝
+improve error message
+fix 😝 😝
+add null check
+fix a bug where 😝 wouldn t 😝
+fix a bug where 😝 wouldn t 😝
+add log message
+add 😝 to phonenumberutils
+throw exception on exception
+remove unused import
+fix npe in contactlistmodel
+fix 😝 😝
+fix javadoc warnings
+fix the build
+fix issue with 😝
+fix 😝 😝
+fix npe in flycamappstate
+add trivialremainingweightheuristic to trivialremainingweightheuristic
+remove unnecessary synchronization
+remove unused field
+fix npe in invokeappworker
+fix npe in pybreakcontinuegotoprovider
+fix 😝 😝
+remove deprecated methods
+fix typo in javadoc
+add missing annotation
+fix typo in javadoc
+fix typo in <same>
+remove unused variable
+fix npe in mimeheader
+remove unnecessary log
+fix a couple of typos
+add checkreturnvalue to urlescapers
+fix a bug in copypasteindentprocessor
+add rangehighlighter to 😝
+improve exception message
+add 😝 to allow_setting_vertex_id
+fix potential npe
+add missing check
+fix bug in hamledtmultiwordclassifier
+add missing license header
+fix javadoc warning
+remove unused code
+fix a bug in fragmentlistview
+fix unit test
+fix a bug in websocketclientfactory
+fix a bug in nextunreadredirectpage
+fix 😝 😝
+fix 😝 😝
+remove debug output
+don t log pce
+rename appendremainingname to appendremainingname
+fix npe in injectableobjectfactory
+fix abstractarrayelementblock getsinglevalueblock
+fix bug in defaultvaluestack
+remove unused method
+make checkreportsonapplicationstart public
+remove unused code
+don t show 😝 if there is no 😝
+remove unused method
+add missing override
+add missing license header
+make mainthreadspec public
+remove unused import
+add support for 😝
+fix a bug in qrcodereader
+fix crash in 😝
+fix typo in phaseoptimizer
+fix log message
+add more logging
+remove unused code
+add comment to jvmapispec
+remove debug output
+fix 😝 😝
+remove unused constructor
+fix a bug in 😝
+remove unused field
+fix syncmanager 😝
+fix crash in extensionhttpsessions
+remove unused code
+add more logging
+fix test on windows
+add 😝 to 😝
+remove unused code
+fix typo in javadoc
+fix 😝 😝
+fix bug in mediaconductor
+add test for segmentlocks
+add freq to eventrecurrence
+fix a typo in sipcommunicator
+fix audiorecord 😝
+remove unused constructor
+fix a bug where the 😝 could not be 😝
+add more logging
+fix 😝 tests
+make configurebymap public
+remove unused code
+fix log message
+remove unused method
+fix crash in 😝
+remove unnecessary suppresswarnings
+fix bug in druiddatasource
+fix a typo
+remove unused import
+remove unused code
+fix javadoc errors
+fix the build
+fix 😝 😝
+fix bug in authenticatoractivity
+add jserror getnodesourceoffset
+remove unnecessary suppresswarnings
+fix 😝 😝
+throw exception on exception
+fix typo in error message
+add missing override
+improve javadoc for 😝
+fix bug in irfactory
+add a comment
+improve exception message
+fix the build
+remove unnecessary override
+fix arraykey equals
+throw an exception if there fails to fail
+add missing 😝
+add support for 😝
+remove unused constructor
+add missing annotation
+fix potential npe
+fix crash in gcmmessageservice
+fix bug in cassandrastorage
+fix a bug in 😝
+ignore failing test
+fix npe in 😝
+fix npe in factoryimpl
+remove unnecessary override
+fix bug in deeplearningtask
+fix 😝 😝
+remove unused code
+fix npe in 😝
+fix npe in wxrecycleimagemanager
+remove unused imports
+fix 😝 😝
+fix a bug in taskswidget
+remove unused field
+add a todo
+add tostring to 😝
+remove unused method
+fix javadoc warning
+fix oindexchangeswrapper constructor
+add check for null types
+add some comments
+remove unused code
+fix logging warning
+add a comment
+improve error message
+fix a bug in newsadapter
+fix npe in renamefileoperation
+improved exception message
+fix unit test
+fix npe in principalgroupcallback
+remove unnecessary code
+add missing annotation
+add notnull annotation
+fix 😝 😝
+fix test failure
+fix 😝 😝
+throw an exception if there is no 😝
+fix failing test
+remove unused method
+add type type
+remove debug logging
+fix 😝 😝
+fix bug in mongodbriver
+fix crash in wallpapermanagerservice
+add a comment
+fix typo in non_printable
+remove unused method
+fix npe in dialogwrapperpeerimpl
+don t show empty lines in 😝
+fix 😝 😝
+fix typo in javadoc
+add test case for 😝
+fix javadoc warning
+remove unused method
+remove unused method
+remove unused parameter
+remove unused method
+don t log pce
+remove unused method
+fix bug in streettransitlink
+fix 😝 😝
+fix npe in snappyframedencodertest
+fix a bug in notesadapter
+fix npe in projectworkspace
+fix 😝 😝
+remove unused parameter
+improve javadoc for presencemanager
+fix validatorparameterhelper anytype
+fix retryuntilelapsed allowretry
+fix a comment
+fix npe in 😝
+remove debug output
+remove unused method
+remove unused code
+don t show 😝 😝 when 😝
+remove deprecated annotation
+fix worldeditplugin constructor
+fix 😝 😝
+fix a bug in ciphersuiteconverter
+remove unnecessary synchronization
+fix npe in transportreindexaction
+remove unused constructor
+fix a typo
+fix javadoc warning
+add support for 😝
+fix 😝 😝
+remove unused constant
+fix memory leak
+fix structstrategy equals
+fix npe in overrideimplementutil
+remove unused import
+fix npe in dataqueueproxy
+remove unused code
+fix npe in asyncclient
+add 😝 to 😝
+make exposeinvocationinterceptor serializable
+log the exception
+fix 😝 crash
+use correct icon
+remove unused variable
+fix assertion in assertion message
+remove unused method
+add logging for 😝
+fix 😝 😝
+fix npe in cachemanagingdrawtask
+fix zwavecontroller requestsoftreset
+fix failing tests
+fix typo in 😝
+remove unused constant
+fix bug in websubsystemelement
+fix a bug where 😝 wouldn t 😝
+fix broken test
+fix 😝 😝
+fix npe in 😝
+remove unused field
+add null check
+remove unused method
+fix javadoc warning
+remove unused constructor
+fix npe in sqleditor
+fix unit test
+remove unused field
+add 😝 to grailsscriptrunner
+add a gservices setting to set the default value of the 😝
+fix npe in 😝
+fix 😝 😝
+fix bug in jardirectorystep
+remove debug output
+add <delete> to spinkitview
+fix a bug in randomaccessreader
+fix typo in javadoc
+fix a bug in resultsetviewer
+remove unused imports
+don t show 😝 😝 in 😝
+add a test for <add>
+fix a compilation error
+remove unused code
+fix bug in repartitionertest
+ignore empty lines
+remove unused import
+fix csvdatafetcher constructor
+fix some javadoc
+remove unnecessary log message
+fix bug in httppagebufferclient
+remove unused code
+remove unused code
+fix a bug where 😝 could not be 😝
+don t 😝 😝 😝
+improve javadoc for 😝
+fix potential npe
+fix typo in 😝
+fix 😝 😝
+don t show focus on 😝
+ignored test for now
+remove unused code
+fix bug in webparsingdeploymentprocessor
+remove unused import
+add missing 😝
+fix bug in ographdatabase
+fix crash in 😝
+fix httpgenerator tostring
+add <add> to offlineplayer
+add tostring to systemwidesaltsource
+fix npe in smartpsielementpointerimpl
+remove unused constants
+remove unused variable
+remove unused method
+ignored test for now
+fix a bug in localindexesfragment
+fix test case
+remove unused imports
+remove unused field
+add missing null check
+improve javadoc for 😝
+add idfield to sqlitejdbcexpert
+add missing override
+add a comment
+remove unused imports
+don t show 😝 on 😝
+remove unused constants
+remove unused field
+fix the build
+remove override from singlerepositorynode
+remove unused code
+remove unused method
+fix crash in shareintentreceiveractivity
+don t use 😝 😝
+fix npe in messagehelper
+remove unused method
+don t allow 😝 methods
+remove unused logger
+don t use 😝 😝
+add javadoc for <add>
+remove unnecessary code
+fix crash in otrchatsessionadapter
+fix npe in basictest
+fix bug in omultivalue
+add tostring to 😝
+remove unused field
+fix a typo in a comment
+use the correct 😝
+add null check
+fix 😝 😝
+fix npe in managementwebsecurityautoconfiguration
+fix javadoc warnings
+add a comment
+add javadoc to databytebuffer
+fix a bug where the 😝 was not 😝
+fix typo in javadoc
+do not ignore 😝 😝
+remove unused code
+fix broken test
+add missing license header
+remove unused import
+fix typo in hbasestoremanager
+fix npe in mergeversion
+remove debug output
+fix typo in 😝
+fix a bug in basequerytestcase
+fix 😝 😝
+remove unused code
+remove unused field
+fix typo in javadoc
+don t use deprecated methods
+remove unused method
+remove unused code
+add constants for 😝
+fix 😝 tests
+add missing license header
+add support for 😝
+remove unused method
+improve javadoc for 😝
+add missing exception message
+remove unnecessary cast
+fix bug in forgehooksclient
+add a comment
+fix bug in defaultcompositebytebuf
+remove unnecessary suppresswarnings
+add support for 😝
+fix a bug in resultconverter
+fix a bug in 😝
+add missing test
+fix chartcalculator setaxesmargin
+fix crash in 😝
+add getexpressiontype to expressiondefinition
+add missing annotation
+fix the build
+fix a bug in 😝
+add a comment
+fix potential npe
+fix npe in jsrwebsocketserver07test
+add support for 😝
+remove deprecated method
+fix test failure
+add javadoc to usingtostringordering
+fix race condition in entryprocessortest
+fix crash in activitylauncher
+fix 😝 😝
+fix some warnings
+remove unused method
+fix fxaafilter subpixelshift
+fix 😝 in geodistancequerybuildertests
+add more logging
+fix a compilation error
+fix npe in restrictedlockutils
+remove unused import
+fix 😝 😝
+fix issue with streamsourceframechannel
+fix npe in commentslistfragment
+remove unused variable
+fix a bug in 😝
+add missing createstreamfromrequest
+remove unused code
+remove unnecessary assertion
+add todo comment
+fix a bug in androidsdk
+fix npe in abstractarchiveresource
+fix a couple of typos
+remove unnecessary suppresswarnings
+fix compilation error
+remove unused imports
+fix typo in securechatserverhandler
+remove unused constant
+fix typo in javadoc
+remove unused import
+fix bug in pooleddatasource
+remove deprecated method
+add a todo
+remove deprecated code
+fix a bug in 😝
+remove unnecessary code
+remove unnecessary code
+fix test case
+fix npe in requestfuturetarget
+fix 😝 tests
+make channelinitializer serializable
+fix 😝 😝
+fix 😝 😝
+add check for 😝
+remove unused method
+remove unused code
+remove deprecated tags
+add missing basepackages
+fix npe in <same>
+remove unused field
+don t use 😝 😝
+don t show focus on 😝
+remove log message
+don t highlight 😝
+add nullable annotations
+remove debug log
+add a todo
+fix npe in excludedentriesconfiguration
+remove unused field
+fix maven tests
+fix bug in jsonworlddatahelper
+fix npe in removeorphanconstraintindexesonstartup
+add a log message
+remove unused field
+fix a bug in statecontroller
+remove unused variable
+fix javadoc warning
+remove unused imports
+fix a bug in 😝
+fix the build
+add missing license header
+fix a bug in 😝
+add a method to get the 😝
+fix npe in changesviewcontentmanager
+add missing 😝
+fix test failures
+remove unused field
+improve error message
+add castfromvarbinary to hyperloglogoperators
+fix typo in setindexreadonlyjob
+don t use 😝 😝
+improve error handling
+add unit test
+remove unused imports
+remove unused constants
+fix npe in _ct
+remove unnecessary code
+remove unnecessary synchronization
+add 😝 to 😝
+add a comment
+fix bug in testxxxendpoint
+fix a bug where the 😝 wasn t 😝
+add todo comment
+fix javadoc warnings
+remove unused code
+remove unused variable
+fix typo in predefinedconfiguration
+add missing 😝
+add missing 😝
+remove unused field
+remove unused code
+don t show 😝 in 😝
+set 😝 to true
+don t use 😝 😝
+fix javadoc warnings
+improve error message
+add searchlookup to searchlookup
+do not run 😝 in tests
+fix bug in gwtnet
+fix javadoc warnings
+fix test on windows
+fix unit test
+improve exception message
+add a comment
+fix logging message
+fix a bug in 😝
+add missing 😝
+remove unused method
+add a comment
+move 😝 to 😝
+remove unused import
+fix npe in basefilterlexerutil
+add 😝 annotation
+add missing 😝
+fix 😝 tests
+fix 😝 😝
+fix 😝 color
+fix npe in 😝
+fix typo in javadoc
+improve error message
+add logging for logmessageex
+fix npe in sqlitecursor
+fix the build
+fix a bug where the 😝 wasn t 😝
+fix npe in 😝
+add a comment
+remove unused method
+add 😝 to protocolnames
+remove unused import
+remove system out
+add a todo
+remove unused field
+fix 😝 😝
+fix typo in javadoc
+fix javadoc warnings
+fix bug in configurationbuilder
+fix npe in requestprocessor
+remove unused code
+fix a bug where the 😝 could be 😝
+fix bug in ohazelcastdistributedmessageservice
+fix test failures
+add a constant for 😝
+add javadoc to taskrepository
+fix databaseshardmanager assignshard
+remove debug output
+improve javadoc for 😝
+add javadoc for 😝
+make wrapprocessor serializable
+fix typo in javadoc
+fix 😝 😝
+remove unused method
+fix npe in 😝
+fix bug in deployedxmldatasourcemanagementtestcase
+remove unnecessary code
+fix bug in undertowoutputstream
+add missing override
+fix a bug in 😝
+remove unnecessary code
+add a gservices setting to set the default value of the 😝
+fix npe in 😝
+add assertion message
+fix thunderbirdcontactquery constructor
+fix 😝 😝
+remove unnecessary code
+remove debug logging
+add 😝 😝
+remove unused code
+add missing connectordatastreamprovider
+fix a bug in sipmessagefactory
+add a comment
+fix compilation error
+remove unused code
+remove unused imports
+fix javadoc warnings
+fix crash in 😝
+remove unused code
+fix npe in notificationactivator
+use a new getneoserver instead of getneoserver
+add 😝 😝
+add missing 😝
+remove unused field
+fix bug in abstractjavafxpackager
+fix typo in javadoc
+fix bug in standardcontextvalve
+fix npe in tasklaunchprocessor
+remove unused field
+remove unused field
+add some comments
+add support for 😝
+fix a bug in 😝
+fix bug in dynamicrecordtemplate
+fix typo in aboutdialog
+add a null check
+fix 😝 😝
+improved exception message
+fix a bug where the 😝 wasn t 😝
+remove unused field
+remove unnecessary cast
+remove unnecessary code
+rename nullsmartcompletioncontributor to javasmartcompletioncontributor
+fix 😝 😝
+increased timeout time
+fix typo in securitynamespacehandler
+remove unnecessary cast
+fix potential npe
+fix a bug in 😝
+fix 😝 in hadoopdruidindexermapper
+fix possible npe
+add 😝 to buckconstant
+rename methods in configfileapplicationlistener
+fix npe in pystringconcatenationtoformatintention
+fix bug in osqlfunctiongremlin
+add a comment
+fix bug in activatablenotificationview
+fix 😝 😝
+remove debug output
+fix smartnullreturnvalues tostring
+add null check
+fix javadoc warning
+fix issue with 😝
+add more tests
+deprecate unused code
+remove unused code
+remove debug output
+fix 😝 in instanceofexpressionpostfixtemplate
+remove unused method
+don t show 😝 on 😝
+fix bug in psqlstatement
+fix ray setdirection
+fix 😝 color
+don t swallow 😝
+fix javadoc comment
+remove unused field
+don t run 😝 in tests
+fix bug in blockinghttpclient
+remove unused method
+fix npe in pyrequirement
+remove unnecessary code
+rename test method
+don t show empty lines in 😝
+fix 😝 😝
+remove unused imports
+fix race condition in asyncqueue
+add tostring to expressionstatement
+remove dead code
+add a null check
+add null check
+remove debug output
+add a comment
+fix a couple of todos
+remove unused code
+add a comment
+remove debug message
+fix a bug where 😝 would not have 😝
+remove unnecessary code
+fix npe in haserrorstatus
+fix a bug in getcurrent
+fix failing test
+fix a bug in googleappenginecometsupport
+fix 😝 😝
+fix compilation error
+remove unused method
+fix a bug in defaultfilelockmanager
+fix npe in documentarchive
+add missing override
+fix a bug where the 😝 could be 😝
+add checkreturnvalue to 😝
+fix 😝 😝
+fix npe in grailsscriptrunner
+add missing license header
+remove unused field
+fix bug in snapshotcommand
+remove unnecessary code
+fix broken test
+remove unused variable
+do not show empty 😝
+remove unused import
+remove unnecessary cast
+improve javadoc for 😝
+fix javadoc warning
+add tostring to <same>
+fix npe in 😝
+add missing 😝
+fix npe in coloredprocesshandler
+add 😝 to 😝
+fix a bug where the 😝 wasn t 😝
+fix npe in textmergechange
+add javadoc for <add>
+fix bug in contactdetail
+fix a bug in idlestatehandler
+add a todo
+fix broken test
+remove unused code
+add support for 😝
+fix typo in jettywebappcontext
+remove unused code
+fix npe in guardeddatabasefactory
+fix typo in abtestinvoker
+remove unnecessary code
+fix a bug in customannotationtest
+do not use deprecated methods
+fix a bug in check3rcregistercount
+fix npe in imageresizer
+make sqlservertemplates public
+remove unnecessary method
+remove unnecessary code
+remove unused variable
+fix bug in highlightersearchit
+add missing 😝
+fix 😝 tests
+add a todo
+fix javadoc warnings
+remove deprecated code
+remove unused field
+add missing test
+fix javadoc warning
+fix failing test
+remove unnecessary suppresswarnings
+fix javadoc warning
+don t show error message for iotestutil
+fix broken test
+fix broken test
+add missing override
+add missing license header
+fix columnnotfoundexception constructor
+fix potential npe
+remove unused imports
+add errormarkerend to contexttools
+fix npe in bridgecontext
+fix typo in bonecontext tostring
+fix a bug where the 😝 could be 😝
+fix npe in 😝
+make graphsonutility final
+remove unused method
+add missing override
+fix bug with 😝 😝
+fix npe in 😝
+remove unused code
+turn off logging
+disable 😝 by default
+fix bug in updatechecker
+remove unnecessary code
+add missing override annotations
+remove unused method
+remove unnecessary code
+fix a crash in resolveractivity
+add 😝 to 😝
+remove unused code
+do not merge fix build
+add method to check if a 😝 is used
+fix npe in defaultfailover
+fix npe in generatortask
+add <add> to resolutionstrategy
+throw exception on failure
+fix javadoc warning
+fix bug in bsonsplitter
+don t create 😝 for 😝 methods
+fix typo in springframework
+remove unused field
+fix unit test
+add 😝 😝
+fix npe in localfilesystemimpl
+remove unnecessary cast
+add a comment
+remove unused logger
+add rectangularshapecollisionchecker method
+make classdependencyinfo serializable
+fix unit test
+add missing annotation
+fix race condition
+fix crash in pageindicator
+fix 😝 tests
+remove unused import
+add null check
+add a comment
+add missing override
+fix 😝 😝
+add setcurrentspellchecker method
+don t paint 😝 items
+fix 😝 😝
+fix unit test
+fix compilation error
+fix logging statement
+fix compilation error
+fix classdescriptorbase tostring
+fix bug in simplevaluelistener
+fix bug in standalonecatalogmapper
+fix typo in wifikey
+improved exception message
+remove unused code
+remove system out
+add checkreturnvalue to subscriberregistry
+remove unnecessary suppresswarnings
+fix test case
+add some comments
+fix test case
+fix npe in 😝
+add test for requestbodyandheader
+fix javadoc errors
+add missing override
+add null check
+remove unused method
+fix crash in floatingactionmenu
+remove unused code
+fix rotatedrawable constructor
+fix a bug where 😝 wouldn t 😝
+fix npe in browsefragment
+do not merge fix 😝
+fix 😝 😝
+fix visibility method
+fix npe in eventserviceimpl
+fix potential npe
+fix npe in tileadapter
+fix npe in 😝
+add missing license header
+fix 😝 tests
+fix 😝 😝
+fix typo in log message
+remove unused constants
+remove unused method
+fix cordovabridge generatebridgesecret
+fix bug in 😝
+fix test case
+remove unnecessary code
+turn off logging
+fix test failures
+fix npe in 😝
+remove unused method
+add missing test
+fix 😝 tests
+fix crash in 😝
+fix 😝 😝
+remove unused code
+remove debug logging
+fix javadoc warnings
+fix npe in defaultwebsocketprocessor
+fix a bug where the 😝 wouldn t crash
+add a comment
+remove unused imports
+fix listpopupwindow constructor
+remove unused method
+remove debug logging
+fix 😝 tests
+fix the build
+remove unused field
+synchronize streamcompressiondenied method
+fix test failure
+improved error message
+remove unused method
+make exchangenode serializable
+fix npe in mavenplugindomutil
+fix test case
+turn off debug
+remove unused method
+remove unused constants
+fix a bug in parcelablestatus
+add final to ep_name
+add a comment
+remove unused code
+improved error message
+add missing override
+add 😝 to 😝
+fix test failure
+fix bug in httppanelsplitui
+remove unused code
+fix crash in placepickerfragment
+remove unused field
+remove unused method
+fix a crash in fragmentmanagerimpl
+fix the build
+remove unused variable
+fix a bug where the 😝 wasn t stuck
+add a comment
+do not merge fix 😝
+improve tostring method
+fix bug in basemod
+fix npe in 😝
+don t use 😝 😝
+fix npe in traverseoptions
+fix logging message
+fix 😝 😝
+fix a bug where the 😝 could be stuck
+fix npe in simplecommandmap
+remove unnecessary code
+fix bug in worldbuilder
+don t show 😝 😝 when 😝
+fix npe in myprofileactivity
+add null check
+fix bug in 😝
+fix bug in ec2rebalancetest
+fix bug in peepholeminimizeconditions
+remove unused code
+remove log message
+fix flaky test
+remove unused method
+fix 😝 😝
+fix crash in clustermembers
+fix npe in tostring
+add javadoc to geteventtime
+fix typo in dependencybank
+don t show pce in 😝
+fix missing import
+fix test failures
+fix quality flaw
+fix race condition in internalengine
+fix a bug in yamlfrontmatter
+fix error message
+add some comments
+fix javadoc warning
+fix securitycheckprovider 😝
+remove unused code
+add nullable annotation
+remove unused method
+fix 😝 😝
+fix 😝 😝
+improved error message
+improve error message
+add a comment
+fix a bug where the 😝 was not 😝 in 😝
+fix a couple of typos
+add a warning about the 😝 😝
+fix bug in feeddao
+don t use 😝 😝
+add more info to log output
+fix npe in toolwindowmanagerimpl
+make putaa1 public
+fix compilation error
+make abstracttfsshelltest public
+fix npe in jsonschemamappingsview
+remove unused method
+fix bug in tostring
+add null check
+remove unnecessary code
+fix typo in javadoc
+increased timeout time
+fix crash in 😝
+make processclosureprimitivestest final
+add aliasfor to aliasfor
+don t show empty lines in 😝
+remove unused variable
+add a todo
+add support for initialstopsearchpathparser
+fix 😝 😝
+make stdlibtestsupport public
+fix npe in 😝
+add more tests
+remove unused field
+fix a bug where the 😝 could be 😝
+fix typo in log message
+fix bug in applicationsqldao
+add javadoc for uwetrottmann
+fix a bug where 😝 wouldn t 😝
+fix log message
+add a comment
+don t use 😝 😝
+fix typo in javadoc
+updated version number
+remove unused code
+add a log message
+fix npe in tabbedshowhistoryaction
+improve javadoc for 😝
+add sdkconstant to sdkconstant
+add missing override
+don t show 😝 😝 when 😝
+remove unnecessary parameter
+fix npe in hdmiceclocaldevicetv
+don t use 😝 😝
+remove problematic annotation
+remove unused code
+fix npe in apkbuilderstep
+fix compile error
+remove unused code
+fix javadoc warning
+fix 😝 😝
+add 😝 to 😝
+fix npe in zwaveconfiguration
+fix 😝 in wkttogeojsonconverter
+remove unused method
+use a default value for jobschedulerimpl
+fix wtypes constructor
+add javadoc for pluginscheckerwporg
+add more logging
+fix a bug where 😝 was not 😝 when 😝
+fix a bug in jimfs
+fix javadoc warning
+fix 😝 😝
+remove unused method
+fix a bug in 😝
+add support for 😝
+remove unused field
+fix a bug in internaltwittercontentutils
+do not paint border in popupchooserbuilder
+fix a bug in 😝
+fix bug in osharedcontainerimpl
+fix compilation error
+remove unused imports
+remove unused code
+fix crash in 😝
+increased timeout time
+fix npe in 😝
+fix npe in actfmsyncservice
+remove system out
+fix 😝 tests
+add todo comment
+fix a bug in commentadapter
+remove unused method
+remove unused constructor
+remove unused code
+fix the build
+add null check
+add a null check
+fix 😝 tests
+fix a bug where the 😝 wasn t 😝
+remove unused import
+make callerdecorator public
+add missing override
+fix encodedarraypool <delete>
+fix javadoc warning
+don t show 😝 on 😝
+remove unused code
+do not show message details in console
+fix 😝 😝
+fix bug in antlr4mojo
+add a comment
+remove unused code
+fix npe in 😝
+add missing suggestedreturntypestest
+fix bug in blockmastersync
+fix bug in ll1analyzer
+make method private
+add a comment
+fix typo in commandlineparser
+add missing annotation
+add missing 😝
+add more logging
+add missing override
+remove unused code
+fix bug in jarhandler
+fix a bug where the 😝 could be 😝
+fix npe in 😝
+fix npe in currentbranchdialog
+fix npe in standardengine
+fix abstractdaotestsinglepk 😝
+fix unit test
+fix logging error
+fix typo in javadoc
+remove unused constant
+fix bug in optionsusage
+remove unnecessary code
+fix test case
+add missing annotation
+ignore test for now
+fix a bug in runmanagerconfig
+improved error message
+remove unused variable
+remove unnecessary cast
+add missing test
+remove unused method
+fix crash in mediagallerypickeractivity
+remove 😝 border
+add functionutil tofloat
+remove unused method
+fix a bug in fallbackfactory
+make begininitializer public
+add missing catch
+remove unnecessary synchronization
+remove unused constructor
+fix npe in rajawaliscene
+fix npe in boundedlocalcache
+remove unused field
+add missing annotation
+fix a bug in otransactionoptimisticproxy
+fix exception message
+remove unused imports
+fix log message
+fix bug in gziphttpoutput
+fix typo in javadoc
+fix sutime 😝
+add null check
+make firerosterchangedevent public
+remove unused constant
+add a utility method to retrieve the 😝
+fix npe in 😝
+add log message
+fix bug in numpydocstringtypeprovider
+add getmaxlevel to simplepropertyprefilter
+remove unused code
+fix crash in 😝
+remove unused import
+fix a bug in 😝
+fix npe in fileinputformat
+fix a bug in 😝
+fix 😝 tests
+add nullable annotation
+remove deprecated code
+fix some quality flaws
+fix compilation error
+remove unused constants
+fix bug in ofetchhelper
+remove unused annotation
+do not run 😝 in dumb mode
+remove debug output
+fix bug in sharedtree
+add more logging
+remove unused method
+fix compilation error
+make getfileforkey public
+fix compilation error
+fix bug in hardwarerenderer
+fix test case
+remove unused imports
+remove unused code
+fix bug in clusterimpl
+fix a copy paste error
+fix javadoc warnings
+remove unnecessary code
+fix a bug in 😝
+add a gservices setting to set a default to the user
+remove unused method
+add more info
+fix failing test
+fix failing test
+fix npe in modulemanagercomponent
+add missing test
+throw exception if there is no 😝
+do not run tests in tests
+remove unused code
+add support for 😝
+remove unused imports
+fix broken test
+add test for 😝
+fix 😝 😝
+remove unused imports
+fix npe in inputmethodspanel
+fix a bug where 😝 would not have 😝
+improve javadoc for 😝
+fix npe in 😝
+remove deprecated method
+use the correct path in the path
+remove unused method
+add a test for 😝
+remove unused variable
+add null check
+remove unused method
+remove unused imports
+fix javadoc warning
+fix lockresourceimpl getremainingleasetime
+add support for htmldecoder
+add 😝 to 😝
+make <delete> public
+add 😝 to linewidgetmanager
+disable test for now
+fix 😝 tests
+remove unused import
+fix hasheq equals
+add lease to hpackencoder
+add missing 😝
+fix 😝 in oauthtoken
+remove unused code
+add tostring to 😝
+fix npe in slidinguppanellayout
+add missing test
+fix npe in thumbnailrequestcoordinator
+fix npe in contributionlistpanel
+don t create file paths for empty files
+fix npe in getnativeinstance
+fix 😝 😝
+remove unused method
+fix npe in semserviceimpl
+fix npe in gitsimplepushresult
+fix npe in 😝
+fix javadoc warning
+remove debug logging
+fix test on windows
+clarified javadoc for gobacktoactivity
+make parsetype public
+fix bug in orderedmemoryawarethreadpoolexecutor
+invalidate 😝 😝
+deprecated jspcontext getexpressionevaluator
+incorporated pr comments
+add more logging
+fix npe in peoplemanagementactivity
+add a comment
+fix a bug in drawhandler
+fix bug in ingestbootstrapper
+remove unused code
+add missing 😝
+remove unnecessary cast
+fix 😝 😝
+fix npe in oserverpluginmanager
+fix javadoc warning
+fix bug in typefactory
+fix 😝 in oprofiler
+make orientbatchgraph public
+add missing override
+fix 😝 😝
+smallfix remove explicit argument type in permissionchecktest
+fix bug in facebookcomponent
+remove unused variable
+add missing 😝
+don t show focus on 😝
+fix a bug in 😝
+fix bug in showgraph
+remove unused code
+don t allow 😝 to 😝 😝
+fix 😝 😝
+add a comment
+fix potential npe
+make jdbcaccesslogvalve serializable
+remove unused code
+fix test failure
+fix 😝 tests
+fix the build
+fix a bug in mathfunctions
+add a comment
+fix 😝 😝
+add convenience method to check if a 😝 exists
+fix compilation error
+fix 😝 😝
+add missing annotations
+use a default thread for 😝
+add support for 😝
+don t show 😝 on 😝
+add checkreturnvalue to suspendable
+remove unused code
+remove unused code
+add constants to medianames
+add a null check
+fix typo in javadoc
+fix typo in log message
+remove unused method
+fix the build
+fix a bug in linkviewoverlayservice
+fix 😝 😝
+add override to tileassemblytable
+fix npe in observablelist
+throw an exception when trying to shutdown an exception
+fix race condition in 😝
+add support for 😝
+fix a bug in the aceeditoridlecommands
+fix 😝 😝
+fix bug in gcinspector
+fix 😝 😝
+add 😝 to 😝
+fix crash in 😝
+fix 😝 😝
+use correct file name
+add missing break
+fix npe in loadermanagerimpl
+fix typo in javadoc
+fix typo in builderstatisticsmessage
+add missing override
+add weightlowerbound to directedge
+remove unused method
+fix 😝 😝
+remove unused method
+fix javadoc warning
+fix 😝 tests
+fix npe in 😝
+fix npe in analyzingutils
+fix npe in callbackproxy
+sourceformatter ignore 😝
+remove unused code
+fix a bug in pathchildrencache
+fix 😝 tests
+fix compilation error
+add missing override
+fix javadoc warnings
+fix bug in replacemethodcallsadapter
+fix typo in systemresource
+fix npe in usevirtualfileequalsinspection
+fix 😝 😝
+fix npe in 😝
+improve javadoc for 😝
+add log message
+fix typo in log message
+fix a bug in filedatamanager
+remove unnecessary code
+add a todo
+remove 😝 border
+fix 😝 😝
+fix compilation error
+fix unit test
+add missing license header
+turn off 😝 😝
+don t use 😝 😝
+fix compilation errors
+don t log 😝
+fix 😝 😝
+throw exception if columnarbinaryhiverecordcursor is null
+remove unused field
+fix preloader parsemeasuretime
+remove unused imports
+remove unused code
+fix a bug in 😝
+remove unused code
+add a comment
+fix a bug in swiperefreshlayout
+add log message
+remove unused code
+do not show 😝 😝 in 😝
+fix npe in 😝
+fix bug in btree
+add recordingstatus url_attribute
+fix quality flaws
+remove unused code
+fix npe in pagesresponsewriter
+fix test case
+fix bug in icedbitset
+remove unused code
+fix npe in 😝
+fix npe in wpmainactivity
+fix test failure
+add a gservices setting to set the default value of the 😝
+remove unused constructor
+fix bug in describechild
+fix a bug where 😝 wouldn t show 😝
+make listsamples serializable
+fix npe in 😝
+remove unused code
+don t show 😝 dialog if there is no 😝
+remove unused method
+fix 😝 😝
+remove unused variable
+improve javadoc for tvinputinfo
+don t show 😝 if there are no 😝
+fix 😝 😝
+add a comment
+fix javadoc warnings
+fix npe in protocolproviderfactoryjabberimpl
+remove unused code
+fix 😝 😝
+remove unused imports
+fix javadoc warning
+remove unused method
+remove unused constructor
+add method to check if a 😝 is 😝
+fix npe in h2onode
+improve exception message
+add abstracttestexecutionlistener to withsecuritycontexttestexecutionlistener
+fix 😝 😝
+increased timeout time
+fix npe in addkotlinsignatureannotation
+fix typo in annotatorfactories
+remove unnecessary method
+make javabaseplugin public
+throw an exception when a message cannot be found
+improved logging message
+fix bug in titleretriever
+remove unused method
+remove unused variable
+improve exception message
+fix race condition in wsremoteendpointbase
+fix javadoc warning
+add test for 😝
+don t show 😝 in 😝
+fix 😝 😝
+remove unused method
+fix compilation error
+add tostring to connectorsplit
+add a little bit of 😝 to 😝
+add convenience method to parsingscope
+fix potential npe
+fix crash in 😝
+don t show 😝 😝 in 😝
+add missing override
+add tostring to basefilterbuilder
+fix bug in hivemetadata
+fix npe in niftydialogbuilder
+fix bug in contextpreparer
+remove unused method
+fix exception message
+fix npe in 😝
+fix npe in shadowfragment
+throw exception instead of throwing exception
+add support for 😝
+ignored test for now
+fix javadoc warnings
+remove unused method
+fix a couple of bugs
+remove unused code
+add 😝 to 😝
+fix some typos
+fix bug in collectionbinding
+don t show empty lines
+fix bug in websocketservlettest
+fix a bug in pendingconnectrequestfragment
+fix npe in 😝
+add support for 😝
+add missing license header
+fix equalspredicate constructor
+remove unused method
+fix unit test
+fix bug in slidinglayer
+remove unused method
+remove unused imports
+fix npe in opropertyindexdefinition
+add a todo
+remove unused import
+remove unused field
+remove unnecessary code
+fix a bug in 😝
+remove unused code
+add assertion message
+fix javadoc warning
+add missing annotation
+fix npe in terminalview
+don t show pce in dumb mode
+fix npe in appearancetoolbar
+remove debug logging
+clarified javadoc for 😝 in solo and viewfetcher
+remove unused code
+add missing license header
+add a comment
+fix a bug where the 😝 could be stuck
+remove debug output
+remove unused field
+remove unnecessary code
+fix javadoc warning
+fix a bug in gpslocationprovider
+add missing override
+fix 😝 😝
+fix npe in 😝
+fix issue with 😝
+fix the build
+fix hystrixcommandproperties hystrixproperty
+fix npe in availablecontribution
+add a todo
+fix a bug where the 😝 could be 😝
+add missing annotation
+improve error message
+fix genericitemadapter constructor
+use a default context instead of 😝
+remove unnecessary public modifier
+fix 😝 tests
+add missing log message
+fix javadoc warning
+fix npe in abstractinplaceintroducer
+add null check
+improved error message
+fix npe in mcastserviceimpl
+add some more annotations
+remove system out
+add 😝 to <add>
+add a method to get the 😝
+fix typo in javadoc
+remove unused variable
+fix npe in jmsproducer
+add support for 😝
+fix a bug in the comment
+remove unused constants
+fix 😝 😝
+add null check
+fix typo in compilersettings
+fix 😝 😝
+add missing license header
+improve javadoc for 😝
+fix typo in log message
+fix test on windows
+do not ignore 😝 😝
+fix 😝 😝
+fix a comment
+add checkreturnvalue to myresourcetest
+remove unused import
+add 😝 to editpostactivity
+make flashsmscarddata public
+fix inputeventconsistencyverifier constructor
+don t show 😝 text in 😝
+remove unused code
+fix typo in statssinglepostdetailsactivity
+add missing override
+remove unnecessary code
+increased timeout time
+fix failing test
+add 😝 to grizzlyserver
+add more logging
+fix typo in log message
+remove deprecated method
+sourceformatter fix 😝
+fix 😝 in zoomabledraweeview
+remove unused import
+fix bug in jsonpropertysupport
+don t use 😝 😝
+fix bug in servletoutputstreamimpl
+rename startuperror to public
+add support for 😝
+fix a bug in 😝
+remove unused import
+fix test failure
+remove unused method
+fix npe in 😝
+fix npe in 😝
+fix logging message
+catch exception in ommapmanager
+add missing actionpathrewriter
+fix 😝 😝
+fix npe in enumfieldplugin
+fix failing test
+fix 😝 😝
+add a todo
+make <delete> serializable
+remove unused code
+remove unnecessary cast
+add more logging
+fix 😝 😝
+ignored test for now
+remove unused imports
+add onviewportchange to boundingbox
+remove unused code
+fix categoryrest 😝
+fix 😝 😝
+fix a bug in 😝
+fix a bug where the activity wouldn t be 😝
+fix broken test
+fix javadoc warning
+add 😝 😝
+add missing test
+remove unused method
+add 😝 to 😝
+fix npe in callsessionimpl
+remove debug output
+fix npe in javareferencecontributor
+remove unused method
+make hellocamel public
+remove unused import
+add a comment
+add todo comment
+add missing 😝
+fix offsetdatetimefield constructor
+skip empty lines
+remove 😝 border
+fix 😝 😝
+remove unnecessary log message
+don t use 😝 😝 for 😝 😝
+add 😝 to 😝
+add missing 😝
+add missing license header
+fix crash in recenttasksloader
+fix 😝 😝
+fix bug in oobjectentityclasshandler
+add support for 😝
+fix exception message
+add a test for 😝
+add setindexwordlimit method
+fix potential npe
+remove unused import
+add test for 😝
+add missing license header
+fix javadoc warning
+fix 😝 😝
+fix a typo
+fix 😝 😝
+don t run applyprojectrolesdecorator on 😝
+remove unnecessary code
+fix a bug in 😝
+add assertion message
+remove 😝 dependency
+fix bug in hystrixcollapsertest
+add support for 😝
+fix npe in genericconnectionpage
+fix npe in kotlinclassifier
+remove unused code
+fix npe in 😝
+remove unused field
+remove unused constant
+add shadowhttpget seturi
+remove unused code
+remove unused field
+fix a bug in 😝
+fix 😝 tests
+remove unnecessary suppresswarnings
+remove unused imports
+fix the build
+fix 😝 😝
+fix javadoc warning
+remove debug message
+fix typo in metricrepositoryautoconfiguration
+fix typo in heliossoloit
+fix npe in b2contactfilter
+fix javadoc warnings
+remove unused code
+remove unused code
+fix 😝 😝
+add comment to treewalker
+remove unnecessary suppresswarnings
+remove deprecated method
+remove unused code
+remove unused method
+remove unused imports
+fix npe in photodiskcache
+throw exception on failure
+add support for 😝
+remove unused imports
+fix bug in 😝
+remove unused constant
+fix potential npe
+fix npe in iqregisterhandler
+remove debug output
+throw an exception if there is no 😝
+add javadoc for removefromrealm
+add more info to the 😝
+remove unused import
+increased timeout time
+add more tests
+remove unused method
+don t show 😝 😝 if there is no 😝
+fix test case
+add log message
+fix 😝 😝
+fix test case
+fix a bug where the 😝 could be 😝
+fix 😝 😝
+fix a bug in routeprovider
+remove unused variable
+smallfix remove explicit argument type in customparser
+fix bug in trackmessagesizeinterceptor
+fix npe in commentusernoteblock
+add support for 😝
+remove unused logger
+remove unused constant
+fix a bug where the 😝 wasn t 😝
+remove unused code
+remove unused method
+add missing license header
+add javadoc to 😝
+remove unused method
+remove unused field
+fix 😝 😝
+add teramath fadehermite
+don t add 😝 to 😝
+don t create 😝 for 😝 files
+fix failing test
+fix bug in tomcat7cometsupport
+add missing license header
+fix failing test
+deprecate unused code
+remove redundant check
+add getinitialinstanceinforeplicationintervalseconds to defaulteurekaclientconfig
+fix javadoc warning
+set default value to true
+fix npe in proxyconnection
+add missing test
+add a comment
+fix npe in 😝
+fix npe in okhttpdownloader
+fix race condition
+add paymentjson paymentattempt
+fix a bug where the 😝 could be 😝
+fix npe in 😝
+add missing annotation
+remove unused imports
+remove empty line
+add missing method
+remove unused method
+add a comment
+remove unused field
+fix npe in javascriptprotocol
+remove unnecessary method
+fix typo in casloggerfactorytests
+fix the build
+add a null check
+fix bug in jetchangesignatureusageprocessor
+fix randomaccessinputview 😝
+remove unused method
+fix crash in readerpostpageractivity
+fix npe in <delete>
+fix npe in testerokhttpchannelbuilder
+remove unused variable
+remove unused constants
+fix npe in treegrowingsystem
+remove unused code
+ignore exception in transportsearchaction
+add assertion message
+fix npe in factoryfinder
+don t highlight 😝
+throw exception if no 😝 😝
+add support for 😝
+fix a bug in 😝
+add javadoc to behaviorsubject
+fix typo in javadoc
+remove unused method
+don t use 😝 😝
+fix crash in 😝
+add missing override
+fix bug in settingseditor
+fix bug in 😝
+fix npe in <delete>
+fix broken test
+fix bluetoothhealthprofilehandler constructor
+add a comment
+use correct icon
+add exception handling
+fix typo in projecteditingpreferencespane
+fix npe in cachemanagingdrawtask
+fix npe in multipartinputstreamparser
+fix a bug in pointlocationlayer
+add <delete> method
+remove unused code
+don t show empty lines
+fix 😝 😝
+fix potential npe
+remove unused logger
+fix unit test
+add a todo
+fix crash in welcomeactivity
+don t throw exception on 😝
+remove unused code
+fix 😝 test
+remove unused code
+fix javadoc warnings
+remove unused constructor
+fix javadoc warning
+remove unused constant
+fix a bug where the 😝 wouldn t display up
+remove unused import
+fix 😝 😝
+fix 😝 😝
+add missing annotation
+fix npe in rowreceivertoresultreceiver
+fix bytebuffersend <add>
+remove unused constants
+fix a bug where the 😝 could be 😝
+fix test failure
+catch exception in sharedgroupmanager
+fix 😝 😝
+fix license header
+don t log error in wearablecontroller
+remove system out
+fix broken test
+remove unused method
+fix javadoc warning
+fix crash in 😝
+add a test for testpassthroughsettings
+fix npe in listheaders
+fix 😝 😝
+remove unused imports
+remove unused code
+add missing override
+fix potential npe
+fix bug in coordinationpattern
+remove unused method
+remove unused code
+add missing test
+don t show 😝 file for 😝 files
+fix crash in 😝
+remove unused imports
+remove unnecessary cast
+remove unused imports
+fix 😝 😝
+remove system out
+fix npe in filetypemanagerimpl
+don t show 😝 on 😝
+add missing override
+remove unused code
+fix 😝 😝
+add a todo
+fix a bug where the 😝 could be 😝
+fix the build
+add test for componentdto
+fix typo in transformutil
+remove unused code
+fix npe in ttscommandplayerimpl
+remove unnecessary code
+throw exception on exception
+add some more info to the log message
+set 😝 to default
+fix test on linux
+fix test failure
+don t log the exception
+make nesting public
+fix npe in criterion
+fix typo in javadoc
+add reacttextinputshadownode to reacttextinputmanager
+make fromtoken public
+fix javadoc warnings
+increased timeout time
+fix cdfitness 😝
+fix a bug in objloader
+fix a bug in 😝
+improve logging message
+add a comment
+fix typo in loggingconfiguration
+remove debug output
+add tests for 😝
+remove unnecessary cast
+remove unnecessary suppresswarnings
+fix npe in youtubechannelextractor
+remove unused constructor
+add tablequerycolumn constructor
+remove unused imports
+fix operationskipuntil <delete>
+fix race condition in abstractscheduler
+add a comment
+add more logging
+ignore failing test
+remove unused field
+remove unused method
+fix bug in pipelineinstancemodel
+fix bug in testnonblockingapi
+add 😝 to httpconfigurable
+fix bug in graphserviceimpl
+remove unused code
+fix tvshowcollection <same>
+don t show 😝 on 😝
+fix crash in 😝
+add ivydescriptorfilegenerator optionalattributexmlwriter
+remove unused imports
+fix broken test
+add logging of 😝
+fix npe in textureloader
+add missing override
+remove unnecessary method
+fix 😝 😝
+fix test case
+add a todo
+fix the build
+remove unused method
+fix npe in backupmanagerservice
+fix npe in 😝
+fix 😝 tests
+ignore exception in cancellablethreads
+don t show 😝 files if there are no file
+fix npe in jsphelper
+add a comment
+remove unused method
+fix npe in routeinfowidgetsfactory
+remove unused constants
+add tostring to attributebinding
+fix javadoc warnings
+add missing 😝
+fix 😝 😝
+remove unused code
+add missing override
+remove unused code
+fix 😝 😝
+fix compilation errors
+fix bug in fileuploader
+remove unused field
+fix npe in sqleditor
+fix bug in debuginstructioniterator
+remove unused constant
+remove unused code
+remove unnecessary code
+add a todo
+add a comment
+remove unused method
+deprecate unused code
+fix a compilation error
+remove unused method
+don t show 😝 in 😝
+add 😝 to 😝
+fix bug in ingestrestfilter
+fix a bug in manifestupdatemojo
+fix test case
+fix javadoc warning
+improve exception message
+fix a bug in traceview
+remove unused constant
+fix 😝 😝
+add teleportto method
+do not show 😝 😝 in 😝
+fix npe in ovariableparser
+improved error message
+smallfix remove explicit argument type in constructorinjectiontest
+don t print stacktrace in uncaughtexceptionhandlers
+add missing override
+add tostring to coreprogressmanager
+fix a bug in remoteconnection
+fix typo in 😝
+fix crash in caldroidgridadapter
+add log message to abstractdbbackend
+add javadoc to ilistenablefuture
+fix bug in httpdownloadconnection
+do not use deprecated method
+fix typo in 😝
+add support for plcbusgenericbindingprovider
+make rawlogbuffersfactory public
+add javadoc to x11
+fix npe in multireducedmetric
+remove unused method
+add withoncreateviewholderlistener method
+improve error message
+fix potential npe
+add log message
+remove unused method
+fix typo in javadoc
+remove unused imports
+fix bug in cookieencoder
+add null check
+add missing annotations to annotation_type
+remove unnecessary code
+add hashcode method
+throw exception on 😝
+fix a bug in 😝
+fix bug in grailsdatabinder
+fix bug in innerclassentity
+add selectedobject method
+fix npe in phonestatusbarpolicy
+don t use 😝 😝
+fix npe in svninfostructure
+remove unused imports
+fix npe in inputstreamgraphsource
+fix crash in 😝
+fix crash in smackandroid
+remove unused method
+fix npe in mefragment
+fix bug in convolutionlayer
+fix 😝 😝
+remove unused method
+fix test case
+use a default value for user_failed_space_request_limits
+remove unused constructor
+fix npe in 😝
+add onreset to networkmanager
+fix bug in <delete>
+add missing override
+remove unused code
+fix npe in singletoncomponentdescription
+fix failing test
+ignore 😝 😝
+add a todo
+fix 😝 😝
+add a null check
+fix npe in shouldshowrequestpermissionrationale
+remove unused field
+add missing license header
+fix a bug where the 😝 could be 😝
+remove unnecessary instanceof check
+fix 😝 😝
+fix typo in log message
+fix 😝 tests
+remove unused constants
+add a todo
+fix a bug in simplelistdividerdecorator
+fix bug in serversocketreader
+do not show 😝 😝 in 😝
+fix race condition in bulkindexer
+do not merge fix crash in 😝
+remove unused field
+fix bytebuddyagent virtualmachinetype
+fix staticmethod equals
+fix bufferutil tostring
+fix a bug in 😝
+fix a bug in 😝
+add javadoc for <add>
+add 😝 😝
+don t show 😝 on 😝
+fix npe in ciphersuiteconverter
+fix javadoc warning
+fix 😝 😝
+remove unused code
+fix broken test
+remove unused method
+add missing annotation
+fix javadoc warning
+fix memory leak in gitrootscanner
+fix npe in calendarpageradapter
+remove unnecessary code
+fix bug in applicationconfiguration
+improve error message
+fix javadoc warning
+add missing constructor
+don t use 😝 😝
+fix 😝 tests
+add tostring to memberisavailable
+fix bug in servicecommanddispatcher
+remove unused method
+fix bug in pformat_len0
+add support for 😝
+fix bug in doubleheapselect
+add more information
+add null check
+fix license header
+remove unused import
+fix npe in windowmanagerglobal
+fix testactivitybehaviorfactory eventsubprocessstarteventactivitybehavior
+add localsqlsession method
+remove deprecated method
+fix a typo
+add a method to get the view to be 😝
+remove unused constant
+catch exception in persistentenumeratorbase
+fix npe in 😝
+fix a bug in 😝
+fix a bug where the 😝 could be 😝
+remove unnecessary code
+add missing 😝
+add documentation to 😝
+fix potential npe
+remove unused field
+add missing graphquery
+fix npe in 😝
+add support for list_boolean
+fix javadoc warning
+remove unnecessary method
+fix npe in fbreaderapp
+remove unused constants
+make underfilesystemfileoutstream <add>
+fix test case
+add missing break
+fix npe in groovypagesurisupport
+fix 😝 javadoc
+remove debug output
+add missing protobufinputrowparser
+fix bug in coremodmanager
+remove unnecessary suppresswarnings
+fix npe in standardhost
+fix 😝 😝
+don t run 😝 in tests
+improve javadoc for 😝
+fix a bug in 😝
+fix bug in gatedstreamsinkchannel
+fix typo in xcameradevice2
+deprecate unused code
+fix a bug in iqauthhandler
+fix bug in globalmatchingvisitor
+fix failing tests
+remove unused field
+remove unused variable
+fix 😝 😝
+add a comment
+fix unit test
+fix typo in dosfilter
+fix bug in taskapidao
+remove unused method
+fix npe in 😝
+fix 😝 😝
+fix npe in androidapkbuilder
+fix npe in generateequalshelper
+add missing override
+add tripid to tripid
+fix npe in streamreplyverbhandler
+remove unused imports
+add a method to get the 😝
+don t show 😝 😝 when 😝
+fix crash in 😝
+fix a bug where 😝 wouldn t show the title
+fix potential npe
+fix npe in defaultindex
+add a comment
+remove unused field
+fix test case
+add missing imports
+fix npe in guiingameforge
+add a comment
+add missing 😝
+fix 😝 😝
+fix npe in xmlemmetparser
+fix bug in remoteimageviewtest
+fix unit test
+remove unused code
+fix bug in wordvectorserializer
+fix bug in nativedecimalformat
+add a comment
+add 😝 to mathjax
+add some comments
+fix externalepisodeslistadapter 😝
+remove unused import
+increased timeout time
+remove unnecessary cast
+remove unnecessary <add>
+add 😝 to tokenbasedremembermeservices
+add debug message
+fix compilation error
+remove unused code
+fix typo in sizewidget
+fix bug in httpstaticfileserverhandler
+fix bug in highlyavailablegraphdatabasefactory
+remove redundant instanceof check
+add a todo
+fix bug in 😝
+remove unused code
+improved tostring method
+don t 😝 😝 😝
+remove unnecessary parameter
+fix potential npe
+remove 😝 dependency
+fix crash in 😝
+fix npe in sharedtreemodel
+fix typo in javadoc
+fix bug in dexmojo
+fix the build
+remove obsolete comment
+fix potential npe
+add more logging
+throw exception if there are no 😝 😝
+fix a bug where 😝 wouldn t 😝
+add documentation to tvinputservice
+fix bug in persistentinterval
+fix a bug in 😝
+remove unnecessary code
+add missing imports
+fix merge conflict
+fix npe in statsservice
+remove unnecessary code
+add javadoc for permissionutil
+fix bug in httpparser
+fix logging message
+fix the build
+fix npe in fetchbloglistwporg
+add a comment
+fix a typo
+remove unnecessary suppresswarnings
+fix crash in 😝
+don t swallow exceptions in dinvoke
+don t show 😝 😝 in 😝
+remove unused method
+fix 😝 😝
+make <add> public
+log exception in javadocinfogenerator
+fix typo in grailscoredependencies
+remove unused field
+fix a bug in 😝
+add support for 😝
+remove unused code
+remove unused imports
+remove unnecessary synchronization
+don t return an empty type
+remove unused method
+fix instancemethodexpr equals
+fix a bug in claimstrategy
+don t show 😝 dialog on 😝
+fix computationgraph multidataset
+add missing override
+fix a bug in 😝
+fix compilation error
+remove unused imports
+add a comment
+add missing getpolicy
+remove unused constructor
+fix the build
+fix bug in webfilter
+fix bug in abstractevictionpolicyevaluator
+fix 😝 😝
+remove unused method
+fix bug in id3reader
+add missing break
+remove unnecessary suppresswarnings
+remove unused method
+add networkcatalogitem inetworklink
+add missing override
+fix typo in javadoc
+remove unused method
+remove unused field
+remove unused method
+fix test failure
+add 😝 😝
+fix javadoc warning
+fix bug in channelfunctionfilechannel
+fix bug in rollingthemonkey
+fix bug in testngrunnablestate
+log a warning when a message cannot be found
+fix npe in recordreaderimpl
+remove deprecated method
+fix npe in 😝
+fix npe in spillingresettableiterator
+fix npe in gelfchunkaggregator
+remove unused code
+fix 😝 tests
+remove unnecessary override
+add logging for 😝
+fix 😝 😝
+remove unused constructor
+fix 😝 😝
+add missing test
+add more logging
+add getquerystats to emittingrequestlogger
+fix crash in 😝
+fix npe in leaktrackingbytebufferpool
+add more logging
+remove unused method
+add missing override annotations
+remove unnecessary synchronization
+remove unused code
+add a todo
+updated version name
+remove unused method
+remove unused method
+don t show 😝 if there is no 😝
+remove unused code
+add javadoc to 😝
+improve exception message
+fix race condition in graphitereporter
+fix crash in materialsheetfab
+improved error message
+improved error message
+add author tags
+remove unnecessary code
+remove unused method
+remove debug log
+remove deprecated annotation
+fix 😝 😝
+fix bug in transitindex
+remove unnecessary code
+fix a bug in danmakusretainer
+add tokengranter to authorizationserversecurityconfigurer
+add timeout to 😝
+fix typo in javadoc
+add 😝 to 😝
+add getkiller to livingentity
+make setcolortransitions public
+remove system out
+fix typo in tokenservicesuserapprovalhandler
+remove unused constants
+fix npe in privacyprovider
+fix 😝 😝
+don t show 😝 icon in 😝
+fix a bug where the 😝 was not 😝
+add 😝 to 😝
+remove deprecated method
+remove debug code
+remove unused constant
+remove debug output
+fix npe in myadvancedechocreator
+fix npe in conversationfragment
+fix typo in 😝
+use the same buffer in jdkasynchttpprovider
+add notnull annotation
+fix a bug in startargs
+add some tests
+fix logging message
+fix 😝 😝
+remove unused variable
+fix bug in <delete>
+add null check
+add 😝 to 😝
+don t show 😝 in 😝
+add getcenterx to staticentity
+fix npe in jardirectorywatcherfactory
+fix 😝 😝
+don t show empty lines in 😝
+fix javadoc warning
+fix typo in message
+fix typo in saslauthentication
+fix 😝 😝
+fix mapreadquorumtest quorumconfig
+remove unused import
+remove deprecated constants
+remove unused method
+remove unused method
+throw exception if 😝 is null
+fix issue with 😝
+fix unit test
+fix a crash in 😝
+add tostring to immediatedirectorybuildtargetpattern
+ignore exception in blobstoreindexshardgateway
+fix the build
+add some comments
+add a test for 😝 😝
+add missing override
+add a todo
+add signchangeevent getplayer
+remove unused code
+fix 😝 😝
+ignored test for now
+add support for 😝
+remove unused field
+add 😝 to 😝
+fix test on windows
+add a method to clear the 😝
+remove unused code
+fix typo in shardmetadatarecordcursor
+remove unused method
+add missing override
+remove unused constructor
+fix compilation error
+add 😝 to 😝
+add suffixes method
+fix javadoc errors
+remove unused constant
+remove unused constructor
+fix 😝 tests
+don t use 😝 😝
+fix bug in histogramiterationlistener
+fix a bug where 😝 was not used
+fix a bug in qrcodeencoder
+fix bug in extententitycopy
+fix npe in shouldcount
+fix npe in networkbaseactivity
+fix race condition in daemonclient
+add getsizebytes method
+fix broken test
+don t highlight 😝
+fix mongocredentials tostring
+add missing override
+remove deprecated annotation
+fix npe in metadataexporter
+fix the build
+remove unnecessary code
+add missing license header
+remove unused import
+add check for null types
+fix 😝 😝
+fix npe in 😝
+remove unnecessary code
+fix crash in 😝
+fix javadoc warning
+remove debug log
+fix license header
+fix npe in 😝
+fix test failure
+log a warning when the ime is 😝
+remove unused field
+remove unused constants
+don t use 😝
+fix 😝 😝
+fix androiddesignereditorpanel tostring
+do not use 😝 😝
+improve javadoc for 😝
+fix npe in groovypositionmanager
+add missing javadoc
+clarified javadoc for 😝 in solo and viewfetcher
+remove redundant instanceof check
+add missing annotation
+fix npe in 😝
+fix a bug where 😝 was not used
+fix typo in log message
+fix 😝 in testleftrecursion
+make headerxssprotectionscanner serializable
+remove unused method
+don t highlight usages of 😝
+add runwith annotation
+remove unused import
+remove unused import
+fix datasourceinputstream <delete>
+fix npe in useofsunclassesinspection
+fix javadoc errors
+make bandwidthmeter public
+add missing license header
+fix test case
+add missing annotation
+add a test for testcountboolean
+improve exception message
+add support for getprojectfilesystem
+add some comments
+fix a bug in buildcrafttransport
+remove unused import
+do not update 😝 if there are no active
+add missing override
+don t run 😝 in tests
+add a comment
+fix the build
+remove unused method
+fix bug in distinctlimitoperator
+fix typo in 😝
+remove unused code
+add serialversionuid to <delete>
+fix alertcontroller 😝
+remove unnecessary cast
+improved error message
+throw an exception if cxfendpoint is null
+fix crash in notificationrecord
+deprecate modulebuilder modulebuilder
+add null check
+add missing annotation
+add missing break
+fix log message
+fix javadoc warning
+don t throw an exception if there is an error
+add null check
+fix npe in filesystemworker
+fix javadoc warning
+make inner class static
+add missing 😝
+add missing override
+add javadoc to readfully
+add missing close
+fix npe in 😝
+remove unused code
+remove unused code
+do not compare 😝
+add missing override
+fix 😝 😝
+fix test failure
+fix crash in animationadapter
+fix 😝 😝
+fix log message
+fix npe in mediasessioncompat
+remove unused method
+fix logging message
+remove unused variable
+remove unused field
+remove system out
+fix typo in log message
+fix npe in pluginbuildutil
+make onrequestpermissionsresult public
+remove unused method
+fix typo in javadoc
+fix bug in mavenprojectstree
+do not show action bar action bar if there is no project
+fix crash in gtaskssyncprovider
+fix bug in deploymentunitphaseservice
+fix the build
+fix a bug in 😝
+fix operatorfromiterable isunsubscribed
+remove unused import
+add 😝 to feedmanager
+fix npe in metacontactchatsession
+fix potential npe
+remove deprecated code
+remove 😝 flag
+add more logging
+remove unnecessary code
+remove unused method
+add more logging
+add more logging
+remove unused method
+fix checkstyle warnings
+fix 😝 😝
+remove unnecessary parameter
+fix getmaterial equals
+fix foreignkey tostring
+remove debug message
+fix npe in dropwizardapprule
+throw exception on failure
+fix broken test
+remove unused logger
+remove unused variable
+add missing test
+remove unused code
+fix npe in testplan
+fix a typo in a comment
+add 😝 to packagekeysmigration
+add a todo
+add missing license header
+remove unused method
+improved error message
+fix a bug in animatedimagedecoder
+add a comment
+fix the build
+fix npe in xmlhighlightvisitor
+fix npe in classloaderlogmanager
+fix typo in javadoc
+remove unused method
+remove unused import
+fix a bug in lagartoparserengine
+remove unused variable
+fix the build
+remove unnecessary import
+fix log message
+remove unnecessary logging
+fix 😝 😝
+fix a bug in 😝
+remove unused iteratorhasnextcallsiteratornextinspection
+remove unused code
+fix npe in postfixlivetemplate
+remove unused variable
+don t show 😝 on 😝
+fix unit test
+fix npe in mustache
+remove debug logging
+don t show 😝 when 😝
+don t show 😝 😝 in 😝
+fix a typo
+fix bug in streamingresolutionresultbuilder
+improved error message
+add missing shadowremoteviews
+don t use 😝 in 😝
+fix npe in 😝
+don t highlight 😝
+add a comment
+fix failing test
+do not show 😝 😝 in 😝
+throw an exception if there is no 😝
+fix a bug in inventorygrid
+fix javadoc for 😝
+remove unused code
+remove unused field
+fix a typo
+fix npe in 😝
+fix bug in websocketsessionremoteendpoint
+fix 😝 😝
+fix javadoc warning
+fix 😝 😝
+remove debug logging
+add gsmalphabet stringtogsm7bitpackedwithheader
+fix bug in faunustitangraph
+fix npe in 😝
+add null check
+fix rebalancedataset 😝
+don t show focus on 😝
+add null check
+add getdependencyresolutioncontext to dependencycustomizer
+fix npe in materialedittextpreference
+fix broken test
+fix httpstring appendto
+add support for 😝
+fix 😝 😝
+fix typo in javadoc
+fix a bug in anviltext
+fix log message
+fix a bug where the 😝 could be 😝
+fix npe in zwaveconfiguration
+remove unused import
+fix bug in barlinechartbase
+remove unused variable
+fix typo in javadoc
+fix dhistogram 😝
+fix crash in filterlistfragment
+fix npe in ratpackwebcontext
+fix failing tests
+fix failing test
+remove unused variable
+ignore test for now
+add notnull annotation
+remove debug logging
+don t allow 😝 to be 😝
+remove unused field
+fix crash in fastscroller
+add missing test
+add javadoc to sequencedefinition
+add a todo
+fix animation3d deltatime
+add missing annotation
+fix bug in searchdataquery
+fix unit test
+remove unused code
+fix test failure
+make jdbcdaotests public
+add support for 😝
+remove unused variable
+make ignoredfilesinfoimpl public
+remove debug output
+fix javadoc warning
+improve error message
+remove unused method
+remove unused code
+fix license header
+fix bug in txengine
+fix copyright header
+remove unused field
+don t show 😝 in groovyrefactoringsupportprovider
+fix npe in 😝
+add 😝 😝
+remove unused imports
+remove unused field
+add more logging
+remove unused import
+remove unused imports
+add generic parameter
+fix typo in ruleclass
+remove unused method
+make buildaction serializable
+don t show 😝 on 😝
+fix 😝 😝
+add missing break
+fix a bug where the 😝 could be 😝
+fix compilation error
+do not show focus on backspace if there are no focus
+fix 😝 😝
+add a comment
+add more tests
+fix npe in generalconfigpluginactivator
+remove unused method
+don t 😝 😝 😝
+fix the build
+fix typo in javadoc
+fix race condition in immediateexecutortest
+fix bug in taskcontroller
+add notnull annotation
+fix javadoc warnings
+remove unnecessary code
+fix 😝 😝
+fix npe in defaultauditdao
+fix javadoc warnings
+fix npe in textconverter
+add support for 😝
+fix a bug in loadertask
+fix javadoc warning
+fix npe in appwidgetserviceimpl
+fix crash in powernotificationwarnings
+fix bug in relationindexstatuswatcher
+fix bug in fnexpr
+fix failing test
+fix crash in appwidgetservice
+throw exception if not found
+deprecate unused code
+remove unused imports
+updated version number
+renamed test class
+remove unused imports
+fix npe in inferencesession
+don t use 😝 😝
+fix crash in nsdservice
+remove unused variable
+fix npe in 😝
+fix bug in keymanager
+fix npe in applebuildrules
+remove unused variable
+don t show 😝 in 😝
+fix test case
+remove unused imports
+add missing 😝
+don t show 😝 in tests
+fix broken test
+add missing 😝
+remove unused method
+remove unused code
+fix 😝 tests
+remove unused code
+remove unused variable
+add support for 😝
+remove system out
+remove log message
+fix a bug in 😝
+add some javadoc
+fix 😝 tests
+don t throw an exception if there are no threads
+add a comment
+fix servergroupdeploymentreplacehandler getmodeldescription
+remove unused code
+improve error message
+fix npe in 😝
+add tostring to mailmessage
+add more logging
+add missing test
+fix test case
+fix compilation error
+remove debug output
+remove unused field
+remove unused imports
+handle case where the 😝 class is not found
+fix 😝 😝
+fix broken test
+don t show 😝 on 😝
+remove unused variable
+don t log 😝 😝
+fix typo in javadoc
+fix 😝 😝
+remove unused method
+remove unused imports
+remove unused code
+don t show 😝 notification on trakt
+fix a bug in 😝
+fix npe in beaconconfigfragment
+remove unnecessary synchronization
+add a comment
+add nullable annotations
+don t show empty lines in 😝
+remove unused method
+remove empty line
+fix license header
+fix a bug where the 😝 was not 😝
+fix a bug in upgradeservice
+add missing license header
+add missing override
+fix failing test
+fix crash in pagertitlestrip
+fix unit test
+fix typo in message
+improve javadoc for 😝
+remove unused imports
+add a todo
+fix unchecked warning
+remove unused field
+add 😝 to 😝
+remove unused code
+fix a bug in timeseriesresource
+don t use 😝 😝
+remove unused method
+remove unused method
+fix npe in introducevariablebase
+add javadoc to hero
+add a method to get the 😝
+add support for 😝
+fix wrong logic
+fix bug in historyentry
+fix a bug in 😝
+remove unused field
+fix javadoc warning
+add 😝 😝
+add missing override
+fix 😝 tests
+add a todo
+fix javadoc warning
+add a comment
+remove unused code
+remove unnecessary cast
+fix test failure
+do not show 😝 😝 in 😝
+remove unused imports
+throw exception on failure
+add null check
+remove unused code
+fix npe in basebinaryspec
+fix remotefileproducer 😝
+add nullable annotations
+remove unused code
+fix bug in imapresponseparser
+make dumb aware
+add missing 😝
+fix test failure
+add missing break
+increased timeout time
+fix a bug in releasedversiondistributions
+add missing test
+fix npe in 😝
+fix a bug where the 😝 could not be 😝
+make defaultchannelid public
+fix bug in animationdrawable
+fix es6compilertestcase testexternchanges
+remove unused imports
+remove unnecessary synchronization
+add incubating to the javadoc
+remove unused method
+improve exception message
+fix npe in sourcecode
+fix 😝 😝
+remove unnecessary cast
+add error message
+fix 😝 😝
+fix npe in resultsetviewer
+remove unused variable
+add override annotations
+fix a bug where the 😝 could be 😝
+improved error message
+fix bug in senderchannel
+fix broken test
+remove unused method
+add debug info
+remove 😝 border
+fix a bug where 😝 wouldn t 😝
+don t use 😝 😝
+fix a bug in transactionaspectsupport
+fix typo in test
+fix npe in linkedtransferqueue
+make <add> public
+remove unused imports
+don t use 😝 😝
+add tostring to reconnectpluginactivator
+fix bug in ioshttpurlconnection
+remove unused method
+don t show 😝 😝 when 😝
+remove unused code
+fix 😝 in pointlessarithmeticexpressioninspection
+remove unused code
+remove unused code
+fix querykey equals
+remove unused method
+remove unnecessary method
+fix bug in deeplearningautoencodertest
+add missing sessioncreationpolicy
+fix javadoc warnings
+fix 😝 😝
+fix npe in 😝
+fix bug in batchlogmanager
+remove unused variable
+fix typo in message
+remove unused method
+fix 😝 😝
+simplified equals method
+fix typo in jettyhttpcomponent
+remove unused method
+fix npe in bodyresolver
+fix 😝 in methodanalyzer
+add 😝 to cameraview
+don t use 😝 for 😝 classes
+remove 😝 border
+add more logging
+don t use 😝 😝
+remove unused import
+remove unused import
+fix crash in wifistatemachine
+add mglsurfaceview to gpuimageview
+fix 😝 😝
+remove unused field
+fix 😝 😝
+add log message
+fix 😝 😝
+do not merge fix build
+fix 😝 😝
+fix 😝 😝
+fix race condition
+improve error message
+remove unnecessary code
+remove unnecessary local variable
+override classmapping in grailsdomainclassmappingcontext
+remove unused code
+remove unnecessary override
+fix npe in indexingstamp
+remove unused constructor
+add missing test
+add missing override
+fix crash in 😝
+fix bug in addressresolver
+add a comment
+fix a bug in 😝
+fix typo in toolcommands
+fix bug in manageregisteredservicesmultiactioncontroller
+fix npe in idestubindexservice
+fix beforecreateprocess beforecreateprocess
+fix 😝 tests
+remove unnecessary assertion
+fix test case
+fix 😝 😝
+remove unused import
+fix javadoc warning
+add a comment
+fix 😝 in peopletable
+fix 😝 😝
+fix bug in pipeitemswood
+add a comment
+fix npe in metadatamappingservice
+add errorpronescanner checkers
+remove unused code
+fix npe in topchildrenquery
+throw exception on failure
+fix license header
+fix npe in pluginprocessmanager
+remove unused variable
+remove unused field
+fix npe in opensprinklerbinding
+fix npe in drpcspout
+fix javadoc warning
+remove unused method
+remove unused code
+add a comment
+fix generic type of tocompletablefuture
+remove unused import
+remove unused code
+fix npe in weldinjectioninterceptor
+remove unused method
+fix crash in tasksxmlexporter
+remove unused method
+fix npe in 😝
+make apisettings public
+fix npe in cqlnativestorage
+rename methods to public
+remove obsolete todo
+throw illegalstateexception if abstractniomessagechannel
+fix bug in categoriespagepresenter
+fix 😝 😝
+fix a bug in 😝
+fix bug in modelloader
+add null check
+fix a bug where the 😝 could not be 😝
+fix a bug in viewcompathc
+add a new authority_uri method
+fix typo in javadoc
+fix test failure
+fix npe in <delete>
+fix npe in leafelement
+remove unnecessary code
+remove dead code
+fix 😝 😝
+fix a comment
+fix license header
+fix a bug in regexurlmapping
+fix a typo
+fix a bug in genericpathservice
+add a bit more comments
+fix a bug in sitepickeractivity
+fix race condition in http11processor
+fix 😝 in classdefitem
+fix 😝 😝
+remove unused code
+remove unused constant
+fix typo in javadoc
+add missing break
+add a todo
+fix 😝 tests
+remove unused field
+fix javadoc warning
+fix cs errors
+rename 😝 to 😝
+do not update 😝 on dispose
+fix a bug where the notification button would be shown
+fix build breakage
+fix typo in 😝
+remove unused code
+add a comment
+fix bug in sentimentcostandgradient
+remove unused method
+fix 😝 tests
+fix 😝 😝
+fix typo in javadoc
+remove unused code
+fix a bug in 😝
+remove deprecated method
+remove unused imports
+remove unused method
+fix bug in androidobjectfactory
+fix bug in applicationdispatcher
+fix 😝 test
+fix 😝 😝
+fix bug in raptorqueryrunner
+fix npe in 😝
+remove 😝 icon
+fix typo in 😝
+remove unused code
+ignored appletestintegrationtest appletestintegrationtest
+fix bug in youtubeextractor
+remove unused constant
+remove unused logger
+remove unused method
+fix broken test
+fix javadoc warning
+handle 😝 in abstractscheduler
+add missing annotation
+fix abstractapplicationcontext 😝
+fix typo in summarypage
+ignore 😝 test
+fix bug in <delete>
+fix bug in projectdata
+add missing 😝
+remove unused method
+fix typo in rendertype
+remove unused imports
+add some comments
+fix 😝 😝
+add 😝 to dataheaderflyweight
+fix test case
+fix the build
+add null check
+fix npe in localsearchscope
+fix a bug in wrongwordincontextrule
+add missing annotation
+fix npe in 😝
+remove unused variable
+fix a bug in animatedrotatedrawable
+fix npe in defaultplatformmanager
+don t use 😝 😝
+throw an exception if no 😝 😝
+add more logging
+fix typo in workerconf
+add support for 😝
+remove unused code
+add 😝 to 😝
+remove unused constructor
+improved error message
+fix abstractperiod addto
+fix a bug in 😝
+remove debug output
+fix 😝 😝
+don t show 😝 if there is nothing to run
+fix a bug in simplechannelhandler
+add null check
+fix hazelcastclientlisttest constructor
+fix bug in propertysourcespropertyvalues
+improved exception message
+remove unused method
+add a comment
+remove unused variable
+fix npe in successfulhandlermetadatapopulator
+fix 😝 😝
+add 😝 to setbaseuri
+remove debug logging
+fix a bug where 😝 wouldn t show 😝
+add null check
+fix javadoc warning
+do not merge fix npe in 😝
+fix npe in ifcs
+smallfix remove explicit argument type in loganalyzertotal
+fix the build
+fix npe in bsonsplitter
+add a todo
+fix exception message
+add 😝 to debuglogs
+add a comment
+remove unnecessary synchronization
+remove unused code
+add blockmetabase constructor
+remove unused field
+remove unused constant
+add missing test
+add more info
+fix npe in 😝
+remove unused method
+fix npe in 😝
+remove unused constructor
+add missing override
+fix javadoc warning
+don t highlight 😝
+remove unnecessary imports
+remove unused logger
+add a constant for 😝 😝
+fix 😝 😝
+remove unused import
+fix typo in countwithfiltersqlbenchmark
+add missing annotation
+add null check
+add hazelcastaggregationrepository isallowserializedheaders
+fix 😝 😝
+fix bug in smackandroid
+remove unused imports
+add metadatamap to getnodemetadata
+fix bug in 😝
+add support for 😝
+add generatetree to arrowentity
+fix 😝 😝
+fix npe in rightcurlycheck
+remove unused constructor
+remove unused method
+fix 😝 tests
+fix npe in warannotationdeploymentprocessor
+fix 😝 😝
+fix npe in 😝
+fix a couple of javadoc warning
+remove debug logging
+fix 😝 😝
+fix bug in gotestconsoleproperties
+fix bug in contactpictureloader
+add a comment
+add a comment
+remove unused method
+fix 😝 😝
+add a couple of todos
+fix bug in macroexpand1
+fix a bug in 😝
+fix 😝 😝
+make osecurityshared public
+add javadoc for computationgraph
+add support for 😝
+fix crash in 😝
+fix potential npe
+remove unused parameter
+fix javadoc warning
+fix bug in groovypsicreator
+remove unused imports
+fix javadoc warning
+fix 😝 tests
+fix npe in statictypecheckingvisitor
+fix npe in 😝
+remove unused constant
+add a comment
+fix compilation error
+fix a comment
+fix crash in 😝
+add missing override
+improve error message
+fix 😝 😝
+remove unused method
+remove unused method
+throw exception on failure
+remove unused method
+fix a bug in the log message
+remove unused imports
+throw exception in 😝
+fix 😝 😝
+remove unused import
+fix bug in descriptorrendererimpl
+do not ignore 😝 files in 😝
+don t run 😝 in tests
+fix 😝 😝
+don t print stacktrace in console
+fix broken test
+add missing 😝
+add title to 😝
+remove unused method
+fix some typos
+remove debug logging
+add methods to get the 😝
+fix 😝 😝
+fix npe in 😝
+add missing annotation
+fix a crash in windowdecoractionbar
+fix bug in indexuploader
+fix npe in asynctwittertest
+don t show 😝 😝 if there is no 😝
+fix 😝 😝
+remove unnecessary code
+deprecate unused code
+fix typo in studydirectoryprojectgenerator
+remove unused code
+fix crash in notificationspendingdraftsservice
+fix a bug in preparelocalworld
+fix typo in 😝
+fix npe in drawhandler
+add missing license header
+add a comment
+add getplayer to bukkitplayer
+fix 😝 😝
+remove unused code
+fix typo in javadoc
+fix jetelementimplstub tostring
+fix npe in 😝
+fix 😝 😝
+add some comments
+fix bug in grouplocalserviceimpl
+fix javadoc warnings
+add support for 😝
+add a null check
+remove unused field
+fix license header
+fix npe in reflectiveconfigoptionloader
+fix typo in tryfilesfilter
+remove unused method
+add support for 😝
+fix a bug in localvarremapper
+fix typo in test
+fix 😝 😝
+make channelcallback public
+remove unused constructor
+fix potential npe
+fix npe in <delete>
+fix defaultpackagemanagerintentcomparatortest cansustainconcurrentmodification
+add entitymention getkbpid
+fix bug in configurationclassparser
+remove debug logging
+fix emptyifstatement emptystatementtree
+remove unused imports
+fix crash in actionmenu
+add test case for 😝
+fix javadoc warning
+remove unused import
+make externalresourcerepository public
+remove unused variable
+deprecate unused code
+fix npe in pitem
+fix test failure
+fix a bug in 😝
+fix bug in standardjarscanfilter
+fix bug in mongograph
+add log message
+fix compilation error
+turn off logging
+fix race condition in defaultplatformcontainer
+fix npe in 😝
+fix a bug in mappedbufferwrapper
+add 😝 to 😝
+remove unused import
+fix a bug in tileengine
+add support for 😝
+fix a typo
+remove unused imports
+fix 😝 in tokeniserstate
+don t show 😝 if there are no project
+remove unnecessary suppresswarnings
+add getupdatefolderfile to getupdatefolder
+don t highlight 😝
+add 😝 😝
+fix bug in frameshandler
+throw an exception if hivestatement fails
+add a null check
+remove unused code
+fix npe in viewavataractivity
+don t use 😝 😝
+remove unused variable
+fix a bug in jetparsing
+remove unused method
+remove debug output
+remove commented out code
+remove unused import
+remove unnecessary suppresswarnings
+remove unused field
+add a method to prevent npe
+fix typo in javadoc
+add todo comment
+fix javadoc warning
+fix npe in popupwindow
+fix a bug in tileengineiron
+fix a bug in nameutil
+fix 😝 tests
+fix npe in androidgraphics
+deprecate unused code
+remove unused field
+fix crash in 😝
+don t show exception message if not found
+fix javadoc warnings
+fix bug in routecalculationresult
+fix bug in equals method
+remove unused field
+remove debug output
+add a comment
+add null check
+remove unused code
+add tostring to actionwrapperbase
+remove unused method
+fix a bug in cropimageview
+fix a bug where the 😝 could be 😝
+fix 😝 tests
+fix bug in slurper
+make modificationtracker public
+fix bug in updatehandlerlist
+fix javadoc warnings
+add more logging
+rename suspendsink to resumesink
+don t highlight 😝
+fix npe in abstractasset
+add missing override
+add helper method to check if a user exists
+fix a bug where 😝 would not have 😝
+fix npe in queryprocessor
+remove unused method
+fix a bug in lafmanagerimpl
+fix 😝 😝
+add a warning
+fix npe in incrementalindexstorageadapter
+fix 😝 😝
+fix unit test
+fix bug in immutableasttransformation
+fix test failure
+remove debug output
+add log message
+use a smaller seed for 😝
+fix npe in updatechecker
+remove unused field
+remove unused code
+fix 😝 😝
+fix the cs errors
+fix bug in annotatorimplementations
+remove unused code
+add missing 😝
+fix npe in nodedisconnectjobmonitorservice
+add a todo
+fix bug in apacheasynchttpprovider
+deprecate partitionservice randompartitionkey
+fix npe in standardlibraryreferenceresolver
+add debug logging
+add a comment
+remove unused import
+fix bug in partitiontask
+add utility method to get the 😝
+remove debug log
+remove assertion for now
+fix a bug in oraclesqlstatementbuilder
+fix typo in javadoc
+make filebuffermanager final
+fix bug in localproperties
+fix 😝 😝
+sourceformatter ignore spaces
+fix bug in managerbase
+add missing annotation
+add null check
+fix npe in nio2endpoint
+add missing test
+remove unused field
+add shadowcountdowntimer getcountdowninterval
+remove unnecessary code
+remove debug logging
+don t paint border in 😝
+add log message for 😝
+add missing catch
+fix javadoc warning
+add createexplosion int int
+remove unused method
+fix potential npe
+fix npe in 😝
+add close method to localfilerecordcursor
+remove unused method
+add missing override
+ignore 😝 exceptions
+add missing javadoc
+fix crash in 😝
+remove unused import
+remove unused code
+fix a bug in 😝
+add missing 😝
+remove unnecessary code
+add missing override annotations
+remove unused code
+add lowresourcesmaxidletime to httpconfiguration
+fix npe in networkmanager
+don t use 😝 😝
+add missing methods
+remove unused imports
+remove debug output
+add javadoc to specs
+remove unused code
+remove unused method
+remove unused code
+add a comment
+remove debug output
+fix license header
+fix npe in abstractmetrics
+fix test failure
+fix a bug in getloadonstartup
+remove unused code
+add javadoc for setbuildparsetree
+add exception message
+don t show 😝 twice in 😝
+add a test for 😝
+fix 😝 😝
+fix 😝 😝
+improve javadoc for termsession
+fix npe in cloudgitdeploymentruntime
+fix npe in semver
+fix bug in deepwatermodel
+fix npe in xmlrulehandler
+fix a bug in newwallpapernotificationreceiver
+add a comment
+fix npe in 😝
+fix crash in 😝
+add some comments
+don t show 😝 in 😝
+remove debug message
+fix license header
+don t highlight 😝
+improved error message
+fix npe in fiberasynclistenablefuture
+fix npe in eventtrackerhandler
+fix crash in 😝
+add missing 😝
+fix npe in zygoteinit
+remove unused method
+fix 😝 😝
+fix 😝 😝
+fix 😝 😝
+remove debug code
+fix npe in exceptionmeteredmethodinterceptor
+fix npe in eclipsemodelbuilder
+add pulltorefreshattacher method
+fix bug in bloomfilterpostingsformat
+remove deprecated method
+remove unused method
+remove unused constructor
+remove unused field
+add missing 😝
+fix npe in callbackproxy
+fix 😝 tests
+fix bug in oiobytestreamchannel
+fix bug in editticketpage
+fix a typo
+remove unused field
+fix a bug in metricfilterautoconfiguration
+remove unused field
+fix npe in 😝
+remove unnecessary cast
+fix npe in binaryinspector
+add 😝 to 😝
+don t show empty lines
+fix wrong variable name
+fix 😝 😝
+fix npe in 😝
+remove unnecessary reset
+add more logging
+add close method to socketioatmosphereinterceptor
+fix 😝 tests
+fix bug in glm2
+remove unused imports
+turn off debug logging
+remove unused method
+fix bug in javainmemoryfilemanager
+fix typo in javadoc
+fix broken test
+add withselectionfistlineshown to accountheaderbuilder
+add a todo
+fix npe in heavyideatestfixtureimpl
+throw exception if 😝 is null
+add 😝 to kmeansiteration
+add a comment
+fix test failure
+fix a bug in verifyclass
+remove unnecessary dependency
+add javadoc to applicationlike
+remove unused method
+fix close close
+remove unnecessary check
+fix javadoc warning
+add missing javadoc
+improve exception message
+fix compilation error
+fix crash in mtabhost
+fix npe in 😝
+remove unused field
+remove unused field
+fix bug in requestparams
+rename rosterentries to rosterentires
+remove unused variable
+fix npe in listen
+fix npe in 😝
+remove unused method
+remove debug logging
+remove unused variable
+fix bug in routeractor
+fix crash in 😝
+add hassettings method
+fix npe in newmodelcontrollerimpl
+add a comment
+fix 😝 😝
+add missing 😝
+fix a bug in jobexecutionevent
+fix a bug in 😝
+remove unused code
+remove unused field
+add missing override
+remove unused method
+fix a bug where the 😝 could be 😝
+fix potential npe
+fix a bug where the 😝 wouldn t crash
+remove unused imports
+fix npe in taskexecutorservice
+make coffeeapp public
+fix a bug where 😝 wouldn t show the title
+fix bug in nvarchartype
+fix crash in passwordunlockscreen
+don t throw an exception if there is an error
+fix npe in tachyonfileappender
+remove unused method
+add null check
+fix bug in mongoconfigutil
+remove unused constructor
+fix typo in javadoc
+fix unit tests
+fix defaultpromise tostring
+add a todo
+fix bug in privacylist
+fix javadoc warning
+add missing annotation
+add 😝 to blobcolumnaccess
+suppress unchecked warning
+add support for detailactivity
+remove unnecessary cast
+fix a bug where 😝 wouldn t 😝
+add setoffsetdistanceres to slidinglayer
+add a method to get the 😝
+fix javadoc warnings
+fix javadoc errors
+remove debug output
+fix 😝 😝
+fix maven tests
+deprecate unused code
+fix 😝 😝
+fix npe in webruntimeactivity
+add missing license header
+remove unused constructor
+fix bug in shardpath
+remove unused code
+add support for 😝
+remove unused code
+add javadoc to viewtoclicktoexpand
+add javadoc to stringcontainsinorder
+remove unused code
+fix a bug in viewroot
+improve exception handling
+fix bug in tostring
+deprecate unused code
+fix zuulfilter equals
+fix test failure
+fix bug in beaninfo
+add missing test
+add test case for 😝
+fix npe in commontestutils
+fix npe in markdownutils
+fix javadoc warning
+add 😝 to 😝
+fix npe in emailutil
+fix 😝 in testingconnectorsession
+do not merge fix 😝
+fix 😝 😝
+add null check
+deprecate unused code
+add missing import
+fix animatorproxy setscrollx
+fix npe in typedcodegenerator
+fix bug in tomcatplugin
+add missing targetapi annotation
+remove unused code
+remove unused code
+remove unused method
+fix a bug where the 😝 could be 😝
+fix test failure
+add todo comment
+fix npe in handleconfirmandinstalllibrary
+add shutdown to stringlogger
+remove unnecessary cast
+remove unused field
+do not show 😝 😝 in 😝
+add javadoc to nazgul
+remove unused import
+remove unused import
+do not show empty file
+remove unused method
+fix test failure
+don t show pce in identifierhighlighterpass
+fix npe in conversationactivity
+don t show empty lines in 😝
+add javadoc to instancemanager
+add additional check
+add 😝 😝
+fix 😝 test
+fix a bug in wifistatetracker
+remove unused constructor
+fix atnconfigset equals
+remove unused imports
+fix a crash in 😝
+fix npe in 😝
+don t show 😝 on 😝
+remove unused import
+add missing check
+fix 😝 test
+add a comment
+fix a bug in svnutil
+fix blur constructor
+remove unused code
+don t use 😝 😝
+remove unused method
+remove unused code
+fix the build
+add 😝 😝
+use weak array size
+add a todo
+fix npe in addactivity
+make httprequestexception public
+remove unused method
+remove unused import
+fix javadoc warning
+fix npe in thetvdb
+add missing 😝
+fix crash in 😝
+fix failing test
+add a comment
+fix 😝 😝
+add some comments
+fix a bug where the 😝 wasn t 😝
+fix npe in backgroundmanager
+remove unused method
+add javadoc for begininitializer
+fix 😝 😝
+fix test case
+don t use 😝 😝
+fix npe in 😝
+remove unused field
+fix bug in oqueryoperatorbetween
+fix documentmapper <delete>
+add a comment
+fix classinstancecreation equals
+remove unused import
+make componenteventsource <add> public
+remove unnecessary code
+remove unused imports
+fix npe in abstractclient
+remove unnecessary cast
+add capability_emergency_video_calling to phoneaccount
+fix npe in 😝
+remove unused method
+add more info
+fix npe in 😝
+improved error message
+add null check
+add defaultwaypropertysetsource to defaultwaypropertysetsource
+don t return an empty string to the 😝
+fix npe in 😝
+add missing license header
+throw an exception if an exception is not found
+fix npe in logstartactivity
+add safelyrun method
+remove unused method
+remove unused code
+increased timeout time
+add test for xbytebuffer
+fix a bug where the 😝 could be 😝
+fix changesignaturedialogbase constructor
+add incubating to javadoc
+remove unused field
+fix log message
+fix a bug in mucuserimpl
+remove unnecessary parameter
+fix the build
+remove unused code
+fix npe in fingerprintmanager
+add a comment
+fix a bug in dbsqlsession
+remove unused imports
+remove unused imports
+add missing test
+remove unused code
+fix a bug in 😝
+don t show 😝 icon in 😝
+add a couple of tests to make it easier to be a static class
+fix race condition in logbackhelper
+remove unused code
+remove unused import
+fix a typo in a comment
+add null check
+add null check
+add getfooter method
+fix potential npe
+fix a bug in 😝
+add a comment
+remove unused code
+fix npe in imagepresenter
+add nullable annotation
+fix npe in 😝
+fix npe in jerseybroadcasterutil
+fix npe in pyreferenceexpressionimpl
+add a comment
+remove unused code
+add some comments
+fix crash in activitylauncher
+make immediateexecutor public
+add missing 😝
+fix typo in javadoc
+fix npe in listviewactivity
+fix 😝 😝
+fix npe in 😝
+remove unused code
+fix awsclient getprivateipaddresses
+make typelistitem public
+fix 😝 😝
+remove unused constants
+remove unused imports
+ignore 😝 test
+add a comment
+remove unused field
+don t show 😝 files in 😝
+fix 😝 tests
+remove unused constants
+remove unused variable
+fix test case
+fix npe in filedownloadrunnable
+add 😝 to proxycontainer
+add a todo
+fix bug in dropdatabase
+add javadoc to createlistener
+fix bug in syslogeventhandler
+add null check
+fix 😝 😝
+add missing check
+fix npe in jpsgradledependenciesenumerationhandler
+add missing annotation
+fix 😝 in androiddisplayer
+remove unused field
+fix npe in 😝
+add a null check
+improve javadoc for 😝
+fix 😝 😝
+remove unnecessary code
+remove unused method
+add 😝 😝
+fix partitionbalance tostring
+add missing license header
+add comment to notebookrestapi
+fix a bug where the 😝 wasn t 😝
+don t create 😝 in 😝
+add some javadoc
+fix broken test
+fix typo in log message
+fix a bug in 😝
+fix npe in stickygridheadersgridview
+don t highlight 😝
+add close method
+fix a bug in 😝
+remove debug log
+fix npe in actionbaroverlaylayout
+fix bug in basicexpressiontypingvisitor
+fix npe in modelmetricshandler
+don t show 😝 😝 when 😝
+fix a bug where the 😝 could be 😝
+remove unnecessary method
+fix race condition
+fix flaky test
+fix 😝 tests
+remove unused code
+make awarenessallocationtests thread safe
+fix possible npe
+remove unnecessary override
+don t use 😝
+fix javadoc warning
+fix npe in socketreceivebufferpool
+use a new indexproperties
+remove unnecessary code
+fix npe in drawerutils
+throw an exception if the view is null
+add nullable annotations
+add exception handling
+remove unused variable
+fix npe in wikiindexer
+fix bug in metadataservice
+improve javadoc for 😝
+add a todo
+fix failing test
+remove unnecessary code
+add null check
+remove unused variable
+fix javadoc warning
+don t show 😝 files if there are no file
+remove unused field
+renamed test class
+remove unused field
+fix a bug in 😝
+fix bug in calendarcellview
+fix bug in typeconverterdelegate
+remove unused code
+fix 😝 😝
+add isalreadysorted to xvaluechildrenlist
+remove unused field
+fix npe in compiledriver
+improved error message
+remove unused imports
+fix 😝 😝
+fix 😝 😝
+add more comments
+fix typo in javadoc
+add <add> to baseactions
+fix a race condition in 😝
+add missing 😝
+fix bug in proxyconnection
+make configuredcloseablehttpclient serializable
+make <delete> public
+fix npe in deferredresult
+add missing constructor
+remove unused import
+add missing break
+fix npe in inferencesession
+fix typo in javadoc
+fix npe in antprojectimpl
+fix npe in 😝
+remove unused variable
+remove unused method
+improved error message
+fix crash in camerafactory
+remove unused code
+remove unused constants
+fix potential npe
+remove unused field
+add tostring to sortkey
+fix bug in executionvertex
+add support for 😝
+fix the build
+remove unused method
+add tostring to titantypevertex
+remove unused uniqueidtype
+fix a bug in 😝
+catch exception in paymentoperation
+remove unused import
+remove unused constant
+add null check
+don t use 😝 😝
+do not compare 😝
+remove unused method
+fix a bug in cordovawebviewtestactivity
+add more tests
+add a todo
+fix npe in 😝
+do not show 😝 😝 in 😝
+remove unused variable
+fix 😝 😝
+remove unused code
+fix npe in 😝
+remove debug output
+fix npe in defaultbinarynamingscheme
+don t show 😝 icon in 😝
+fix a bug where the 😝 was not 😝
+fix build breakage
+add log message
+fix simpletensor tostring
+fix 😝 😝
+fix the build
+fix javadoc warnings
+fix a couple of todos
+remove unused imports
+fix 😝 😝
+fix javadoc warnings
+add todefinition to camelconverter
+fix bug in datetimetype
+remove deprecated code
+fix typo in javadoc
+add tostring to <add>
+don t log 😝
+fix npe in scriptgroup
+fix bug in safetimetracker
+add keyselector to distinctuntilchanged
+fix 😝 😝
+fix typo in 😝
+add javadoc to latentmatcher
+fix a couple of tests
+fix javadoc warning
+remove unused code
+fix 😝 😝
+fix compilation error
+don t throw an exception if there is no 😝
+add more logging
+fix bug in mapjoinbytestablecontainer
+remove debug output
+remove unused constants
+fix typo in sqsconstants
+fix npe in initappid
+fix the build
+add missing test
+remove unnecessary code
+remove unused code
+improve error message
+remove unused imports
+add 😝 to 😝
+add null check
+fix a bug in 😝
+remove unused import
+throw an exception when a view is not found
+remove debug logging
+remove unused field
+deprecate unused code
+remove unused code
+fix test failure
+add log message
+add 😝 to 😝
+fix npe in gitblitcontext
+remove unused code
+add a function to get the 😝
+fix npe in 😝
+fix typo in testbasicsemanticerrors
+fix a bug in timetablesnapshot
+add null check
+improve javadoc for settrustagentconfiguration
+fix a bug where the 😝 wasn t 😝
+add a test for 😝 😝
+increased timeout time
+remove unused code
+fix npe in http2openlistener
+fix a bug where the 😝 could be stuck
+throw exception on failure
+don t highlight 😝
+add notnull annotation
+add a comment
+add some comments
+make registerdatabasefactory public
+remove unused code
+remove unnecessary logging
+fix npe in layouttransition
+fix bug in indexio
+updated version number
+ignored bigjumpingstoreit bigjumpingstoreit
+remove unused code
+add a comment
+remove unused constant
+fix potential npe
+throw an exception if there is no 😝
+fix npe in jythonsdkflavor
+fix 😝 test
+fix unit test
+fix bug in notebookserver
+fix 😝 😝
+fix bug in sessionfactoryimpl
+throw exception on exception
+remove unused code
+fix npe in cachedauthenticatedsessionhandler
+fix npe in contextconfig
+remove unused constants
+add a comment
+remove unused field
+fix broken test
+remove unused code
+remove debug output
+fix npe in isproviderenabled
+fix a typo
+fix crash in 😝
+remove unused variable
+fix typo in caserule
+sourceformatter fix 😝
+remove unnecessary suppresswarnings
+fix a bug where 😝 wouldn t 😝
+fix npe in tenantcacheinvalidation
+fix npe in availablecontribution
+fix bug in lwjglaudiorenderer
+remove unused field
+remove debug output
+add a todo
+don t create 😝 in 😝
+remove unnecessary code
+remove unused code
+throw an exception if an exception cannot be found
+fix unit test
+fix npe in 😝
+fix crash in 😝
+fix a bug where the 😝 was not 😝 when 😝
+add some javadoc
+add missing characterid
+fix npe in keyguardviewmanager
+remove unused method
+fix a bug in suggestedfix
+fix a bug in 😝
+improve javadoc for abstractpollingmessagelistenercontainer
+add null check
+add a comment
+improve javadoc for 😝
+fix a bug in slidinguppanellayout
+add test for projectstage
+fix npe in maproutepreferencescontrol
+remove unused method
+fix npe in tlstunnelbuilder
+add log message
+fix a couple of typos
+fix npe in rankingtoolbar
+fix bug in commonxml
+make queuedeffect public
+remove unused field
+fix javadoc warning
+remove unused code
+fix default value for 😝
+remove debug log
+remove unused method
+remove unnecessary code
+add missing constructor
+add a comment
+add 😝 😝
+don t use 😝 😝
+remove unused field
+remove unused constants
+fix npe in closestreamorwriter
+remove unused field
+remove unused field
+add missing javadoc
+don t show 😝 😝 in 😝
+add a comment
+fix a bug where the 😝 wasn t 😝
+fix 😝 tests
+add title to 😝
+add a comment
+throw an exception when a class is not found
+add 😝 😝
+remove unused variable
+fix race condition in failsafefuturetest
+fix bug in gitlogparser
+do not show 😝 😝 in 😝
+fix npe in selectordimfilter
+fix 😝 😝
+add a todo
+fix javadoc warnings
+remove unused code
+remove unused code
+fix error message
+remove unused code
+remove unused constant
+add 😝 to 😝
+fix 😝 test
+remove unnecessary cast
+fix mimemessage constructor
+improve javadoc for <add>
+add nullable annotations
+remove unused method
+add null check
+fix the build
+fix npe in 😝
+add a comment
+remove unused imports
+override <add> in pystructureviewmodel
+add missing override
+add resultindex to resultindex
+fix npe in regionaddressrepositorybinary
+add 😝 to filenamegenerator
+remove unused method
+add missing 😝
+remove unused code
+use the correct default name for 😝
+fix crash in smartlockhelper
+add missing 😝
+fix the build
+fix javadoc errors
+fix the build
+remove unused code
+fix race condition in servlethttphandleradapter
+fix bug in nobodyoutputstream
+remove unused code
+fix a crash in 😝
+add support for 😝
+fix javadoc warning
+remove unused imports
+add getworlds to getworlds
+add support for 😝
+add nullable annotations
+do not show 😝 😝 in 😝
+fix 😝 in scpoperations
+fix a bug where 😝 wouldn t 😝
+add support for 😝
+throw an exception if there is no 😝
+fix log message
+add more logging
+add missing constructor
+remove system out
+fix a bug in expandablelistview
+fix streamruleimpl 😝
+fix npe in 😝
+fix license header
+remove unused code
+fix npe in bytebufferedchannelmanager
+remove dead code
+remove unused constructor
+fix a bug in 😝
+fix npe in dfapsiutil
+fix bug in processclosureprimitives
+fix log message
+remove unused variable
+fix npe in 😝
+fix npe in neostorexadatasource
+fix npe in 😝
+fix npe in logevent
+remove unused imports
+fix bug in oprofilerdata
+don t show 😝 icon in 😝
+add a comment
+fix bug in esindexrangeservice
+add log message
+fix thread leak
+remove debug logging
+add a log message
+add methods to androiddatabaseresults
+fix npe in 😝
+add missing override
+remove unused variable
+make getcurrentphonetype public
+fix 😝 😝
+add a comment
+add missing override
+improve error message
+add javadoc for connectormetadata
+fix 😝 in abstracttestdistributedqueries
+fix typo in ologformatter
+add cellsignalstrengthlte getrsrq
+remove unused variable
+fix bug in emaillens
+add 😝 😝
+fix crash in telecineactivity
+fix 😝 in javacodestylesettingsprovider
+fix 😝 in word2vec
+remove unused code
+add missing license header
+fix typo in listindexexpression
+fix test case
+add a todo
+clarified javadoc for 😝 in solo and viewfetcher
+remove debug logging
+fix failing test
+add weldjoint getreferenceangle
+don t use 😝
+fix npe in 😝
+fix 😝 😝
+fix npe in sedaconsumer
+make websocketsslserversslcontext serializable
+updated highlightpolicy java
+fix npe in <same>
+remove unused code
+fix bug in transformationutils
+fix some javadoc errors
+fix the build
+remove unused code
+fix bug in mimeutility
+fix npe in 😝
+remove unused import
+fix typo in javadoc
+fix license header
+fix 😝 tests
+remove unnecessary cast
+remove deprecated methods
+add some comments
+don t show 😝 button when 😝
+make jetclassorobject public
+fix typo in comment
+add some comments
+fix javadoc warning
+fix npe in defaulttrace
+remove unnecessary code
+fix bug in csrfpreventionfilter
+remove unused constant
+fix npe in resarrayvalue
+don t show focus on 😝
+remove unnecessary itunessearchfragment
+remove unused field
+fix a bug in 😝
+improve javadoc for defaultsslcontextprovider
+remove unnecessary method
+add a todo
+increased timeout time
+fix javadoc warnings
+fix wifienterpriseconfig tostring
+remove unused variable
+remove unnecessary cast
+add override annotations
+fix javadoc warnings
+fix a bug in attributechecks
+remove unused imports
+fix npe in addsupportforframeworkspanel
+fix bug in abstracttfs
+add shadowmotionevent getrawy
+add more logging
+don t show 😝 in 😝
+add missing 😝
+do not use empty lines
+remove unused code
+improve javadoc for 😝
+fix log message
+fix 😝 😝
+add missing 😝
+add a todo
+fix bug in ohazelcastplugin
+add a todo
+remove unused method
+fix a bug in lwjglhelper
+fix javadoc errors
+add missing return
+fix 😝 😝
+add getfirstvisiblehour to weekview
+remove unused method
+add test for 😝
+remove unused code
+fix 😝 😝
+fix npe in asynchttpresponsehandler
+make websecurityconfigureradapter serializable
+remove unnecessary cast
+remove unused method
+add maxwalkdistance to getbannedroutestr
+remove unused method
+remove debug code
+add a comment
+add more logging
+fix bug in nodeandnpminstaller
+remove unused method
+add a test for 😝
+remove unused variable
+make commonwebapi public
+do not show focus in 😝
+add validcategories to contribution
+fix race condition in selectchannelconnector
+add support for 😝
+fix test failures
+use a new class loader when creating a 😝
+add null check
+fix bug in hystrixcontextfunc2
+fix a bug in 😝
+fix compilation error
+remove unused code
+remove unused import
+add tostring to clusterblock
+remove unused variable
+remove unused import
+fix copyright header
+remove debug output
+add wrapselectorwheel to shadownumberpicker
+remove system out
+don t use 😝
+don t show progress bar when 😝
+remove unused method
+don t show 😝 button if there is no 😝
+don t use 😝 😝
+fix bug in simplerdbrecorder
+fix 😝 in pipetransportitems
+fix javadoc warnings
+fix a bug where 😝 could not be 😝
+make yqueue final
+fix javadoc warning
+add a comment
+fix npe in webviewupdateserviceimpl
+add support for 😝
+fix 😝 😝
+fix npe in xsltrefactoringsupport
+fix a bug where 😝 wouldn t have a title
+use the correct class name in readresolve
+remove unused imports
+don t highlight 😝
+remove unused code
+remove unused code
+remove unnecessary method
+fix typo in log message
+fix httpstring constructor
+fix bug in persistencewindowpool
+fix a bug in 😝
+remove debug output
+fix logging statement
+rename fulgoraolaptest to <add>
+fix a bug in 😝
+fix a bug in claimstrategy
+remove unnecessary code
+add a todo
+fix typo in proxycore
+fix the build
+fix javadoc warning
+fix failing test
+fix npe in datasourcedefinitioninjectionsource
+fix a race condition in 😝
+fix a bug where the 😝 was not 😝
+remove debug output
+improved exception message
+fix a bug where the 😝 wasn t 😝
+fix bug in 😝
+fix a typo
+fix 😝 😝
+add missing check
+add missing annotation
+fix npe in 😝
+add support for 😝
+fix a bug in irfactory
+fix outputservice outputtypesresponse
+remove unused code
+add a utility method to check if the file is an exception
+add a todo
+fix npe in 😝
+fix unit test
+fix 😝 in baseswifttest
+add nullable annotations
+add null check
+fix npe in multiservercluster
+remove unused code
+remove unused import
+add null check
+remove unused import
+remove unused code
+add missing license header
+fix gifdrawable tostring
+fix a bug in swipelayout
+don t use 😝 😝
+fix databufferutils <delete>
+add 😝 to 😝
+make spdyframeencoder public
+fix cursor leak
+deprecate unused code
+add null check
+fix 😝 tests
+fix npe in beanpropertywriter
+add a comment
+fix bug in undertowdeploymentinfoservice
+remove unnecessary method
+fix 😝 😝
+fix joglglext glclientwaitsync
+fix javadoc warnings
+add missing test
+remove unused field
+ignore failing test
+add javadoc to livetemplatestest
+fix 😝 😝
+fix bug in valuecontainerimpl
+fix a bug where the 😝 could be 😝
+fix typo in logview
+fix bug in sbeexample
+add test for testgooglechecks
+make layoutinfo public
+fix npe in 😝
+fix bug in tcpfailuredetector
+improved error message
+remove unnecessary suppresswarnings
+remove unused code
+ignore failing test
+add checkreturnvalue to arquillian
+fix npe in geointentactivity
+remove unused code
+add missing override
+add tostring to tokensequencepattern
+fix bug in compilestack
+fix 😝 😝
+remove unused import
+remove unused method
+add missing 😝
+fix typo in javadoc
+fix 😝 tests
+remove debug message
+fix crash in 😝
+remove unused import
+remove deprecated constructor
+fix bug in abstractappserver
+fix bug in sectionsposition
+fix javadoc warnings
+add test for testcomponent
+add missing 😝
+add a method to clear the server
+improve javadoc for 😝
+add notnull annotation
+remove unused method
+fix test failures
+add support for 😝
+add some tests
+add support for 😝
+fix 😝 😝
+fix 😝 😝
+remove deprecated method
+fix youtrackrepository <delete>
+remove unused code
+fix exception message
+fix a bug in debugoverlay
+fix test failures
+remove unnecessary code
+don t show 😝 😝 if there are no tags
+fix typo in loadanddisplayimagetask
+add 😝 to 😝
+add 😝 😝
+fix javadoc warning
+remove unused code
+add support for 😝
+fix bug in 😝
+remove unused code
+remove debug output
+remove unused method
+add missing annotation
+fix npe in transittotaggedstopsgraphbuilderimpl
+add volatilegroup constructor
+fix log message
+fix a bug in setfriction
+remove unused constants
+add runwith annotation
+remove unused imports
+fix npe in 😝
+add utility method to check if a file exists
+fix typo in javadoc
+fix bug in subsamplinglayer
+fix compilation error
+fix broken test
+fix npe in ircconnection
+remove unused method
+fix traversalrequirements 😝
+fix 😝 tests
+add a comment
+add debug logging
+remove unused imports
+fix unit test
+fix npe in cloudsetupfragment
+improve javadoc for 😝
+clarified javadoc for ischeckboxchecked
+fix failing test
+remove unused variable
+fix a bug in 😝
+fix typo in test
+fix a bug where the 😝 could overlap
+remove unnecessary code
+remove unused code
+add check for null types
+fix bug in addcolumnchangetest
+assert assertion fix
+improved error message
+remove unused import
+remove unused code
+remove unnecessary code
+fix unit test
+add support for 😝
+remove unused constructor
+fix npe in expandableview
+remove unused method
+remove unused method
+fix npe in 😝
+throw exception if 😝 is disabled
+add missing methods
+improved error message
+fix bug in changesignaturedialogbase
+fix npe in observationfromserver
+fix npe in registerarg
+fix bug in updategenerator
+fix 😝 tests
+fix abstractpersistentmethods constructor
+remove 😝 border
+add missing constructor
+remove unused method
+fix log message
+add 😝 to 😝
+add support for 😝
+remove unused code
+add missing break
+fix failing test
+add more logging
+add null check
+remove unused method
+fix 😝 tests
+catch exceptions in activityshare
+remove unnecessary check
+don t use 😝 😝
+remove deprecated code
+add missing import
+don t show pce in 😝
+fix 😝 😝
+remove unused import
+add some more modifiers
+remove unused method
+remove unused variable
+fix 😝 😝
+add 😝 to lockmbean
+remove unused method
+remove unnecessary cast
+throw exception instead of runtimeexception
+remove unused variable
+fix a bug in 😝
+fix npe in sourcemapconsumerv3
+don t use 😝 in 😝
+fix typo in log message
+fix build breakage
+add some comments
+throw an exception if there are no columns
+add missing override
+fix 😝 😝
+fix a bug where the 😝 wouldn t be 😝
+fix npe in lucenedoccollector
+fix compilation error
+fix 😝 in thetvdb
+add more logging
+fix npe in actfmsyncthread
+clarified javadoc for onerrorflatmap
+remove unused method
+remove unused method
+fix npe in diffcontentutil
+fix tileengine newengine
+fix crash in 😝
+add missing break
+fix crash in appbarlayout
+don t create a new file if it exists
+fix potential npe
+fix npe in androidinput
+fix bug in fmlrelaunchlog
+fix javadoc warnings
+remove unnecessary cast
+fix bug in connectionmanagerimpl
+add 😝 to smssync
+throw an exception if no 😝 😝
+add callbackserver method
+remove debugging code
+don t show 😝 😝 when 😝
+fix a bug in 😝
+add missing break
+remove unused constructor
+fix npe in pytargetexpressionimpl
+add more tests
+add checkreturnvalue to equalsandhashcode
+remove unnecessary synchronization
+fix bug in jsonlexerbase
+ignored parallelized parallelized
+fix some tests
+fix npe in recentprojectsmanagerbase
+fix 😝 😝
+remove unused field
+fix bug in catchallstatement
+fix 😝 😝
+add logging for 😝
+remove unused field
+fix typo in javadoc
+remove unnecessary code
+remove deprecated constants
+fix a bug in http2upgradehandler
+remove unused variable
+fix npe in 😝
+don t use 😝 😝
+improve error message
+fix crash in backgroundplayer
+remove unused field
+remove unused code
+remove unused imports
+add test for 😝 😝
+add additional check
+add some javadoc
+remove unused code
+remove unused imports
+fix javadoc warnings
+fix npe in configurationnode
+remove unnecessary variable
+add a todo
+throw exception if not found
+fix 😝 😝
+fix bug in markableinputstream
+fix bug in asyncspdyconnection
+remove unused constants
+fix crash in 😝
+remove unnecessary cast
+add javadoc for 😝
+fix compilation errors
+fix 😝 color
+fix 😝 😝
+fix npe in connectionservice
+remove unused code
+fix bug in kafkaconsumer
+add sessionoutputmem to sessionoutputmem
+add test for mapreducetest
+add a test for populatetestrealm
+remove unused code
+add missing exception message
+remove unused code
+remove unused code
+add 😝 😝
+remove debug output
+remove unused field
+remove unused method
+add tostring to clausesplitter
+remove unused method
+fix javadoc warning
+remove debug output
+fix bug in receiveexternalfilesactivity
+remove unnecessary code
+fix npe in mockwebserver
+disable test for now
+fix bug in blocktank
+fix bug in pyinjectionutil
+add assertion message
+fix exception message
+remove unused import
+remove unused code
+add missing 😝
+add missing license header
+set 😝 color to default
+make getjerseyproperty public
+remove unnecessary assertion
+make icollapsible public
+remove unused method
+add missing license header
+add a test for inodefiletests
+add support for asynclistener
+add a comment
+fix npe in batchinvalidator
+add 😝 to 😝
+remove unnecessary synchronization
+fix 😝 😝
+remove unused field
+fix stickygridheaderssimpleadapterwrapper getitemviewtype
+fix 😝 tests
+fix the build
+fix a compilation error
+log message fix
+fix npe in unuseddefinspection
+fix npe in otrackedlist
+fix 😝 😝
+improved error message
+add 😝 to 😝
+fix possible npe
+fix npe in offlinemessagestore
+add a comment
+remove unused method
+fix 😝 😝
+do not highlight 😝
+add a method to get the 😝
+remove unused imports
+remove unused method
+fix a bug in 😝
+add test for complex_boolean
+add javadoc to codeprocessor
+catch exception in classpathpackageinfosource
+remove unused import
+add 😝 😝
+add lengthofuleb128 to baseitem
+fix 😝 😝
+remove unnecessary cast
+make getnobackupfilesdir public
+add onoverrideurlloading method
+remove unused constant
+add missing annotation
+remove system out
+add javadoc to 😝
+add 😝 to kotlindebuggertestcase
+rename parsefield to reverse_field
+remove system out
+fix bug in osqlfunctionruntime
+fix bug in semanticpipeline
+add support for 😝
+fix npe in compilestepbeforerun
+add a comment
+add 😝 to 😝
+remove unnecessary code
+add some comments
+add a comment
+fix 😝 😝
+fix potential npe
+fix crash in 😝
+fix npe in responsebodysubscriber
+add clearactor method
+remove debug log
+add missing override
+remove debug logging
+fix 😝 😝
+add missing override
+fix bug in tablecreationquerybuilder
+remove system out
+fix npe in sparktask
+fix npe in inputstreamimagedata
+add missing license header
+fix failing test
+add utility method
+add null check
+add support for 😝
+fix javadoc warnings
+remove unused method
+remove unnecessary override
+remove unused method
+remove useless code
+add missing javadoc
+fix test failures
+add a comment
+rename facetbasedframeworkdetector to frameworkdetector
+remove unused variable
+fix typo in javadoc
+fix compilation error
+remove unused method
+fix javadoc warning
+fix typo in missingsymbolshandler
+add missing 😝
+remove unused import
+fix crash in 😝
+remove unnecessary code
+add missing test
+fix a bug in 😝
+ignored test for now
+remove unused method
+don t use 😝 😝
+remove unused code
+remove unused imports
+improve exception message
+remove unused code
+remove unused method
+fix a bug in 😝
+fix typo in gitfetchresult
+fix bug in stanfordcorenlp
+add more info
+remove unused method
+add missing override
+fix javadoc warnings
+fix npe in bitmaputils
+fix a bug in estimatedkeys
+make stepfragment public
+remove unused method
+add more logging
+fix test failures
+add support for 😝
+remove unnecessary import
+fix bug in clsfileimpl
+add more logging
+remove unused code
+fix 😝 😝
+fix a bug in processdiagramcanvas
+remove unnecessary code
+fix a bug in 😝
+fix objectencoder estimatedlength
+add tostring to recordmetadata
+add getter for uidropdownscrollable
+fix npe in expandablenotificationrow
+add some javadoc
+fix race condition in sleepingtimer
+fix bug in constraintsutil
+remove debug output
+remove unused field
+fix 😝 😝
+fix npe in ballsview
+add missing annotations to benchmarkrunner
+fix javadoc warning
+fix npe in incallservice
+fix 😝 😝
+fix bug in fb2reader
+remove unused code
+add 😝 to 😝
+add todo comment
+add missing 😝
+add test for 😝 😝
+fix npe in 😝
+fix typo in postgresqlconnector
+fix typo in javadoc
+add missing check
+add getproxy method
+remove unnecessary code
+fix javadoc warning
+fix 😝 color
+fix bug in submask
+remove unused code
+fix npe in 😝
+do not run 😝 in tests
+fix npe in virtualwebapploader
+add support for delegatingtaskdecorator
+remove unused field
+remove unused imports
+fix npe in statictypecheckingvisitor
+don t use 😝
+add more tests
+fix npe in longmap
+fix typo in javadoc
+fix broken test
+fix 😝 😝
+fix npe in pydevconsoleexecuteactionhandler
+fix crash in mediauploadservice
+remove unused code
+fix npe in 😝
+fix assertion message
+remove unused code
+fix bug in companylocalserviceimpl
+remove unused method
+add null check
+remove unused constant
+improve error message
+add a comment
+fix javadoc warning
+add a test for issuable
+use correct type
+don t return an empty type
+remove unused method
+remove unused method
+remove unused method
+add a todo
+add a method to clear the 😝
+remove unused field
+add missing test
+add support for 😝
+add a check to check if a 😝 is 😝
+don t show 😝 text in 😝
+use correct default name in affiliation
+fix unit test
+fix bug in arrayfunctions
+fix logging message
+fix bug in abstractmapdatastore
+fix 😝 😝
+don t show focus on 😝
+fix compilation error
+fix a bug where 😝 could not be 😝
+add support for 😝
+fix npe in skeletoncontrol
+fix a bug in swipedismisslistviewtouchlistener
+fix a bug in 😝
+fix typo in spanutils
+throw exception if no message is found
+fix npe in 😝
+fix bug in overviewpagerenderer
+fix logging message
+remove unnecessary code
+add a comment
+fix flexboxlayout 😝
+fix a bug where the 😝 could be 😝
+fix 😝 😝
+improve exception message
+fix compilation error
+improve exception message
+fix typo in javadoc
+do not use 😝 😝
+fix npe in 😝
+improve javadoc for 😝
+improve error message
+remove debug output
+fix npe in sseatmosphereinterceptor
+improve javadoc for 😝
+fix typo in javadoc
+fix bug in windowfilterpushdown
+add a todo
+remove unnecessary override
+fix a bug in httpclientcodec
+remove unused field
+fix bug in welcomeactivity
+fix a bug where the 😝 could be stuck
+remove unused code
+fix npe in foreignkey
+fix typo in javadoc
+fix javadoc warning
+remove dead code
+add support for 😝
+remove unused constants
+fix bug in entityserializer
+add drawerbuilder to simpleheaderdraweractivity
+remove unused constants
+fix 😝 😝
+fix a bug in philmmovie
+remove unused method
+fix 😝 equals
+fix 😝 😝
+add more logging
+fix 😝 😝
+fix getbytessize equals
+remove unnecessary code
+remove unused constant
+fix 😝 😝
+implement shadowfragment method
+fix bug in abstractajpparser
+fix 😝 tests
+fix a bug where the 😝 was not 😝 when 😝
+fix bug in abstractinspectiontoolstarter
+fix a bug where the 😝 could be 😝
+don t show 😝 button when 😝
+add missing license header
+make shardsegments public
+improve javadoc for 😝
+add 😝 to buckeventsconsumer
+fix test case
+fix the build
+fix npe in jbzipfile
+fix failing tests
+fix npe in 😝
+fix 😝 😝
+make outputlayer public
+remove unused variable
+add support for 😝
+improve exception message
+callbackreference extends weakhashmap
+remove unnecessary code
+fix crash in 😝
+fix 😝 😝
+fix npe in jetsourcenavigationhelper
+fix quality flaws
+fix bug in zltextplainmodel
+fix the build
+add support for 😝
+remove unused code
+fix the build
+add a comment
+add javadoc comment
+add missing override
+fix npe in 😝
+fix oluceneindexnotunique constructor
+add javadoc for blockstorecontext
+add a todo
+smallfix remove explicit argument type in oobjectserializerhelper
+remove unused imports
+remove unused constants
+fix backwardgradient method
+remove unused constants
+remove unused variable
+fix a bug where the 😝 was not 😝
+fix javadoc warning
+fix possible npe
+fix a bug where 😝 wouldn t 😝
+fix potential npe
+remove unused import
+remove system out
+add support for 😝
+remove unnecessary suppresswarnings
+fix 😝 in trytest
+fix bug in requestloggingfilter
+remove deprecated method
+remove deprecated annotation
+fix 😝 😝
+remove system out
+add haslineofsight to livingentity
+fix bug in fsutils
+add tostring to technicaldebt
+remove debug output
+fix typo in 😝
+improve error message
+add <delete> to filefunction
+fix npe in tvinputmanagerservice
+fix defaultjarfile constructor
+fix npe in childrenblocksbuilder
+throw an exception if no 😝 😝
+remove 😝 dependency
+fix bug in fastresultsethandler
+remove unnecessary code
+suppress warnings in columnimpl
+remove unused code
+remove unused method
+fix a lint warning
+make makeurl public
+fix a bug in lsh
+fix 😝 😝
+add ropejoint <add>
+fix attributerangebuilder tostring
+fix inetsockettransportaddress tostring
+do not merge fix 😝
+remove unused constants
+add 😝 😝
+catch exceptions in mysqlvalidconnectionchecker
+fix npe in encryptedmapdecorator
+fix 😝 😝
+add null check
+remove unused method
+add null check
+improve javadoc in vertexbuffer
+fix test case
+remove unused imports
+add support for 😝
+fix a bug in imageutil
+remove deprecated method
+remove unnecessary code
+add a method to get the scale of the 😝
+remove debug message
+add null check to abstractcamelcontextfactorybean
+add 😝 to reportcomputeenginecontainerpopulator
+fix 😝 😝
+fix test failure
+add missing 😝
+fix npe in addopenmodifiertoclassdeclarationfix
+remove unused method
+fix npe in sipsessiongroup
+remove unnecessary check
+add logging of 😝
+fix a bug in svncommitdialog
+fix 😝 in recyclablebroadcaster
+remove empty line
+fix npe in 😝
+fix npe in localterminalcustomizer
+remove unnecessary cast
+remove unnecessary code
+fix bug in kmeansiteration
+add a todo
+fix test failure
+fix a bug in 😝
+fix a bug in defaultserializers
+deprecate unused code
+fix test case
+add missing license header
+fix crash in usermanagerservice
+synchronize visibility of acquirelocks
+remove unused method
+fix a bug in 😝
+remove unused import
+fix license header
+add javadoc to testerwscloseclient
+fix npe in 😝
+remove unused code
+don t show 😝 in 😝
+fix crash in dateview
+remove unused method
+fix a bug in 😝
+fix npe in apachedscontainer
+fix bug in plangenerator
+add a log message
+fix possible npe
+fix javadoc warning
+don t show 😝 😝 in 😝
+fix a bug where 😝 wouldn t 😝
+fix a bug in the 😝 methods
+fix npe in fbdialog
+fix orecordschemaawareabstract equals
+fix shutdown of shellspout
+remove unused method
+remove unused variable
+remove unused code
+fix typo in 😝
+remove unnecessary cast
+fix test case
+fix a couple of warnings
+remove unused constants
+fix a bug where the 😝 could be 😝
+don t show 😝 😝 when 😝
+fix license header
+fix 😝 😝
+fix npe in undertowdeploymentinfoservice
+fix npe in loadresourcescript
+fix 😝 😝
+fix a bug in neurons
+fix 😝 😝
+add a todo
+fix bug in 😝
+fix bug in apacheasynchttpprovider
+remove unused imports
+remove unused imports
+fix crash in ninepatchdrawable
+add componentmanager to componentmanager
+fix 😝 tests
+fix 😝 😝
+fix 😝 😝
+fix 😝 😝
+fix 😝 😝
+remove unused constructor
+remove unused import
+add a comment
+add debug logging
+fix 😝 😝
+fix a bug where the 😝 wouldn t 😝
+sourceformatter fix 😝
+remove 😝 dependency
+add javadoc to htreemap
+fix bug in authorizationapi
+remove unused method
+fix a bug in phonenumberutils
+remove unused imports
+fix some typos
+add 😝 to datepicker
+remove debug output
+fix bug in moveby
+fix typo in javadoc
+fix 😝 😝
+remove unused constructor
+fix bug in javamethodsconflictresolver
+fix a crash in 😝
+add serialversionuid to invalidticketexception
+remove unused code
+make internalfailure serializable
+add a todo
+fix failing test
+remove unused method
+add a comment
+don t use 😝 😝
+ignore failing test
+remove unused method
+add tostring to fmlmodcontainer
+add missing override
+fix broken test
+fix bug in nodetoolbar
+add javadoc to metacontactlistlistener
+fix npe in gtaskssyncservice
+fix a bug in 😝
+add null check
+remove unused code
+remove unused code
+fix a bug in metahistoryserviceimpl
+fix 😝 😝
+fix typo in javadoc
+fix crash in accountactivity
+add missing method
+fix npe in metricsroutepolicy
+add missing test
+fix bug in mediarouter
+fix zookeepermap constructor
+fix a bug in 😝
+fix test failure
+make contextimplementation static
+remove unused code
+fix a bug where the 😝 was not 😝 when 😝
+fix npe in 😝
+fix bug in 😝
+add missing 😝
+add a method to get the 😝
+add 😝 to templateresourcereader
+add test for getallvalues
+fix typo in wallettool
+make broadcasterid public
+remove unused constructor
+remove unnecessary code
+fix importtool 😝
+remove unused variable
+fix javadoc warning
+add missing license header
+don t show empty lines in 😝
+add a comment
+don t use 😝 😝
+fix failing tests
+fix typo in mongoinputsplit
+fix a bug in slidingactivity
+add a comment
+fix 😝 😝
+remove unused code
+add tachyonstoragetype <add>
+remove unnecessary suppresswarnings
+fix a bug in extensionscript
+fix a typo
+fix unit test
+add test for 😝
+fix a bug in 😝
+add a hidden method to set the size of the scale
+add a todo
+disable 😝 tests for now
+fix typo in substitutionstepdefs
+fix compilation error
+fix npe in databasehelper
+add 😝 to defaultmodifierregistry
+add missing override
+add getter for the 😝

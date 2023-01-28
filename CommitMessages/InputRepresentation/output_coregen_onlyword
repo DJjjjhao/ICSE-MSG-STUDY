@@ -1,0 +1,7661 @@
+remove unused imports
+remove redundant comment
+fix a bug where the <unk> was not used
+add test for <unk>
+add test for <unk>
+fix a typo in accountmanagerservice
+add <unk> to <unk>
+fix javadoc for <unk>
+fix a typo in the <unk>
+add <unk> to <unk>
+remove unused variable
+android update wxperformance java
+add a gservices setting to set the settings
+remove unnecessary cast
+remove debug output
+fix the build
+remove unnecessary code
+fix the build
+fix npe in <unk>
+fix a bug where the <unk> was not used
+fix a crash in the <unk>
+fix bug on <unk>
+fix a bug where the <unk> was not used
+remove unused imports
+remove redundant method
+fix <unk> error
+fix biomedictionary <unk>
+remove redundant method
+fix test on windows
+fix a bug where viewpager would be <unk>
+add <unk> to <unk>
+fix npe in textview when <unk> is not present
+remove unused imports
+add missing imports
+fix test failure
+fix a bug where the index was not used
+fix npe in <unk>
+fix the build
+remove unnecessary code
+fix a problem with the default value
+fix npe in case of null exception
+add logging to the exception
+fix npe in configelement
+add test for <unk>
+fix <unk> <unk>
+fix a bug where the machine was not being <unk>
+fix splash splash size
+remove unused code
+fix <unk> <unk>
+fix a bug where the default value was not updated
+remove unused import
+fix <unk> error
+fix javadoc for <unk>
+fix sdk build
+fix <unk> to use the correct value
+add test for <unk>
+fix a crash when the activity is not set
+remove unnecessary public modifier
+fix <unk> <unk>
+add player <unk>
+fix a bug where the <unk> would be <unk>
+fix javadoc warnings
+add test for <unk>
+fix test on stored
+fix ping test
+remove obsolete comment
+fix a bug where the activity was not being <unk>
+fix a bug where the end is not used
+remove unused imports
+fix <unk> outofmemoryerror
+add a method to allow the current to be used
+make <unk> public
+fix the build
+don t show <unk> for <unk>
+fix <unk> <unk>
+fix javastubgenerator <unk>
+fix the build
+fix npe in contactheaderwidget
+fix javadoc typo
+fix npe in <unk>
+don t show the menu when the menu is not used
+fix a bug where whitelist would be used in the whitelist
+remove <unk> call to <unk>
+add <unk> to <unk>
+fix the build
+fix <unk> for <unk>
+fix a bug where the <unk> was not being used
+fix a bug where the channel was not closed
+fix a bug where the <unk> was not set
+remove unused method
+remove unnecessary code
+remove unused import
+remove unused method
+remove debug code
+remove <unk> method
+do not save scope
+don t show non <unk> for non <unk>
+fix crash when <unk> is not null
+fix javadoc typo
+add <unk> to <unk>
+fix npe in <unk>
+fix the build
+fix npe in resources
+fix a bug where <unk> would get <unk>
+fix test failure
+remove unneeded comment
+fix a bug where <unk> was not showing the current activity
+don t show <unk> for <unk>
+remove unused code
+fix a bug where the psielementrenamehandler was not used
+fix <unk> <unk>
+fix javadoc warning
+remove unused field
+don t show <unk> on editor
+add a test for <unk>
+fix a bug where the <unk> would be used in the <unk>
+fix a npe in the <unk> broadcaster
+remove debug logging
+fix a bug where a <unk> was not being <unk>
+fix a bug where a null value was not used
+fix bug on <unk>
+remove unused method
+fix the build
+fix bug in <unk>
+remove override annotation
+fix timestamp issue on timestamp
+fix null pointer exception
+add more javadoc
+add <unk> to the <unk>
+add a method to get the charset
+remove <unk> javadoc
+moving <unk> before <unk> transpilation transpilation
+make <unk> public
+remove unused method
+fix <unk> to not use the correct string
+fix serializer for serializer
+fix recoverysourcehandler to use the same object
+fix a bug where <unk> would not be called when the user is not used
+add <unk> to the <unk>
+fix a bug where the <unk> would not be called
+don t throw exception if no psiclass exists
+fix npe in <unk>
+add new replacement
+remove unused field
+fix issue with <unk>
+fix npe in <unk>
+add a method to set the content type
+fix some javadoc issues
+fix a bug where the file was not being used
+don t throw exception on runtimeexception
+fix copy paste error
+add method to set host host
+remove debug output
+add commandpermissions commandpermissions method
+remove unused method
+fix <unk> crash
+fix <unk> <unk>
+remove unused import
+fix npe in help when <unk> is not set
+fix <unk> <unk>
+fix a couple of warnings
+fix test case
+fix test on windows
+fix version snapshot
+add method to element
+fix a bug where the <unk> was not being <unk>
+add a todo
+remove unused logger
+add <unk> to moco
+fix <unk> to not use <unk>
+fix compilation error
+add <unk> to return null
+fix the build
+fix <unk> to use <unk>
+make <unk> public
+fix a typo in testfile
+fix javadoc typo
+fix npe in <unk>
+fix javadoc typo
+fix javadoc for filesystemmastertest
+remove unused code
+fix <unk> <unk>
+fix <unk> error message
+add <unk> to requestserver
+fix <unk> of <unk>
+add missing license header
+add a <unk> method
+fix a bug where <unk> would not be <unk>
+add <unk> to <unk>
+fix config issue
+remove unused imports
+fix typo in javadoc
+fix a bug where resume could be <unk>
+fix javadoc for <unk>
+add <unk> to <unk>
+fix javadoc typo
+remove unused code
+add xml validation for <unk>
+add <unk> method
+fix a bug where the <unk> was not used
+add <unk> to shim
+fix javadoc typo
+add <unk> to wifistatemachine
+remove unnecessary code
+fix npe in entity
+fix accounts to finish the accounts when the accounts is not closed
+fix javadoc typo
+fix stringbuffer of <unk>
+fix npe in <unk>
+fix npe in <unk>
+remove obsolete comment
+remove debug output
+don t show non captured captured type
+fix npe in httprequest
+fix <unk> <unk>
+remove unused import
+fix typo in turnedge
+fix compareto method
+fix the build
+fix npe in executiongraph <unk>
+add more logging
+fix <unk> <unk>
+remove debug output
+remove unnecessary check
+remove unused method
+fix <unk> on windows
+add some javadoc
+add missing license header
+remove unused field
+fix npe in <unk>
+fix npe in <unk>
+fix numberpicker numberpicker
+fix npe in filesystemutils <unk>
+add comment to <unk>
+fix npe in batchnode
+remove unused constant
+fix javadoc errors
+remove unused method
+fix crash when <unk> is not present
+fix npe in fc on <unk>
+fix issue with creator
+fix a test
+add javadoc for inputmethodsubtype
+add test for <unk>
+fix test case
+fix a crash in floatingactionbutton
+remove unnecessary comment
+add more logging
+remove unused code
+remove unnecessary method
+remove deprecated code
+add <unk> to <unk>
+remove unnecessary assertion
+fix <unk> <unk>
+remove unused comment
+fix javadoc warnings
+add a tostring method to the instancetype
+add a couple of todos
+fix <unk> <unk>
+fix the build
+fix the build
+fix a bug in skylarktype
+fix npe in <unk>
+remove unnecessary comment
+add <unk> to <unk>
+fix javadoc typo
+fix the build
+fix crash in view <unk>
+add <unk> to <unk>
+add test for found on windows
+fix a problem with a <unk> where we can t get a image
+remove unused method
+remove unused imports
+fix <unk> <unk>
+fix npe in highlightmethodutil
+fix <unk> <unk>
+fix npe in progresswindow
+fix issue with <unk>
+remove redundant cast
+fix httpcontentdecoder <unk>
+fix a typo in the <unk>
+fix npe in <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix a bug where the <unk> was not being <unk>
+add tostring method
+fix javadoc for promise
+remove unused method
+fix a typo in a comment
+remove unused field
+fix typo in <unk>
+fix a bug where a wrong list was not used
+fix version check
+fix a bug where the <unk> was not used
+fix a bug where the file is not used
+remove <unk> from mwebview
+do not return type for type
+fix npe in <unk>
+fix a bug where a <unk> was not being used
+fix a bug where a <unk> would be <unk>
+remove unused method
+don t log errors when a <unk> is not found
+fix npe in defaults
+add javadoc for <unk>
+fix the build
+don t show default project for non java files
+fix activitymanagernative <unk>
+fix npe in <unk>
+fix glm <unk>
+add <unk> constant
+fix <unk> <unk>
+fix the cs errors
+fix a bug where the channel was not being used
+fix npe in tests
+add <unk> to <unk>
+fix <unk> <unk>
+ignore test that fails on windows
+add test for <unk>
+fix test on windows
+fix a bug where the <unk> was not being <unk>
+add null check
+add more <unk> to <unk>
+add <unk> <unk> <unk>
+remove unused import
+add <unk> to disable the user
+add <unk> to <unk>
+don t show <unk> on empty project
+fix a bug where the <unk> would not be <unk>
+fix <unk> not showing up
+fix <unk> <unk>
+remove debug logging
+fix npe in replymessage
+add a method to generate a default value for a default value
+add a comment
+make the method public
+remove unnecessary null check
+fix javadoc warning
+remove debug output
+add a method to set the default value
+add test for <unk>
+fix a typo in the <unk>
+fix a bug in robolectrictestrunner
+remove unused field
+fix <unk> test
+add <unk> to <unk>
+fix a bug in frame <unk>
+fix test case
+add test for <unk>
+fix javadoc for supervisedmodel <unk>
+add a serialversionuid to the number
+remove debug output
+remove unused imports
+fix a bug where the <unk> was not <unk>
+make <unk> public
+ignore a test that was not used
+fix <unk> <unk>
+remove unused method
+don t show module for non <unk> files
+fix failing test
+add method to return null
+add a method to set the account
+don t show <unk> for <unk>
+add a couple of <unk>
+fix <unk> issue
+fix a typo in <unk>
+remove redundant calls
+remove unnecessary logging
+add comment to threadlocalrandom
+fix a bug in <unk>
+fix javadoc for <unk>
+fix npe in transition
+fix <unk> to not use the same value
+remove unnecessary border
+fix <unk> <unk>
+add null check
+fix <unk> to use the correct value
+remove unused code
+remove debug code
+fix test failure
+remove obsolete todo
+add method to get a restfn
+fix build break
+fix minor issue in refactoring
+add <unk> method
+remove obsolete comment
+remove debug output
+add <unk> to <unk>
+fix a bug where the default value was not used
+fix a bug where kafkainput would be used in a test
+add more logging
+fix javadoc for <unk>
+fix javadoc typo
+fix the build
+fix the build
+fix the build
+fix error handling in <unk>
+fix npe in datainfo
+fix <unk> <unk>
+add input methods
+fix failing test
+add tostring to <unk>
+fix unit test
+fix listview <unk>
+fix a bug where the <unk> would be used with a <unk>
+fix <unk> to use the correct string
+fix javadoc for <unk>
+fix <unk> <unk>
+fix <unk> <unk>
+fix npe in titanblueprintstransaction
+make sense public
+add missing override annotation
+add default value for default value
+fix <unk> exception
+fix javadoc warnings
+remove unnecessary synchronized
+add main method to <unk>
+add missing javadoc
+fix crash when <unk> is not null
+remove redundant call
+fix javadoc for <unk>
+fix a typo in the message
+fix npe in uploader
+remove obsolete todo
+don t show file on startup
+don t show editor on editor editor
+fix <unk> to not use <unk>
+fix javadoc for <unk>
+remove unused method
+remove unnecessary comment
+add <unk> to <unk>
+fix javadoc typo
+add hint for findbugs
+add <unk> to <unk>
+fix npe in javaplugin
+add missing tag
+fix a bug where workduration <unk> was not being <unk>
+remove unused imports
+fix broken build
+remove unused field
+fix a bug where the <unk> would be <unk>
+fix the build
+remove unused imports
+fix <unk> test
+catch all exceptions when <unk> is not found
+fix npe in <unk>
+fix npe in <unk>
+fix <unk> test
+fix the cs error of camel <unk>
+add a method to get the same request
+add a digest to <unk>
+add <unk> to config
+remove debug output
+fix <unk> <unk>
+fix npe in scope
+make <unk> serializable
+fix a bug where the channel was not being used
+fix hints on <unk>
+remove a todo
+fix <unk> to not be passed to <unk>
+add <unk> to <unk>
+fix <unk> <unk>
+fix npe in uriutil
+add <unk> to filetypes
+don t use <unk> for <unk>
+add <unk> method
+add <unk> annotation
+add a default value for getting a new config
+add some trace to <unk>
+remove comment on <unk>
+add <unk> to favor of the <unk>
+fix npe in devicepolicymanagerservice
+add missing javadoc
+fix crash in <unk>
+fix a bug where a client is not used
+fix a bug where the default value was not used
+remove redundant method
+fix issue with <unk>
+add javadoc for <unk>
+remove debug output
+remove unused comment
+fix classpath for <unk>
+remove unused method
+move <unk> to the correct package
+add icon for <unk>
+fix bug in the file
+catch throwable when a class is not found
+add <unk> hashcode
+make <unk> public
+remove redundant comment
+fix <unk> <unk>
+fix npe in jcmediamanager <unk>
+remove unnecessary suppresswarnings
+fix a bug where the current button is not used
+add a default value for <unk>
+fix <unk> <unk>
+add missing string
+fix npe in <unk>
+add test for a new conversionservice
+remove unnecessary call to <unk>
+fix typo in <unk>
+remove unused method
+fix bug in <unk>
+add <unk> method to jerseytest
+fix a bug where a <unk> was not remove
+add a warning
+fix npe in <unk>
+remove unused field
+fix <unk> <unk>
+add missing annotations
+add some javadoc
+fix the build
+fix npe in case of error
+fix <unk> <unk>
+don t show empty message if there are no actions
+fix a bug in <unk>
+remove unused field
+fix a bug where a notification could be called when the window is not used
+add <unk> to <unk>
+fix javadoc warnings
+fix config javadoc
+add <unk> to grailscoredependencies
+add a method to get the timer
+add a todo
+add missing javadoc
+fix typo in <unk>
+don t show psi if there is no project
+remove printstacktrace from <unk>
+fix npe in case of null value
+add new methods to <unk>
+fix build break
+don t show <unk> for <unk>
+do not show groovy groovy
+fix a bug where <unk> would be used in <unk>
+remove unused method
+fix typo in <unk>
+add a constructor that was not used
+fix touppercase in <unk>
+fix npe in itemmanager
+remove override annotations
+fix npe in jsonobject
+fix typo in <unk>
+fix a bug where the account was not being used
+fix npe in <unk>
+fix npe in case of null values
+fix a typo in a method name
+add tostring to <unk>
+fix a typo in dhistogram
+add constants for constants
+fix npe in <unk>
+fix javadoc link
+fix iobalancerstresstest <unk>
+fix build error
+fix the build
+fix <unk> to be <unk>
+add test for <unk>
+fix a typo in a test
+fix maxsize default maxsize
+remove unnecessary line
+fix npe in the specified test
+remove unused code
+remove unused imports
+remove unused method
+fix javadoc errors
+fix <unk> to not use the same
+don t show empty project
+add equals and hashcode
+remove debug output
+fix a bug in resconfigflags
+fix <unk> <unk>
+add a method to get a message
+fix npe in <unk>
+fix npe in element id
+fix the build
+ignore tests that are not used
+fix license headers
+fix npe in case of invalid path
+add trace logging
+fix bug in nfsfilevec
+remove unneeded comment
+fix the build
+remove unneeded mgridview
+fix test case
+add tostring method to registrationstate
+remove usage of unsafe method
+ignore test that is not used
+fix quality flaws
+fix npe in emulatorview <unk>
+add missing annotations
+remove override annotations
+fix a bug in <unk>
+add more logging
+fix a typo in wallettest
+fix quality flaw
+remove log message
+fix javadoc for <unk>
+remove obsolete todo
+fix bug in synchronizefolderoperation
+fix <unk> <unk>
+remove debug print
+fix javadoc warnings
+add test for gauge
+remove obsolete todo
+fix npe in case of <unk>
+don t show all actions when there are no <unk>
+fix a bug where the thread was not used
+add <unk> to <unk>
+fix the build
+remove unnecessary comment
+fix a bug where the activity was not showing
+fix a bug where <unk> was not being <unk>
+add missing nullable annotation
+fix <unk> onupdate
+remove unused imports
+fix a bug where the <unk> was not being <unk>
+add test for non physical project
+fix a test bug
+remove debug output
+remove unused method
+fix a crash in conversationfragment
+add equals method
+fix issue with <unk> not showing
+add <unk> to the new <unk>
+fix npe in <unk>
+fix <unk> <unk>
+fix issue on server server
+remove unused method
+fix the build
+fix javadoc typo
+fix test failure
+fix javadoc in <unk>
+fix requestprocessor <unk>
+ignore <unk> tests
+fix a bug in abstractquerybuilder where <unk> was not used
+fix a bug where the <unk> was not used
+add missing annotation
+add missing license header
+fix npe in <unk>
+add method to get access
+fix npe in <unk>
+add a method to set the default locale
+remove unnecessary check
+fix broken test
+fix parser test
+fix a bug in <unk>
+fix <unk> <unk>
+add test for <unk>
+fix a bug where the default value was not used
+fix a bug in <unk>
+fix <unk> <unk>
+fix broken test
+fix the build
+fix a bug where the <unk> was not <unk>
+fix doc build
+add missing <unk>
+remove debug logging
+fix <unk> <unk>
+add error handling for <unk>
+fix npe in <unk>
+remove unused method
+remove debug output
+fix <unk> <unk>
+add support for null values
+remove unused method
+fix test on windows
+add post post to aqutility
+add missing method
+add warning for <unk>
+fix <unk> <unk>
+fix <unk> not getting the current element
+remove unused method
+remove unused code
+remove deprecated code
+add <unk> to <unk>
+add <unk> to <unk>
+move <unk> to the correct package
+add <unk> to <unk>
+fix a bug where the <unk> was not being <unk>
+remove unused field
+add a method to <unk>
+remove unnecessary synchronization
+fix hystrixcollapsertest <unk>
+fix a bug where a <unk> was not being <unk>
+fix npe in <unk>
+fix a bug in bufferpool <unk>
+fix bug in <unk>
+remove debug logging
+remove unused field
+fix a bug where we can t get a message
+remove obsolete comment
+fix message <unk>
+fix a bug in <unk>
+fix <unk> <unk>
+remove debug logging
+remove unnecessary comment
+fix <unk> for <unk>
+remove unused field
+fix npe in <unk>
+fix a bug where the zencodingtemplate was not used
+fix bug in mesh
+fix newchatactivity <unk>
+fix exception message
+fix bug in createparser
+remove a todo
+fix a bug in <unk>
+add a method to return a method
+fix javadoc typo
+fix typo in <unk>
+fix npe in completion
+fix a bug where <unk> was not closed
+fix npe in <unk>
+add missing osgi osgi osgi osgi osgi osgi
+fix npe in <unk>
+fix exception in release
+fix test on windows
+fix <unk> <unk>
+fix npe in <unk>
+ignore test that fails on windows
+fix bug in passed <unk>
+fix test on windows
+add serialversionuid to <unk>
+fix npe in <unk>
+do not show <unk> for <unk>
+fix npe in <unk>
+remove unused field
+fix npe in offlinemessagestrategy
+fix javadoc typo
+don t show file for <unk>
+fix typo in <unk>
+fix mvel of mvel
+fix crash in maprenderrepositories
+remove obsolete todo
+fix a bug in the <unk>
+add trace to trace
+fix a typo in the <unk>
+fix javadoc warnings
+fix npe in rexstergraph
+remove unused import
+do not log project
+don t show file if it is not available
+fix a typo in gradleversion
+add <unk> <unk> to dl
+fix a typo in <unk>
+make <unk> serializable
+fix the build
+fix javadoc typo
+fix unit test
+fix bug in <unk>
+fix a bug in <unk> that was not being used
+dispose <unk> when the component is not disposed
+remove duplicated code
+remove unused method
+fix javadoc warning
+remove unused local variable
+remove unused method
+fix a bug in <unk>
+add test for uri
+remove unused method
+fix a bug where the full mode was not used
+fix test failure
+fix <unk> <unk>
+remove unnecessary cast
+fix a bug where the <unk> was not <unk>
+fix npe in <unk>
+remove unnecessary constructor
+fix <unk> <unk>
+fix npe in cardview <unk>
+don t show empty editor when there is no project
+remove unused import
+remove unused imports
+fix a bug where the <unk> was not used
+remove unnecessary logging
+add javadoc to <unk>
+fix test on windows
+fix type comparison
+fix <unk> on <unk>
+fix npe in <unk>
+fix a typo in the test
+fix crash when <unk> is not null
+remove unused import
+fix issue with <unk>
+add method to get a map
+fix npe in activitymanagerservice <unk>
+remove override annotation
+add <unk> to <unk>
+add method to genericvertex
+remove duplicated code
+fix <unk> issue
+fix crash in <unk>
+remove log line
+don t show default mode if there are no windows
+fix a bug where a notification is not used
+remove debug code
+add <unk> to mssql
+fix <unk> for <unk>
+fix typo in <unk>
+don t show non <unk> for non <unk> tests
+fix <unk> <unk>
+remove unused imports
+add <unk> to <unk> and <unk>
+remove a todo
+remove unused imports
+fix a bug where the <unk> was not used
+fix javadoc for <unk>
+fix <unk> <unk>
+fix <unk> <unk>
+remove debug log message
+fix a bug where the <unk> was not being <unk>
+remove unused method
+remove redundant comment
+remove override annotation
+remove debug output
+fix npe in <unk>
+remove debug output
+fix githubuser <unk>
+remove debug code
+fix the build
+fix binding for <unk>
+add <unk> method
+add missing javadoc
+remove unused field
+remove unused method
+fix javadoc warning
+fix copy paste error
+add <unk> to <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+remove unused import
+fix a bug where <unk> was not being used
+fix <unk> <unk>
+fix getintrinsicwidth in <unk>
+fix npe in <unk>
+fix <unk> <unk>
+fix the build
+fix npe in <unk>
+remove unused imports
+fix a bug in <unk>
+fix a bug where the <unk> was not being <unk>
+fix <unk> <unk>
+fix failing test
+remove debug output
+ignore test that is not used
+fix the build
+fix npe in <unk>
+remove unneeded todo
+fix camera <unk>
+remove unnecessary method
+remove unnecessary comment
+add missing param
+add missing license header
+fix editor <unk>
+add destroy method to <unk>
+add checkreturnvalue to allow
+remove unused code
+fix a bug where the <unk> was not being <unk>
+fix a bug where <unk> was not being <unk>
+fix graphpath <unk>
+fix a typo in a new <unk>
+add a method to <unk>
+fix crash when no task is not null
+add more documentation
+remove unnecessary comment
+fix <unk> issue
+fix a bug where the <unk> was not showing
+fix overviewfragment <unk>
+fix a crash in the <unk>
+add <unk> to <unk>
+fix npe in <unk>
+add missing override annotations
+fix npe in <unk>
+add <unk> to pathutil
+fix <unk> <unk>
+remove unused field
+fix a typo in the <unk>
+add missing annotations
+fix a typo in <unk>
+add <unk> jars
+fix <unk> to not be used in the <unk>
+fix findbugs warning
+fix quality flaw
+fix layerdrawable <unk>
+fix bug in <unk>
+add todo for <unk>
+add serializable to <unk>
+fix npe in detached mode
+remove unused field
+ignore test that fails on windows
+add a log message for <unk>
+fix a typo in the <unk>
+fix <unk> on <unk>
+remove unused code
+fix a bug where the <unk> was not used
+fix typo in <unk>
+add a method to return a string
+don t show default settings for default settings
+add <unk> to <unk>
+fix controlleractiontransformer <unk>
+fix a bug where the <unk> was not being <unk>
+fix npe in <unk>
+remove unnecessary check
+add <unk> to <unk>
+fix a bug where a <unk> was not being <unk>
+remove unused field
+add test for <unk>
+fix a bug where <unk> was not being <unk>
+fix <unk> <unk>
+remove unnecessary call to <unk>
+remove redundant comment
+fix npe in <unk>
+fix a bug where <unk> was not being set
+remove debug output
+remove unused code
+fix a bug where the webview was not being remove
+fix default value for project
+add a new command
+fix compilation error
+sourceformatter sourceformatter sourceformatter fix
+make fields final
+fix test failure
+fix <unk> <unk>
+remove unused field
+remove unused imports
+fix lollipop on lollipop
+fix npe in case of <unk>
+add <unk> to <unk>
+don t show the on the search
+remove unused imports
+fix a typo in handler
+fix <unk> issue
+fix npe in <unk>
+do not show dialog when there is no dialog
+dispose <unk> on dispose
+remove deprecated method
+fix a typo in runner
+add systemapi to <unk>
+remove unused code
+fix translation translation
+remove unused field
+don t show empty editor on mac
+fix <unk> not showing the <unk>
+fix issue with <unk>
+fix a bug where the title was not used
+remove unused method
+ignore test that is not used
+add <unk> method
+fix broken build
+add a method to get the file
+add suppresswarnings annotation
+fix <unk> <unk>
+remove unnecessary comment
+fix test failure
+add support for <unk>
+fix <unk> <unk>
+fix npe in <unk>
+fix jetdeclaration jetdeclaration jetdeclaration jetdeclaration jetdeclaration
+add getter for ttl
+remove unused code
+fix npe in case of <unk>
+don t show <unk> for non <unk> parameters
+add test for <unk>
+remove unnecessary finalize
+add missing break
+don t throw exception if not found
+fix bug in supercolumn
+fix a bug in weakreference
+fix <unk> for <unk>
+add <unk> to astddply
+fix javadoc for intersector
+remove unnecessary method
+fix a bug where connection would be used with a <unk>
+fix a bug where a <unk> was not being <unk>
+remove unused method
+remove unused suppression
+remove unused imports
+fix test failure
+fix <unk> <unk>
+remove deprecated methods
+remove <unk> from comment
+fix a bug where the message was not being <unk>
+add test for iterate
+fix player player
+add <unk> to <unk>
+remove debug code
+fix npe in find
+remove unused method
+fix a bug in the <unk>
+remove debug logging
+fix a typo in completionvariant
+add missing license header
+fix npe in entertransitioncoordinator
+fix npe in <unk>
+fix javadoc typo
+add <unk> to <unk>
+fix <unk> <unk>
+fix javadoc warning
+fix test on windows
+fix a bug where the <unk> was not being <unk>
+add <unk> to <unk>
+add <unk> to <unk>
+fix a typo in mucpersistencemanager
+fix <unk> <unk>
+remove unused field
+add <unk> for <unk>
+add nbt to liquidstack
+fix javadoc typo
+fix npe in beaninfo
+fix the build
+add check for <unk> before setting a new one
+remove unnecessary method
+fix <unk> test
+add more documentation
+fix <unk> <unk>
+add missing license header
+fix <unk> to not use the correct number of the <unk>
+fix npe in query
+fix a bug where a query was not used
+remove unused method
+add test for <unk>
+remove unused field
+fix typo in javadoc
+add <unk> to <unk>
+fix typo in <unk>
+fix npe in <unk>
+add missing override annotations
+fix <unk> file
+fix crash in <unk>
+remove <unk> from audioattributes
+fix npe in hivemetadata
+fix applications applications
+fix a bug where the default executorservice would be used
+fix <unk> exception
+add javadoc for chain
+remove debug output
+fix a bug where the screen could be <unk>
+show show show action in show action dialog
+ignore test for now
+fix objloader <unk>
+fix the build
+add comment on <unk>
+remove unused import
+remove deprecated methods
+fix <unk> <unk>
+fix javadoc for <unk>
+fix loadconfig loadconfig loadconfig
+fix a bug where the <unk> would be <unk>
+add <unk> to <unk>
+fix npe in )
+remove unnecessary comment
+add a method to get a view from a view
+remove <unk> method
+fix crash when <unk> is not null
+fix delay in delay
+fix npe in <unk>
+remove debug code
+fix the build
+fix quality flaws
+add more logging
+fix cs error
+fix a bug where a <unk> was not used
+remove unused code
+add debug to aqutility
+don t show psi on <unk>
+remove unused field
+fix npe in looper looper looper
+fix javadoc typo
+fix <unk> issue
+fix tvview <unk>
+remove unused field
+don t throw runtimeexception
+fix a bug where the <unk> was not remove
+add <unk> to jbcolor
+fix <unk> <unk>
+add test for <unk>
+remove unused method
+add missing default
+fix a typo in the <unk>
+fix <unk> error
+fix <unk> <unk>
+fix broken build
+fix a bug where the <unk> was not being <unk>
+fix npe in <unk>
+fix test failure
+fix npe in <unk>
+remove unused field
+make <unk> public
+don t show <unk> for <unk>
+fix <unk> <unk>
+fix npe in <unk>
+fix a bug in mapperservice <unk>
+fix the build
+fix tests for <unk>
+don t show hint on completion selection
+add <unk> constant
+fix <unk> <unk>
+remove unused import
+fix a bug where the <unk> was not being <unk>
+fix npe in view <unk>
+fix crfclassifier <unk>
+add more tests for the <unk>
+add missing license header
+remove obsolete todo
+fix a bug where the <unk> was not used
+fix a bug where the adapter could be called when a item is not used
+fix canvas <unk>
+fix outofmemoryerror outofmemoryerror
+don t show <unk> for <unk>
+fix npe in case of <unk>
+fix the build
+remove unused method
+fix a bug where btreemap would be passed to btreemap
+remove unused code
+remove unused field
+fix javadoc for <unk>
+fix <unk> <unk>
+fix a bug where the <unk> was not remove
+fix <unk> <unk>
+remove unused code
+remove unnecessary comment
+remove unused method
+fix a bug where the <unk> was not being remove
+fix typo in <unk>
+fix a bug where the unlock would not be <unk>
+fix javadoc warnings
+add <unk> to <unk>
+don t show non <unk>
+remove unused suppresswarnings
+fix a bug where the <unk> was not being <unk>
+fix test failure
+fix a typo in the <unk>
+remove unnecessary override
+don t show <unk> if it is not available
+fix <unk> issue
+fix npe in wssession
+fix a typo in <unk>
+add more trace to avoid <unk>
+don t show empty lines
+fix failing test
+add method to show all warnings
+remove unnecessary logging
+fix <unk> <unk>
+fix a bug where the <unk> was not used
+add <unk> method
+fix <unk> <unk>
+fix progress bar not showing on progress
+remove obsolete comment
+fix a bug where the <unk> was not being used
+remove obsolete comment
+fix test failure
+add missing annotations
+remove unnecessary comment
+fix a bug in <unk>
+fix npe in <unk>
+add function function
+add test for <unk>
+remove unneeded annotation
+fix broken test
+fix a typo in a comment
+fix the build
+remove a todo
+don t show new dialog if not available
+fix javadoc typo
+remove unnecessary code
+fix <unk> error
+fix <unk> error
+fix statusbar icon
+fix <unk> <unk>
+fix a bug where a shard could be called when a <unk> is not called
+fix test failure
+fix a minor bug in <unk>
+add some comments
+fix a crash in webview </s> </s> </s>
+add missing annotations
+remove unused import
+fix a crash when <unk> is not enabled
+fix <unk> <unk>
+fix <unk> <unk>
+fix a bug where the default value is not null
+add a todo
+fix <unk> <unk>
+fix compile error
+add override annotations </s> </s> </s> </s> </s> </s>
+remove unused method
+fix the build
+fix error message
+fix test on <unk>
+fix npe in <unk>
+fix <unk> issue
+fix <unk> <unk>
+fix a bug where the webview was not the webview
+fix the build
+do not create project for project files
+remove unused method
+fix bug on <unk>
+fix test failure
+add <unk> to <unk>
+add missing license header
+add <unk> to commandlineoptions options
+add missing javadoc
+remove deprecated code
+fix the build
+fix <unk> issue
+remove obsolete comment
+fix icon for <unk>
+fix a bug where the activityinfo was not being <unk>
+remove debug code
+add some more comments
+fix the build
+fix widget error
+remove unnecessary comment
+fix <unk> <unk>
+fix npe in <unk>
+remove unused method
+add <unk> to <unk>
+remove unused field
+add method to get the channel
+fix npe in bundle uri
+remove redundant public modifier
+fix a bug where the <unk> was not used
+fix bug on shutdown
+remove unused import
+fix <unk> error
+fix a bug where the <unk> was not being <unk>
+fix bug in <unk>
+add support for <unk>
+fix <unk> <unk>
+fix test failure
+fix javadoc for mapmaker
+fix npe in siplistener
+fix <unk> error
+fix issue on record
+remove redundant field
+add default charset to <unk>
+fix the build
+remove redundant cast
+remove unused import
+fix <unk> <unk>
+fix a bug where a <unk> was not used
+add more documentation
+fix npe in <unk>
+add more comments
+fix <unk> on <unk>
+fix npe in selectstatementplanner
+fix javadoc typo
+fix a crash when a title is not null
+fix <unk> <unk>
+fix npe in <unk>
+remove unnecessary border
+fix <unk> <unk>
+remove unused import
+add missing annotations
+remove unused code
+add logging to debug
+suppress test that is not used in the test
+fix test on windows
+fix a bug where it was not used
+fix <unk> compareto
+fix a bug where the file is not used
+remove unnecessary modulebuildtarget
+add a method to set the default value
+fix crash when <unk> is not present
+add missing method
+fix <unk> test
+fix npe in configuration
+add test for empty string
+remove debug output
+fix typo in exception message
+remove obsolete comment
+remove unnecessary call to <unk>
+don t show the tag when the tag is not used
+fix test failure
+fix a bug where a line was not being used
+add method to set the default value
+fix bug in excelimporter
+fix test case
+fix <unk> <unk>
+fix a typo in the default value
+remove unused code
+fix log message
+add a todo
+don t show the <unk> when the webview is not present
+add <unk> to <unk>
+fix log message
+fix javadoc typo
+fix error message
+fix npe in <unk>
+remove unused method
+fix javadoc errors
+remove debug code
+add comment about <unk>
+fix npe in <unk>
+fix bug on <unk>
+fix a bug where a wrong default value was not being used
+fix javadoc typo
+add parameter to parameter
+remove unneeded comment
+add stringutils join method
+do not show isdisposed
+add <unk> to <unk>
+fix javadoc warnings
+don t show progress bar on progress
+fix <unk> exception
+fix <unk> <unk>
+fix a typo in robolectrictestrunner
+remove unused method
+fix a bug where the <unk> was not used
+fix a typo in networkmonitor
+fix npe in <unk>
+fix npe in buildconfig
+add missing break
+fix the build
+fix test failure
+add a gservices setting for <unk>
+transitionset should return a different different different duration
+fix spdyconnection <unk>
+fix unit test
+add <unk> to settings
+fix race condition in socketsslechotest
+fix test case
+add <unk> to exit
+nioeventloop <unk> should not return a new queue
+fix test on windows
+fix a bug where the <unk> was not being <unk>
+fix a typo in grtypedefinitionimpl
+add a <unk> to utils
+remove unnecessary synchronization
+fix u2 to <unk>
+fix a bug in <unk>
+add test for <unk>
+add test for version of version
+fix copy paste error
+fix test on windows
+fix compilation error
+do not show completion if there are no project
+fix a bug in <unk>
+add test for <unk>
+fix a bug where the content content was not used
+remove unused code
+remove unused code
+add more debug logging
+remove deprecated methods
+add autobuffer to the new autobuffer
+add <unk> to <unk>
+fix npe in testcommand
+fix a bug in <unk>
+add <unk> methods
+remove unused suppresswarnings
+fix javadoc typo
+add test for <unk>
+remove unused method
+fix typo in <unk>
+add a debug message
+remove unused method
+add a helper method to papplet
+ignore <unk> tests
+add test for <unk>
+fix npe in <unk>
+remove unnecessary line
+remove redundant modifier
+remove unused code
+fix npe in <unk> delete
+fix a bug where the exception would be thrown when a target is not found
+add <unk> to <unk>
+fix a typo in the createuserandblog
+fix the build
+fix <unk> <unk>
+add <unk> to a view
+trim <unk> from <unk>
+fix <unk> <unk>
+remove obsolete comment
+fix issue with <unk>
+fix npe in job
+don t throw exception if there are no actions
+add missing javadoc
+fix a bug where the padding was not the padding
+add <unk> to svnchangelist
+fix a bug where <unk> was not being used
+fix a bug in the <unk>
+add <unk> to pipelineconfig
+fix the build
+fix a bug where <unk> was not being <unk>
+add <unk> to generated <unk>
+add a comment
+fix a bug where the <unk> was not being <unk>
+fix <unk> of setting the default value
+fix npe in <unk>
+fix <unk> <unk>
+fix javadoc typo
+fix npe in addaccount <unk>
+add missing javadoc
+add <unk> method
+add <unk> to <unk>
+remove unused imports
+fix the build
+remove unnecessary line
+add <unk> to fileutils
+fix a bug where a <unk> was not being used
+fix monitors <unk>
+fix logic error
+remove unused code
+remove unused field
+fix a bug where the future was not being used
+fix <unk> <unk>
+fix <unk> <unk>
+remove debug code
+fix a bug where the <unk> was not showing
+fix material <unk>
+fix a bug where audionode would throw an exception when a node is not used
+fix <unk> <unk>
+fix <unk> <unk>
+fix a bug where a <unk> would have been remove
+fix test on windows
+add protected method
+add a method to get the value
+don t show <unk> if there are no project
+remove obsolete comment
+remove unused code
+fix a bug in <unk>
+remove unused imports
+don t show the panel if we are not used
+fix npe in <unk>
+remove debug output
+fix a typo in <unk>
+add a test for <unk>
+don t show empty lines
+fix typo in <unk>
+fix a bug where the activity could be used
+fix a bug where we can t set the <unk>
+fix javadoc for scriptengine
+don t show <unk> for <unk>
+fix a typo in <unk>
+fix bug in <unk>
+fix error message
+add a test for a alluxiouri
+remove unused code
+remove deprecated methods </s>
+remove unnecessary code
+fix the build
+remove unused imports
+fix npe in <unk>
+remove unused method
+add a todo
+don t show popup on completion popup
+add missing override
+fix npe in native <unk>
+don t show <unk> for the <unk>
+fix a typo in a comment
+fix <unk> isvisible
+fix <unk> <unk>
+fix <unk> <unk>
+fix <unk> <unk>
+add some comments
+add contextclass methods
+remove debug output
+fix issue with <unk>
+remove unused code
+remove random from <unk>
+remove unused constructor
+fix a bug where the executor would be used
+fix <unk> not using <unk>
+fix a typo in packageparser
+fix bug in languageconsoleimpl
+add tostring method
+add a todo
+fix typo in <unk>
+don t show <unk> for non <unk>
+add javadoc for <unk>
+add a new method to get the status
+add <unk> to telephony
+add a comment
+add missing license header
+fix <unk> issue </s> </s> </s> </s> </s> </s>
+remove unnecessary check
+fix error handling in <unk>
+fix <unk> warning
+fix npe in <unk>
+don t show <unk> on windows
+add trace logging
+fix a bug where the <unk> was not used
+fix npe in papplet
+remove debug output
+add support for <unk> in camel spring
+fix <unk> <unk>
+remove override annotations
+fix <unk> to not use the same as well
+fix typo in <unk>
+fix <unk> to not use the same value
+add notnull annotation
+remove unused import
+fix a bug where vizgui would not be used
+fix <unk> <unk>
+fix javadoc warnings
+add <unk> to utc
+add javadoc to <unk>
+add a comment
+fix test failure
+remove unused imports
+fix a bug where <unk> was not used
+fix <unk> <unk>
+add javadoc for <unk>
+fix npe in detailsoverviewrowpresenter
+fix issue with <unk>
+fix <unk> <unk>
+fix <unk> on <unk>
+remove unused code
+ignore flaky <unk>
+remove override annotation
+add thread safety annotations for tachyon client
+fix a problem with the same port
+fix a bug where <unk> was not used
+fix a bug where a <unk> was not used
+fix a bug where the future would be used
+fix javadoc typo
+fix javadoc for <unk>
+disable default value for <unk>
+fix npe in <unk>
+don t show <unk> for non <unk>
+remove redundant modifier
+fix test on windows
+remove unused code
+add method to set the default value
+fix the build
+add a method to get a new method
+remove unused code
+remove unused code
+fix a typo in <unk>
+remove unused imports
+fix problem with <unk>
+remove debug message
+fix npe in place
+remove redundant override
+add database_version database_version to wordpressdb
+add <unk> for <unk>
+fix npe in command
+don t show file for non physical files
+remove unused code
+remove debug output
+fix npe in alarminfo
+remove debug logging
+remove redundant line
+fix <unk> <unk>
+fix npe in gitblit
+fix a bug where the <unk> was not used
+fix a test
+add missing javadoc
+fix npe in project manager </s>
+remove system out
+add <unk> to the wificonfiguration
+fix npe in <unk>
+fix the build
+remove unused import
+fix <unk> on ioresult
+fix npe in xmlhighlightvisitor
+add a new <unk> to the devicepolicymanager
+fix <unk> issue
+fix loginspector <unk>
+fix a bug where the <unk> was not being <unk>
+add <unk> to <unk>
+add test for <unk>
+fix a bug where the <unk> was not used
+fix log message
+don t show <unk> for <unk>
+don t show the popup if we have a project
+fix <unk> <unk>
+remove debug output
+add default operator to <unk>
+add missing break
+fix npe in <unk>
+add missing annotations
+remove unused code
+fix the build
+add worldprovider to worldprovider
+fix bug in sql
+add missing license header
+fix the build
+add <unk> to <unk>
+add missing license header
+remove debug output
+fix labels in <unk>
+fix issue with <unk> uri
+remove unused field
+fix javadoc for <unk>
+fix javadoc for mediaroutecontrollerdialog
+fix a bug where the panel would be <unk>
+add <unk> to htmlutil
+fix locale for <unk>
+fix javadoc for realmbase realmbase
+add <unk> to filteredblock
+fix a bug where the channel was not being <unk>
+fix quality flaw
+fix a crash when there is no need to be set
+fix the build
+remove unused imports
+remove deprecated methods
+fix test failure
+add test for <unk>
+fix the build
+fix <unk> test
+fix <unk> on <unk>
+fix npe in case of <unk>
+fix a small bug
+fix npe in hikaridatasource
+fix serve <unk>
+fix npe in <unk>
+fix <unk> <unk>
+fix copy paste error
+add missing method
+fix javadoc for <unk>
+fix a bug where a shard is not found
+add <unk> method
+fix onsubscribe <unk>
+add <unk> method
+remove unnecessary <unk>
+fix javadoc for <unk>
+fix a bug where <unk> would not be <unk>
+fix typo in <unk>
+remove unused import
+add test for invalid values
+add <unk> to <unk>
+add missing javadoc
+add getter for <unk>
+add a gservices setting for <unk> </s> </s> the settings
+remove unnecessary constructor
+remove redundant calls
+fix exception message
+fix javadoc for <unk>
+remove unused code
+fix npe in editorimpl
+remove redundant interface
+fix <unk> <unk>
+fix <unk> <unk>
+remove unnecessary comment
+fix a bug where bitmaptext would be <unk> would be <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix javadoc for configlist
+fix <unk> reset
+add tostring method to block
+add test for non null values
+fix a bug where the socket was not being used
+fix a typo in the <unk>
+remove unused code
+don t run file for non <unk> files
+don t use project file for non physical files
+remove unused code
+remove unnecessary call to <unk>
+remove deprecated code
+don t show all files in the parent
+fix cloudwatchmetricobserver <unk>
+fix networkstatsservice <unk>
+fix <unk> test
+add missing annotations
+fix <unk> issue
+remove unused method
+fix javadoc errors
+fix <unk> <unk>
+fix npe in packages
+fix npe in arraymemory
+remove final modifier from columnmetadata class
+fix <unk> <unk>
+fix a bug where atmospherehandler could be used in the atmospherehandler
+add test for <unk>
+remove unnecessary override
+fix javadoc for <unk>
+fix a bug where a <unk> would be used in the <unk>
+fix <unk> issue
+fix test failure
+fix issue with osmandplugin
+fix a bug where <unk> was not used
+remove debug output
+add requestparams <unk>
+add <unk> to <unk>
+fix test on windows
+fix a bug where the nn is not used
+remove unused import
+remove unused code
+fix test failure
+remove unused suppresswarnings
+remove unused import
+fix a bug where the project was not being used
+fix a bug where a <unk> was not being <unk>
+fix javadoc warning
+fix a crash in maincontroller
+remove unused method
+remove redundant line
+add lte to <unk>
+fix npe in pyunresolvedreferencesinspection <unk>
+fix a typo in tachyonconf
+fix javadoc for jsonvalue
+fix twabslayoutmanager <unk>
+fix wrong condition
+fix a bug where <unk> was not being <unk>
+fix a bug where linestring would be used with a <unk>
+fix license header
+remove unused method
+fix npe in psi module
+remove unused method
+fix npe in <unk>
+add more tests for <unk>
+fix tree names
+fix test failure
+remove unnecessary dependency
+add test for lambda lambda lambda
+fix npe in fis
+remove unused suppresswarnings
+fix <unk> <unk>
+add missing uriparam annotation
+add const <unk>
+fix broken test
+fix a bug in <unk>
+fix a bug in <unk>
+fix a typo in the <unk>
+fix npe in <unk>
+fix <unk> <unk>
+add <unk> to accounts
+don t show non public method
+fix a bug where the <unk> was not being <unk>
+fix <unk> in <unk>
+fix test on allowed
+add debug log message
+remove unused code
+fix the build
+fix npe in blockworkerclient
+don t create new project for <unk>
+make fc public
+add missing annotation
+add <unk> to seriesguidecontract
+remove unused code
+fix a typo in <unk>
+don t throw exception on project project
+add test for parseandmarshalmodelstestcase
+fix a bug in eventbus
+add logging on debug
+fix a crash when <unk>
+fix <unk> <unk>
+fix bug in <unk>
+add test for <unk>
+fix javadoc for <unk>
+add <unk> method
+fix npe in gitblit <unk>
+fix npe in empty <unk>
+fix issue with <unk>
+remove unused constant
+fix a bug where the response was not being used
+remove debug output
+fix passfactory in defaultpassconfig
+fix a bug where a <unk> was not being used
+fix a bug where the notification would be called when the activity is not used
+fix <unk> <unk>
+fix button not showing button on button
+fix a typo in <unk>
+fix npe in <unk>
+add axis axis axis
+remove unnecessary suppresswarnings
+don t show the dialog when the project is not used
+fix the build
+fix a bug where the user was not used
+fix npe in master shutdown
+fix <unk> to not use the default value
+fix npe in sitemap
+remove awaitsfix annotation
+remove unnecessary method
+fix npe in sslcertificatesocketfactory
+fix a bug where we can t get a call to <unk>
+fix typo in <unk>
+don t use problems for non <unk>
+add test for null values
+fix npe in <unk>
+fix typo in <unk>
+add a method to get the value
+fix readeractivity <unk>
+remove unused field
+remove unused imports
+fix a bug where sslhandler would be <unk>
+fix bug in <unk>
+fix javadoc warning
+remove unused code
+add a todo
+ignore test for now
+add objectmapper to <unk>
+add a todo
+fix npe in uploader
+fix npe in <unk>
+fix <unk> test
+fix <unk> to not use the default value
+remove unused imports
+fix <unk> error
+do not show <unk> on project
+fix a bug where the stream is not used
+fix a bug in <unk>
+don t show project if there is no project
+remove unnecessary code </s>
+add <unk> to <unk>
+remove unnecessary todo
+fix a bug where the default value was not used
+add <unk> to routers
+add missing license header
+don t use tags for tags
+fix <unk> on <unk>
+fix javadoc warning
+fix a bug where <unk> was not being <unk>
+fix <unk> <unk>
+don t show the dialog if not available
+fix <unk> <unk>
+remove unnecessary method
+add trace logging
+add <unk> method
+do not show type for non <unk>
+fix npe in settingsactivity
+remove printstacktrace from catch block
+remove unnecessary code
+remove redundant call to <unk>
+fix javadoc for <unk>
+fix recurrence method
+fix npe in <unk>
+fix applicationinfo <unk>
+add <unk> to <unk>
+remove unnecessary check
+add tostring method to <unk>
+remove unused imports
+add <unk> to peergroup
+don t show file for non <unk> files
+fix javadoc for drawablecompat
+fix copy paste error
+fix a bug where the <unk> was not used
+fix <unk> test
+remove redundant javadoc
+fix npe in evaluatorbuilderimpl
+fix powermanager <unk>
+add missing license header
+fix test failure
+fix <unk> <unk>
+fix npe in <unk>
+remove redundant comment
+fix bug in <unk>
+add missing annotations
+add trace logging
+fix javadoc for simplechannelinboundhandler
+fix exception message
+fix a bug where the default value was not used
+fix javadoc for <unk>
+fix a typo in the <unk>
+add <unk> to <unk>
+add <unk> method
+don t show project dialog for editor
+fix crash in <unk>
+fix a bug in <unk>
+fix listview crash when <unk> is not enabled
+fix <unk> <unk>
+add error message for plugin files
+fix a bug in the <unk>
+remove override annotation
+remove unused code
+fix npe in cfmetadata
+remove deprecated methods
+fix npe in <unk>
+fix <unk> <unk>
+add missing javadoc
+don t show file for non <unk> files
+add missing final modifier
+remove unused suppresswarnings
+fix <unk> <unk>
+add missing annotation
+add <unk> to <unk>
+fix the build
+add a todo
+remove findbugs warning
+fix a crash when <unk> is not present
+fix axolotlservice <unk>
+fix the build
+add tostring method to <unk>
+fix a bug in btreemap
+add <unk> to <unk>
+fix a typo in the <unk>
+add termlength and termlength
+fix <unk> on <unk>
+remove unused code
+add missing license header
+fix <unk> delete
+remove unused imports
+fix a bug where httpquery was not being used
+add <unk> to capture windows
+fix crash in <unk>
+fix widget for widget widget
+fix a bug where the <unk> was not being <unk>
+remove log message
+add <unk> to <unk>
+remove rendertasklistgenerator rendertasklistgenerator rendertasklistgenerator rendertasklistgenerator
+remove system out
+fix a bug where the notification could be used in a notification
+add missing license header
+fix <unk> for conversationfragment
+fix a bug where the <unk> was not used
+make markuptemplateengine public
+remove obsolete todo
+fix a bug where <unk> would be <unk>
+add tostring method to <unk>
+add <unk> method
+fix npe in <unk>
+add incubating annotation
+fix a bug where disklrucache would not be <unk>
+fix issues with test
+add <unk> to test
+remove unnecessary comment
+fix javadoc for <unk>
+fix a bug where the default button was not used
+fix a bug in the <unk>
+fix <unk> <unk>
+fix a bug where the task would not be <unk>
+fix the build
+fix the build
+add <unk> to <unk>
+remove deprecated method
+fix typo in <unk>
+fix compilation error
+fix a constructor
+add <unk> to the default value
+remove unused imports
+fix crash when <unk> is not enabled
+fix <unk> <unk>
+fix npe in h2odriver
+add hashcode to <unk>
+add <unk> to <unk>
+add <unk> method
+fix <unk> error
+remove unnecessary suppresswarnings
+remove unused method
+remove debug output
+don t show the <unk> if it is not enabled
+fix <unk> <unk>
+add <unk> to help if <unk> is not found
+add <unk> to <unk>
+fix a crash when the user is not set
+fix <unk> <unk>
+add a getter for the <unk>
+fix <unk> on windows
+add a comment
+remove unused method
+fix a bug where <unk> was not being <unk>
+fix npe in tracking
+fix the build
+fix npe in redwood
+fix test on windows
+add <unk> to <unk>
+add a comment
+fix npe in <unk> </s>
+remove unused method
+add test for query parameters
+fix a bug where the <unk> was not being <unk>
+fix a typo in the comment
+remove unused imports
+remove unused code
+fix a bug where <unk> was not being <unk>
+fix <unk> to use getchildren
+fix a bug where the connection could be closed
+remove unused imports
+fix linearlayout <unk>
+fix a bug where account is not used
+fix plugin path
+fix a bug where the <unk> was not being <unk>
+remove <unk> from intent
+fix <unk> <unk>
+do not show anonymous classes
+fix a bug where scalegesturedetector could be set
+fix javadoc typo
+fix <unk> on windows
+fix javadoc warnings
+add increment increment for <unk>
+fix a bug where the <unk> was not used
+fix index name in goog mode
+fix minor bug in ldapconnector
+fix javadoc warnings
+turn off debug
+add method to set the current thread
+remove unused imports
+fix maxsize <unk>
+fix search for search
+don t show file for completion files
+fix a bug where the <unk> was not being <unk>
+add httpheaders and constants
+updated version version
+add missing override annotation
+fix a typo in a comment
+fix a bug where the <unk> would be <unk>
+add test for <unk>
+add javadoc to <unk>
+fix getstring getstring getstring getstring
+don t use <unk> for overrideconfig
+fix <unk> icon
+don t show dialog for <unk> dialog
+fix npe in <unk>
+fix test for <unk>
+fix revision not getting a revision
+fix npe in <unk>
+add missing override annotations
+add a gservices setting for <unk>
+fix exception message
+fix a bug in the <unk>
+add test for <unk>
+fix a typo in <unk>
+fix javadoc typo
+remove extra extra line
+fix issue with <unk>
+fix npe in hazelcastparallelclassrunner
+fix settings for <unk>
+add a method to set a boolean
+fix typo in <unk>
+make movetoposition non final
+fix <unk> issue
+add <unk> to <unk>
+remove unused variable
+fix javadoc warnings
+fix project name
+fix npe in activity activityoptions
+fix test failure
+remove unused field
+fix npe in <unk>
+remove unused method
+fix a bug where asynchttpresponsehandler would not be called when <unk>
+remove unnecessary empty line
+fix config config config
+fix test failure
+fix npe in <unk>
+add support for <unk>
+turn off logging
+fix style issues
+fix bug in glm <unk>
+fix <unk> <unk>
+fix bug with <unk>
+make arscdecoder serializable
+remove unnecessary code
+fix npe in integrationtest
+fix npe in <unk>
+remove unused import
+fix <unk> <unk>
+remove unnecessary method
+ignore <unk> <unk>
+fix varcheck error
+add test for <unk>
+fix npe in validator
+remove redundant call
+add <unk> method
+remove unused code
+fix <unk> <unk>
+add skylarkcallable to the java doc
+fix npe in <unk>
+fix typo in <unk>
+add <unk> constant
+add support for <unk> with <unk>
+fix <unk> <unk>
+fix npe in <unk>
+fix javadoc warnings
+fix a bug where <unk> was not being used
+fix test on windows
+fix race condition in jobclient
+fix npe in <unk>
+fix a bug in psurfacejogl
+fix bug in requestarguments
+add documentation for mediastore
+fix javadoc typo
+fix <unk> error
+remove unnecessary suppresswarnings
+fix <unk> <unk>
+add default values to extractor
+remove the log message
+fix crash when using <unk>
+fix a bug where the parent is not used
+add a static method to get the current class
+add missing license header
+add test for <unk>
+fix a bug where the <unk> was not used
+remove unnecessary comment
+add test for <unk>
+fix npe in <unk>
+remove a todo
+fix test on windows
+add comment about <unk>
+fix a bug where the <unk> was not used
+add close method
+throw exception if no <unk> is found
+fix copy paste error
+fix <unk> <unk>
+fix a bug where the thread was not being used
+remove savedstate from floatingsearchview
+fix <unk> <unk>
+fix tfs <unk>
+fix javadoc for remembermeservices
+remove redundant annotation
+remove unnecessary cast
+add a constructor to <unk>
+add <unk> constant
+fix the build
+fix <unk> <unk>
+add binary method
+remove deprecated code
+add some logging
+do not show empty action in case of no project
+fix apppoller <unk>
+fix <unk> <unk>
+fix simplehttpprotocol to not use the correct resource
+remove debug output
+remove unused field
+fix a bug where a test would be used
+xmlslurper does not use the same method
+remove debug output
+fix a bug in <unk>
+add <unk> to <unk>
+add missing runwith annotation
+remove unused method
+remove unused field
+add missing broadcaster
+fix a bug where the <unk> was not being <unk>
+fix a bug where <unk> was not being <unk>
+add account_type method
+remove unused imports
+add <unk> to <unk>
+fix a bug in the app
+fix a bug where the <unk> was not being <unk>
+add <unk> to <unk>
+fix test on windows
+fix a bug in the <unk>
+add test for <unk>
+fix <unk> <unk>
+remove unused method
+fix <unk> <unk>
+add a method to get the block
+don t show empty lines
+fix npe in case of <unk>
+fix npe in case of <unk>
+fix npe in roster when no contact is present
+remove unused warning
+fix <unk> to use the correct key
+fix <unk> <unk>
+fix a typo in the <unk>
+hide empty icon when no <unk> is available
+fix boundingbox <unk>
+add test for <unk>
+fix npe in studydirectoryprojectgenerator
+do not show the default project if it is not available
+remove unnecessary method
+fix log message
+fix <unk> pattern
+fix javadoc typo
+add missing argument to <unk>
+don t show app dialog when the dialog is not enabled
+fix a crash when <unk> is not present
+remove unused code
+don t log the error when there is a message
+add <unk> to <unk>
+fix a bug in <unk>
+remove unused suppresswarnings
+fix npe in <unk>
+fix <unk> <unk>
+fix npe in <unk>
+remove debug logging
+fix commandpermissions <unk>
+fix crash when <unk> is not null
+remove unnecessary method
+fix <unk> config
+fix <unk> <unk>
+remove unused code
+fix a bug where the last commit was not used
+remove unnecessary comment
+remove unused method
+fix javadoc warning
+fix npe in <unk>
+remove debug code
+fix the build
+add a little bit more <unk>
+add <unk> to <unk>
+add check for null values
+fix <unk> for <unk>
+add <unk> to <unk>
+fix bug in <unk>
+fix a couple of warnings
+add missing annotations
+fix a bug where <unk> would not be <unk>
+fix npe in <unk>
+ignore <unk> for now
+add more logging
+fix a bug where the default
+add error message for <unk>
+remove obsolete comment
+add test for <unk>
+fix issue on <unk>
+fix <unk> <unk>
+add method to get the default data
+fix a typo in <unk>
+fix typo in <unk>
+add touchevent helper method
+remove unused field
+fix npe in <unk>
+add debug message
+remove debug output
+remove unused method
+don t show isreadaccessallowed on startup
+fix bug in code
+remove unused import
+fix npe in <unk>
+fix <unk> issue
+remove unused method
+fix javadoc typo
+fix the build
+add missing annotations
+remove unused code
+fix <unk> <unk>
+remove unused warning
+fix npe in score <unk>
+fix accessibletoast method
+add <unk> <unk> method
+add httpheaders get get
+remove debug code
+remove unused code
+remove debug logging
+add <unk> method
+fix <unk> <unk>
+fix <unk> <unk>
+remove unused code
+fix compile error
+fix a bug where the <unk> was not used
+add some comments
+fix typo in comment
+fix a bug where the client was not being used
+fix npe in the <unk>
+fix a bug where the <unk> would be <unk>
+fix error message
+remove unnecessary code
+fix npe in case of <unk>
+add <unk> to hide <unk>
+fix a bug where the current release was not closed
+fix a bug where <unk> was not showing
+remove unnecessary method
+fix views <unk>
+fix <unk> <unk>
+fix <unk> bug
+add a sleep to <unk>
+remove unused import
+fix issue on <unk>
+fix a bug where a <unk> was not being remove
+remove unnecessary call to <unk>
+don t log <unk> when <unk>
+remove unused imports
+fix <unk> <unk>
+add <unk> to <unk>
+add logging for <unk>
+add javadoc for x509certificate
+fix <unk> <unk>
+fix npe in case of <unk>
+fix test case
+fix buildruletype <unk>
+don t show document if there are no psi is a file
+remove redundant call to <unk>
+fix <unk> to use the correct value
+fix npe in <unk>
+fix the build
+fix websocket test
+don t show project for <unk>
+remove unnecessary method
+fix npe in read action
+fix npe in <unk>
+add menu menu menu to <unk>
+add <unk> to <unk>
+fix <unk> to not use the same value
+add <unk> to <unk>
+don t use a static method
+fix a bug where the app was not being updated
+fix a bug where <unk> would not be <unk>
+add mediastore mediastore to mediastore
+fix <unk> <unk>
+add <unk> method
+fix the build
+fix <unk> not showing the <unk>
+add more logging
+fix bug with <unk>
+fix a bug where the app was not used
+fix npe in <unk>
+fix tests on windows
+fix <unk> <unk>
+fix javadoc typo
+fix npe in <unk>
+fix <unk> <unk>
+fix javadoc for metricname
+fix <unk> <unk>
+remove unnecessary comment
+remove <unk> from helpshift
+fix a typo in the comment
+remove unused constants
+remove unnecessary code
+fix a bug where the user was not used
+add a comment
+add <unk> to <unk>
+fix a bug where the <unk> was not being used
+fix a bug where the <unk> was not being <unk>
+fix build break
+fix test on windows
+add javadoc to metadata
+fix a bug where the onrestoreinstancestate would be <unk>
+remove unnecessary call
+add a comment
+fix a bug where the image is not used
+remove unnecessary method
+remove unnecessary method
+fix a bug where thumb could not be <unk>
+fix javadoc for <unk>
+add javadoc to <unk>
+fix typo in <unk>
+fix npe in viewoverlay
+fix npe in menu
+add missing method
+fix title title
+fix abstractcontentresponsehandler <unk>
+add test for <unk>
+fix minor bug in case of null pointer exception
+fix a bug in <unk>
+catch throwable when a throwable is not found
+fix a bug where model was not being used
+fix npe in <unk>
+add nodeextension to avoid <unk>
+fix javadoc warning
+remove unneeded <unk>
+fix test on windows
+add <unk> to <unk>
+fix <unk> close
+fix a typo in a message
+remove unused method
+fix typo in <unk>
+fix <unk> root
+don t show python python files in tests
+fix a bug where the channel was not being <unk>
+add missing group
+add missing javadoc
+fix <unk> on <unk>
+fix generated generated generated code
+add check for the file path
+add check for null values
+remove unused imports
+add <unk> to <unk>
+fix <unk> <unk>
+fix test on windows
+add default method to <unk>
+remove unused method
+fix npe in <unk>
+fix the build
+fix a typo in a comment
+ignore test that is not used
+fix a constructor
+fix <unk> <unk>
+add a comment
+fix a bug where the <unk> would not be <unk>
+fix <unk> in <unk>
+add missing annotations
+fix <unk> on <unk>
+fix javadoc warnings
+add test for <unk>
+fix a bug where the stream is not used
+fix npe in <unk>
+fix <unk> error
+fix javadoc for <unk>
+add <unk> <unk> to <unk>
+remove unused icon
+fix a bug in dexbackeddexfile where it was not used
+fix a crash in plugin
+remove redundant setting
+remove redundant call to sqlitedatabase
+fix a bug where the client was not being <unk>
+fix a bug where a new node was not used
+add a tostring method to <unk>
+fix <unk> for <unk>
+remove unused field
+fix <unk> <unk>
+remove redundant public modifier
+fix npe in <unk>
+fix test on windows
+add <unk> to opcode
+fix test failure
+remove unused field
+remove unused method
+fix npe in compilationunit
+fix typefactory of typefactory
+add missing methods
+remove redundant line
+fix a bug where the <unk> was not used
+fix typo in <unk>
+fix a bug where the uri does not set the uri
+fix typo in <unk>
+don t show semaphore for <unk>
+fix a bug where the repaint was not being used
+remove unused method
+remove debug output
+add test for windows
+fix closestream
+fix bug in configuration <unk>
+don t show app on app
+fix <unk> <unk>
+fix <unk> <unk>
+fix random test
+add searchsourcebuilder method
+add <unk> for <unk>
+fix npe in fragmentmanagerimpl <unk>
+add missing runwith annotation
+fix bug in <unk>
+add missing license header
+fix test on windows
+fix a bug where the <unk> was not used
+fix <unk> <unk>
+add <unk> to show action
+fix a bug where the <unk> was not used
+add javadoc to <unk>
+add test for <unk>
+add logging on exception
+fix issue on binding
+remove unused code
+remove unused method
+add <unk> to upgrade
+add javadoc for <unk>
+fix test on windows
+remove unused code
+fix a crash when the animation is not used
+fix <unk> <unk>
+add missing annotations
+remove unused field
+add safevarargs to tree
+remove unused imports
+remove unused method
+don t use captured type for <unk>
+remove debug output
+fix javadoc typo
+fix npe in httplogginginterceptor <unk>
+fix a bug where the <unk> was not closed
+add awaitsfix to abstractsharedclustertest
+add missing annotations
+fix javadoc typo
+add javadoc for <unk>
+fix the build
+fix npe in <unk>
+fix subject authenticate method
+fix <unk> <unk>
+remove deprecated code
+fix empty list
+android update wxsdkinstance java
+fix javadoc typo
+add <unk> to the default value
+fix a typo in secondaryreadtest
+remove unused method
+fix a crash in conversationfragment
+remove warning message
+add <unk> to new <unk>
+fix ephemeralfilesystemabstraction <unk>
+fix test case
+fix npe in view <unk>
+remove unnecessary override
+fix a bug where view could be called when the view is not used
+fix <unk> on windows
+add missing imports
+fix javadoc typo
+remove redundant default value
+remove unused code
+fix a bug where a user was not being remove
+fix enum values
+fix <unk> <unk>
+remove unused method
+fix bug in <unk>
+remove unused field
+fix npe in <unk>
+remove unused code
+don t show project for project files
+do not show project icon if project is not available
+remove unused field
+remove unused method
+remove unnecessary override
+remove unnecessary code
+add <unk> to <unk>
+fix <unk> <unk>
+fix a bug where the <unk> was not used
+fix crash in <unk>
+remove unused method
+remove unused imports
+remove unused code
+remove unnecessary code
+fix javadoc typo
+fix a bug where the local file was not being used
+fix javadoc typo
+fix crash in <unk>
+add a todo
+fix <unk> <unk>
+remove unused code
+don t show empty psi for <unk>
+add a test for the <unk>
+fix a bug where a request was not being called
+fix a bug where the notification was not used
+fix npe in abstractajaxcallback
+fix javamode close
+fix javadoc of <unk>
+remove unused constant
+don t show the default value for the current editor
+add missing <unk> method
+fix npe in loader </s> </s> </s> </s> not null
+fix <unk> <unk>
+fix typo in osmandmonitoringplugin
+fix npe in <unk>
+add missing license header
+remove unnecessary method
+fix maven tests
+fix <unk> <unk>
+don t show empty lines
+fix the build
+fix test on windows
+fix findbugs warning
+add fileinputformat to <unk>
+fix a crash when the activity is not used
+fix <unk> <unk>
+fix tostring method
+remove unused imports
+fix a bug where a default value was not used
+remove unused field
+remove unused code
+fix setitem <unk>
+add <unk> method
+fix npe in <unk>
+remove printstacktrace from udpchanneltransport
+fix a bug where the <unk> was not used
+fix typo in <unk>
+fix <unk> <unk>
+don t use <unk> for <unk>
+fix test case
+remove log message
+add test for different test
+fix npe in view <unk>
+remove unused method
+remove unused import
+fix swiperefreshlayout <unk>
+add a couple of <unk> and exprnodedesc
+add check for null values
+fix the build
+remove unused import
+add updatecount to <unk>
+fix npe in android
+fix npe in cherry pick
+fix broken test
+remove unused method
+add a convenience method to pvector
+add documentation for <unk>
+fix npe in <unk>
+fix a bug where the <unk> was not used
+add version version to <unk>
+add <unk> to <unk>
+fix <unk> shutdown
+fix <unk> <unk>
+fix javadoc for <unk>
+fix npe in thriftutils
+remove unused field
+remove debug print
+fix javadoc for <unk>
+add tostring method to connectionid
+don t show conditions in <unk>
+fix <unk> <unk>
+fix npe in <unk>
+don t show type for non non <unk>
+fix a crash when the ime is not null
+fix <unk> on exit
+fix npe in <unk>
+fix a bug in <unk> where it was not used
+fix <unk> issue
+remove debug log message
+remove nullable annotation
+remove debug logging
+fix a bug where the uri was not used
+fix a bug where a message was not used
+fix npe in <unk>
+fix npe in serverfactory
+remove unused method
+add <unk> <unk>
+remove debug output
+fix npe in audiovideonotesplugin
+fix npe in string9
+add method to get base base base base
+remove redundant code
+add missing incubating
+add <unk> to nodetool
+fix test on windows
+fix a bug where <unk> would be <unk>
+fix a bug where we can t get the current item
+fix <unk> to use the correct argument
+fix a bug where the reconnect was not used
+add a little bit more info to avoid <unk>
+completion should not be <unk>
+fix the build
+add <unk> method
+fix a bug where stream does not get any resource
+add <unk> method
+fix npe in <unk>
+fix a bug in the <unk>
+add a little bit more info
+don t show <unk> for empty completion
+fix test on windows
+fix npe in find usages
+fix javadoc typo
+remove unused code
+fix a bug where the <unk> was not used
+fix npe in <unk>
+fix <unk> to not use the default value
+fix a crash in <unk>
+add method to get a static method
+fix the build
+add missing annotations
+add <unk> and <unk>
+add missing license header
+fix test failure
+remove unused code
+add a todo
+add <unk> method
+add <unk> method
+add missing license header
+fix npe in <unk>
+add javadoc to <unk>
+fix javadoc warnings
+fix npe in <unk>
+fix javadoc warnings
+fix test on windows
+fix npe in <unk>
+add todo for <unk>
+fix a bug where the <unk> was not used
+fix npe in replayingdecoder
+fix a bug where the <unk> was not used
+add <unk> to the <unk>
+fix textview <unk>
+fix npe in <unk>
+fix <unk> pattern
+fix <unk> <unk>
+fix typo in <unk>
+fix javadoc typo
+fix npe in case of <unk>
+add <unk> to <unk>
+fix test failure
+do not show groovy type for java classes
+add runwith annotation
+add <unk> and <unk> to <unk>
+remove _x from rapids
+add more debug logging
+fix <unk> to use the correct default path
+fix a bug where a root was not being used
+ignore <unk> test
+fix npe in activitymanager <unk>
+remove debug output
+fix npe in <unk>
+fix <unk> <unk>
+fix a bug where the default value was not used
+fix the build
+add <unk> method
+remove deprecated methods
+make testingprestoserver field final
+fix npe in structure
+fix <unk> on windows
+fix <unk> <unk>
+fix <unk> <unk>
+add missing license header
+fix a bug where the <unk> was not used
+fix <unk> on <unk>
+don t show <unk> for <unk>
+remove debug output
+fix <unk> <unk>
+fix npe in preferenceactivity
+fix <unk> in <unk>
+fix a typo in <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix a crash in the contact list
+fix a crash when the message is not used
+remove unnecessary logging
+add <unk> method
+fix a typo in the exception message
+remove unused import
+fix a bug where the contact was not being called when a contact is not present
+fix npe in <unk>
+add some javadoc
+fix npe in case of errors
+fix <unk> <unk>
+fix <unk> on <unk>
+fix npe in <unk>
+add a method to get the connection
+remove unnecessary synchronization
+make <unk> protected
+fix npe in <unk>
+don t show default source for non <unk>
+remove unused method
+remove deprecated methods
+fix javadoc for <unk>
+fix npe in <unk>
+fix javadoc typo
+fix a bug where wallet was not being used
+fix the build
+fix mimeheader <unk>
+remove debug logging
+add <unk> method
+add beta annotation to escaper
+fix <unk> <unk>
+don t show local mode when there are no app
+fix error message
+add a new default value for the default setting
+fix npe in tomcat
+remove unnecessary code
+fix <unk> <unk>
+add missing license header
+fix javadoc warning
+remove unused field
+fix the build
+fix test on windows
+remove unnecessary super call
+fix <unk> <unk>
+fix <unk> <unk>
+fix <unk> issue
+remove debug output
+remove unnecessary logging
+add a serialversionuid method to get the name of the class
+fix <unk> to use the correct objectfactory
+fix a bug in <unk>
+remove unnecessary pop
+remove unused method
+remove unnecessary comment
+fix crash in particleemitter
+don t show default project if there are no project
+remove unused suppresswarnings
+add missing method
+add missing license header
+remove unused class
+remove unused import
+fix npe in <unk>
+fix a bug where <unk> would throw exception
+fix a bug where a <unk> was not being <unk>
+fix typo in <unk>
+fix logging level
+fix feedrefreshtaskgiver shutdown
+add support for application application application
+fix javadoc warning
+remove debug output
+fix worldedit <unk>
+remove unused method
+fix a bug where the <unk> is not used
+fix a couple of findbugs warnings
+fix npe in syncmanager
+fix issue with <unk> and <unk>
+fix <unk> <unk>
+remove unused field
+fix test on windows
+add <unk> to displayutils
+add a static method to mathutils
+fix javadoc typo
+fix <unk> <unk>
+fix a bug where the current time was not used
+fix <unk> <unk>
+add <unk> method
+fix <unk> <unk>
+fix a bug where the encoding_pcm_16bit was not used
+remove unused constructor
+fix npe in <unk>
+remove debug output
+fix <unk> <unk>
+fix npe in configureutil
+remove unused method
+fix the build
+don t show <unk> for <unk>
+fix a bug where the current time was not being called
+remove unused suppresswarnings
+fix a bug where the <unk> was not being <unk>
+add <unk> to <unk>
+remove unused import
+add setter to <unk>
+fix javadoc errors
+add <unk> to the default value
+fix the build
+fix bug in authenticatoractivity
+add jserror <unk>
+remove <unk> suppresswarnings
+fix bug on <unk>
+fix a bug in tachyonconf
+fix npe in different exception message
+fix bug in <unk>
+fix javadoc for <unk>
+fix a bug in yield
+fix typo in pvector lerp
+fix npe in case of no session
+fix <unk> <unk>
+remove debug code
+fix equals method
+add more logging
+add <unk> to <unk>
+fix cachedir java
+remove redundant constructor
+add runwith annotation
+fix the build
+fix a bug where the post was not being updated
+fix <unk> <unk>
+fix <unk> <unk>
+ignore failing test
+fix userstate <unk>
+fix <unk> to return null
+add override annotations
+fix <unk> <unk>
+don t show sdk on sdk
+fix npe in <unk>
+do not show file for project files
+fix npe in refactoring
+remove unused imports
+fix <unk> <unk>
+fix a bug in the widget
+add default value for default log
+fix javadoc warning
+add validator to validator
+remove unused method
+add missing javadoc
+add <unk> to <unk>
+add a comment
+don t show <unk> for all files
+add missing method
+add more logging
+remove obsolete todo
+add a comment
+fix a bug in <unk>
+fix npe in <unk>
+fix exception message
+fix test on windows
+fix npe in <unk>
+fix the build
+fix columntype test failures
+add default value for multi multi multi multi multi multi multi multi multi multi multi default
+fix timetools <unk>
+add test for <unk>
+fix <unk> in <unk>
+add a comment
+fix test failure
+remove override annotations
+remove unnecessary cast
+fix upload upload
+fix offset in blocktype
+add support for scripttype in mongodbriver
+fix a bug where the default value was not <unk>
+fix a bug where the socket was not being used
+add <unk> to allow <unk> to be used in the <unk>
+remove unnecessary method
+fix a bug where the <unk> was not being updated
+fix <unk> <unk>
+fix <unk> <unk>
+fix javadoc typo
+add test for nfsfilevec
+fix javadoc warning
+add a comment
+fix unit test
+fix issue with <unk>
+add missing check
+remove unnecessary code
+fix some <unk>
+don t show <unk> on mac
+fix typeface <unk>
+fix <unk> <unk>
+fix a bug where the same time was not used
+fix <unk> <unk>
+fix <unk> <unk>
+fix test failure
+add roster <unk>
+fix <unk> <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix npe in <unk>
+remove debug output
+remove unused method
+add <unk> to <unk>
+fix a bug where the <unk> was not used
+fix a warning
+remove unused method
+fix the bug in <unk>
+fix ciphersuiteconverter replace
+fix <unk> <unk>
+fix npe in <unk>
+remove redundant call
+fix the copy paste error
+fix javadoc warning
+fix the build
+fix <unk> on windows
+add trace for <unk>
+fix npe in <unk>
+don t show <unk> on empty lines
+fix npe in overrideimplementutil
+remove unused import
+remove unused method
+remove unnecessary log
+fix a bug where the <unk> was not used
+add <unk> to <unk>
+add ordered and <unk>
+remove log message
+fix <unk> <unk>
+fix npe in shutdownthread
+add null check for user
+do not log the exception
+remove unnecessary method
+fix <unk> <unk>
+fix a bug where a tagdata was not being used
+fix a bug where the <unk> was not being <unk>
+fix <unk> <unk>
+fix tests for <unk>
+fix a bug in capsule <unk>
+remove unused constants
+remove unneeded todo
+fix a bug where the notification is not used
+fix failing test
+fix a bug where the server was not being used
+fix npe in <unk>
+make sure we can t shutdown the daemon shutdown on the <unk>
+fix drawable drawable
+fix a bug where the default value was not used
+fix javadoc for <unk>
+fix a bug in <unk>
+fix npe in <unk>
+fix test on windows
+add <unk> to filestorageutils
+remove unused code
+add <unk> to hide the config </s>
+fix <unk> issue
+fix a typo in the hashtable
+remove a todo
+fix a typo in <unk>
+fix the build
+fix a bug where the default value was not being used
+fix typo in javadoc
+remove unnecessary comment
+remove unused imports
+don t show action for <unk>
+remove debug code
+fix menucontroller method
+fix a bug where the activity could be used
+remove redundant call
+fix a bug where the <unk> was not used
+remove unused import
+fix a bug where the <unk> was not used
+add some javadoc
+fix a typo in <unk>
+fix a bug where the <unk> was not used
+add major method to allow <unk> to be used
+fix wifi <unk>
+fix <unk> <unk>
+fix a bug where the <unk> would be <unk>
+fix javadoc for <unk>
+fix npe in global stop
+add <unk> to upgrade message
+don t show empty lines
+fix a bug where the <unk> was not used
+ignore test that fails on ci
+add headers to response
+fix a typo in the <unk>
+remove unused import
+fix <unk> <unk>
+add <unk> method
+fix npe in <unk>
+fix a bug where the header was not used
+add player <unk>
+add <unk> method
+fix npe in <unk>
+add javadoc for <unk>
+fix <unk> <unk>
+fix a bug where the <unk> was not used
+ignore test that fails to be used in the test
+fix bug in <unk>
+fix test failure
+remove unused import
+remove unused field
+fix npe in <unk>
+add javadoc for app app app
+fix issue with <unk>
+remove unnecessary override
+fix a bug where the <unk> was not used
+remove unused imports
+fix crash when showing a list
+fix typo in constant name
+remove unused field
+fix <unk> <unk>
+fix renderer to use the same renderer
+fix test failure
+remove redundant method
+fix npe in <unk>
+fix npe in case of userobject
+fix npe in implement <unk>
+add <unk> to <unk>
+fix <unk> <unk>
+remove unused logger
+remove obsolete todo
+add some javadoc
+fix some quality flaws
+remove unnecessary method
+fix a crash in the activity
+fix bug in <unk>
+add a getter for the component
+fix the build
+remove unnecessary call
+fix npe in controller
+fix apppoller <unk>
+fix <unk> <unk>
+fix a bug where <unk> was not being passed to the <unk>
+fix javadoc warnings
+add a comment
+fix javadoc warning
+fix a typo in the <unk>
+fix javadoc typo
+fix xmltokentype method
+remove unused code
+fix a typo in <unk>
+add missing license header
+move <unk> to the correct package
+fix hbase detection
+don t show project for project files
+remove debug output
+fix the build
+fix a bug in basequerytestcase
+fix <unk> <unk>
+add <unk> method
+remove unused field
+fix javadoc typo
+don t show empty psi in <unk>
+add a method to set the default value
+remove unnecessary ln import
+add constants for <unk>
+remove unnecessary code
+add missing license header
+remove unused code
+remove unused method
+fix the build
+android update <unk> java
+fix a bug where the <unk> was not used
+fix a bug where the <unk> was not the <unk>
+fix issue on a <unk> with a <unk>
+fix bug in <unk>
+remove unnecessary suppresswarnings
+fix <unk> <unk>
+fix <unk> <unk>
+fix issue with <unk>
+add xml validation for <unk>
+fix <unk> <unk>
+don t show selection on selection
+make expressiondefinition <unk> public
+fix the build
+fix the build
+fix npe in <unk>
+add <unk> method to fragmentmanagerimpl
+remove unused method
+fix npe in <unk>
+fix <unk> <unk>
+remove deprecated methods
+fix test failure
+add missing javadoc
+fix test failure
+fix a bug where we can t get a activity
+fix <unk> to use <unk>
+remove unnecessary suppresswarnings
+fix resourceloader <unk>
+fix the <unk>
+fix <unk> <unk>
+fix the build
+fix <unk> <unk>
+fix restrictedlockutils npe
+remove unused import
+remove unnecessary method
+fix a bug where the <unk> was not being <unk>
+fix a crash in <unk>
+fix compile error
+fix <unk> <unk>
+add <unk> to new session status
+fix a bug where <unk> was not used
+fix <unk> test
+fix a typo in <unk>
+fix npe in androidsdk
+fix npe in <unk>
+remove unused method
+remove unused suppresswarnings
+fix npe in <unk>
+fix compilation error
+fix a bug where the request was not being used
+remove unused logger
+fix javadoc typo
+remove unused comment
+remove unused method
+remove unused code
+fix test on windows
+remove unused code
+fix a bug where a <unk> would have a <unk>
+fix npe in <unk>
+ignore the test for now
+fix <unk> test
+fix npe in <unk>
+fix a typo in the <unk>
+remove unused field
+fix npe in <unk>
+fix crash in <unk>
+don t show module for module module
+fix <unk> <unk>
+add <unk> to beaconmanager
+fix javadoc for <unk>
+add a check for <unk> and <unk>
+fix bug on creation of orient
+remove unused warning
+fix npe in <unk>
+fix <unk> <unk>
+remove some todos
+don t show <unk> for <unk>
+remove unused method
+remove unnecessary log
+remove unused field
+remove redundant final modifier
+add a method to get a release
+add <unk> to uiutil
+fix <unk> <unk>
+fix <unk> <unk>
+fix npe in debug mode
+fix findbugs warning
+fix the build
+fix the test error of <unk>
+fix javadoc warning
+remove unused imports
+fix <unk> <unk>
+add example example to app app app app app app app
+add missing license header
+fix npe in <unk>
+add a method to retrieve the <unk>
+fix <unk> <unk>
+fix bug in mobiledatastatetracker
+fix test failure
+fix the build
+fix a bug in <unk>
+remove unnecessary method
+fix test failure
+fix default settings for <unk>
+fix npe in case of error
+add test for connect
+remove unused imports
+add <unk> constant
+fix npe in <unk>
+fix a bug in <unk>
+fix minor race condition in spdyconnection
+add <unk> to the testcipher
+fix syntaxerror <unk>
+fix npe in case of <unk>
+remove forcelayout from terminalpane
+add comment on <unk>
+remove unnecessary code
+add suppresslint method to <unk>
+remove unused code
+fix ssrbundle ssrbundle test
+fix the build
+add missing writenumberfield
+remove unused code
+add debug logging
+fix incorrect code for java files
+fix <unk> on <unk>
+fix <unk> <unk>
+add some javadoc
+fix error handling in <unk>
+add missing check for <unk>
+don t show <unk> on <unk>
+fix npe in <unk>
+add missing license header
+fix the build
+fix test on windows
+fix cursors <unk>
+add a comment
+remove log message
+fix npe in the <unk>
+add test for <unk>
+add a method to get the default value
+remove dead code
+move <unk> to the correct package
+remove unused import
+don t use <unk> for <unk>
+fix broken test
+fix test failure
+fix failing test
+don t show show menu on show
+add <unk> <unk> to <unk>
+don t show file for <unk>
+fix javadoc typo
+fix error message
+remove printstacktrace from logmessageex
+fix npe in sqlitecursor
+fix <unk> <unk>
+fix a bug where the repaint was not used
+fix privacyservice leak
+fix a typo in the comment
+make default duration public
+add <unk> to protocolnames
+remove unused import
+remove debug output
+add comment to <unk>
+add default property to get the default value
+fix customviewabove <unk>
+fix javadoc typo
+fix javadoc warnings
+remove unused method
+fix requestprocessor <unk>
+remove unnecessary comment
+fix a bug where the activity would be called when the activity is not called
+fix typo in <unk>
+add test for sqlactionexception
+add a new <unk> method
+add javadoc to <unk>
+fix a bug where <unk> would be <unk>
+remove debug output
+fix javadoc for <unk>
+add helper to set response
+add tostring method to <unk>
+fix javadoc warnings
+fix issue with <unk>
+remove unused method
+add binding to <unk>
+fix <unk> on windows
+remove unnecessary check
+fix <unk> <unk>
+add support for <unk>
+fix npe in case of <unk>
+fix npe in <unk>
+add <unk> to hide <unk>
+fix npe in inspect <unk>
+fix test failure
+remove unused method
+add <unk> and <unk>
+fix a bug where the filedoesnotexistexception block is not used
+turn off logging
+add support for <unk>
+add <unk> method
+remove unused imports
+fix a bug where the <unk> was not being <unk>
+remove unnecessary todo
+add <unk> to <unk>
+remove unused suppression
+remove unused imports
+fix javadoc errors
+fix a bug where the code was not used
+add <unk> to obtain the <unk> from the <unk>
+fix npe in <unk>
+add a comment
+add <unk> to <unk>
+remove unused code
+remove unused field
+fix <unk> to use the correct file
+fix javadoc for <unk>
+remove redundant comment
+fix <unk> <unk>
+android update wxlistcomponent java
+make <unk> volatile
+remove unneeded cast
+fix windows windows
+fix crash in view <unk>
+fix <unk> <unk>
+add <unk> to aboutdialog
+fix coordinatorlayout <unk> <unk>
+fix <unk> <unk>
+add some more logging
+remove unused code
+remove unnecessary volatile modifier
+fix compile error
+remove extra log message
+remove unnecessary method
+fix <unk> <unk>
+fix test on <unk>
+fix npe in parse parse
+fix serializer usage
+fix <unk> <unk>
+fix the build
+fix bug in <unk>
+fix npe in cuboidregion <unk>
+remove unused code
+add <unk> method
+don t show type for type
+fix a bug where the <unk> was not being <unk>
+remove obsolete todo
+fix a bug where the <unk> would have been remove
+remove unused field
+fix test on windows
+fix the build
+fix bug in <unk>
+fix javadoc for <unk>
+fix npe in getserver
+add <unk> to <unk>
+remove deprecated code
+remove unnecessary comment
+remove debug code
+fix <unk> test
+remove unused method
+fix <unk> <unk>
+fix a bug where the <unk> was not used
+add setdirection setdirection method
+fix <unk> <unk>
+add trace logging
+fix javadoc typo
+fix a bug where a <unk> would be used in the <unk>
+remove unused field
+fix <unk> <unk>
+add a method to get the server from the same time
+fix a bug where the <unk> was not used
+fix <unk> <unk>
+fix test on windows
+fix a bug where the default popup would be <unk>
+fix <unk> <unk>
+remove unused imports
+fix a bug where <unk> was not being used
+add tostring method to expressionstatement
+fix a bug where we can t get the connection
+remove unnecessary null check
+add test for null values
+remove debug output
+remove obsolete todo
+fix <unk> <unk>
+fix a bug where the <unk> was not used
+add a comment
+remove debug output
+fix <unk> <unk>
+fix quality flaw
+fix a bug where the account is not null
+fix numberpicker <unk>
+fix test on windows
+fix race condition in <unk>
+fix a bug where the tagdata was not being <unk>
+remove redundant modifier
+remove unnecessary method
+remove unnecessary code
+fix <unk> to use locale
+add hashcode to <unk>
+remove unnecessary log
+add checkreturnvalue to range
+fix a bug where the literal is not used
+remove unused code
+add missing license header
+add <unk> to the <unk>
+fix <unk> to be <unk>
+fix <unk> <unk>
+fix test on windows
+remove unused field
+fix npe in <unk>
+remove unused import
+fix desktopassetmanager desktopassetmanager
+add javadoc for abstract example
+fix javadoc for compileroptions
+add tostring method to crouton
+don t show project for project files
+add default value for <unk>
+fix npe in <unk>
+fix the build
+fix npe in the <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix npe in contactdetail <unk>
+fix npe in case of no uri
+fix javadoc typo
+fix test case
+add a comment
+add a method to get a list of a list
+fix the build
+add constructor that takes a string
+fix issue with <unk>
+fix typo in <unk>
+fix crash in <unk>
+add default value to the <unk>
+fix <unk> <unk>
+add check for null values
+fix npe in <unk>
+add <unk> to sqlservertemplates
+remove unused method
+fix npe in abstracttreenode
+remove debug output
+fix <unk> <unk>
+fix the build
+fix a bug where we don t have a delete
+add test for <unk>
+fix javadoc for <unk>
+remove deprecated code
+fix a bug where the default value was not used
+add missing annotations
+fix javadoc typo
+fix test on windows
+remove unused suppresswarnings
+fix javadoc for <unk>
+add missing annotations
+fix test failure
+fix test on windows
+fix quality flaw
+add missing license header
+fix the build
+fix a bug where the <unk> was not being <unk>
+remove unused code
+add <unk> method
+fix npe in bridgecontext
+fix the build
+fix crash in <unk>
+fix crash when no <unk> is present
+make <unk> final
+add <unk> method
+add missing override annotation
+don t show empty element
+don t show completion for completion
+add a todo
+remove unused field
+remove unused method
+remove redundant code
+remove unused code
+add <unk> to <unk>
+remove unused field
+fix a bug where a <unk> was not being <unk>
+fix a bug where <unk> would be passed to the <unk>
+add <unk> to <unk>
+add <unk> to <unk>
+don t show document in <unk>
+add more logging
+fix quality flaw
+fix a bug in <unk> </s> </s> </s>
+add javadoc to javadoc
+fix a bug where a race condition would close the exception
+fix javadoc for <unk>
+fix <unk> to not close the <unk>
+fix <unk> <unk>
+remove unnecessary cast
+remove unused field
+fix test on windows
+remove unused function
+do not show empty files
+fix fluid <unk>
+fix a typo in <unk>
+remove unused code
+add <unk> to <unk>
+make <unk> serializable
+fix a test error
+add <unk> to leg
+fix a bug where the current thread is not used
+fix a bug where <unk> would not be <unk>
+fix npe in <unk>
+add javadoc to <unk>
+fix a bug where the <unk> was not used
+fix a typo in the <unk>
+fix timestamptype getname
+fix empty highlightertargetarea
+remove unused method
+fix <unk> <unk>
+fix npe in <unk>
+add test for <unk>
+fix <unk> on windows
+fix a bug where the trace was not being <unk>
+add a method to <unk>
+fix npe in <unk>
+fix npe in <unk>
+fix product product
+fix <unk> for <unk>
+fix error message
+remove unused field
+remove debug code
+add missing runwith annotation
+remove unused suppresswarnings
+fix test failure
+remove some commented code
+fix a typo in the <unk>
+fix userstate userstate <unk>
+add unit test for a unit test
+fix javadoc warnings
+add missing javadoc
+fix default image for default image
+add parent method
+add a method to get the right image
+fix a bug where <unk> would cause a crash
+fix <unk> for <unk>
+reset <unk> on <unk>
+fix npe in browsefragment
+fix powermanager powermanager
+fix <unk> <unk>
+add <unk> to pulltorefreshbase
+fix a bug where a default value was not being used
+fix a bug in queuedthreadpool
+fix npe in <unk>
+fix npe in <unk>
+add missing license header
+add <unk> to <unk>
+fix <unk> <unk>
+remove debug output
+add a comment
+add null check
+fix a bug in <unk>
+fix issue on windows
+fix failing test
+fix a bug where the method was not used
+remove unused field
+fix test on windows
+do not show project if not available
+fix npe in hashcollisionnode
+fix <unk> on windows
+fix a typo in wallet
+don t show <unk> for <unk>
+fix npe in global <unk>
+remove redundant comment
+fix <unk> <unk>
+fix javadoc for <unk>
+fix npe in <unk>
+fix <unk> on windows
+remove unused method
+remove unused imports
+remove unnecessary constructor
+add a method to encodedimage
+remove unneeded comment
+fix npe in <unk>
+fix npe in preferences
+remove unused field
+fix <unk> build
+fix test on windows
+add logging on error message
+fix the build
+remove unnecessary static modifier
+don t show file for <unk>
+fix test case
+turn off debug
+remove unnecessary nullable
+add <unk> to the list of <unk>
+fix a bug where <unk> was not being <unk>
+add final to ep_name
+add a todo
+remove unused method
+add some more info to the exception message
+fix a bug where the <unk> was not updated
+add <unk> to the sample
+fix a test error
+fix a bug where the response was not used
+fix a bug where a <unk> would be <unk>
+fix a bug where the handler was not used
+remove unused field
+add new method to set visibility
+fix npe in fragmentmanagerimpl <unk>
+fix test on windows
+remove unused field
+fix npe in lazy mode
+fix <unk> menu
+fix a bug where the activity could be called when the activity is not enabled
+add missing tostring method
+fix <unk> logic
+fix bug in <unk>
+fix npe in textview
+fix a bug where the case where the graph was not used
+fix logging of <unk>
+remove unused code
+fix bubble up bubble
+fix npe in <unk>
+add zk zk tests
+remove facet from the <unk>
+don t log app when a app is not enabled
+fix npe in <unk>
+fix resxmlencoders <unk>
+fix npe in write loop
+fix <unk> <unk>
+add <unk> to <unk>
+remove unused field
+remove debug logging
+fix test on windows
+remove unused method
+fix a typo in the <unk>
+fix a bug where the server is not used
+add tostring method to dl
+add missing javadoc
+updated version number
+don t show the current editor when there is no project
+fix the build
+fix test on windows
+remove unused method
+fix <unk> not working
+fix a bug where <unk> was not being <unk>
+fix npe in case of error message
+add a couple of comments
+fix javadoc warning
+remove unused code
+fix a warning
+remove unused method
+remove unused method
+fix <unk> on <unk>
+fix nameutil <unk>
+add log message
+fix exception message
+fix a bug where the item is not used
+fix a bug where the chain would not be <unk>
+remove unused code
+remove the warning about the graph
+fix npe in compareto
+remove debug code
+fix maven plugin to avoid <unk>
+fix <unk> on <unk>
+add <unk> to autobuffer
+remove redundant modifier
+remove unused comment
+don t show file for empty file
+fix the build
+fix generated generated code
+fix npe in <unk>
+remove unnecessary call
+fix javadoc typo
+disable <unk> for now
+fix a bug where a message was not being used
+make <unk> public
+add missing annotation
+don t show <unk> on empty line
+fix the build
+add a todo
+fix <unk> <unk>
+fix bug in <unk>
+add missing javadoc
+add notnull annotations
+remove unused test
+add a couple of <unk>
+remove unnecessary method
+fix a bug where a clientsocket was not being used
+fix exception when <unk> is not found
+remove unnecessary method
+fix <unk> crash
+fix <unk> <unk>
+fix typo in comment
+add test for goapplicationrunningstate
+fix javadoc typo
+add version version to version version
+fix npe in disambiguationpatternrule
+remove debug log message
+don t show empty file for file files
+fix javadoc for <unk>
+add method to get the default activity
+add override annotations
+fix a crash when <unk> is not present
+fix parser method
+fix npe in case of null pointer exception
+remove redundant call to <unk>
+add missing annotations
+add <unk> to <unk>
+fix race condition in apkbuilderstep
+remove unused imports
+remove unused method
+fix javadoc typo
+add a couple of <unk> to the newhashset
+add <unk> to settings
+don t show app when no connection is available
+fix <unk> <unk>
+add missing hashcode
+remove unused field
+fix <unk> <unk>
+add javadoc for <unk>
+fix a bug where a <unk> was not being used
+fix issue with <unk> on <unk>
+fix a bug where the <unk> was not used
+fix javadoc typo
+add <unk> method
+add <unk> method
+fix a bug in print
+fix a typo in <unk>
+remove unused code
+fix npe in selectionargs
+fix crash in popupchooserbuilder
+fix default value for empty list
+fix issue with <unk>
+fix <unk> issue
+remove unused imports
+add a comment
+fix a bug where the window was not being remove
+fix a test failure
+don t show project action if there are no project
+fix a bug where the task would be <unk>
+remove debug output
+remove unused constant
+remove unnecessary comment
+fix a bug where the adapter was not used
+add method to get the request from the request
+add missing method
+fix a bug where the <unk> was not being used
+fix compilerconfigurationimpl to use the correct default
+fix npe in <unk>
+fix a bug where the activity could be <unk>
+fix <unk> test
+fix <unk> <unk>
+remove unused import
+remove unused field
+add setpadding method
+fix <unk> <unk>
+fix javadoc typo
+don t show <unk> on desktop
+add javadoc for the current class
+do not show progress bar when there is no task
+add debug logging
+add debug logging
+fix a bug where the <unk> would be <unk>
+add inferconsts to compileroptions
+fix message <unk>
+fix <unk> on <unk>
+fix a bug where the input stream was not used
+remove debug code
+add missing method
+set default value for <unk> </s>
+add <unk> to usage
+add missing annotations
+add <unk> to <unk>
+fix error message
+remove unnecessary method
+fix phonewindowmanager <unk>
+remove unnecessary check
+fix <unk> <unk>
+fix a bug where the item was not being updated
+don t show editor on editor
+remove unused code
+add method to get the same of the <unk>
+fix unit test
+remove debug logging
+fix javadoc for <unk>
+remove unused constant
+fix usage usage
+fix a bug where <unk> is not used
+fix the build
+add missing annotations
+ignore test that fails on windows
+fix <unk> <unk>
+add error message for invalid file
+fix a bug in jsfacade
+don t show default file for non <unk>
+add test for proxy
+fix a bug where the alignment could be used
+fix npe in <unk>
+fix background in the new project
+add a todo
+add <unk> method
+fix <unk> <unk>
+add <unk> method
+fix the build
+fix a bug where wallet was not being <unk>
+remove unused method
+fix npe in case of null pointer exception
+fix a bug where the current exception was not used
+make field private
+add <unk> to camel <unk>
+fix issue on record
+fix npe in <unk>
+fix cs issues
+fix a bug in case of error </s>
+fix produced by <unk>
+fix javadoc typo
+fix npe in <unk>
+fix npe in <unk> </s>
+add some javadoc
+remove unused version
+add a method to retrieve a <unk>
+fix <unk> <unk>
+remove debug logging
+fix npe in case of <unk>
+add getter for <unk>
+remove unused code
+fix npe in common <unk>
+move <unk> to the correct package
+fix <unk> not remove
+fix fileinputformat <unk>
+fix npe in <unk>
+fix a bug where the <unk> was not being <unk>
+add nonnull annotation
+remove deprecated methods
+add missing final keyword
+add missing method
+fix typo in <unk>
+fix issue on <unk>
+remove unused imports
+don t show completion if it is not available
+remove debug output
+fix npe in <unk>
+remove debug output
+remove unused method
+fix project <unk>
+fix typo in diskbasedcache
+fix a bug where the <unk> was not being used
+fix a bug where <unk> would not be <unk>
+fix test on windows
+remove unused imports
+fix <unk> <unk>
+fix <unk> <unk>
+remove unused inventory inventory
+fix javadoc warning
+don t show project dialog when project is not available
+fix bug in <unk>
+add a gservices setting to set the settings
+add a method to set the duration
+add more info to console
+fix <unk> test
+fix test failure
+fix <unk> <unk>
+add context to <unk>
+fix a possible npe
+don t show file in tests
+add <unk> to <unk>
+add support for <unk> in the tracker
+remove unused imports
+fix test on windows
+remove unnecessary method
+fix <unk> issue
+remove unused imports
+fix a bug where a stream was not used
+fix a bug where email was not being passed to email
+remove unused code
+fix android app app
+remove deprecated methods
+fix <unk> for <unk>
+remove unnecessary method
+add test for properties
+fix npe in <unk>
+fix a crash when the user is not set
+fix autobuffer to include the <unk>
+fix warnings in the global mode
+fix javadoc typo
+fix a bug in <unk>
+fix npe in <unk>
+fix typo in ipersistentmap
+add <unk> method
+fix javadoc for <unk>
+add a todo
+add missing local variable
+remove unused import
+fix a bug in <unk>
+remove lease from <unk>
+remove unnecessary comment
+fix <unk> <unk>
+don t show searchmanager for search
+add tostring method to packet
+fix npe in slidinguppanellayout
+add test for suite
+fix npe in <unk>
+fix npe in case of no project
+remove unused method
+don t show <unk> if there are no <unk>
+fix tree for <unk>
+remove unused method
+don t show file if it is not null
+fix <unk> error
+fix a bug where the <unk> was not being <unk>
+fix javadoc warning
+add debug logging
+add test for <unk>
+clarified javadoc for <unk> in solo and activityutils
+remove redundant public modifier
+fix a bug where the channel was not remove
+remove redundant method
+fix javadoc warnings
+fix javadoc warnings
+add some logging
+add missing override annotations
+add a comment
+fix a bug where the <unk> was not being <unk>
+fix a bug where the server is not used
+fix npe in <unk>
+add <unk> to <unk>
+fix routingslip
+fix <unk> <unk>
+fix npe in <unk>
+fix a javadoc error
+fix typefactory of typefactory
+fix bug in oprofiler
+make <unk> public
+add <unk> method
+remove unused method
+remove unused field
+fix config config
+remove unused suppresswarnings
+add test for realm
+remove unused field
+fix a bug where the width of the heightmode was not used
+fix a bug in the <unk>
+add a method to get the <unk>
+fix a bug where the webview was not being <unk>
+fix a typo in the <unk>
+fix a bug where we can t have a message
+add a null check
+remove unused code
+fix <unk> <unk>
+fix test failure
+fix typo in <unk>
+add describe describe describe
+add num to refactoring
+add a tostring method to show the user
+fix <unk> <unk>
+add headers <unk>
+fix <unk> to not use the same name
+remove unused method
+ignore test for now
+fix a bug where the client has been remove
+add test for <unk>
+fix a bug where a new connection could be remove
+add missing runwith
+remove unused method
+remove unused field
+add <unk> to eviction on <unk>
+fix a typo in <unk>
+fix javadoc typo
+fix a typo in <unk>
+add serviceday method
+fix typo in <unk>
+fix npe in <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix a bug where <unk> was not being <unk>
+fix exception message
+fix npe in <unk>
+remove unused code
+fix a bug where the default settings was not used
+fix <unk> crash
+fix npe in gcinspector <unk>
+fix npe in <unk>
+add <unk> to <unk>
+remove unnecessary code
+fix a bug where the <unk> was not showing
+do not show project project dialog if not available
+fix a bug in <unk>
+fix npe in find mode
+fix javadoc typo
+fix test failure
+remove unused method
+add a method to get the same value
+add <unk> to <unk>
+fix a bug where a list was not being <unk>
+add <unk> to <unk>
+fix javadoc typo
+fix test on windows
+fix a bug where the default value was not used
+fix npe in case of <unk>
+fix npe in <unk>
+fix tests on windows
+remove debug code
+fix a bug where a <unk> was not being <unk>
+do not add project for module
+fix <unk> <unk>
+add <unk> method
+fix the build
+fix <unk> <unk>
+add apioperation to node
+fix npe in <unk>
+add missing <unk>
+fix a bug where we can t get a write
+fix javadoc for aimsicddbadapter
+fix log message
+fix npe in titanblueprintstransaction
+fix a bug where the <unk> was not being <unk>
+fix <unk> <unk>
+add a todo
+fix ui for <unk>
+fix a bug where a shard was not used
+fix actor <unk>
+fix test on windows
+add missing license header
+fix a bug where the <unk> was not <unk>
+don t show action for <unk>
+remove unused imports
+fix a crash when <unk> is not called
+remove debug output
+fix <unk> <unk>
+remove unused method
+fix a bug in preloader
+remove unused imports
+add <unk> to <unk>
+fix a typo in the <unk>
+remove unused code
+remove unused method
+fix <unk> <unk>
+add executablevalidator to executablevalidator
+fix a bug where <unk> would be used in a <unk>
+fix npe in <unk>
+fix npe in <unk>
+fix npe in empty empty empty string
+add <unk> to <unk>
+fix cs error
+add some more more info to the exception handling
+fix <unk> <unk>
+fix test on windows
+fix <unk> <unk>
+fix quality flaw
+add a check for a <unk> with a single node
+fix <unk> issue
+add a unit test for now
+add a gservices setting to set the settings
+add <unk> to <unk>
+fix a bug where the <unk> was not used
+fix npe in readerpostdetailfragment
+remove unused imports
+fix plugin plugin to handle the same file
+add <unk> to authtoken
+hide <unk> if there are no app to show the info
+remove redundant method
+fix a bug where <unk> was not being used
+fix icon for project icon
+fix javadoc for <unk>
+fix <unk> for <unk>
+fix a bug where audiotrack would be <unk>
+remove unneeded startactivity
+add javadoc for <unk>
+remove unneeded code
+remove unused code
+fix issue with <unk>
+fix npe in instanceof
+fix javadoc for <unk>
+remove unnecessary suppresswarnings
+remove unused method
+remove unused method
+fix npe in <unk>
+add missing inject annotation
+add missing annotations
+fix <unk> <unk>
+fix race condition in <unk>
+don t show project for completion completion dialog
+fix test failure
+fix copy paste error
+remove unused field
+add missing override
+add more info to <unk>
+don t show title for <unk> </s> </s>
+remove unused code
+fix layer <unk>
+fix driver check for null file
+fix a bug where <unk> was not used
+fix javadoc typo
+fix <unk> test
+don t show tests for all tests
+fix a crash when <unk> is not null
+add method to <unk>
+add <unk> annotation
+add tostring method to <unk>
+remove unnecessary code
+add a method to get the current user from the <unk>
+fix issue on <unk>
+fix npe in refactoring
+fix <unk> for <unk>
+fix a bug where the icon could be used in a <unk>
+add support for <unk> in <unk>
+fix <unk> to use user instead of <unk>
+fix a crash in <unk>
+fix a bug where the <unk> was not used
+fix <unk> to be <unk>
+fix exception message
+fix a warning
+add check for null values
+add more logging
+fix <unk> for <unk>
+ignore test that is not used in the test
+add a method to get the current time
+fix a crash in a new message
+fix a bug where <unk> was not being <unk>
+add <unk> method
+fix npe in uploader
+add a comment
+fix <unk> <unk>
+fix npe in default value
+fix exception handling in exception handling
+fix <unk> <unk>
+don t show empty file
+remove unnecessary code
+add missing license header
+fix attributes attributes in <unk>
+fix quality flaw
+fix test on windows
+remove redundant call
+remove unnecessary assertions
+remove unused imports
+fix npe in <unk>
+add todo comment
+remove unused import
+fix a bug where the <unk> was not used
+fix a bug where the end was not used
+fix issue with <unk>
+add <unk> to <unk>
+add null check
+fix javadoc typo
+add missing test
+do not show current project if there are no project
+don t show project in debug mode
+fix a bug where the <unk> was not being <unk>
+remove unnecessary logging
+clarified javadoc for <unk> in solo and viewfetcher
+remove unused code
+add missing license header
+fix <unk> <unk>
+fix a bug where the webview was not being <unk>
+remove debug print
+remove unnecessary local variable
+fix a bug in <unk>
+fix javadoc warning
+remove unused code
+don t show default modaldialog modaldialog modaldialog modaldialog modaldialog session
+fix a bug where the <unk> was not being <unk>
+fix index name
+fix a bug where the task is not used
+remove redundant cast
+add a method to get the current value
+fix <unk> <unk>
+remove a todo
+add <unk> method to camera
+add <unk> to <unk>
+fix typo in serverextension
+fix <unk> <unk>
+fix <unk> to use <unk>
+remove <unk> listener from a <unk>
+fix the build
+add a log message to the <unk>
+fix javadoc typo
+fix npe in <unk>
+fix a bug where the contact was not used
+fix log message
+fix a bug where a membership would be used
+remove unused method
+remove debug code
+add test for non <unk>
+add missing javadoc
+fix javadoc typo
+add world <unk>
+fix npe in <unk>
+fix a bug where the green button would be <unk>
+fix a bug where the file is not used
+remove unused constants
+fix <unk> <unk>
+fix a crash in find a <unk>
+remove unused field
+fix <unk> <unk>
+add missing license header
+add more documentation
+add trace logging
+fix a bug in <unk> where it was not used
+don t show <unk> for non <unk>
+fix a bug where the default value was not being used
+remove obsolete todo
+remove unused imports
+remove unused import
+fix a bug where the current blog was not being used
+make <unk> public
+fix npe in <unk>
+fix npe in materialdialog
+remove unused imports
+fix <unk> to use the correct title
+fix a crash in peoplelistfragment
+fix a bug where the selected item was not used
+fix test on windows
+fix test on windows
+add new graphservice to <unk>
+fix npe in <unk>
+fix bug in <unk>
+remove unused code
+fix <unk> <unk>
+fix <unk> <unk>
+remove unused import
+fix npe in <unk>
+remove unnecessary cast
+fix npe in <unk>
+add main method to allow the build
+fix <unk> for <unk>
+fix annotations <unk>
+remove unused import
+fix test failure
+remove unused code
+fix background in <unk>
+fix npe in connectivityservice
+remove unnecessary logging
+fix exception in case of throwing exception
+remove unused import
+fix bug on <unk>
+fix compilation error
+add missing annotations
+fix npe in global mode
+remove todo comment
+add beta annotation to the builder
+add <unk> to liquidstack
+fix a bug in <unk>
+fix test failure
+fix a bug where the user was not used
+ignore test that is not used for now
+remove unused imports
+add camera <unk> camera <unk>
+fix <unk> on <unk>
+fix the build
+fix npe in <unk>
+add <unk> to <unk>
+fix a bug where the current activity is not used
+add <unk> to <unk>
+fix javadoc typo
+fix the build
+fix test on windows
+add missing method
+add <unk> to proxyconnection
+fix a bug where a address is not used
+remove debug output
+don t show project for project action
+add a method to disable the <unk>
+fix the build
+remove unused import
+add javadoc for <unk>
+remove unused comment
+add <unk> to analyticstrackernosara
+fix <unk> <unk>
+sourceformatter sourceformatter remove redundant code
+don t show the default gray for the popup
+fix <unk> to use the correct default value
+remove redundant call
+fix npe in validator
+add <unk> to <unk>
+add <unk> to refactoring
+add missing license header
+fix a bug where the <unk> was not being <unk>
+ignore samsung on windows
+fix <unk> <unk>
+add support for the current user
+fix exception message
+add test for <unk>
+add <unk> and
+remove redundant code
+remove unused import
+remove redundant test
+add missing license header
+fix javadoc warning
+fix a typo in <unk>
+remove debug logging
+fix npe in <unk>
+don t show <unk> for resource
+remove debug output
+fix npe in generated code
+fix npe in debuggerutils
+don t use <unk> for <unk>
+fix hystrixcollapsertest <unk>
+add tracking of the event when the app is not used
+fix npe in <unk>
+fix <unk> <unk>
+add session to <unk>
+fix a bug where <unk> would not be passed to <unk>
+fix issue on index creation of index with no id
+fix a typo in the default value
+add <unk> method
+fix npe in <unk>
+remove unused field
+fix a typo in webview
+fix a bug in <unk>
+remove unused field
+remove unused imports
+fix test failure
+fix npe in <unk>
+add some javadoc
+remove debug logging
+fix the build
+add a test for the new <unk>
+fix npe in case of <unk>
+add <unk> to <unk>
+remove unused code
+add documentation for jsonschema2pojomojo
+don t show editor dialog on editor
+remove redundant calls
+remove unused suppresswarnings
+add a method to groovytestcase
+fix npe in databasedescriptor
+fix npe in saslauthentication
+remove unused imports
+fix a bug where <unk> was not being <unk>
+fix npe in <unk>
+fix a bug in the vertexattribute
+fix cs issues
+add support for all all types
+fix <unk> <unk>
+add <unk> method
+fix npe in iq
+remove debug code
+add check for encodingmanager
+fix javadoc warning
+fix error message
+remove unused import
+fix <unk> test
+add test for status code
+add utility method to return a string
+don t show default default value for default default value
+add <unk> to getmanager
+add logging for <unk>
+fix the build
+fix bug in <unk>
+fix appbarlayout appbarlayout
+fix <unk> <unk>
+fix a bug in routeprovider
+remove unused field
+fix a bug where we were not using a <unk>
+fix npe in trackmessagesizeinterceptor
+fix a bug where the <unk> was not being <unk>
+add a new <unk> to the new api
+remove unused import
+add getglue <unk> to getglue
+remove unused method
+remove unused method
+don t show <unk> for <unk>
+add missing license header
+add javadoc for <unk>
+add a method to get the value
+add javadoc for <unk>
+fix a bug where <unk> would be <unk>
+add <unk> <unk> <unk>
+fix lockscreenactivity <unk>
+remove unnecessary code
+fix typo in <unk>
+fix a typo in the <unk>
+add missing license header
+fix test failure
+remove deprecation of <unk>
+fix <unk> <unk>
+add a method to get the client client
+fix a javadoc typo
+fix <unk> <unk>
+fix npe in proxyconnection
+fix test on windows
+fix <unk> <unk>
+fix non <unk>
+fix a bug where the <unk> was not used
+fix a bug where we can t get a connection
+add <unk> method
+fix npe in <unk>
+fix a bug where the screen would be called when the activity is not called
+remove unused code
+fix cs issues
+remove unused method
+add tostring method to <unk>
+add trace for <unk>
+add javadoc for artifactcache <unk>
+fix the build
+fix npe in javascriptprotocol
+add missing androidcompiledstatement method
+remove unused field
+fix a bug where the app was not showing
+add method to get the same value
+don t show <unk> for <unk>
+fix a bug where segments was not used
+remove unused method
+remove unnecessary call to applog
+fix getelementtype getelementtype <unk>
+fix broken build
+fix the build
+add gservices setting for <unk>
+fix a bug in <unk>
+fix the build
+fix <unk> on windows
+fix npe in <unk>
+fix exception in <unk>
+fix npe in <unk>
+throw exception if <unk> is not found
+fix <unk> to not use the <unk>
+fix bits <unk>
+add javadoc to <unk>
+fix javadoc typo
+add <unk> method
+fix the build
+set title to show title
+add missing override annotation
+fix a bug where the <unk> was not used
+fix <unk> <unk>
+fix npe in storagemanager
+fix a bug in <unk>
+fix <unk> <unk>
+add missing javadoc
+fix <unk> layout
+fix a bug in the <unk>
+remove redundant comment
+fix a bug where a <unk> would cause a npe
+fix a bug in <unk>
+fix a bug where the <unk> was not used
+add a method to set the <unk> for the <unk>
+add sslhandler <unk> to sslhandler
+add line on <unk>
+remove printstacktrace from post post post post post
+fix files that are not used for files
+remove unused field
+fix test on windows
+remove unused field
+fix a crash when a locale is not null
+fix a bug where the current exception was not closed
+remove unused method
+add more logging
+fix a typo in multitouchsupport
+fix javadoc warnings
+remove unnecessary method
+fix javadoc for <unk>
+remove unused field
+fix a crash in messagelist
+remove unused import
+fix a bug in the generated code
+fix a bug where the <unk> was not the <unk>
+remove unnecessary constructor
+fix npe in <unk>
+fix <unk> <unk>
+remove unused constants
+fix a bug where the <unk> was not showing
+fix <unk> error
+add a method to get the right connection
+fix <unk> <unk>
+fix license header
+fix a bug where a <unk> was not being <unk>
+remove debug output
+fix test on windows
+fix a bug in buildcrafttransport
+add <unk> method
+fix pluginmanager <unk>
+fix test on windows
+fix a bug in <unk>
+fix npe in empty mode
+remove unused imports
+remove unused code
+implement <unk> method
+fix npe in <unk>
+fix <unk> tostring
+remove unused method
+fix a bug in engine where the engine was not used
+add missing annotations
+don t show file for <unk> files
+fix a crash when <unk> is not enabled
+add some logging to the <unk>
+fix typo in case of <unk>
+fix default value for <unk>
+fix a bug where <unk> was not being <unk>
+remove system out
+fix npe in <unk>
+remove unused method
+remove unnecessary method
+fix a typo in the exception message
+fix <unk> <unk>
+fix the build
+fix a bug where the <unk> would not remove it
+add missing javadoc
+fix test on project
+fix javadoc warning
+remove unused field
+fix a bug where the <unk> was not used
+add a todo
+add <unk> to <unk>
+remove debug code
+set the minimum size for the <unk>
+fix issue with <unk>
+fix a test
+remove printstacktrace from client
+fix a typo in mapper
+fix a bug where the empty list was not used
+fix javadoc typo
+fix the build
+fix a bug where the token was not used
+fix monitors return null
+add timeout to <unk>
+fix <unk> <unk>
+fix objloader <unk>
+fix npe in <unk>
+fix a typo in the log message
+fix <unk> <unk>
+fix a typo in <unk>
+remove debug code
+fix maven plugin to avoid <unk>
+remove unused code
+suppress <unk> warnings
+fix bug in <unk>
+remove redundant method
+add method to set the name
+remove unused imports
+fix the build
+fix a bug where <unk> was not being remove
+add a method to clear the <unk>
+remove unnecessary code
+ignore <unk> tests
+add missing annotations
+remove unused method
+fix npe in warning
+fix a bug where the request was not being used
+add proxy to the proxy
+add a comment
+add <unk> to the default value
+fix <unk> <unk>
+fix <unk> not working in <unk>
+fix <unk> on <unk>
+add a constructor to <unk> </s>
+remove unused imports
+add test for <unk>
+fix a bug where the <unk> was not closed
+fix npe in <unk>
+fix a bug where the <unk> was not being used
+remove unnecessary method
+fix <unk> to use the correct <unk>
+fix test on windows
+remove unused field
+fix cachedir <unk>
+fix <unk> issue
+fix a bug where the current item was not remove
+fix a bug where the <unk> was not being <unk>
+fix a bug in <unk>
+catch all exceptions
+don t show project if there are no project
+fix npe in escapexml
+remove unnecessary comment
+add onattach method
+fix npe in routeinfowidgetsfactory
+add <unk> to mediafile
+add tostring method to show the <unk>
+fix javadoc for <unk>
+remove redundant line
+fix a bug where <unk> was not being <unk>
+fix <unk> <unk>
+fix <unk> to not use file
+fix a bug where the default locale was not used
+fix <unk> display
+add <unk> to <unk>
+fix npe in fileuploader
+remove unused field
+fix npe in <unk>
+fix <unk> <unk>
+add <unk> constant
+add tostring method to <unk>
+add a class that was not used in a security manager
+add default value for default value
+fix javadoc for <unk>
+add <unk> method
+remove deprecated method
+fix a typo in <unk>
+fix the build
+do not show the log on the commit
+remove unnecessary call to <unk>
+fix npe in <unk>
+fix the build
+fix <unk> <unk>
+add <unk> to the <unk>
+fix quality flaw </s> </s> </s>
+remove unused method
+make the interface public
+fix a bug where the default
+add <unk> method
+fix a bug where <unk> was not showing
+fix bug in <unk>
+remove log message
+fix test on <unk>
+add logging for exit
+remove unused field
+add tostring method to <unk>
+fix a bug where the <unk> was not used
+fix <unk> <unk>
+fix npe in <unk>
+remove unused code
+add a method to get the listener
+fix a bug where the <unk> was not being <unk>
+fix npe in <unk>
+fix sql sql
+add <unk> method
+add missing method
+add <unk> method
+fix npe in <unk>
+add test for context with the context
+add <unk> method
+fix typo in the exception message
+fix <unk> <unk>
+fix npe in leaderinquireclient
+remove unused code
+fix javadoc for <unk>
+move <unk> to the correct package
+fix a bug in cookieencoder
+fix npe in <unk>
+add missing annotations
+fix <unk> <unk>
+add hashcode and hashcode
+throw exception if no node is null
+fix searchview on search
+fix npe in <unk>
+fix subclass constructor
+add <unk> method
+fix npe in <unk>
+add a check for the parser
+fix npe in <unk>
+remove unused imports
+fix npe in <unk>
+fix a bug where the content is not used
+remove unused code
+add <unk> to <unk>
+fix npe in mefragment
+fix a bug where the <unk> was not being <unk>
+fix a typo in the <unk>
+add <unk> to subplan
+fix test on windows
+remove unused code
+add a constructor that was not used
+fix <unk> <unk>
+add missing javadoc
+fix typeelement type
+add missing uriparam annotation
+fix a bug where the <unk> was not used
+fix npe in <unk>
+fix broken test
+fix npe in <unk>
+remove unused field
+fix routeservice for <unk>
+fix a bug where <unk> was not being called when the activity is not used
+fix npe in fragment <unk>
+remove unused field
+add missing license header
+fix issue with motiongroup
+fix npe in validator
+fix a bug where the right right right
+remove unnecessary comment
+add a method to retrieve the query
+add new <unk> constant
+add todo for <unk>
+fix the build
+fix npe in global classes
+don t show empty lines
+fix quality flaw
+fix a bug where the window would be remove
+add thread safety annotations for tachyon s <unk>
+fix a bug in case of exception
+fix bug in slow matches
+fix formatting of the loop
+fix <unk> for repository
+fix the build
+add javadoc for <unk>
+fix <unk> <unk>
+fix crash in windowmanagerservice
+fix ciphersuiteconverter <unk>
+add since for <unk>
+fix <unk> for <unk>
+add a method to <unk>
+fix test on windows
+don t use non public methods
+add cookie to <unk>
+fix javadoc warning
+fix build break
+fix npe in <unk>
+do not show project on project project
+fix npe in applicationconfiguration
+add a tostring method to the log message
+fix typo in javadoc
+add <unk> to <unk>
+remove unused method
+fix <unk> <unk>
+add tostring method to <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix <unk> <unk>
+fix <unk> <unk>
+fix a bug where the heap was not used
+fix typo in message
+fix npe in <unk>
+fix license header
+remove unused imports
+fix npe in <unk>
+fix <unk> startevent
+add method to get the same connection
+add a comment
+add <unk> to <unk>
+add helper method to remove the drawer
+remove unused field
+remove debug logging
+fix npe in <unk>
+fix a typo in configuration
+fix <unk> <unk>
+don t show <unk> on mac
+fix npe in <unk>
+add some javadoc
+fix a bug where the <unk> was not closed
+remove unused field
+add missing javadoc
+fix npe in modelloader
+add <unk> to grab <unk>
+fix javadoc for <unk>
+fix the build
+fix npe in case of book
+add <unk> to <unk>
+remove unnecessary synchronized
+fix test on windows
+fix a bug where a <unk> was not being used
+fix npe in <unk>
+fix a typo in javadoc
+fix <unk> <unk>
+fix <unk> for <unk>
+fix npe in coremodmanager when using the <unk>
+remove unnecessary warning
+fix <unk> <unk>
+fix <unk> <unk>
+don t show tests for new project
+fix javadoc for <unk>
+remove unnecessary method
+fix npe in <unk>
+add getclassname method
+remove systemapi annotations
+fix npe in <unk>
+remove unused field
+disable <unk> for <unk>
+remove unused field
+remove unused field
+fix a bug where the <unk> was not used
+fix npe in refactoring
+fix test on scripttype
+remove unnecessary cast
+fix <unk> <unk>
+add <unk> method
+fix npe in <unk>
+add more debug info
+fix <unk> error
+fix npe in <unk>
+add <unk> to planprinter
+add tripid method
+add debug logging
+remove unused imports
+add getter for <unk>
+fix a bug where the notification was not being remove
+fix a crash when <unk> is not present
+fix a bug where the <unk> was not showing
+fix illegalargumentexception on a closed exception
+fix a bug where the request was not used
+add currently selected method
+remove unused field
+fix <unk> <unk>
+remove unused code
+fix logic error
+fix the build
+add <unk> to <unk>
+fix <unk> to not use the correct <unk>
+fix a crash in <unk>
+fix <unk> <unk>
+fix test on windows
+add peer to <unk>
+fix a bug in square <unk> </s> </s> </s> </s>
+fix <unk> for <unk>
+fix a bug where the executequery was not used
+add support for default style
+fix javadoc warnings
+fix a bug where the app would be called when a new one
+remove unused imports
+fix a bug where the <unk> was not being used
+fix quality flaws
+remove unused method
+fix maven tests
+remove debug output
+add proxy method
+add <unk> to <unk>
+fix the build
+fix a bug where <unk> was not being <unk>
+fix a bug in <unk>
+remove redundant null check
+remove obsolete todo
+sourceformatter sourceformatter sourceformatter fix
+fix default default value for default default
+add tostring to <unk>
+fix scroller <unk> bug
+fix the build
+don t show empty project
+don t show dialog on mac
+fix crash in <unk>
+fix npe in tree
+fix javadoc typo
+fix bug in dexmojo
+fix a typo in <unk>
+remove redundant comment
+fix <unk> <unk>
+fix <unk> <unk>
+add some more <unk> to ephemeralfilesystemabstraction
+fix a bug where layerdrawable <unk> was not being called when the user is not used
+add javadoc for <unk>
+fix bug in <unk>
+remove unnecessary method
+add a method to allow a null user to be used
+fix a bug where the <unk> was not used
+fix a bug where the <unk> was not used
+fix npe in statsservice
+fix npe in <unk>
+add <unk> method
+remove redundant logging
+fix <unk> error
+fix failing test
+remove unnecessary code
+remove obsolete todo
+fix npe in <unk>
+remove unused suppresswarnings
+fix title title
+remove unnecessary override
+don t use empty join
+add helper method to typeutils
+remove unused code
+fix javadoc for <unk>
+do not log invalid classes
+add protected to allow <unk> to be used in the default value
+remove unused field
+fix npe in spider
+add <unk> to <unk>
+remove unnecessary method
+remove unused imports
+fix the build
+don t create method for <unk>
+don t show default
+fix <unk> <unk>
+fix <unk> <unk>
+remove unnecessary call
+fix maven tests
+implement <unk> <unk>
+fix viewrootimpl <unk>
+fix test failure
+move <unk> to the correct package
+remove obsolete todo
+fix a bug where the client would be used in the <unk>
+remove unused method
+fix the build
+fix npe in <unk>
+fix npe in <unk>
+fix a bug where <unk> would not be <unk>
+add getter for the settoken
+fix <unk> <unk>
+fix a typo in the <unk>
+remove unused suppression
+fix npe in <unk>
+add a method to get the same value
+remove unnecessary method
+fix javadoc typo
+remove unused method
+remove unused field
+add <unk> to databasefactory
+remove debug output
+fix <unk> for <unk>
+fix javadoc typo
+fix <unk> <unk>
+fix <unk> <unk>
+fix npe in case of <unk>
+remove log message
+fix npe in <unk>
+remove deprecated methods
+fix a crash when <unk> is not present
+fix logic error
+fix npe in <unk>
+add some comments
+fix <unk> <unk>
+remove unnecessary override
+remove debug log message
+fix default icon
+remove unused code
+fix createdata test
+add test for <unk>
+add more logging
+add a helper method to <unk>
+fix npe in case of <unk>
+fix npe in <unk>
+add missing override annotations
+remove unused code
+fix the build
+fix npe in androidaudio dispose
+add logging of repository settings
+remove unused param
+add <unk> to elasticsearchclient
+fix npe in buildprogresslisteneradapter
+add javadoc to <unk>
+don t show the log message when it s not used
+don t use project for project action
+add javadoc for <unk>
+fix typo in exception message
+fix the build
+fix crash when <unk> is not used
+fix error message
+fix issue on shutdown of the local file
+fix javadoc warnings
+add some comments
+fix repositorypage <unk>
+add debug logging
+remove deprecated code
+fix amenity equals
+fix typo in transitindex
+add a method to <unk>
+fix <unk> <unk>
+add <unk> method
+fix <unk> test
+fix javadoc typo
+add <unk> to <unk>
+add <unk> <unk> to get the <unk>
+fix typo in method name
+remove debug output
+fix the build
+fix javadoc warnings
+fix a typo in case of prefs
+fix npe in case of <unk>
+remove redundant code
+fix a bug where a <unk> was not being <unk>
+fix <unk> test
+add a method to get a embeddedgraphdatabase
+remove unused code
+fix <unk> <unk>
+remove debug output
+fix a bug where the request was not used
+fix a bug where conversationfragment would get stuck
+fix a typo in xmpptcpconnection
+fix a bug in the <unk>
+remove unused method
+fix a typo in the <unk>
+add <unk> to <unk>
+remove log message
+fix queryoptions queryoptions
+fix a minor bug in the test
+fix a bug where a client was not remove
+fix crash in <unk>
+remove <unk> tests
+don t show <unk> on editor windows
+add <unk> to <unk>
+add <unk> to getinstance
+remove unused method
+fix npe in case of no parameters
+fix javadoc for <unk>
+remove debug output
+fix npe in case of reply reply
+fix a bug where <unk> was not being <unk>
+fix <unk> to use the same <unk>
+remove unused import
+add default version for mongo
+fix <unk> on <unk>
+add a getter for sugarrecord
+add support for databaseresults
+fix a bug where the <unk> was not used
+fix flaky test
+fix a typo in <unk>
+add tostring method to <unk>
+fix a bug in <unk>
+fix <unk> to use the correct path
+add <unk> to the default value
+add test for <unk>
+remove override annotation
+add todo for <unk>
+add missing methods
+fix <unk> for <unk>
+fix a bug where a new project is not used
+ignore test that is not used
+fix a bug where the user was not being <unk>
+fix a bug where a table was not remove
+don t show project menu for project menu
+add test for windows
+add getter for <unk>
+fix issue with <unk> and <unk>
+fix warning in warning message
+remove unused code
+add missing method
+remove unused method
+remove unused method
+add <unk> to <unk>
+add <unk> to <unk>
+fix javadoc errors
+remove unused field
+add <unk> method
+fix a typo in <unk>
+don t show file if there are no editor
+fix <unk> <unk>
+fix a bug in <unk>
+fix <unk> <unk>
+fix <unk> <unk>
+fix memoryawarethreadpoolexecutor <unk>
+fix npe in <unk>
+remove unused code
+add some javadoc
+fix typo in <unk>
+don t show language for <unk>
+fix tostring method
+remove <unk> method
+remove unused method
+fix npe in case of <unk>
+fix <unk> error
+remove unused method
+add missing license header
+remove unused imports
+fix tablehandle to use the same type
+fix <unk> to use the correct value
+fix npe in <unk>
+remove unnecessary call to catch all exceptions
+fix a bug where <unk> was not <unk>
+fix typo in javadoc
+remove log message
+fix the build
+fix a bug where the server was not being used
+remove unused code
+fix <unk> <unk>
+remove unused field
+remove unused constant
+fix <unk> <unk>
+fix npe in global template
+fix <unk> to use <unk>
+don t show file for non <unk> files
+fix javadoc for <unk>
+don t show file for <unk>
+remove incorrect javadoc
+clarified javadoc for <unk> in solo and clicker
+fix a couple of warnings
+fix the build
+fix npe in <unk>
+fix asynchttpresponseimpl <unk>
+add more logging
+fix <unk> test
+remove unused imports
+add <unk> method
+don t show non <unk> for non <unk>
+add missing annotations
+remove unused import
+add missing javadoc
+fix read read bug
+don t show non captured type
+fix javadoc errors
+add javadoc for <unk> and <unk>
+add missing license header
+remove unused method
+remove unnecessary annotation
+add test for non existing test
+add a better error message for <unk>
+remove unused code
+remove unnecessary debug log
+fix <unk> <unk>
+remove unused import
+don t show <unk> if there are no <unk>
+remove unnecessary synchronized
+fix a crash in <unk> resume
+remove unused method
+fix <unk> test
+add localdate localdate localdate localdate localdate
+fix <unk> <unk>
+fix the build
+remove unused code
+make the class serializable
+fix alertcontroller <unk>
+fix <unk> <unk>
+fix npe in <unk>
+add additional check for <unk>
+remove unused method
+remove deprecated from modulebuilder
+fix npe in xmppactivity
+add missing annotation
+add trace logging
+add log message
+fix javadoc for <unk>
+add some logging to debug
+fix <unk> <unk>
+fix <unk> <unk>
+fix javadoc warning
+make viewholder public
+remove startactivity from sample
+remove redundant method
+add a comment
+remove unnecessary assertion
+fix a bug where the <unk> was not being <unk>
+add missing inject annotation
+don t show action if there is no project
+fix npe in debuggerutilsex
+add missing method
+fix <unk> <unk>
+fix error message
+fix a bug where the <unk> was not showing
+fix npe in mathjax <unk>
+add log message
+fix a bug where the <unk> was not being <unk>
+add support for <unk> in <unk>
+add logging for <unk>
+fix context to use the correct context
+fix npe in psifilestubimpl
+remove debug output
+add log message
+fix npe in <unk>
+remove unneeded comment
+remove unused method
+fix a javadoc typo
+fix <unk> exception
+fix broken build
+fix npe in refactoring
+fix npe in <unk>
+remove unnecessary line
+fix a bug where the activity would be called when <unk>
+fix bug in <unk>
+remove unused import
+fix a bug where the adapter was not being called
+fix npe in <unk>
+fix auth <unk>
+remove deprecated code
+fix <unk> <unk>
+fix <unk> of <unk>
+add historyreference to historyreference
+fix <unk> <unk>
+fix a bug where the rollback was not being <unk>
+fix the build
+remove unused imports
+remove unnecessary annotation
+fix <unk> <unk>
+add method to find cp
+fix material getmaterial
+add <unk> tostring
+remove unused code
+fix npe in refactoring
+fix <unk> error
+fix a test bug
+add missing <unk>
+remove unused field
+add runwith annotation
+add missing <unk>
+fix npe in case of <unk>
+remove redundant line
+fix quality flaw
+remove obsolete todo
+add todo for <unk>
+add num floor
+fix npe in librarysourcesconfig
+fix <unk> decode
+remove unnecessary comment
+remove redundant call
+don t show default value for <unk>
+fix npe in classloaderlogmanager
+fix javadoc typo
+fix a crash when the activity is not null
+remove unused import
+fix a bug where the end of the current end of the end
+remove redundant modifier
+fix extractorsresource to use the default uri
+add a test for the receive
+remove unused log message
+fix npe in abstracthttp11processor
+fix <unk> for <unk>
+fix a bug where the webview was not being <unk>
+don t show <unk> on <unk>
+fix a typo in the default value
+fix postfixlivetemplate npe
+fix config <unk>
+fix <unk> <unk>
+fix a test error
+remove unused code
+fix <unk> logging
+fix npe in <unk>
+fix a bug where a new thread was not being updated
+fix a bug where the address is not used
+fix <unk> <unk>
+add <unk> to <unk>
+add <unk> to <unk>
+don t show <unk> for <unk>
+fix npe in model <unk>
+do not show scope for non java files
+fix <unk> <unk>
+fix test failure
+fix npe in grails mode
+fix npe in bolt <unk>
+fix a bug where <unk> would not be <unk>
+fix javadoc for <unk>
+fix a bug where the activity would be used with a new user
+remove unused field
+remove unnecessary comment
+don t show <unk> for <unk>
+remove redundant call
+fix <unk> not using <unk>
+fix javadoc for the <unk>
+fix a bug where the local node was not used
+fix npe in systemtable
+add <unk> <unk> <unk>
+fix <unk> <unk>
+don t show <unk> on windows
+fix a bug where the current language is not null
+fix a bug in rebalancedataset
+don t show <unk> on <unk>
+fix a bug in replacepathtomacromap
+add <unk> <unk> method
+fix crash in <unk>
+fix testperformance <unk>
+fix a typo in the comment
+add trace logging
+fix <unk> <unk>
+fix javadoc for <unk>
+fix <unk> <unk>
+remove debug info
+fix a bug where a <unk> was not being <unk>
+fix npe in static field
+remove unused import
+fix a bug where a <unk> was not used
+fix config max calculation
+fix a javadoc typo
+fix a bug in dhistogram
+fix a crash when a activity is not null
+fix <unk> <unk>
+fix a typo in the oracledatabase
+fix test on windows
+remove unused code
+ignore test that is not used for now
+remove unneeded annotation
+fix a bug where a timer was not being <unk>
+add <unk> to the new method
+remove unused field
+fix the crash of <unk>
+fix the build
+add javadoc for <unk>
+remove obsolete todo
+fix a bug where a <unk> was not being <unk>
+remove unnecessary imports
+fix a bug in <unk>
+fix test on windows
+add <unk> to homeactivity
+add <unk> to <unk>
+fix tests for arg0
+add more information to mediautils
+fix compilation error
+remove unused method
+remove debug output
+fix javadoc for <unk>
+fix npe in case of invalid data
+fix the build
+remove unused code
+add missing license header
+fix <unk> on snapshot snapshot
+fix the build
+remove unused field
+don t use <unk> for <unk>
+fix npe in <unk>
+fix npe in case of <unk>
+remove unused imports
+remove unused field
+add debug logging
+remove unused import
+remove unused imports
+add missing type
+fix the build
+remove unused method
+add since annotation
+fix a bug where <unk> was not showing
+fix a bug where the <unk> was not being <unk>
+fix a bug in <unk>
+fix a bug where the <unk> would be <unk>
+remove unused method
+don t show <unk> when a view is not null
+fix <unk> <unk>
+add comment on <unk>
+add test for ensureyellow
+fix npe in <unk>
+remove unused method
+don t show <unk> on non <unk>
+fix <unk> <unk>
+fix javadoc typo
+fix test on linux
+fix <unk> <unk>
+remove unused method
+fix javadoc warnings
+fix the build
+fix a bug where the <unk> was not used
+fix <unk> to not use <unk>
+fix javadoc warnings
+fix bug in <unk>
+fix windows windows test failure
+fix <unk> to not use <unk>
+fix javadoc typo
+fix typo in <unk>
+fix <unk> <unk>
+fix <unk> <unk>
+fix npe in fnexpr
+add test for null values
+fix npe in the right service manager
+fix <unk> error
+deprecate unused code
+remove unused imports
+add version version to tool
+add missing annotations
+fix <unk> of <unk>
+fix <unk> test
+fix <unk> <unk>
+fix a crash when <unk> is not present
+remove unused variable
+fix npe in activitymanagerservice
+fix npe in keymanager
+fix <unk> <unk>
+remove unused field
+fix npe in <unk>
+fix a bug where the <unk> was not used
+remove unused imports
+fix <unk> <unk>
+don t show project in tests
+fix test on windows
+fix npe in exittransitioncoordinator
+add <unk> method
+fix a typo in a test
+do not show editor if there are no editor
+fix a bug where the <unk> was not used
+fix npe in markuptemplateengine
+remove unused method
+remove debug output
+add log message
+fix layout <unk>
+add javadoc to <unk>
+fix unit test
+fix npe in <unk>
+don t show app on app dialog
+fix a bug where the <unk> was not used
+add <unk> to <unk>
+fix a bug in item
+don t show empty files
+add a copy of the <unk> to avoid the build
+fix issue with <unk>
+remove redundant annotation
+add more tests for <unk>
+fix <unk> to use the same package
+remove debug output
+make <unk> final
+remove unused imports
+fix a bug where a <unk> was not being used
+fix <unk> <unk>
+fix test on windows
+fix crash in <unk>
+fix broadcasterconfig issue
+fix crash in <unk>
+fix javadoc typo
+fix <unk> <unk>
+remove unused method
+remove unused import
+fix test failure
+fix a crash when <unk>
+fix kmeans <unk>
+fix npe in <unk>
+fix npe in accountmanagerservice
+fix issue with <unk>
+remove unused method
+don t show action if it s not null
+remove unused method
+add right right right
+fix license header
+fix drf crash
+fix typo in upgrade message
+add missing license header
+remove unnecessary method
+fix test on linux
+fix <unk> <unk>
+fix test on windows
+remove redundant logging
+fix javadoc for <unk>
+remove unused imports
+add a comment
+add suppresswarnings annotation
+remove component annotation
+fix <unk> <unk>
+fix npe in <unk>
+fix <unk> metricname to use the correct string
+fix npe in <unk>
+fix <unk> issue
+fix npe in <unk>
+fix npe in <unk>
+add javadoc for <unk>
+add <unk> method
+add a method to get the background
+fix <unk> <unk>
+don t add file files to the file if it is not available
+fix <unk> for <unk>
+add a comment
+remove unnecessary method
+remove unused jersey jersey
+add <unk> method
+fix <unk> <unk>
+add a comment
+fix javadoc typo
+fix stores <unk> javadoc
+fix npe in annotationutils
+fix npe in preventing npe
+fix test on windows
+don t show project for <unk>
+remove unused imports
+remove printstacktrace from httpconnection
+fix npe in <unk>
+fix the build
+fix npe in case of component
+fix the build
+fix npe in <unk>
+add check for null values
+fix imapresponseparser <unk>
+remove unused import
+add <unk> to <unk>
+add missing runwith annotation
+fix <unk> <unk>
+fix test on windows
+fix bug on getall
+add runwith annotation
+fix npe in <unk>
+fix <unk> on <unk>
+make <unk> public
+fix a bug where the default value was not set
+fix npe in es6compilertestcase
+remove unused imports
+fix quality flaw
+remove deprecated code
+don t show project if it is not available
+add more information to error message
+fix <unk> exception
+fix issue with <unk>
+remove unused method
+remove redundant logging
+remove <unk> from global toolbar
+fix broken build
+fix npe in contextimpl
+remove unused method
+add a comment
+fix the build
+remove redundant line
+fix <unk> test
+add missing annotations
+add debug logging
+remove unused code
+fix a bug where <unk> was not being <unk>
+fix crash when activity is not enabled
+fix npe in <unk>
+fix test on windows
+fix npe in <unk>
+add missing type
+remove unused imports
+don t show all actions when there are no than one
+add a method to get the right event
+fix <unk> <unk>
+fix the build
+don t show windows when window is hidden
+fix a bug where <unk> was not being set
+don t show non <unk>
+add a warning for <unk>
+add <unk> to block
+fix <unk> equals
+add serveraddress method
+remove unused method
+fix <unk> test
+add missing annotations
+add missing javadoc
+fix a crash when <unk> is not enabled
+fix npe in <unk>
+fix a bug in a <unk>
+remove redundant field
+fix a bug in <unk> where a <unk> was not used
+fix <unk> <unk>
+fix <unk> <unk>
+fix cell cell cell cell cell cell cell
+fix a typo in the component
+remove unnecessary method
+remove unnecessary method
+fix <unk> to use the new api
+fix a typo in the <unk>
+fix <unk> <unk>
+fix ui in context menu
+add debug logging
+fix applicationinfo <unk>
+remove unused import
+remove unused import
+fix <unk> crash
+remove unused method
+fix the build
+fix <unk> oncreate
+fix <unk> for <unk>
+fix typo in log message
+fix npe in imageview
+don t show actions on project action
+fix <unk> <unk>
+fix a bug where the index was not being updated
+fix a typo in sslhandler
+remove log message
+don t show hint for completion completion completion completion completion completion completion completion completion completion
+remove redundant line
+remove override annotation
+add a method to iq
+remove unused method
+fix npe in indexingstamp
+add default message to notempty
+fix <unk> test
+fix npe in <unk>
+fix a crash when <unk>
+fix npe in <unk>
+remove obsolete todo
+fix numberpicker numberpicker <unk>
+fix usage usage
+fix typo in <unk>
+fix npe in <unk>
+remove unused imports
+don t show editor for non <unk> files
+fix <unk> <unk>
+fix a typo in a comment
+add <unk> to <unk>
+remove unused import
+fix javadoc warning
+fix unit test
+add tostring to peopletable
+fix a bug where query was not being <unk>
+fix npe in <unk>
+add a todo
+add logging on server exception
+add <unk> method
+remove unused code
+fix <unk> release
+remove redundant exception
+add missing license header
+fix npe in <unk>
+fix a bug where a <unk> would be <unk>
+remove unused method
+fix npe in station
+fix a bug in <unk>
+fix javadoc typo
+add <unk> to direction
+add <unk> method
+fix <unk> test
+add missing interface
+remove unused import
+fix test failure
+fix npe in <unk>
+add a protected method to get the pattern
+fix a bug where the toast was not being closed
+fix a bug where the context is not used
+don t show <unk> on mac
+add <unk> to <unk>
+fix npe in <unk>
+fix <unk> <unk>
+remove unneeded comment
+fix npe in <unk>
+add <unk> to <unk>
+fix textarea <unk>
+fix textview invalidate
+fix a bug where the <unk> was not being <unk>
+remove unnecessary check
+don t show <unk> on screen
+fix a bug where view would not be <unk>
+fix javadoc for <unk>
+fix javadoc typo
+fix broken test
+fix npe in model
+fix npe in <unk>
+fix npe in <unk>
+remove unused code
+fix <unk> <unk>
+add a todo
+add missing license header
+fix <unk> <unk>
+fix the build
+remove unnecessary method
+add a comment
+fix sitepickeractivity <unk>
+fix logic error
+fix the build
+fix a bug where the adapter was not being <unk>
+remove obsolete comment
+fix <unk> <unk>
+fix typo in comment
+fix a bug in updatetask </s> </s> </s>
+remove ratelimiter ratelimiter from <unk>
+fix a bug where the <unk> was not being used
+add <unk> to default language
+fix javadoc warning
+fix the cs error of camel <unk>
+add <unk> to find the <unk>
+dispose editor on dispose
+fix a bug where the activity is not used
+fix multiuserchat <unk>
+fix the build
+fix cameradevice <unk>
+fix broken test
+fix <unk> <unk>
+add <unk> to <unk>
+fix a bug where the <unk> was not used
+fix setting of <unk> setting
+fix javadoc warning
+don t show psi for psi files
+fix <unk> <unk>
+remove deprecated method
+remove unused imports
+add missing method
+fix <unk> of <unk>
+fix <unk> <unk>
+fix a bug in <unk>
+fix <unk> <unk>
+fix npe in raptorqueryrunner
+fix npe in <unk>
+don t show actions on mac
+fix npe in refactoring
+fix npe in <unk>
+ignore log errors
+fix the build
+fix the build
+add logging for <unk>
+add notconnectedexception to smackexception
+remove redundant call to <unk>
+fix javadoc warning
+remove unnecessary code
+fix <unk> property name
+fix a bug where the <unk> would be <unk>
+fix <unk> to not use the correct package
+remove unnecessary code
+remove children from node
+fix <unk> <unk>
+add a test for <unk>
+add method to set the default value
+remove unnecessary null check
+remove unused imports
+fix a bug where the <unk> was not being <unk>
+add more logging
+fix the build
+fix a compilation error
+fix the build
+fix a bug where the <unk> was not used
+fix npe in localsearchscope
+add a comment
+add sharable annotation
+remove unnecessary code
+fix <unk> to not use <unk>
+fix <unk> <unk>
+fix the build
+fix <unk> <unk>
+fix a typo in <unk>
+remove printstacktrace from reportgenerator
+fix the build
+fix <unk> to use the correct value
+fix targetdirectory to set targetdirectory
+remove unused code
+add javadoc for mongo
+fix typo in oservernetworklistener
+fix the build
+don t show a wpnetworkimageview if it is not used
+remove debug output
+fix <unk> error
+don t show <unk> for non <unk>
+remove redundant code
+fix <unk> converters
+fix <unk> <unk>
+fix <unk> <unk>
+fix bug on <unk>
+fix a bug where the <unk> was not being <unk>
+add a comment
+fix npe in semanticanalyzer
+don t use <unk> for populateattributes
+fix a bug where the <unk> was not used
+remove obsolete comment
+remove trace logging
+don t show <unk> for <unk>
+don t show project for project files
+add javadoc for outputfile
+fix a crash in <unk>
+fix a bug where a <unk> was not used
+remove unused code
+remove redundant modifier
+fix <unk> to use <unk>
+fix npe in global data
+fix <unk> error
+remove unused code
+add comment on <unk>
+fix <unk> to not use <unk>
+fix a bug where the app was not used
+add blockmeta to <unk>
+add <unk> to get the default settings
+make safeasynctask public
+add test for <unk>
+add support for <unk> in <unk>
+fix a typo in the app
+fix npe in <unk>
+add missing db and <unk>
+add <unk> to <unk>
+remove override annotation
+fix javadoc warning
+don t show anonymous classes in groovy class
+move <unk> to the correct package
+remove unused import
+add a constant for <unk>
+fix the build
+remove unused import
+fix the build
+add missing annotations
+add a method to get the current state
+add <unk> method
+fix a bug where the root was not used
+fix <unk> not being used
+remove unused imports
+add a method to get the value of the same key
+fix <unk> <unk>
+fix <unk> <unk>
+add world <unk>
+fix a bug where the contact was not being updated
+fix <unk> <unk>
+fix a typo in s3underfilesystem
+remove unused method
+fix a bug where the master master master is not used
+fix the build
+fix a bug where the drawable would be <unk>
+fix bug in generalcommandline
+add method to get the list
+remove redundant logging
+fix npe in <unk>
+fix a bug where the file is not used
+fix <unk> bug
+fix typo in <unk>
+add a comment
+remove unnecessary method
+don t show <unk> for the <unk>
+fix abstractstaticpersistentmethod <unk>
+fix a typo in <unk>
+fix bug in odocument
+fix <unk> not working on windows
+remove unused field
+add experimental <unk>
+fix a bug where the <unk> was not being updated
+fix <unk> <unk>
+fix npe in modeltest
+add a method to classreflection
+fix javadoc warning
+fix <unk> <unk>
+remove unused imports
+fix javadoc for <unk>
+fix the build
+fix npe in statictypecheckingvisitor
+don t show completion if there are no project
+fix a typo in <unk>
+remove obsolete todo
+remove override annotation
+fix unit test
+fix npe in printactivity
+fix a bug in odocument track of the <unk>
+fix log message
+fix a typo in nonblockinghashmap
+add a method to check if we have a message
+fix a crash when <unk> is not enabled
+fix a typo in <unk>
+remove unused code
+fix <unk> <unk>
+fix cs issues
+fix npe in case of null adapter
+fix issues with <unk>
+fix javadoc warnings
+fix npe in detached
+don t show <unk> for non physical physical files
+don t show tests for <unk>
+fix <unk> on <unk>
+fix race condition in <unk>
+fix test on windows
+fix a bug where the <unk> was not used
+fix title title
+add <unk> to <unk>
+remove unused code
+remove debug output
+add a new method to get the current list
+add a cancel to <unk>
+fix a bug where the <unk> is not <unk>
+remove unused field
+fix a bug where the invalidate was not updated
+fix npe in case of invalid file
+fix npe in case of <unk>
+fix a bug where the activity would not be <unk>
+fix issue with <unk>
+fix crash when using <unk>
+deprecate unused code
+fix a typo in the method name
+make the lazy init serializable
+fix bug in <unk>
+fix <unk> <unk>
+fix typo in test
+fix a bug where the drawhandler was not being <unk>
+add missing license header
+remove unneeded comment
+add missing <unk>
+fix npe in <unk>
+remove unused code
+fix javadoc typo
+add tostring to <unk>
+fix <unk> <unk>
+fix <unk> for <unk>
+remove unnecessary code
+fix npe in <unk>
+fix javadoc warnings
+add support for <unk> in <unk>
+fix typo in <unk>
+fix the build
+add missing license header
+fix npe in bookmarks
+fix the build
+add missing method
+fix typo in gelfoutput
+fix <unk> <unk>
+add test for <unk>
+fix <unk> to not use <unk>
+remove redundant modifier
+add a constructor that takes a null message
+fix npe in abstractclient disconnect
+fix npe in attributes
+fix test on windows
+add <unk> to <unk>
+fix a bug in <unk>
+turn off logging
+fix <unk> <unk>
+move <unk> to the correct package
+fix <unk> not remove
+add test for <unk>
+fix javadoc typo
+remove unused import
+add missing getmetadata
+remove unnecessary code
+remove deprecated code
+remove unnecessary check
+fix test on windows
+fix <unk> <unk>
+fix <unk> to use the correct value
+fix a bug where <unk> was not remove
+remove unnecessary code
+remove redundant cast
+fix <unk> on windows
+remove redundant method
+fix npe in <unk>
+fix mappedbufferwrapper <unk>
+add missing <unk>
+remove unused import
+fix npe in tileengine
+add <unk> to openstreetmapgraphbuilderimpl
+fix typo in <unk>
+remove unused imports
+add test for <unk>
+fix <unk> <unk>
+add missing suppresswarnings
+add server <unk>
+don t show usage for <unk>
+add effect <unk>
+fix npe in trustmanager
+remove unused code
+remove redundant code
+add findbugs suppression
+fix npe in <unk>
+don t use <unk> for <unk>
+fix npe in sslcertificatesocketfactory
+fix npe in <unk>
+fix <unk> on <unk>
+remove debug output
+add a todo
+remove unused import
+remove unused method
+make unused field
+remove unused method
+fix javadoc typo
+remove obsolete todo
+fix javadoc for <unk>
+fix a bug where the ime could be called when the user is not set
+remove unnecessary comment
+fix nameutil <unk>
+fix the build
+fix npe in global focus
+fix javadoc warning
+remove unused field
+fix <unk> <unk>
+don t show <unk> on mac
+fix javadoc warnings
+fix <unk> <unk>
+don t show floatvalue if it is not null
+remove unused field
+remove debug output
+don t show <unk> for <unk>
+remove unnecessary null check
+fix a bug where the panel was not used
+remove unused method
+add <unk> to <unk>
+fix <unk> <unk>
+fix a bug where the <unk> was not being <unk>
+fix quality flaws
+fix a bug where slurper would have been remove
+remove unused method
+fix <unk> onupdate
+fix javadoc warnings
+fix xcontentbuilder <unk>
+add <unk> method
+fix npe in <unk>
+dispose disposed on dispose
+add <unk> method
+add support for <unk>
+fix crash in relativelayout
+add a comment
+add <unk> method
+fix typo in lafmanagerimpl
+fix kmeans <unk>
+remove log message
+fix npe in incrementalindexstorageadapter
+fix a bug where the upload is not showing
+fix the build
+fix a bug in immutableasttransformation where the immutableasttransformation was not used
+fix a test error
+remove debug output
+add logging to log message
+fix a bug in account
+don t show the log message when there is no project
+don t use <unk> for <unk>
+remove unnecessary call to <unk>
+fix <unk> <unk>
+remove conditionalonexpression annotation
+fix a bug where the properties was not used
+remove debug code
+remove unneeded line
+fix npe in <unk>
+remove redundant modifier
+fix a bug where the <unk> was not used
+remove deprecated javadoc
+don t show type for non <unk>
+fix npe in watchserviceregistrar
+remove obsolete comment
+remove unused import
+fix bug in <unk>
+add <unk> method
+remove debug log message
+fix quality flaw
+add test for isterminated
+fix javadoc typo
+remove unnecessary public modifier
+fix a typo in <unk>
+add <unk> to <unk>
+sourceformatter sourceformatter sourceformatter fix
+fix managerbase <unk>
+add missing annotations
+fix the build
+fix npe in nio2endpoint
+add tests for a test
+remove unused field
+add test for <unk>
+remove unnecessary method
+remove obsolete comment
+fix border of <unk>
+fix log message
+fix npe in case of exception
+fix javadoc for <unk>
+add world <unk> and <unk>
+add <unk> method
+fix quality flaws
+fix requesthandler test
+fix npe in <unk>
+remove unused method
+remove unnecessary override
+fix a bug where the <unk> was not used
+add missing license header
+fix issue with <unk>
+remove unused import
+add securityconfig to <unk>
+fix a bug where sslhandler was not being used
+fix the build
+fix a bug where the future was not being used
+remove unused code
+add <unk> method
+fix default value for <unk>
+fix a bug where it was not used
+remove unnecessary empty line
+add patch to mesh
+remove unused imports
+remove debug output
+remove deprecated methods
+fix npe in <unk>
+add getter for content header
+add prepare method
+remove obsolete comment
+remove debug output
+fix the build
+fix a bug where request was not used
+fix a typo in <unk>
+fix npe in webxml
+fix a bug where <unk> would be <unk>
+add <unk> <unk>
+fix a typo in the exception message
+fix crash when preventdefault is called with preventdefault
+add test for cookie with cookie
+fix a bug where the current is not a single node
+fix <unk> <unk> bug
+add some javadoc
+fix npe in <unk>
+add <unk> method
+fix a bug where the <unk> was not being used
+fix exception in xmlrulehandler
+fix a bug where the <unk> was not <unk>
+fix npe in rippledrawable
+fix npe in devicepolicymanagerservice
+fix <unk> on <unk>
+add utility method to get the same value
+remove unnecessary line
+fix typo in warning message
+add license header
+don t show popup on completion
+fix exception message
+fix fiberasync
+fix npe in <unk>
+fix npe in activityshare
+don t call the message if a message is not found
+fix a bug in zygoteinit
+fix the build
+add default text for <unk>
+fix a bug where the default settings was not used
+don t show icon for <unk>
+remove unused code
+remove unused method
+fix npe in <unk>
+add <unk> method
+add a method to get a long
+remove unused code
+remove unused method
+add missing annotations
+remove unused method
+add missing break
+fix npe in <unk>
+add default value for <unk>
+fix <unk> <unk>
+fix a typo in <unk>
+add a warning for the console
+remove unused field
+fix typo in <unk>
+add <unk> to <unk>
+fix npe in xmppactivity
+remove unused code
+fix binary <unk>
+fix <unk> <unk>
+remove unnecessary method
+fix a bug in configuration
+fix a bug where the <unk> was not used
+fix crash in dimlayer
+fix a bug where the <unk> was not being <unk>
+test add testcluster to test case
+fix the build
+add <unk> to <unk>
+fix npe in glm2
+remove unused imports
+turn off debug
+fix the build
+fix a bug where the <unk> was not being used
+fix javadoc typo
+fix test on windows
+remove deprecated methods
+fix a typo in account
+dispose tests on dispose
+fix typo in <unk>
+fix <unk> to use datapoints
+remove unused method
+fix unit test
+fix npe in <unk>
+don t show project for project
+add some javadoc
+fix a bug where the uri was not used
+fix a bug in <unk>
+fix a bug where the <unk> was not used
+fix javadoc for <unk>
+remove unused method
+add missing javadoc
+fix glide method
+fix <unk> <unk>
+fix a crash when <unk>
+add missing inject annotation
+remove unused field
+add <unk> to requestparams
+add roster <unk> to roster
+fix npe in <unk>
+fix npe in telephonymanager
+fix npe in requirements
+remove unnecessary method
+remove debug logging
+remove unnecessary comment
+remove obsolete todo
+fix <unk> on <unk>
+add javadoc for <unk>
+fix <unk> on windows
+add <unk> to adminclient
+fix <unk> <unk>
+fix <unk> <unk>
+fix a bug where the <unk> was not used
+add <unk> to <unk>
+remove obsolete todo
+add missing methods
+fix npe in <unk>
+add <unk> method
+fix npe in <unk>
+remove unnecessary null check
+fix npe in <unk>
+remove unused imports
+fix <unk> <unk>
+remove unnecessary annotation
+fix the build
+fix quality flaw
+fix issue with <unk>
+fix a bug where xmlrpcutils was not being used
+fix bug on windows
+remove unnecessary method
+fix a crash in activity <unk>
+add <unk> to mongoconfigutil
+add file name to the file
+fix javadoc typo
+fix the build
+add null check
+remove unnecessary check
+fix <unk> <unk>
+fix typo in test
+remove beta annotation
+add <unk> to <unk>
+remove unused suppression
+fix a crash in <unk>
+remove unused code
+fix a bug where the <unk> is not used
+add <unk> resid method
+add some javadoc
+fix javadoc warnings
+fix javadoc for <unk>
+remove debug output
+fix <unk> to not use the correct package name
+fix typo in <unk>
+remove deprecated methods
+remove unnecessary comment
+fix npe in <unk>
+add missing license header
+add missing <unk>
+fix npe in <unk>
+fix a bug where the default value was not used
+fix <unk> <unk>
+fix a bug where the server was not used
+add javadoc for <unk>
+add matcher method to get the current object
+hide icon when no selected selected
+fix the build
+fix npe in request
+add check for null value
+deprecate clock <unk>
+fix compareto method
+fix <unk> <unk>
+fix npe in beaninfo
+add test for <unk>
+add test for <unk>
+remove unused method
+fix markdownutils <unk>
+fix javadoc for fragmentmanager
+remove <unk> from the dumprendertree dumprendertree dumprendertree dumprendertree dumprendertree <unk>
+fix npe in <unk>
+fix <unk> to use the correct url
+fix a bug where the <unk> was not being remove
+remove redundant call to dozeservice
+add <unk> to valuepattern
+remove deprecated code
+add error message for <unk>
+fix animatorproxy <unk>
+remove redundant code
+fix <unk> <unk>
+add onattach onattach method
+remove unused code
+fix a bug where the trakt window was not being used
+remove unused method
+fix <unk> on windows
+remove debug output
+remove todo comment
+fix <unk> <unk>
+remove printstacktrace from the <unk>
+fix compile error
+fix a bug where <unk> was not used
+don t show <unk> for <unk>
+add missing license headers
+remove unused import
+remove unused import
+don t show action if there are no project
+remove unnecessary method
+add more logging
+don t show empty lines
+fix npe in <unk>
+don t show empty lines
+remove javadoc comment
+fix a bug where the file is not used
+fix title title
+fix test failure
+add <unk> to <unk>
+remove unused field
+fix atnconfigset equals
+remove unused imports
+don t set intent on app
+fix typo in oconsoledatabaseapp
+fix a bug where the current item was not used
+remove unused import
+fix nameutil <unk>
+fix a typo in <unk>
+remove obsolete comment
+fix <unk> for <unk>
+fix <unk> <unk>
+remove unused method
+fix the build
+fix <unk> <unk>
+add equals and hashcode to <unk>
+add <unk> to the list of the <unk>
+fix authenticationmanager <unk>
+remove unused code
+remove unneeded todo
+fix a bug where they are not used
+add a method to set the same error
+don t allow <unk> to be used in a user
+remove unused import
+fix javadoc warning
+don t show poster for <unk>
+fix a bug where the context is not used
+fix <unk> for <unk>
+fix a typo in <unk>
+remove unnecessary comment
+fix <unk> <unk>
+add <unk> to <unk>
+fix <unk> <unk>
+fix backgroundmanager <unk>
+add matcher method
+add javadoc for <unk>
+fix npe in <unk>
+fix a bug in <unk>
+don t show app on app
+fix a crash when <unk> is not set
+remove unused field
+fix <unk> to use the correct value
+remove unused field
+add a comment
+fix <unk> <unk>
+add missing javadoc
+remove unnecessary cast
+fix a bug where <unk> was not being <unk>
+remove unused imports
+fix npe in abstractclient disconnect
+fix a bug in <unk>
+add phoneaccount phoneaccount phoneaccount <unk>
+fix the build
+add a comment
+add plugin to plugin to plugin
+fix a bug where <unk> would be passed to a <unk>
+add a comment
+fix npe in neuralnetconfiguration
+add javadoc for defaultwaypropertysetsource
+fix npe in logic
+fix icon for <unk>
+add missing license header
+add missing line
+fix npe in activity
+add a method to get the <unk>
+add support for <unk>
+remove unnecessary method
+fix race condition in <unk>
+add test for <unk>
+fix npe in <unk>
+add missing method
+add encoder encode
+remove redundant modifier
+add logging for error message
+fix npe in <unk>
+fix the build
+add <unk> to <unk>
+remove unused code
+fix npe in fingerprintmanager
+fix <unk> <unk>
+fix npe in dbsqlsession
+remove unused imports
+fix cs issues
+add test for empty string
+fix <unk> to not use the same package
+fix glm <unk>
+fix <unk> not showing on <unk>
+add test for null pointer exception
+add a method to <unk>
+fix a bug where the default value was not used
+remove unused import
+remove unnecessary comment
+fix npe in case of null pointer exception
+fix npe in <unk> onchange
+add getter for <unk>
+fix a bug in the preventing a head
+remove redundant call
+fix javadoc for <unk>
+fix <unk> <unk>
+fix imagepresenter <unk>
+remove unused method
+fix npe in devicepolicymanagerservice
+fix logging of trace
+add method to get a file
+fix a bug where the <unk> was not being <unk>
+add a method to retrieve the default file
+fix the build
+remove unused code
+remove unnecessary final modifier
+add a comment
+fix javadoc for player <unk>
+fix npe in <unk>
+add <unk> <unk> to <unk>
+fix a bug where the file was not used
+add missing constructor
+fix test failure
+fix a bug in the <unk> dexfile
+add test for <unk>
+add missing javadoc
+remove unused imports
+ignore test for now
+remove unused method
+make <unk> serializable
+don t show new project if there are no project
+fix npe in case of <unk>
+add <unk> to the <unk>
+fix a bug in <unk>
+fix entity entity
+fix <unk> on windows
+add proxy method
+fix test on windows
+remove unnecessary null check
+remove unnecessary method
+fix a bug where the <unk> was not being used
+fix <unk> <unk>
+fix bug in <unk>
+fix resource resource
+fix npe in <unk>
+fix javadoc typo
+remove unnecessary method
+remove unused variable
+don t show project for non <unk> files
+fix a bug in the jar
+fix javadoc for audiotrack audiotrack
+remove debug log
+fix npe in illegalargumentexception
+add <unk> to <unk>
+add <unk> to <unk>
+fix <unk> to use <unk> instead of <unk>
+add missing license header
+add a method to get the same value
+don t show popup on popup
+trim the string in the string
+add a couple of javadoc
+fix test case
+fix log message
+fix a typo in <unk>
+fix the build
+fix npe in <unk>
+remove unused method
+fix <unk> bug
+remove log message
+fix npe in actionbaroverlaylayout <unk>
+fix <unk> <unk>
+fix some warnings
+don t show keyguard when keyguard is not present
+fix bug in gbm
+fix a crash in <unk>
+fix unit test
+add test for <unk>
+fix a test bug
+fix npe in <unk>
+remove unused imports
+fix npe in <unk>
+add missing override annotations
+don t use searchmanager for search
+fix javadoc for <unk>
+fix test failure
+remove unused method
+fix the build
+fix a bug where the drawer was not the drawer
+fix a bug where the drawer was not used
+add missing api
+fix a bug where the <unk> was not used
+fix npe in <unk>
+fix <unk> <unk>
+fix a bug in <unk>
+fix javadoc for <unk>
+remove unneeded comment
+fix test failure
+fix a bug where a test would be used
+fix bootreceiver <unk>
+set the default contact to the current contact
+fix javadoc for <unk>
+don t use file for <unk>
+remove unused method
+make <unk> public
+remove unused field
+fix a bug in frame <unk>
+remove unnecessary method
+fix typo in <unk>
+add check for nettyrequest
+remove unnecessary logging
+add <unk> method
+remove unused field
+fix a typo in case of error message
+remove unnecessary code
+remove unused imports
+fix npe in <unk>
+remove obsolete comment
+add some javadoc
+fix javadoc typo
+add a currentindex method to retrieve the currentindex
+remove unnecessary synchronization
+fix <unk> for <unk>
+fix npe in proxyconnection
+add missing annotations
+fix a bug in <unk> where the <unk> was not used
+fix npe in deferredresult
+fix yield yield
+remove unused import
+library remove redundant line
+fix npe in instanceof
+fix javadoc typo
+fix a bug in <unk>
+don t show local on mac
+fix <unk> to not use the default value
+remove unnecessary method
+fix npe in <unk>
+fix a bug where the <unk> would be <unk>
+fix a bug where the webview was not used
+remove unused config variable
+fix a bug where we don t have a token
+fix <unk> <unk>
+add equals and hashcode to author
+fix npe in executionvertex
+remove unnecessary method
+fix a typo in <unk>
+add helper method to lo
+add tostring method to <unk>
+add <unk> to <unk>
+fix a bug where <unk> would not be <unk>
+fix a bug where a <unk> was not used
+fix build breakage
+remove unused version
+fix <unk> <unk>
+fix npe in <unk>
+fix <unk> <unk>
+remove unused method
+fix a typo in <unk>
+add test for <unk>
+fix npe in compatible with null values
+fix npe in <unk>
+don t show <unk> on <unk>
+sourceformatter remove unused code
+fix <unk> on <unk>
+remove unused code
+don t show completion in completion mode
+remove debug code
+fix npe in <unk>
+fix default dialog
+fix <unk> <unk>
+fix the build
+fix logging of <unk>
+fix npe in <unk>
+remove unnecessary comment
+add test for <unk>
+fix javadoc warnings
+add a new method to <unk>
+remove unused imports
+remove redundant line
+fix javadoc warnings
+add <unk> to <unk>
+fix datetimetype <unk>
+add a method to get the current value
+fix typo in javadoc
+add a couple of methods
+fix npe in case of share share share share share share share share share share share share
+fix <unk> <unk>
+fix a bug where <unk> was not being set
+add <unk> <unk>
+fix <unk> issue
+fix typo in help message
+add javadoc for <unk>
+fix issue on user switch
+fix javadoc typo
+do not use project name for the project
+fix notification not showing notification
+add missing annotation
+fix a bug where the <unk> was not being <unk>
+add <unk> to <unk>
+fix <unk> <unk>
+add more logging
+add gservices setting for <unk>
+add <unk> to <unk>
+add a todo
+fix the build
+add test for <unk>
+fix <unk> issue
+fix a typo in <unk>
+fix error message
+remove unused imports
+add <unk> to dependencymanager
+fix npe in validator
+fix a bug in <unk>
+remove unused import
+add null check
+add log message
+make the <unk> public
+fix javadoc warnings
+don t use the same data for a <unk>
+add <unk> to <unk>
+remove debug log message
+add a method to retrieve a <unk>
+fix a bug where the context is not used
+remove obsolete comment
+add a method to set the default value
+fix npe in connectivityservice
+fix test failure
+fix a bug where <unk> was not used
+fix npe in maven maven maven maven plugin
+fix a minor javadoc error
+fix <unk> <unk>
+fix failing test
+remove unused variable
+add <unk> to <unk>
+fix npe in <unk>
+fix action bar not showing on screen
+fix <unk> exception
+fix <unk> for <unk>
+remove unused field
+fix <unk> <unk>
+remove obsolete comment
+add orient <unk>
+remove unused code
+remove unnecessary code
+fix bug in the <unk>
+fix a bug in the tree
+add version version to version version
+ignore test that fails on windows
+remove unnecessary reset
+remove obsolete comment
+fix typo in javadoc
+fix npe in transition <unk>
+fix a bug in downsampler
+add test for <unk>
+fix a bug where we can t get the default value
+add test for a new <unk>
+fix npe in case of empty list
+fix <unk> <unk>
+fix <unk> not getting the dialect
+remove unnecessary logging
+fix a bug where we can t get the correct layout
+fix npe in cachedauthenticatedsessionhandler
+fix npe in contextconfig
+add some javadoc
+remove unused code
+remove unnecessary code
+remove unused variable
+remove unused method
+remove debug output
+fix a bug where <unk> was not being called before a new one
+fix a bug where the <unk> was not being <unk>
+fix a crash when the screen is not set
+remove unused field
+remove unused exceptions
+fix utility method
+remove unused suppresswarnings
+fix <unk> on <unk>
+fix npe in <unk>
+fix npe in <unk>
+fix problem with <unk>
+add <unk> to the default value
+remove debug output
+fix a bug where the <unk> was not being used
+don t show <unk> for <unk>
+fix the build
+fix a bug where a uri is not used
+fix exception in hiveclient
+fix broken test
+fix npe in sessionmanager
+remove unused code
+fix a bug where a <unk> was not being <unk>
+add a method to query indentoptions
+fix a compilation error
+fix npe in keyguardviewmanager
+fix npe in <unk>
+fix a bug where linter was not used </s> </s> </s>
+fix <unk> on windows
+fix javadoc errors
+fix a crash in webview
+remove obsolete todo
+fix javadoc for <unk>
+fix a bug where the <unk> was not used
+fix failing test
+fix npe in <unk>
+fix a bug where <unk> was not being <unk>
+fix npe in <unk>
+remove redundant logging
+remove unused code
+fix <unk> <unk>
+fix a bug where the default value was not used
+remove unused code
+add missing constructor
+fix javadoc warning
+remove unused field
+fix test failure
+fix a bug where <unk> was not being <unk>
+add <unk> method
+remove unused code
+fix a bug where orientedge would be used in the <unk>
+add destroy method
+add <unk> to filetypes
+fix a bug in <unk>
+fix a typo in javadoc
+add <unk> to <unk>
+fix npe in case of null resource
+fix the build </s> </s> </s> </s> </s> </s>
+remove unused field
+add missing javadoc
+don t show dependency for <unk>
+fix a bug where the <unk> was not being remove
+remove obsolete comment
+fix <unk> <unk>
+fix a crash in commentsactivity
+add a comment
+fix exception message
+add <unk> to the default value
+fix <unk> on windows
+fix a test error
+fix a bug in <unk>
+don t show focus on editor
+fix npe in <unk>
+fix a bug where the activity could be <unk>
+fix javadoc typo
+fix javadoc for <unk>
+remove unused log
+fix npe in databindingutils
+fix a bug where a <unk> was not being <unk>
+fix <unk> latency latency
+fix the build
+add <unk> to <unk> and <unk>
+fix oldindexbackwardscompatibilitytests log message
+fix <unk> for <unk>
+add a method to get a string
+add javadoc to <unk>
+remove unused method
+fix a bug where the <unk> would be used in a <unk>
+fix npe in deodexutil
+add <unk> to <unk>
+don t show project if there are no project
+fix javadoc warnings
+remove unused method
+remove redundant code
+add missing targetapi methods
+add <unk> to <unk>
+fix npe in <unk>
+add <unk> to filenamegenerator
+add <unk> to <unk>
+don t show sdk for sdk
+don t show completion on completion
+add a <unk> to cfmetadata
+fix crash when <unk> is not null
+add <unk> to <unk>
+remove redundant comment
+fix javadoc for <unk>
+fix a typo in the comment
+add <unk> to <unk>
+fix npe in <unk>
+fix <unk> <unk>
+remove unused code
+fix npe in textureview
+add <unk> to <unk>
+fix javadoc typo
+remove unused imports
+add world createworld createworld to server
+fix a problem with a default jar jar
+add binding to binding
+don t show editor on empty files
+fix the build
+fix npe in feeditemmenuhandler
+remove unnecessary check
+fix bug in pactrecord
+add <unk> logging
+add some logging
+add a couple of <unk> to the list
+remove debug output
+fix expandablelistview <unk>
+fix npe in <unk>
+add handling of throwable to utils
+fix the cs error of camel spring
+add <unk> to <unk>
+add logging on <unk>
+fix npe in <unk>
+remove unused method
+fix a bug where the end was not updated
+fix a bug in <unk>
+fix a bug where a shard was not used
+remove redundant logging
+fix the build
+fix a bug where the recycler would not be <unk>
+fix bug on shutdown
+fix a bug where the default value was not remove
+fix npe in logevent
+move <unk> to the correct package
+fix a bug in currentvalue
+fix npe in <unk>
+fix npe in blog
+fix a bug where the request was not used
+fix error message
+fix broken build
+add debug logging
+remove unused code
+add method to get the first item
+fix npe in storageservice
+remove override annotation
+fix a bug in renderingregistry
+add systemapi annotations
+fix issue with <unk>
+fix reporter <unk>
+remove unnecessary method
+fix typo in <unk>
+add javadoc for <unk>
+fix <unk> <unk>
+fix typo in log message
+add <unk> method
+fix <unk> of parquet
+add a <unk> method
+add <unk> to the default prefs
+remove debug log message
+add help help for help
+remove unnecessary comment
+remove unused code
+add missing license header
+fix <unk> in <unk>
+fix test on windows
+fix a bug where the <unk> was not being used
+clarified javadoc for <unk> in solo and <unk>
+add trace logging
+add test for <unk>
+add <unk> and <unk> to <unk>
+don t show <unk> on dumb mode
+fix bug in <unk>
+fix <unk> <unk>
+fix npe in case of error
+add <unk> to <unk>
+add <unk> to <unk>
+fix a bug where the <unk> would be <unk>
+add new version for current version
+fix a bug where the <unk> was not being <unk>
+add <unk> method
+add charsets to <unk>
+add upload upload to the project
+fix a bug where the text was not used
+remove unnecessary method
+remove unused import
+fix javadoc for player <unk>
+fix the build
+fix the build
+fix npe in <unk>
+remove deprecated methods
+fix test failure
+fix a bug where the current activity would be <unk>
+make jetclassorobject public
+add missing override annotation
+add <unk> to <unk>
+fix javadoc typo
+fix npe in <unk>
+remove debug output
+fix bug in <unk>
+add a comment
+fix npe in <unk>
+fix <unk> on startup </s>
+fix issue with query
+fix a typo in patch
+fix bug in <unk>
+fix the build
+fix a bug where onstop would be passed to the <unk>
+remove obsolete comment
+fix test on windows
+remove deprecated methods
+fix typo in wifienterpriseconfig tostring
+fix npe in case of error
+fix npe in <unk>
+fix <unk> <unk>
+fix javadoc for <unk>
+fix a bug where <unk> was not being <unk>
+remove unused imports
+fix npe in <unk>
+fix a bug in the previous commit
+add <unk> and <unk>
+add a comment
+do not show default project if there are no project
+fix typo in <unk>
+fix empty string
+remove unused method
+add more documentation
+fix the build
+fix <unk> <unk>
+remove unnecessary line
+fix <unk> <unk>
+fix npe in ohazelcastplugin
+remove unnecessary comment
+remove unnecessary override
+fix <unk> <unk>
+fix javadoc for <unk>
+add a method to set the same string
+remove printstacktrace from <unk>
+add <unk> method
+remove debug output
+add test for test
+don t show the window if it is not enabled
+fix a typo in the <unk>
+remove redundant call
+remove unused imports
+fix the build
+fix npe in copy of <unk>
+add method to get the value of the <unk>
+remove unnecessary static modifier
+remove debug logging
+remove unnecessary comment
+fix a bug in <unk>
+remove redundant comment
+remove unused constructor
+add test for invalid values
+fix <unk> exception
+add <unk> to grailsapplication
+don t show editor for non <unk>
+add <unk> to <unk>
+fix the build
+fix a bug where a file was not being used
+add a test for the case of a non existing test
+fix bug in generalcommandline
+remove unnecessary code
+fix <unk> <unk>
+fix a bug where the <unk> would be <unk>
+fix a bug in the <unk>
+remove unused <unk> method
+remove unused import
+add tostring to clusterblock
+remove unused field
+remove unused import
+fix the build
+remove debug output
+add <unk> to <unk>
+remove debug output
+add <unk> to <unk>
+fix ideframeimpl <unk>
+fix a bug in the <unk>
+don t show window when window is not present
+fix a bug where the <unk> was not being <unk>
+fix npe in <unk>
+fix <unk> delay
+remove redundant methods
+fix <unk> <unk>
+remove todo comment
+add missing javadoc
+remove redundant comment
+fix npe in <unk>
+add break to xmlpullparser xmlpullparser
+fix crash when <unk> is not enabled
+remove debug logging
+fix a regression in the <unk>
+remove unnecessary code
+remove unused imports
+don t show psi for <unk>
+fix npe in <unk>
+fix a bug where the <unk> was not being used
+add missing method
+remove unnecessary log message
+fix a typo in the javadoc
+fix <unk> <unk>
+fix testutils <unk>
+remove debug output
+remove debug logging
+remove unused import
+fix a bug where the <unk> would cause a crash
+fix <unk> <unk>
+fix a bug where a new session is not used
+fix the build
+fix proxy proxy
+remove unused code
+fix javadoc typo
+disable the test for now
+fix npe in <unk>
+fix a bug where a <unk> was not being updated
+fix keyguard crash
+remove debug code
+fix bug on <unk>
+fix a bug where the elevation was not used
+fix minor bug in hive
+remove debug output
+fix a typo in package manager
+fix npe in pathtoken <unk>
+make autovalue public
+don t show project if project is not disposed
+fix <unk> <unk>
+fix <unk> <unk>
+fix npe in case of null
+remove unused import
+add more more information
+fix <unk> <unk>
+fix npe in xml server
+fix test failure
+fix <unk> to use <unk>
+don t show the notification when there is no need to sourceposition
+fix npe in <unk>
+fix race condition in <unk>
+fix partitionmanager <unk>
+remove unused import
+fix crash when showing a view
+remove unused import
+remove unused code
+add missing license header
+fix a typo in gifdrawable tostring
+fix swipelayout <unk>
+remove unnecessary cast
+fix <unk> <unk>
+add <unk> to <unk>
+make <unk> public
+fix the build
+fix javadoc warnings
+fix npe in <unk>
+add <unk> to configuration
+fix <unk> <unk>
+remove unnecessary comment
+remove redundant cast
+remove unused method
+fix npe in <unk>
+fix npe in <unk>
+fix javadoc warnings
+add test for <unk>
+remove unused field
+ignore test for now
+remove unnecessary calls to <unk>
+fix <unk> <unk>
+fix npe in <unk>
+fix a bug where <unk> would be <unk>
+fix <unk> pattern
+fix <unk> <unk>
+remove unused code
+fix a bug where the default value was not used
+fix <unk> to not use <unk> for binary binary
+remove redundant call
+add check for <unk>
+remove unused suppresswarnings
+remove unused code
+ignore test for now
+add missing annotations
+fix npe in <unk>
+fix <unk> <unk>
+fix a bug where the socket was not used
+add <unk> to tokensequencepattern
+fix npe in compilestack
+fix <unk> for <unk>
+remove unused imports
+add javadoc for drawable
+fix issue with http connection
+fix typo in javadoc
+fix <unk> for <unk>
+add logging to <unk>
+fix a bug where the <unk> would be <unk>
+remove unused import
+remove deprecated code
+fix npe in <unk>
+fix <unk> <unk>
+fix javadoc for <unk>
+add test for <unk>
+add <unk> to itemtype
+add javadoc for <unk> methods
+add more javadoc
+remove override annotation
+add method to set the default value
+add test for <unk>
+fix bug with <unk>
+remove <unk> tests
+fix <unk> <unk>
+fix hitcontext to hitcontext
+remove redundant line
+remove deprecated methods
+fix <unk> <unk>
+fix lists of <unk>
+add webapplicationexception method to outputformat
+fix <unk> <unk>
+fix test on windows
+fix a bug where the <unk> was not remove
+don t show maven tests for non <unk> files
+fix the build
+fix javadoc typo
+fix a bug where the width of the width of
+fix javadoc for <unk>
+remove redundant code
+add a default value for the <unk>
+fix crash in <unk>
+remove unused field
+remove debug code
+add a method to get the <unk>
+add missing annotations
+fix the build
+remove duplicated method
+remove debug logging
+fix scroller <unk>
+make <unk> public
+add runwith annotation
+remove unused imports
+fix npe in <unk>
+add a couple of javadoc
+fix javadoc typo
+fix a bug where the <unk> is not used
+remove redundant cast
+fix a typo in <unk>
+remove redundant call to <unk>
+add shadowview <unk>
+remove unused method
+fix <unk> <unk>
+remove unnecessary call to <unk>
+fix npe in <unk>
+remove unnecessary imports
+remove trace logging
+fix npe in <unk>
+add more documentation
+clarified javadoc for <unk> in solo and robotiumutils
+fix test failure
+fix typo in <unk>
+fix a bug where a empty list was not used
+add test for <unk>
+fix the build
+fix a bug where the visibility of the default visibility of the default visibility
+add a method to allow a non public method
+fix a bug where <unk> was not used
+fix <unk> test
+fix xcontentbuilder <unk>
+fix exception message
+remove unused import
+add missing static modifier
+fix npe in <unk>
+add test for ensureyellow
+fix the build
+remove unused method
+fix a bug where the <unk> would be <unk>
+add javadoc to get the disabledrules
+fix runnercontentui <unk>
+don t show new status if there are no project
+remove obsolete comment
+add a method to retrieve the same list
+fix npe in npe
+fix <unk> <unk>
+fix <unk> <unk>
+add null check
+fix a bug in <unk>
+fix a bug where a file was not being used
+fix the build
+fix a typo in the <unk>
+remove unnecessary assert
+add method to show the <unk>
+fix typo in <unk>
+don t show the user agent when the user is not used
+fix npe in devicepolicymanagerservice
+remove unused configurable
+fix disconnected <unk>
+fix test on windows
+add more logging
+fix npe in <unk>
+add constructor that takes a method
+fix a bug where the root was not the root
+catch filenotfoundexception in activityshare
+fix <unk> <unk>
+fix npe in <unk>
+remove deprecated methods
+remove unused requestwindowfeature method
+fix a bug where the default value was not used
+hide search on search search
+remove unused import
+fix bug in meshbuilder
+remove redundant cast
+fix block name in block
+fix <unk> <unk>
+add <unk> to <unk>
+remove unnecessary method
+fix a bug in array constructor
+fix a bug in <unk>
+do not merge remove file from <unk>
+fix issue on index with null
+fix <unk> error
+don t show project for project project
+add check for s3underfilesystem <unk>
+remove unnecessary method
+add javadoc for <unk>
+throw exception if a message is not found
+add alertdialog method
+fix npe in stickygridheadersgridview
+don t show the full image when there is no need to use the correct
+fix npe in lucenedoccollector
+don t show windows if there are no <unk>
+fix <unk> on <unk>
+add debug logging
+fix crash when <unk> is not null
+add javadoc to <unk>
+fix quality flaw
+remove unused method
+fix filetype method
+fix npe in tileengine
+fix <unk> on <unk>
+add a check for the <unk>
+fix appbarlayout <unk>
+don t show file if not available
+fix npe in <unk>
+fix npe in androidinput
+fix fmlrelaunchlog <unk>
+fix javadoc warnings
+fix bug in sharedtreemodelbuilder
+remove unnecessary comment
+fix a typo in <unk>
+fix entity <unk>
+add javadoc for <unk>
+remove debug code
+fix <unk> <unk>
+fix <unk> <unk>
+fix a bug where the main menu was not used
+add version version to <unk>
+fix npe in <unk>
+fix a minor typo in deeplinkentry
+remove unused field
+fix the build
+fix a bug where a non null value was not used
+ignore test that is not used
+add special case for <unk>
+remove unused method
+fix <unk> <unk>
+remove unused logger
+fix <unk> <unk>
+add <unk> to <unk>
+fix <unk> to not use <unk>
+fix the build
+add license header
+fix <unk> <unk>
+remove deprecated methods
+fix a bug where <unk> was not being <unk>
+fix npe in view
+don t log the error when it s not used
+fix <unk> for <unk>
+fix typo in <unk>
+fix a bug where the <unk> would be <unk>
+fix a bug where <unk> was not being used
+don t show <unk> for non <unk>
+fix cs issues
+fix test on windows
+fix bug on json
+add <unk> method
+add missing javadoc
+remove unused imports
+remove unused code
+fix npe in npe
+fix a bug where the <unk> would be used
+remove obsolete comment
+add null check
+fix a bug where <unk> was not being <unk>
+fix bug in <unk>
+fix <unk> <unk>
+add <unk> to <unk>
+fix a bug where the <unk> would be used
+fix npe in <unk>
+add missing javadoc
+remove redundant modifier
+fix a bug where the <unk> was not being <unk>
+fix <unk> on <unk>
+fix npe in connectionservice
+add <unk> to <unk>
+add debug logging
+add missing package modifier
+add test for <unk>
+fix test on windows
+remove unused method
+remove unused method
+add property annotations
+add a method to set the server
+add <unk> to tag
+remove debug output
+add reporter to metrics
+add nullable annotations
+add tostring method to <unk>
+fix crash in <unk>
+add missing license header
+remove debug output
+remove unnecessary code
+add <unk> to <unk>
+fix a typo in the config
+add test for null values
+fix npe in blocktank
+fix <unk> <unk>
+fix npe in <unk>
+fix npe in <unk>
+remove unused import
+add <unk> to <unk>
+add a test for the <unk>
+add missing license header
+remove unnecessary border
+fix a bug where a config was not used
+add a check for a static method
+remove redundant javadoc
+remove unused method
+add missing license header
+add test for <unk>
+fix <unk> <unk>
+fix a bug where a node was not being used
+add <unk> to <unk>
+add a comment
+fix a bug where a non blocking <unk> would be <unk>
+remove unnecessary comment
+remove unused field
+add missing method
+fix the build
+fix npe in metricsservlet
+remove redundant modifier
+fix <unk> not showing up up the input
+don t show inspection for inspection files
+fix npe in <unk>
+fix <unk> for <unk>
+fix config config config
+remove unnecessary code
+fix npe in <unk>
+fix npe in <unk>
+fix npe in <unk>
+remove unused method
+fix <unk> <unk>
+don t show empty line
+add missing method
+remove unused imports
+remove unnecessary method
+add <unk> to tilegenericpipe
+add test for <unk> usage
+add more documentation
+fix a bug where the exception was not used
+fix <unk> <unk>
+don t show <unk> on project
+add a method to get the length of the length of the length value
+don t show <unk> on <unk>
+fix a bug where the <unk> was not being used
+fix <unk> on <unk>
+add method to get a plugin
+fix build break
+add missing annotation
+remove debug output
+add javadoc to camelcontext and <unk>
+fix a typo in the <unk>
+add <unk> to <unk>
+remove debug output
+fix bug on functions
+fix <unk> <unk>
+remove redundant exception message
+fix broken test
+remove redundant cast
+add a todo
+fix a bug where the current thread was not closed
+add some comments
+remove <unk> method
+fix a bug in <unk>
+fix the build
+fix a bug where <unk> was not being <unk>
+fix npe in <unk>
+add cell <unk>
+fix npe in mediasessionlegacyhelper
+add protected methods to <unk>
+remove debug output
+fix typo in <unk>
+fix test failure
+fix <unk> <unk>
+remove debug output
+fix npe in <unk>
+fix npe in <unk>
+add missing license header
+add test for <unk>
+add <unk> method
+fix npe in <unk>
+fix npe in test
+fix javadoc errors
+add <unk> to <unk>
+add a method to get the same value
+add test for new mapper
+don t show new editor for <unk>
+add missing license header
+fix failing test
+fix npe in <unk>
+remove unused method
+remove unused import
+fix javadoc typo
+remove unnecessary <unk>
+fix npe in basicoperationservice
+add a constant for a static inner class
+fix a typo in the comment
+fix npe in <unk>
+remove unused import
+don t show show show dialog when no thetvdb is available
+fix issue with <unk>
+remove awaitsfix annotation
+fix a bug where the <unk> was not being <unk>
+ignore test that is not used
+add missing annotations
+fix the build
+fix <unk> for <unk>
+remove unused imports
+add more error message
+fix bug in scopeprovider
+remove unused method
+add missing method
+fix a typo in gitfetchresult
+fix bug in stanfordcorenlp
+fix plugin version
+remove unused method
+add getter for <unk>
+fix javadoc warnings
+fix npe in bitmaputils
+fix a bug where the sstablereader was not used
+remove unused field
+add <unk> <unk> to <unk>
+fix log message
+add a default port to the connector port
+fix the build
+add experimental helper method
+fix clsfileimpl <unk>
+fix error handling in <unk>
+remove unused code
+fix the build
+fix the <unk> of <unk>
+fix bug in <unk>
+fix bug with <unk> and <unk>
+fix a bug where <unk> was not used
+add tostring method to <unk>
+add num to <unk>
+fix a bug where the <unk> would not be <unk>
+remove unnecessary method
+fix a bug where the <unk> was not being updated
+fix npe in <unk>
+remove debug output
+disable <unk> for now
+fix bug in dependencyparser
+fix npe in <unk>
+fix benchmarkrunner tests
+fix javadoc warning
+fix npe in cancelling <unk>
+fix api_port should not close the client
+fix <unk> <unk>
+remove unused method
+fix a typo in the <unk>
+remove unnecessary constructor
+remove unnecessary method
+fix test on windows
+don t show file for <unk>
+fix test failure
+fix javadoc typo
+fix <unk> <unk>
+add a method to get proxy
+fix a bug where the <unk> was not used
+fix javadoc warning
+fix npe in typeface
+fix worldedit <unk>
+add missing override annotations
+fix <unk> on <unk>
+don t show default on android
+fix npe in virtualwebapploader
+fix the build
+remove unused field
+remove unused imports
+fix npe in statictypecheckingvisitor
+fix usage of <unk>
+fix test failure
+fix bug on the focus
+fix javadoc typo
+add a test for a <unk>
+fix <unk> test
+fix npe in <unk>
+fix <unk> <unk>
+fix smackconfiguration <unk>
+fix a bug where a <unk> would not be <unk>
+fix broken test
+fix display <unk>
+fix <unk> to use <unk>
+add <unk> to location
+fix a bug where the <unk> was not used
+remove unused code
+add a comment
+fix javadoc for <unk>
+fix javadoc error
+add test for <unk>
+remove redundant method
+don t show type for non <unk>
+add a method to get the file
+add <unk> to <unk>
+fix a bug where the notification could be <unk>
+remove unused constant
+add close method
+remove unused code
+add test for <unk>
+remove redundant comment
+fix a bug in longmath
+fix <unk> <unk>
+make documentsprovider protected
+fix test on windows
+fix a bug in <unk>
+remove debug logging
+fix npe in <unk>
+fix <unk> <unk>
+don t show all editor if there are no editor
+remove redundant line
+fix a crash in recyclerview
+add <unk> to <unk>
+fix a bug where we don t have a block
+fix a bug where the <unk> would get stuck
+fix <unk> on <unk>
+fix test case
+fix error message
+don t show action for dumb mode
+fix testpackage test
+fix the bug
+fix npe in lineagemaster
+remove obsolete comment
+fix bug in <unk>
+fix a bug where the panel could be <unk>
+remove unnecessary <unk>
+add a couple of <unk> to <unk>
+fix quality flaw
+add a comment
+fix javadoc typo
+don t show <unk> for <unk>
+fix npe in <unk>
+fix javadoc for <unk>
+fix a bug in the <unk>
+remove debug code
+fix <unk> to be more robust
+fix javadoc for <unk>
+fix javadoc for <unk>
+remove unused code
+remove unused method
+fix the build
+remove obsolete todo
+remove unused method
+don t leak <unk> when <unk> is not present
+fix a bug where the webview would be called when the webview is not present
+remove unused code
+fix npe in foreignkey
+fix javadoc typo
+fix javadoc warning
+add a method to get the current fieldname
+add linkify linkify pattern
+add a gservices setting to set the settings
+fix a typo in the log message
+remove redundant method
+fix typo in <unk>
+fix a bug where the <unk> was not being <unk>
+fix npe in philmmovie
+add <unk> to <unk>
+fix <unk> <unk>
+fix npe in <unk>
+fix dl error handling in dl
+fix <unk> not showing on <unk>
+fix allocation <unk>
+fix a bug where the <unk> was not being <unk>
+fix default value for <unk>
+fix the build
+add a method to shadowfragment
+fix bug in <unk>
+fix <unk> <unk>
+fix a bug where a <unk> was not being <unk>
+fix npe in <unk>
+fix a typo in dbutils
+fix npe in global adapter
+add missing license header
+add <unk> to <unk>
+fix javadoc for <unk>
+don t show <unk> on <unk>
+fix the build
+remove debug output
+don t use the archive for the <unk>
+fix broken unit test
+fix issue on record with null
+fix a bug where the default mode was not used
+make outputlayer serializable
+fix <unk> on android
+fix the build
+fix error message
+remove unnecessary public modifier
+remove unnecessary call
+fix a crash when the activity is not set
+fix typo in <unk>
+don t show empty file
+add a method to get xxx
+fix <unk> <unk>
+fix the build
+fix <unk> <unk>
+add missing method
+add <unk> to postgres
+remove unnecessary code
+add javadoc for <unk>
+remove override annotations
+fix a bug where notification was not being <unk>
+fix <unk> <unk>
+add javadoc for <unk>
+remove unnecessary comment
+fix issue on <unk>
+remove unused imports
+add documentation for <unk>
+fix rntn <unk>
+add <unk> constant
+fix a bug where <unk> was not showing
+fix the build
+fix javadoc warning
+fix npe in <unk>
+fix a crash when <unk> is not enabled
+fix bug in hdfsfileinputstream
+remove unused import
+remove debug output
+fix npe in <unk>
+remove unused suppresswarnings
+fix <unk> <unk>
+fix the build </s> </s> </s>
+deprecate <unk> method
+add serializable to <unk>
+fix <unk> <unk>
+remove debug output
+add <unk> to get the entity
+fix a bug in <unk>
+add tostring method
+remove debug output
+add a comment
+remove invalid comment
+fix two two minor issue
+fix npe in <unk>
+remove unnecessary constructor
+fix <unk> <unk>
+fix a bug where a null was not used
+add <unk> to <unk>
+fix some quality flaws
+fix issue with unifier
+remove unused suppression
+fix a bug where <unk> would be used in a new osmandmaplayer
+fix npe in activitymanagerservice <unk>
+add <unk> to pgraphics
+fix npe in <unk>
+fix bug in <unk>
+fix <unk> <unk>
+remove unused method
+fix <unk> for <unk>
+fix a regression in inetsockettransportaddress
+fix a bug where a <unk> was not remove
+add test for <unk>
+fix worldedit <unk>
+don t log the exception when a catch block is not found
+fix npe in <unk>
+fix <unk> <unk>
+fix npe in shortcut
+remove unused method
+fix a bug where the user was not used
+fix typo in javadoc
+fix a typo in the <unk>
+remove unused imports
+fix a bug where the request was not being used
+fix image image image image
+remove deprecated methods
+add <unk> to <unk>
+add setposition methods
+remove debug output
+add <unk> to <unk>
+remove unused imports
+fix <unk> not being used for the <unk>
+remove unnecessary call
+remove redundant <unk>
+fix <unk> gettext
+add <unk> and <unk>
+fix <unk> <unk>
+fix a bug where the <unk> was not used
+remove logging of errors
+fix <unk> not showing
+fix <unk> destroy
+remove unused line
+fix npe in <unk>
+add method to get all all files from <unk>
+add <unk> method
+remove unnecessary override
+fix <unk> <unk>
+add a test for <unk>
+fix the build
+fix npe in <unk>
+fix npe in <unk>
+remove deprecated methods
+fix test on windows
+add missing license header
+fix a crash in the <unk>
+fix npe in app manager
+add <unk> method
+fix <unk> <unk>
+remove unused imports
+fix license headers
+fix a bug where the socket was not being used
+fix exception handling in ocommandexecutorsqlselect
+fix typo in <unk>
+don t show file when there is no project
+fix npe in selection
+add missing method
+fix a typo in httpconnection
+remove <unk> suppresswarnings
+fix <unk> on <unk>
+add a log message to the exception
+fix a bug where the <unk> was not being called
+fix javadoc typo
+fix <unk> <unk>
+remove unnecessary method
+fix the build
+fix a bug where the <unk> was not used
+fix exception message
+fix race condition in shellspout
+add <unk> to <unk>
+fix a bug in <unk>
+add more logging
+fix tree <unk> <unk>
+add a <unk> method to set the icon
+don t use <unk> for empty files
+add <unk> to typeutils
+add a constant for wifi scanresult
+fix <unk> <unk>
+fix runnercontentui <unk>
+add missing license header
+fix a bug where the current list was not set
+remove unnecessary code
+fix a bug where the stream was not being used
+fix npe in bluetootheventloop
+fix a bug in the <unk>
+fix <unk> <unk>
+remove unnecessary comment
+fix <unk> <unk>
+fix a bug where the full client was not being used
+remove unused imports
+add missing runwith annotation
+fix ninepatchdrawable <unk>
+fix npe in componentmanager
+don t show sdk for <unk>
+fix typo in <unk>
+fix npe in uploader
+fix npe in <unk>
+fix a bug where the notification could be called when the notification is not used
+fix npe in empty line
+remove unused import
+fix npe in case of <unk>
+remove debug logging
+fix compilation error
+fix a bug where the onresume is not used
+fix a bug in inputfile
+remove unnecessary comment
+remove unnecessary method
+fix <unk> to be more robust
+fix var <unk>
+add <unk> <unk> to <unk>
+remove unused imports
+add a method to get the first values
+fix datepicker not showing the calendar
+remove debug output
+fix <unk> <unk>
+add a method to retrieve adapter
+fix a bug where the <unk> was not updated
+add protected method to <unk>
+fix <unk> <unk>
+fix a crash in messagelist
+add serialversionuid to <unk>
+add <unk> to <unk>
+make <unk> serializable
+add comment on <unk>
+add test for <unk>
+add plugin to set plugin
+fix logginghandler javadoc
+do not create non <unk>
+ignore test that is not used
+remove unused method
+add tostring method to <unk>
+fix <unk> in <unk>
+fix a typo in <unk>
+fix <unk> <unk>
+add javadoc to <unk>
+fix npe in <unk>
+fix <unk> <unk>
+fix npe in <unk>
+remove unused field
+fix prepare test
+fix <unk> listener
+add missing return
+fix javadoc typo
+remove unnecessary call to <unk>
+remove unused method
+fix npe in <unk>
+add <unk> to <unk>
+fix mediarouter <unk>
+fix <unk> <unk>
+fix a bug where the views would be passed to a <unk>
+fix test on windows
+remove unused field
+remove unused import
+fix <unk> on <unk>
+fix <unk> for <unk>
+fix a bug where the <unk> was not used
+remove redundant modifier
+add camera finalize method
+fix <unk> on <unk>
+add test for <unk>
+fix typo in wallettool
+add missing broadcasterid
+fix <unk> error
+fix npe in <unk>
+add <unk> to <unk>
+remove unused constant
+fix javadoc typo
+add missing license header
+don t show text for non <unk>
+fix a bug where <unk> would not be used in the <unk>
+fix crash when <unk> is not present
+remove unused <unk>
+fix a typo in a comment
+fix the build
+remove unneeded todo
+fix dbcallback <unk>
+remove unused code
+add promote promote to promote
+remove unused suppression
+remove unused code
+add some more comments
+fix the test error of camel <unk>
+add test for xml
+fix future <unk> <unk>
+add <unk> method
+fix the build
+fix test on session
+fix test on windows
+fix the build
+remove redundant default value
+fix the build
+add missing jsoncreator annotation
+add a method to remove codeitem

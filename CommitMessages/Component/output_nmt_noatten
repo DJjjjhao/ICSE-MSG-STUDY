@@ -1,0 +1,7661 @@
+remove unused imports
+fix bug in 😝
+fix bug in 😝
+add test for 😝
+add test for 😝
+fix a bug in 😝
+add 😝 to 😝
+fix typo in javadoc
+remove unused code
+fix typo in 😝
+fix compilation error
+add 😝 to 😝
+add 😝 to 😝
+remove unnecessary cast
+fix error message
+fix bug in 😝
+fix bug in 😝
+add missing override annotations
+fix bug in 😝
+don t call 😝 if it is not available
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+remove unused code
+remove unused imports
+fix possible npe
+add exception message to 😝
+fix bug in 😝
+add missing override annotations
+fix failing test
+fix a bug in 😝
+add 😝 to 😝
+fix a bug where the scrim could occur when the activity is not shown
+remove unused imports
+add 😝 to 😝
+add test for 😝
+remove unused code
+fix a bug in 😝
+change default value to be used
+make 😝 public
+remove unnecessary call to 😝
+do not close the exception if it is not available
+fix the build
+improve error message
+add test for 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+remove unused code
+add missing override annotations
+fix bug in 😝
+remove unused imports
+fix error message
+fix typo in javadoc
+fix failing test
+fix test failure
+add 😝 to 😝
+fix a bug where the scrim could occur when the 😝 is not available
+add 😝 method
+remove unnecessary cast
+add 😝 method
+fix a bug where the scrim could be called
+fix typo in javadoc
+add test for 😝
+fix failing test
+remove unused code
+add a todo
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug in 😝
+remove unused imports
+don t call 😝 if it is not available
+add a utility method to get the 😝
+make 😝 public
+add missing license header
+fix a bug where the 😝 was not working
+remove unused code
+add 😝 to 😝
+fix bug in 😝
+fix bug in 😝
+add a todo
+make 😝 public
+fix a bug where the scrim could not be 😝
+fix a bug in 😝
+fix a bug where the scrim could not be 😝
+fix typo in 😝
+fix a bug where the scrim could occur when the activity is not shown
+remove unnecessary cast
+fix a bug in 😝
+fix a bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug where the scrim could not be 😝
+remove unused parameter
+add 😝 method
+fix test failure
+add a utility method to retrieve the 😝
+remove unused method
+fix npe in 😝
+fix crash when 😝
+fix typo in javadoc
+add 😝 to 😝
+fix possible npe
+remove unnecessary cast
+remove unnecessary cast
+fix a bug in 😝
+fix failing test
+fix failing test
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+do not store 😝 if it is not available
+fix bug in 😝
+add missing javadoc
+remove unnecessary cast
+fix bug in 😝
+add support for 😝
+add 😝 to 😝
+fix possible npe
+fix exception message
+fix bug in 😝
+fix npe in 😝
+remove dead code
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not available
+remove unnecessary cast
+remove unused method
+fix quality flaw
+fix npe when 😝
+add additional check for 😝
+add 😝 to 😝
+fix a bug in 😝
+add javadoc for 😝
+fix a bug in 😝
+make 😝 final
+make 😝 public
+fix bug in 😝
+fix bug in 😝
+do not close serverchannel when there are no 😝
+fix a bug in 😝
+fix bug in 😝
+fix a bug where the 😝 was not working with the 😝
+remove unnecessary cast
+fix a bug in 😝
+add 😝 method
+remove unnecessary cast
+fix bug in 😝
+fix exception handling
+add 😝 to 😝
+fix a bug in 😝
+fix bug in 😝
+fix exception handling
+fix bug in 😝
+add 😝 method
+remove unnecessary cast
+make 😝 final
+remove unused method
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+remove unused imports
+fix a bug in 😝
+remove unnecessary cast
+fix bug in 😝
+fix broken test
+add 😝 to 😝
+make 😝 final
+add 😝 method
+fix bug in 😝
+add a todo
+fix typo in 😝
+fix quality flaw
+fix a bug in 😝
+fix quality flaws
+remove unnecessary cast
+fix checkstyle issue
+fix typo in 😝
+make 😝 public
+add tostring to 😝
+fix typo in javadoc
+fix npe in 😝
+fix typo in javadoc
+fix typo in javadoc
+add logging to 😝
+fix a bug in 😝
+improve exception message
+add 😝 to 😝
+add missing override annotations
+add license header
+add default value to 😝
+fix bug in 😝
+remove unused code
+add 😝 to 😝
+remove unused imports
+add comment to 😝
+fix bug in 😝
+fix typo in javadoc
+fix quality flaw
+fix typo in javadoc
+make 😝 final
+add test for 😝
+add 😝 method
+remove unused method
+add 😝 to 😝
+add missing javadoc
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix a bug where the scrim could be called
+add missing javadoc
+fix the build
+fix a bug in 😝
+fix possible npe
+add missing override annotations
+remove unused code
+add 😝 method
+fix possible npe
+fix failing test
+remove unused imports
+fix a bug in 😝
+remove unused method
+fix failing test
+fix bug in 😝
+add missing check for 😝
+fix quality flaws
+fix npe in 😝
+fix bug in 😝
+add 😝 method
+fix npe in 😝
+add a comment
+add license header
+make 😝 final
+don t call 😝
+fix a bug in 😝
+remove unnecessary cast
+fix quality flaws
+add 😝 to 😝
+remove unnecessary cast
+fix the build
+add javadoc for 😝
+make 😝 public
+fix a bug where the window was not working
+add 😝 to 😝
+fix a bug in 😝
+fix failing test
+add javadoc for 😝
+add test for 😝
+fix bug in 😝
+fix crash when 😝
+fix a bug in 😝
+fix test failure
+remove unused code
+add comment to 😝
+deprecate unused method
+fix typo in 😝
+add missing override annotations
+fix failing test
+make 😝 public
+fix typo in javadoc
+fix typo in 😝
+fix typo in 😝
+fix typo in 😝
+fix a bug where the scrim could be passed to furthest
+fix bug in 😝
+fix possible npe
+remove unused code
+fix typo in javadoc
+fix bug in 😝
+fix typo in javadoc
+fix bug in 😝
+fix crash when selecting 😝
+fix typo in 😝
+add test for 😝
+don t call 😝 if it is not available
+make 😝 public
+remove unused imports
+make 😝 😝 final
+remove unnecessary cast
+fix possible npe
+don t call 😝
+fix a bug in 😝
+remove unnecessary cast
+fix a bug where the 😝 doesn t have 😝
+add 😝 to 😝
+remove dead code
+fix bug in 😝
+remove unnecessary cast
+fix a bug where the scrim could occur when the 😝 is not shown
+add tostring method to 😝
+add missing javadoc
+add 😝 method
+fix broken test
+make dookaction public
+fix error message
+fix a bug in 😝
+add 😝 to 😝
+add 😝 method
+fix bug in 😝
+don t call 😝 if it is not available
+fix npe in 😝
+fix possible npe
+fix bug in 😝
+fix a bug in 😝
+add a todo
+remove unused code
+catch all exceptions during shutdown
+add 😝 method
+fix quality flaws
+fix bug in 😝
+add missing override
+fix possible npe
+fix a bug in 😝
+add 😝 to 😝
+remove unnecessary cast
+fix checkstyle issue
+don t call 😝 if it is not available
+fix failing test
+fix test failure
+fix bug in 😝
+remove test case
+fix unit test
+fix quality flaw
+add check for 😝
+fix possible npe
+fix typo in 😝
+add 😝 to 😝
+add missing javadoc
+add 😝 to 😝
+fix typo in 😝
+fix a bug where the 😝 was not working
+fix crash when selecting 😝
+fix a bug in 😝
+fix npe in 😝
+fix memory leak
+remove unnecessary check
+make 😝 public
+make 😝 public
+make 😝 public
+fix a bug in 😝
+fix typo in javadoc
+remove system out println
+remove unused code
+ignore test on windows
+fix the build
+fix the build
+add default value to 😝
+remove unnecessary cast
+add 😝 method
+fix the build
+fix typo in 😝
+add test for 😝
+remove unused code
+remove unused method
+remove system out println
+remove unused imports
+fix a bug where the scrim could be used
+make 😝 public
+fix failing test
+add 😝 method
+add 😝 method
+fix a bug in 😝
+add 😝 to 😝
+add a utility method to retrieve the 😝
+fix typo in javadoc
+fix bug in 😝
+remove unused method
+fix 😝 issue
+add 😝 to 😝
+fix a bug in 😝
+don t call 😝 in 😝
+add a todo
+fix bug in 😝
+fix typo in javadoc
+add null check
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+add null check for 😝
+fix compilation error
+fix test failure
+add missing override annotations
+fix broken test
+remove unused code
+add a utility method to retrieve the 😝
+fix failing test
+fix a bug in 😝
+add 😝 method
+remove unused code
+remove debug logging
+fix typo in 😝
+fix a bug in 😝
+fix bug in 😝
+add logging to 😝
+remove unused code
+fix typo in javadoc
+don t call 😝 if it is not available
+fix broken test
+add 😝 to 😝
+catch exception in 😝
+fix bug in 😝
+fix a bug where the 😝 was not working
+fix quality flaws
+fix failing test
+remove unused method
+fix typo in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug in 😝
+fix bug in 😝
+fix typo in javadoc
+fix typo in 😝
+fix bug in 😝
+remove unnecessary cast
+make 😝 final
+fix the build
+fix a bug in 😝
+fix exception handling
+fix typo in javadoc
+make 😝 public
+remove unused code
+fix typo in javadoc
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix typo in javadoc
+fix a bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix a bug in 😝
+fix failing test
+fix typo in javadoc
+fix a bug where the scrim could not be 😝
+make 😝 public
+add 😝 method
+fix typo in javadoc
+add missing override annotations
+add 😝 to 😝
+fix possible npe
+remove unused code
+fix typo in 😝
+remove unused imports
+fix a bug in 😝
+make 😝 public
+fix a bug in 😝
+fix typo in 😝
+remove unused imports
+fix the build
+don t throw exception if there is no 😝
+remove unnecessary cast
+fix npe in 😝
+add 😝 to 😝
+add test for 😝
+remove unused parameter
+improve error message
+remove unused code
+remove system out println
+fix bug in 😝
+add 😝 to 😝
+make 😝 public
+fix npe in 😝
+fix bug in 😝
+remove unused code
+don t show 😝 if it is disabled
+fix quality flaw
+remove unused code
+fix possible npe
+fix typo in 😝
+fix a bug in 😝
+add missing override annotations
+fix typo in 😝
+make 😝 public
+fix bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+add test for 😝
+fix a bug in 😝
+make 😝 public
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix typo in comment
+add missing override annotations
+fix typo in javadoc
+remove debug log
+remove unused code
+add check for 😝
+remove unused code
+fix checkstyle issue
+fix bug in 😝
+fix npe in 😝
+don t throw an exception when there is not null
+add utility method to be used by default
+make 😝 public
+remove unnecessary cast
+fix bug in 😝
+fix npe in 😝
+fix quality flaw
+fix a bug in 😝
+add 😝 method
+fix possible npe
+fix typo in javadoc
+remove unnecessary cast
+fix unit test
+fix a bug in 😝
+fix typo in 😝
+remove unused code
+fix a bug in 😝
+add final to ep_name
+remove unnecessary cast
+fix typo in 😝
+fix quality flaws
+make 😝 final
+remove unused code
+fix failing test
+fix typo in javadoc
+fix npe when 😝
+fix npe in 😝
+remove unused method
+add missing check for 😝
+remove unnecessary cast
+remove unused method
+fix a bug where the scrim could occur when the activity is not shown
+remove unused import
+fix typo in javadoc
+fix typo in javadoc
+fix typo in 😝
+make 😝 public
+remove unnecessary cast
+add a comment
+fix bug in 😝
+fix npe in 😝
+catch all exceptions during shutdown
+add null check
+fix memory leak
+add 😝 to 😝
+fix npe in 😝
+fix bug in 😝
+fix npe in 😝
+remove unused method
+fix bug in 😝
+remove debug log
+fix the build
+fix possible npe
+add missing override annotations
+fix possible npe
+fix typo in 😝
+fix a bug where the scrim could be null
+remove unnecessary cast
+fix possible npe
+fix quality flaws
+add logging to 😝
+improve error message
+fix typo in 😝
+fix possible npe
+add missing javadoc
+fix 😝 issue
+fix failing test
+fix a bug in 😝
+fix 😝 😝
+add test for 😝
+add 😝 to 😝
+fix the build
+fix a bug in 😝
+fix a bug in 😝
+make 😝 public
+remove unused imports
+make 😝 public
+add missing javadoc
+fix test failure
+don t call 😝 in 😝
+add support for 😝
+remove debug logging
+fix a bug in 😝
+fix npe when 😝
+make 😝 public
+fix crash when 😝 is null
+remove unnecessary cast
+add test for 😝
+add test for 😝
+fix license header
+fix a bug in 😝
+fix typo in 😝
+fix the build
+add a todo
+add missing override annotations
+fix a bug in 😝
+add test for 😝
+remove unnecessary cast
+remove unused code
+ignore failing test
+fix broken test
+fix possible npe
+make 😝 public
+make 😝 public
+fix a bug where the 😝 was not working
+add a comment
+fix failing test
+fix bug in 😝
+add logging to 😝
+add missing javadoc
+remove unused code
+fix a bug in 😝
+make 😝 public
+fix bug in 😝
+add javadoc for 😝
+add test for 😝
+add missing override annotations
+remove unused code
+fix a bug in 😝
+add 😝 to 😝
+use 😝 instead of 😝
+fix typo in 😝
+remove unused code
+fix a bug where the scrim could not be 😝
+add missing override annotations
+fix quality flaws
+fix a bug in 😝
+remove unused imports
+fix a bug where the 😝 was not working
+fix test failure
+fix failing test
+fix typo in 😝
+fix bug in 😝
+fix a bug in 😝
+remove unused method
+fix bug in 😝
+fix typo in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix possible npe
+add 😝 method
+fix unit test
+fix typo in javadoc
+fix test failure
+fix typo in javadoc
+make 😝 public
+ignore failing test
+fix a bug in 😝
+add test for 😝
+fix a bug in 😝
+add license header
+fix bug in 😝
+fix quality flaws
+fix a bug where the 😝 doesn t have the 😝
+add 😝 method
+add more logging to 😝
+make 😝 public
+fix typo in 😝
+fix bug in 😝
+fix a bug in 😝
+fix failing test
+fix a bug in 😝
+remove dead code
+fix a bug where the scrim could occur when the 😝 is not shown
+fix broken test
+fix bug in 😝
+fix crash when 😝
+add missing javadoc
+fix quality flaws
+fix a bug where the 😝 doesn t have the 😝
+add 😝 to 😝
+add exception handling to 😝
+fix bug in 😝
+make 😝 public
+remove system out println
+fix broken test
+fix quality flaws
+remove unused imports
+fix failing test
+add missing override annotations
+add getter for 😝
+improve error message
+fix a bug in 😝
+add 😝 to 😝
+fix quality flaws
+remove unused code
+fix typo in 😝
+add 😝 method
+fix bug in 😝
+add missing import
+make 😝 public
+fix bug in 😝
+make 😝 public
+fix checkstyle issue
+add 😝 to 😝
+fix bug in 😝
+fix a bug where the scrim could not be 😝
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix log message
+add final to ep_name
+fix a bug in 😝
+add 😝 method
+add 😝 to 😝
+fix bug in 😝
+fix the build
+add debug logging
+don t call 😝
+add 😝 to 😝
+fix quality flaw
+remove unused code
+fix possible npe
+fix bug in 😝
+fix a bug where the scrim could be called
+fix failing test
+add check for 😝
+fix test failure
+remove unnecessary cast
+fix quality flaws
+fix typo in javadoc
+fix error message
+fix a bug in 😝
+fix a bug in 😝
+fix failing test
+add 😝 to 😝
+fix possible npe
+remove unused code
+fix unit test
+fix bug in 😝
+fix bug in 😝
+ignore failing test
+make 😝 public
+fix unit test
+add final to ep_name
+fix npe in 😝
+fix npe in 😝
+fix crash when 😝
+fix typo in 😝
+fix quality flaw
+add comment to 😝
+don t call 😝
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+remove unused method
+fix the build
+add logging to 😝
+fix a bug in 😝
+fix typo in javadoc
+remove unnecessary cast
+remove unused imports
+remove debug logging
+don t call 😝 in 😝
+add null check for 😝
+make 😝 final
+fix the build
+add final to ep_name
+add final to ep_name
+make 😝 public
+fix the build
+don t call 😝 if it is not available
+fix broken test
+fix a bug in 😝
+fix typo in 😝
+remove unnecessary cast
+fix quality flaws
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+add test for 😝
+fix a bug in 😝
+fix the build
+add 😝 to 😝
+add test for 😝
+fix quality flaws
+fix a bug in 😝
+fix failing test
+add missing import
+fix 😝 issue
+fix a bug in 😝
+fix a bug in 😝
+remove unused imports
+remove unused imports
+fix failing test
+add debug logging
+add missing javadoc
+remove unnecessary cast
+fix possible npe
+fix a bug where the scrim could not be called
+remove unnecessary cast
+fix failing test
+fix crash when 😝 is null
+remove unused imports
+make 😝 public
+fix quality flaws
+fix crash when 😝
+remove unused code
+fix the build
+add getter for 😝
+fix a bug where the scrim could not be called
+remove unused code
+fix the build
+remove debug log
+don t call 😝
+fix a bug in 😝
+add logging to 😝
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix crash when 😝 is null
+remove unused imports
+make 😝 public
+fix test failure
+remove unused imports
+fix npe in 😝
+fix javadoc typo
+fix a bug in 😝
+fix quality flaw
+add logging to 😝
+fix a bug where the scrim could be passed to furthest
+fix quality flaws
+remove unused method
+add test for 😝
+remove debug logging
+fix a bug in 😝
+fix typo in 😝
+make 😝 public
+add 😝 to 😝
+remove unnecessary cast
+fix failing test
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused imports
+add 😝 to 😝
+make 😝 public
+fix typo in javadoc
+fix bug in 😝
+fix typo in 😝
+fix failing test
+remove unused imports
+remove unused import
+remove unused code
+fix possible npe
+fix a bug in 😝
+don t allow cache_size to be used by default
+add 😝 to 😝
+make 😝 final
+add 😝 to 😝
+remove unused imports
+fix a bug in 😝
+remove unnecessary code
+add 😝 to 😝
+fix typo in 😝
+remove unused code
+ignore failing test
+remove unnecessary cast
+remove unused code
+add 😝 to 😝
+remove unnecessary cast
+remove unused method
+fix a bug in 😝
+make 😝 public
+add license header
+fix a bug where the scrim could be used
+fix failing test
+add missing override annotations
+add a utility method to get the 😝
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix typo in 😝
+add utility method to retrieve the 😝
+fix a bug where the scrim could not be called
+add missing javadoc
+remove unused code
+fix a bug in 😝
+fix crash when 😝 is called
+fix a bug where the scrim could occur when the 😝 is not available
+fix npe in 😝
+remove unnecessary cast
+fix npe in 😝
+remove unused code
+fix possible npe
+add 😝 to 😝
+fix npe in 😝
+add 😝 method
+fix a bug in 😝
+add 😝 to 😝
+remove dead code
+fix quality flaw
+fix typo in 😝
+make 😝 public
+remove unnecessary cast
+remove unused code
+fix the build
+fix typo in javadoc
+add final to ep_name
+fix bug in 😝
+fix typo in 😝
+ignore failing test
+fix a bug in 😝
+fix the build
+remove unused code
+fix 😝 for 😝
+remove unnecessary check
+remove dead code
+remove unnecessary cast
+fix a bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix npe in 😝
+fix a bug in 😝
+remove unused method
+fix bug in 😝
+make 😝 final
+fix broken test
+add 😝 to 😝
+add 😝 to 😝
+fix a bug in 😝
+remove debug log
+fix possible npe
+fix a bug in 😝
+remove system out println
+add a todo
+fix a bug where the scrim could not be called
+remove unused code
+fix typo in 😝
+fix 😝 issue
+fix bug in 😝
+make 😝 public
+remove unnecessary cast
+fix failing test
+turn off debugging
+remove unused imports
+remove unused code
+fix possible npe
+fix a bug in 😝
+fix crash when 😝
+remove unused imports
+add a todo
+fix a bug where the scrim could occur when the activity is not shown
+fix bug in 😝
+don t call 😝 if it is not available
+don t call 😝 if it is not available
+remove unused method
+fix bug in 😝
+add missing override annotations
+fix a bug in 😝
+don t call 😝 in 😝
+make 😝 final
+don t use 😝 for 😝
+fix a bug where the 😝 was not working
+fix bug in 😝
+fix a bug in 😝
+fix quality flaws
+remove unused test
+add 😝 method
+fix a bug in 😝
+fix typo in 😝
+remove unused imports
+fix bug in 😝
+remove unused code
+add missing test
+remove unused code
+remove unnecessary cast
+fix possible npe
+fix npe in 😝
+make 😝 public
+remove unused method
+fix bug in 😝
+fix bug in 😝
+add 😝 to 😝
+remove unused imports
+add check for 😝
+add exception handling for 😝
+remove dead code
+improve error message
+add 😝 to 😝
+make 😝 public
+fix typo in javadoc
+remove unnecessary cast
+fix typo in 😝
+don t call 😝 if it is not available
+fix typo in 😝
+add 😝 method
+make 😝 public
+fix a bug in 😝
+fix bug in 😝
+add missing override annotations
+remove unused code
+fix bug in 😝
+fix broken test
+remove unnecessary cast
+add 😝 to 😝
+remove unused code
+fix a bug where the scrim could not be 😝
+add 😝 method
+fix bug in 😝
+fix a typo
+fix bug in 😝
+add license header
+fix npe in 😝
+fix npe when getting 😝
+fix typo in javadoc
+add a utility method to get the 😝
+fix possible npe
+fix typo in javadoc
+fix broken test
+fix a bug in 😝
+add 😝 to 😝
+fix the build
+fix typo in 😝
+fix a bug where the 😝 doesn t have the 😝
+remove unused code
+add 😝 to 😝
+fix a bug in 😝
+fix typo in javadoc
+fix quality flaws
+add 😝 to 😝
+fix a bug in 😝
+remove unused method
+fix unit test
+add missing javadoc
+add 😝 to 😝
+add license header
+fix the build
+fix bug in 😝
+fix bug in 😝
+add 😝 method
+add test for 😝
+remove unnecessary cast
+fix typo in javadoc
+fix typo in 😝
+add 😝 to 😝
+fix quality flaw
+make 😝 public
+fix a bug in 😝
+fix bug in 😝
+fix the build
+add missing 😝
+fix bug in 😝
+fix a typo in 😝
+catch all exceptions during shutdown
+add 😝 method
+add logging to 😝
+don t call 😝 if it is not available
+fix a bug in 😝
+remove unused code
+fix possible npe
+add 😝 method
+add 😝 to 😝
+add missing import
+remove unused method
+fix a bug where the 😝 doesn t have the 😝
+fix typo in javadoc
+remove unused imports
+don t call 😝 if it is not available
+remove unnecessary cast
+don t call 😝 if it is not available
+add a todo
+fix quality flaw
+add 😝 to 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug in 😝
+fix bug in 😝
+fix typo in 😝
+fix a bug in 😝
+make 😝 public
+add 😝 to 😝
+remove unused method
+fix compilation error
+add 😝 method
+add 😝 method
+remove unnecessary cast
+turn off debugging
+remove unused code
+fix typo in javadoc
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused method
+remove unnecessary cast
+fix a bug in 😝
+fix a bug in 😝
+don t allow cache_size to be used in 😝
+add missing test
+add 😝 to 😝
+fix typo in 😝
+fix bug in 😝
+fix error message
+fix bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix possible npe
+fix quality flaw
+fix possible npe
+remove unused method
+make 😝 final
+fix npe in 😝
+fix typo in 😝
+fix a bug in 😝
+add null check for 😝
+add exception handling to 😝
+fix failing test
+fix a bug in 😝
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not shown
+remove unused imports
+remove unused code
+fix crash when 😝
+fix typo in 😝
+fix unit test
+add license header
+remove unused code
+add 😝 to 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug in 😝
+fix a bug in 😝
+fix 😝 issue
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused code
+fix possible npe
+remove unused code
+fix a typo in 😝
+add missing javadoc
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug in 😝
+fix test failure
+don t call 😝 if it is not available
+add todo for 😝
+fix bug in 😝
+fix a bug in 😝
+fix typo in 😝
+fix a bug in 😝
+add missing javadoc
+fix a bug in 😝
+fix npe in 😝
+add missing override annotations
+fix bug in 😝
+fix quality flaws
+fix bug in 😝
+remove unused code
+fix npe in 😝
+fix a bug where the 😝 was not working
+remove unnecessary cast
+remove unused code
+fix possible npe
+remove unnecessary cast
+add 😝 to 😝
+add missing override annotations
+fix bug in 😝
+fix test failure
+fix a bug in 😝
+add 😝 method
+fix a bug in 😝
+fix a bug in 😝
+add comment to 😝
+fix a bug in 😝
+fix typo in javadoc
+fix npe in 😝
+remove unused test
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+make 😝 public
+add test for 😝
+remove unused logger
+fix failing test
+add exception message to 😝
+add 😝 to 😝
+remove unused code
+fix a bug where the 😝 doesn t crash when the 😝 is not available
+add missing javadoc
+fix a bug where the scrim could be thrown when the 😝 is called
+fix error message
+fix a bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix bug in 😝
+remove unused code
+improve error message
+add todo for 😝
+fix the build
+don t reset the 😝 if it is not available
+make 😝 final
+remove unused imports
+fix a bug in 😝
+fix failing test
+remove unused code
+fix bug in 😝
+fix bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+add missing override
+fix typo in 😝
+don t reset the 😝 if the window is not available
+improve error message
+fix failing test
+remove unnecessary cast
+fix a bug in 😝
+fix npe in 😝
+fix a bug where the 😝 was not working
+fix typo in 😝
+remove unused method
+make 😝 public
+fix bug in 😝
+fix failing test
+fix bug in 😝
+add license header
+fix typo in 😝
+add missing javadoc
+deprecate unused method
+fix bug in 😝
+fix a bug where the scrim could not be called
+add a todo
+fix a bug where the scrim could be used
+fix a bug where the 😝 doesn t have the 😝
+remove system out println
+fix the build
+fix the build
+fix a bug in 😝
+remove unnecessary cast
+fix quality flaw
+fix a bug in 😝
+fix a bug in 😝
+fix the build
+fix a bug in 😝
+add 😝 method
+fix bug in 😝
+add 😝 method
+fix a bug where the scrim could occur when the 😝 is not shown
+remove unnecessary cast
+remove unused imports
+fix a bug in 😝
+fix a bug in 😝
+remove unused code
+add missing test for 😝
+fix bug in 😝
+fix typo in 😝
+add missing javadoc
+fix bug in 😝
+fix typo in 😝
+add 😝 to 😝
+remove unused method
+improve error message
+remove unnecessary cast
+add debug logging
+remove unused imports
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+add missing javadoc
+fix a bug in 😝
+add missing javadoc
+fix bug in 😝
+fix a bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix the build
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused imports
+add test for 😝
+remove unused code
+fix exception message
+add missing override annotations
+fix unit test
+use 😝 instead of 😝
+fix bug in 😝
+fix error message
+fix bug in 😝
+remove unused method
+fix a bug where the scrim could occur when the activity is not shown
+make 😝 public
+fix a bug in 😝
+fix possible npe
+add test for 😝
+remove debug println
+fix bug in 😝
+fix typo in comment
+remove unused code
+remove unnecessary cast
+fix the build
+fix bug in 😝
+add missing javadoc
+fix bug in 😝
+fix a bug in 😝
+add missing override annotations
+add logging to 😝
+fix a bug in 😝
+fix a bug in 😝
+add logging to 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix quality flaw
+improve error message
+fix typo in javadoc
+log the exception in the log message
+fix bug in 😝
+fix a bug in 😝
+improve javadoc for 😝
+remove debug logging
+add 😝 to 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix bug in 😝
+remove unused code
+remove obsolete comment
+fix bug in 😝
+remove unused method
+fix quality flaws
+do not show 😝 if it is not available
+add 😝 to 😝
+fix typo in javadoc
+don t call 😝 if it is not available
+fix a bug in 😝
+fix possible npe
+add 😝 to 😝
+add 😝 method
+fix a bug in 😝
+add missing logging
+fix a bug in 😝
+remove unnecessary cast
+fix bug in 😝
+fix a bug in 😝
+fix quality flaw
+add 😝 to 😝
+fix a bug in 😝
+fix bug in 😝
+fix broken test
+fix a bug where the scrim could be used
+remove unused code
+fix failing test
+remove unused method
+add 😝 method
+fix broken test
+remove debug log
+fix typo in 😝
+fix quality flaws
+make 😝 public
+fix a bug in 😝
+fix failing test
+add 😝 to 😝
+add test for 😝
+remove unnecessary cast
+fix failing test
+remove unnecessary cast
+don t call 😝
+fix a bug in 😝
+add missing test
+fix a bug where the 😝 doesn t have the same name
+remove unused code
+fix a bug in 😝
+fix the build
+remove unused method
+make 😝 public
+add 😝 method
+fix possible npe
+fix bug in 😝
+add 😝 method
+fix quality flaws
+add missing javadoc
+fix unit test
+add 😝 method
+remove unnecessary cast
+add 😝 to 😝
+add 😝 method
+make boostablequerybuilder final
+remove unused test
+fix broken test
+fix possible npe
+fix bug in 😝
+make 😝 final
+add missing javadoc
+fix a bug in 😝
+remove unused code
+fix bug in 😝
+remove debug log
+fix bug in 😝
+fix bug in 😝
+don t use deprecated method
+fix bug in 😝
+fix broken test
+remove unused code
+fix bug in 😝
+fix possible npe
+fix a bug in 😝
+fix typo in javadoc
+fix npe when 😝
+remove unused code
+fix a bug in 😝
+fix npe in 😝
+change the version of the version of the 😝
+fix typo in 😝
+fix a bug where the 😝 was not working
+fix typo in 😝
+add missing override annotations
+fix a comment
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+fix typo in javadoc
+fix bug in 😝
+add missing javadoc
+remove unused method
+fix test failure
+remove unused imports
+add 😝 to 😝
+add 😝 to 😝
+remove unused method
+remove unused code
+remove unnecessary cast
+don t call 😝 in 😝
+add test for 😝
+remove unused method
+add 😝 to 😝
+fix bug in 😝
+fix failing test
+fix bug in 😝
+don t reset the 😝 if it is not available
+fix a bug in 😝
+make 😝 final
+fix bug in 😝
+fix failing test
+fix bug in 😝
+fix unit test
+make 😝 public
+add 😝 to 😝
+fix a bug where the scrim could not be called
+add todo for 😝
+use the same way to be used by default
+fix broken test
+add missing javadoc
+don t call 😝 if it is not available
+fix bug in 😝
+fix failing test
+remove unused method
+fix 😝 issue
+add 😝 to 😝
+remove unused code
+fix a bug in 😝
+make 😝 public
+fix typo in javadoc
+fix bug in 😝
+fix quality flaw
+fix broken test
+fix error message
+remove unnecessary cast
+remove unused method
+remove unused code
+fix a bug where the 😝 was not working
+fix typo in 😝
+add missing import
+fix possible npe
+remove unused method
+remove unused code
+fix a bug where the 😝 was not working
+fix test failure
+fix quality flaws
+fix the build
+fix bug in 😝
+fix bug in 😝
+don t call 😝 in 😝
+fix crash when 😝
+remove unnecessary cast
+add 😝 to 😝
+remove unused method
+remove system out println
+add 😝 to 😝
+fix typo in javadoc
+remove unused method
+add 😝 to 😝
+fix a bug in 😝
+remove unused method
+fix bug in 😝
+fix possible npe
+add 😝 method
+add a comment
+remove debug log
+fix possible npe
+fix typo in javadoc
+fix the build
+add 😝 to 😝
+fix failing test
+fix license header
+add 😝 to 😝
+fix typo in 😝
+fix typo in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug where the scrim could not be called
+fix error message
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove unused code
+remove unnecessary cast
+fix typo in 😝
+fix a bug in 😝
+remove unused method
+remove unnecessary cast
+remove unnecessary cast
+add debug logging
+add missing javadoc
+remove unused method
+add missing javadoc
+add 😝 to 😝
+fix test failure
+remove unused imports
+fix 😝 issue
+add 😝 to 😝
+fix the build
+fix a bug where the scrim could occur when the 😝 is not shown
+fix bug in 😝
+remove unused code
+fix a bug in 😝
+add more logging to 😝
+ignore failing test
+add missing override annotations
+add missing override annotations
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix possible npe
+add missing override annotations
+add missing javadoc
+fix a bug in 😝
+fix bug in 😝
+remove unnecessary cast
+make 😝 public
+fix failing test
+remove unused method
+remove unused method
+remove unused code
+remove unused method
+add 😝 to ep_name
+remove unused code
+make 😝 public
+remove unused imports
+remove unnecessary cast
+remove debug logging
+fix npe in 😝
+remove unused method
+add 😝 to 😝
+add 😝 to 😝
+fix npe in 😝
+fix possible npe
+fix bug in 😝
+add debug logging
+fix a bug in 😝
+fix bug in 😝
+fix exception message
+add 😝 to 😝
+fix a bug in 😝
+fix failing test
+fix failing test
+make 😝 public
+fix a bug in 😝
+fix error message
+add 😝 method
+fix a bug in 😝
+fix failing test
+remove unused imports
+fix broken test
+fix bug in 😝
+fix typo in 😝
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix typo in 😝
+add test for 😝
+fix bug in 😝
+fix typo in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix the build
+remove debug println
+fix quality flaws
+add more 😝 to 😝
+fix a bug in 😝
+make 😝 public
+remove unused code
+add 😝 to 😝
+add 😝 to 😝
+fix bug in 😝
+add license header
+remove unused method
+add 😝 method
+add license header
+fix a bug in 😝
+fix possible npe
+add check for 😝
+make 😝 public
+fix typo in javadoc
+fix typo in javadoc
+fix a bug where the scrim could occur when the activity is not shown
+fix typo in 😝
+fix possible npe
+fix typo in javadoc
+make 😝 public
+fix a bug in 😝
+add 😝 to ep_name
+fix bug in 😝
+fix the build
+remove unused imports
+deprecate unused method
+fix unit test
+add test for 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix broken test
+fix npe in 😝
+add support for 😝
+fix a bug in 😝
+remove unnecessary cast
+add 😝 to 😝
+fix npe in 😝
+fix bug in 😝
+add 😝 to 😝
+add missing override annotations
+fix typo in javadoc
+fix npe in 😝
+remove unused method
+add comment to 😝
+add 😝 method
+fix bug in 😝
+add missing javadoc
+fix a bug where the scrim could occur when the 😝 is not available
+fix typo in 😝
+remove unused imports
+fix unit test
+add final to ep_name
+remove unused comment
+add 😝 method
+add 😝 to 😝
+remove unused method
+add missing override annotations
+remove unnecessary cast
+add missing javadoc
+remove unused method
+turn off debugging
+add missing override annotations
+remove unused method
+fix npe in 😝
+fix typo in 😝
+remove unused code
+fix bug in 😝
+remove unused variable
+add a comment
+remove unnecessary cast
+add default value for 😝
+fix failing test
+fix the build
+fix a bug in 😝
+remove unused method
+fix npe in 😝
+fix npe in 😝
+add final to ep_name
+remove debug log
+add 😝 to 😝
+fix bug in 😝
+add debug logging
+fix a bug where the 😝 was not working when 😝
+fix bug in 😝
+fix quality flaw
+fix quality flaws
+make 😝 public
+fix typo in javadoc
+fix typo in 😝
+fix possible npe
+fix bug in 😝
+make 😝 public
+fix a bug in 😝
+do not close serverchannel when there are no files
+remove unused code
+add final to ep_name
+fix typo in javadoc
+fix possible npe
+fix a bug in 😝
+fix test failure
+fix possible npe
+make 😝 public
+remove debug logging
+add a utility method to retrieve the 😝
+add 😝 to 😝
+fix unit test
+add a todo
+remove unused imports
+make 😝 public
+fix npe in 😝
+add missing override annotations
+remove unused imports
+don t call 😝 if it is not available
+fix bug in 😝
+fix typo in javadoc
+fix a bug where the 😝 was not working
+remove unused code
+fix typo in 😝
+add 😝 method
+fix possible npe
+add comment to 😝
+remove unused code
+fix a bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix a bug in 😝
+fix license header
+add final to ep_name
+fix npe in 😝
+add 😝 to 😝
+fix npe in 😝
+add test for 😝
+fix quality flaws
+remove unnecessary cast
+add 😝 to 😝
+add 😝 to 😝
+fix bug in 😝
+add missing override annotations
+fix a bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+fix failing test
+fix bug in 😝
+fix bug in 😝
+remove unused method
+fix possible npe
+fix 😝 😝
+add 😝 to 😝
+add missing override annotations
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug where the 😝 doesn t have the 😝
+fix unit test
+remove unused code
+remove unused method
+fix a bug where the scrim could occur when the 😝 is not available
+don t call 😝 if it is not available
+fix npe in 😝
+make 😝 final
+fix failing test
+add 😝 to 😝
+remove unused imports
+fix bug in 😝
+catch all exceptions in 😝
+add test for 😝
+add missing override annotations
+fix a bug in 😝
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix bug in 😝
+add missing comment
+fix typo in 😝
+add 😝 method
+fix possible npe
+fix a bug in 😝
+don t throw exception if there is no 😝
+add 😝 to 😝
+fix compilation error
+fix error message
+fix quality flaws
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix bug in 😝
+fix a bug in 😝
+fix failing test
+fix npe in 😝
+add 😝 method
+remove unnecessary cast
+fix a bug in 😝
+remove unused variable
+fix bug in 😝
+add missing override
+add 😝 to 😝
+fix bug in 😝
+add missing override annotations
+fix bug in 😝
+remove unnecessary cast
+fix a bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+add missing test
+fix possible npe
+remove unnecessary cast
+add 😝 method
+fix a bug where the scrim could not be 😝
+remove final modifier
+remove unused imports
+fix a bug where the 😝 doesn t have the 😝
+fix bug in 😝
+fix typo in javadoc
+remove unused code
+remove dead code
+fix unit test
+fix npe in 😝
+add a todo
+fix a bug in 😝
+remove unused parameter
+fix failing test
+fix the build
+remove unused imports
+fix broken test
+fix a bug where the scrim could not be called
+fix possible npe
+fix a bug in 😝
+don t call 😝 in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix 😝 test
+remove unused test
+fix a bug in 😝
+remove unnecessary cast
+add license header
+add 😝 to 😝
+fix a bug in 😝
+fix typo in javadoc
+remove unused code
+add 😝 to 😝
+don t call 😝 if it is not available
+fix bug in 😝
+remove unused code
+fix typo in 😝
+fix quality flaws
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not shown
+add debug logging
+add 😝 to 😝
+remove unused code
+fix typo in javadoc
+fix the build
+fix possible npe
+fix bug in 😝
+add 😝 to 😝
+fix a bug where the scrim could not be 😝
+add tostring to tostring
+remove unused imports
+remove unused method
+fix npe in 😝
+fix typo in javadoc
+fix possible npe
+fix a bug in 😝
+fix typo in 😝
+remove unused method
+fix possible npe
+fix a bug where the scrim could be thrown when the 😝 is called
+add license header
+fix typo in 😝
+fix bug in 😝
+add missing override
+fix a bug in 😝
+fix bug in 😝
+remove unused method
+fix error message
+add missing javadoc
+improve exception message
+fix a bug in 😝
+fix typo in javadoc
+add a comment
+remove unused method
+remove unused method
+make 😝 public
+fix npe in 😝
+fix the build
+fix crash when 😝
+fix compilation error
+fix error message
+remove unnecessary cast
+remove unnecessary cast
+fix a bug in 😝
+fix bug in 😝
+remove unused method
+fix a bug in 😝
+fix the build
+make 😝 final
+fix npe in 😝
+fix typo in 😝
+add missing override annotations
+fix bug in 😝
+fix the build
+fix the build
+fix typo in 😝
+remove unused code
+add more logging to 😝
+fix a bug where the 😝 was not working when 😝
+fix a bug where the 😝 doesn t have the 😝
+add 😝 to 😝
+add tostring to tostring
+remove dead code
+fix possible npe
+fix the build
+remove unused method
+add 😝 to 😝
+fix failing test
+add license header
+remove unnecessary cast
+remove unused imports
+add additional check for 😝
+fix typo in 😝
+add logging to 😝
+fix bug in 😝
+fix a bug in 😝
+remove unused code
+remove unused method
+remove unused method
+remove system out println
+fix a bug where the scrim could be null
+add license header
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug where the 😝 was not working
+make 😝 public
+fix a bug in 😝
+fix a bug where the scrim could not be 😝
+add tostring to tostring
+add missing javadoc
+fix a bug in 😝
+make 😝 public
+fix a bug in 😝
+fix unit test
+add 😝 to 😝
+fix typo in javadoc
+remove unused code
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug where the 😝 was not working when 😝
+fix typo in javadoc
+remove unused method
+add 😝 method
+fix the build
+fix quality flaw
+fix a bug in 😝
+fix typo in 😝
+remove unused imports
+fix a bug in 😝
+remove unused code
+fix exception handling
+add 😝 method
+fix a bug in 😝
+add 😝 method
+fix possible npe
+add test for 😝
+add 😝 method
+remove debug println
+fix a bug where the scrim could not be 😝
+fix bug in 😝
+add 😝 to 😝
+make 😝 final
+remove unnecessary cast
+fix bug in 😝
+fix typo in javadoc
+remove unused code
+remove dead code
+remove unused method
+fix bug in 😝
+fix possible npe
+fix bug in 😝
+fix bug in 😝
+fix failing test
+fix bug in 😝
+fix typo in 😝
+add check for 😝
+add missing override annotations
+fix broken test
+fix a bug in 😝
+fix the build
+make 😝 public
+fix bug in 😝
+remove unused code
+fix bug in 😝
+fix a bug in 😝
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not available
+fix the build
+fix broken test
+add 😝 to 😝
+remove unused code
+fix a bug where the 😝 was not working
+fix npe in 😝
+fix bug in 😝
+fix typo in javadoc
+remove unnecessary cast
+fix typo in javadoc
+add 😝 method
+remove unused code
+fix broken test
+fix bug in 😝
+add 😝 method
+turn off debugging
+remove unused method
+remove unused imports
+fix bug in 😝
+fix bug in 😝
+fix npe in 😝
+fix a bug in 😝
+add 😝 to 😝
+make 😝 public
+add test for 😝
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+add test for 😝
+add missing javadoc
+fix bug in 😝
+fix a bug where the 😝 was not working
+fix a bug where the scrim could occur when the 😝 is not shown
+fix bug in 😝
+fix bug in 😝
+fix unit test
+fix the build
+fix quality flaw
+remove unused code
+add 😝 to 😝
+improve error message
+fix 😝 issue
+fix failing test
+fix a bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix a bug in 😝
+fix npe in 😝
+fix bug in 😝
+make 😝 final
+fix typo in 😝
+make 😝 public
+don t call 😝 if it is not available
+make 😝 public
+remove unused parameter
+add missing javadoc
+remove unused code
+fix a bug where the scrim could occur when the activity is not shown
+fix failing test
+fix typo in javadoc
+fix possible npe
+add test for 😝
+remove unnecessary cast
+do not show 😝 if it is disabled
+add 😝 to 😝
+fix quality flaw
+add additional check for 😝
+add a tostring method to 😝
+add test for 😝
+improve error message
+remove unnecessary cast
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused method
+fix bug in 😝
+fix failing test
+fix bug in 😝
+remove unused imports
+fix a bug in 😝
+fix bug in 😝
+ignore failing test
+fix typo in 😝
+add test for 😝
+add check for 😝
+remove dead code
+fix a bug in 😝
+add logging to 😝
+remove unused code
+add a tostring method to 😝
+fix 😝 issue
+fix a bug in 😝
+add 😝 to 😝
+remove unused method
+fix bug in 😝
+fix bug in 😝
+improve javadoc for 😝
+add 😝 method
+fix failing test
+improve error message
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix typo in javadoc
+fix a bug in 😝
+add missing override annotations
+fix the build
+remove unused method
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix bug in 😝
+make 😝 final
+add license header
+add test for 😝
+fix bug in 😝
+make 😝 public
+add test for 😝
+remove debug logging
+fix a bug in 😝
+fix failing test
+add 😝 to ep_name
+fix npe in 😝
+remove unnecessary cast
+fix npe in 😝
+fix bug in 😝
+fix bug in 😝
+fix the build
+fix bug in 😝
+fix bug in 😝
+add check for 😝
+fix typo in javadoc
+make 😝 public
+remove unnecessary cast
+remove unused method
+add 😝 to 😝
+add 😝 to 😝
+fix npe in 😝
+fix bug in 😝
+add 😝 method
+don t throw an exception when there are no exception
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+remove unnecessary cast
+remove unnecessary cast
+remove unused field
+remove unused code
+make 😝 public
+fix typo in javadoc
+fix bug in 😝
+add missing override annotations
+remove unused test
+make 😝 final
+add 😝 method
+add test for 😝
+fix a bug in 😝
+fix bug in 😝
+add 😝 to 😝
+remove unused imports
+fix test case
+fix bug in 😝
+fix a bug where the scrim could not be 😝
+make 😝 public
+fix broken test
+fix bug in 😝
+remove unused method
+don t call 😝 if it is not available
+make 😝 public
+fix failing test
+add 😝 method
+don t use 😝 for 😝
+fix broken test
+remove unused method
+fix a bug where the 😝 was not null
+make 😝 public
+fix test failure
+add missing call to 😝
+remove unnecessary cast
+fix a bug in 😝
+fix possible npe
+add test for 😝
+fix npe in 😝
+fix bug in 😝
+fix a bug in 😝
+fix typo in 😝
+fix the build
+add missing javadoc
+make 😝 public
+fix a bug where the 😝 was not working
+fix a bug where the scrim could not be called
+fix quality flaw
+add logging to 😝
+add final to ep_name
+fix bug in 😝
+add missing override annotations
+fix a bug in 😝
+fix typo in 😝
+fix a bug in 😝
+fix log message
+add logging to 😝
+fix a bug where the scrim could occur when the activity is not shown
+remove unnecessary cast
+remove unused code
+add 😝 to 😝
+make 😝 final
+don t call 😝 if it is not available
+remove unnecessary cast
+remove unused imports
+make 😝 public
+fix bug in 😝
+fix test failure
+fix bug in 😝
+fix typo in 😝
+fix quality flaw
+improve error message
+fix a bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+add more logging to 😝
+add missing override annotations
+remove unused code
+fix quality flaw
+remove unused method
+fix error message
+fix a bug where the scrim could not be called
+fix error message
+fix typo in 😝
+add test for 😝
+fix bug in 😝
+remove unnecessary cast
+add 😝 to 😝
+add 😝 to 😝
+add check for 😝
+add 😝 method
+make 😝 public
+fix a bug in 😝
+add 😝 to 😝
+remove unused code
+add a utility method to get the 😝
+do not store 😝 in 😝
+fix quality flaws
+remove unused imports
+remove dead code
+fix a bug in 😝
+remove unused code
+fix typo in javadoc
+fix a bug in 😝
+remove unused test
+add 😝 to 😝
+fix typo in 😝
+fix quality flaw
+don t close serverchannel when there is no connection
+fix a bug in 😝
+remove unused method
+remove unused method
+remove unused code
+remove unused code
+remove system out println
+remove unused method
+fix the build
+fix a bug in 😝
+fix bug in 😝
+fix possible npe
+remove unused code
+make 😝 public
+remove unused test
+fix a bug in 😝
+fix the build
+fix a bug where the scrim could occur when the 😝 is not shown
+improve error message
+fix bug in 😝
+add logging to 😝
+add 😝 to 😝
+don t throw exception if there is no connection
+don t call 😝 if it is not available
+remove unused code
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+remove unnecessary cast
+remove unused imports
+fix failing test
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+remove unused imports
+fix npe in 😝
+make 😝 public
+fix error message
+add missing annotations to 😝
+fix typo in 😝
+fix bug in 😝
+fix a bug in 😝
+remove unused method
+don t use deprecated getsupportfragmentmanager
+fix the build
+fix typo in 😝
+don t call 😝 in 😝
+remove unused code
+fix 😝 😝
+don t use 😝 for 😝
+add final to ep_name
+fix bug in 😝
+fix npe in 😝
+remove unused code
+make 😝 public
+remove unnecessary call
+fix typo in 😝
+remove unnecessary cast
+don t call 😝 if it is not available
+don t call 😝 if it is not available
+add 😝 to 😝
+fix compilation error
+fix a bug where the scrim could occur when the 😝 is not available
+add missing override annotations
+fix a bug in 😝
+add logging to 😝
+fix the build
+remove unused code
+fix a bug in 😝
+fix bug in 😝
+fix 😝 issue
+fix typo in javadoc
+fix npe in 😝
+remove unused code
+fix typo in javadoc
+don t call 😝 if it doesn t exist
+remove unused code
+add 😝 to 😝
+fix bug in 😝
+fix typo in 😝
+don t allow cache_size to be used in 😝
+fix quality flaw
+make 😝 public
+remove unused code
+add a todo
+add logging to 😝
+make 😝 public
+add test for 😝
+fix typo in javadoc
+fix a bug where the scrim could not be called
+fix bug in 😝
+add exception handling for 😝
+don t call 😝 if it is not available
+fix quality flaws
+remove unused method
+fix a bug where the scrim could occur when the 😝 is not shown
+fix typo in 😝
+add missing javadoc
+fix typo in 😝
+do not show the 😝 if the 😝 is not available
+fix bug in 😝
+add missing override annotations
+fix a bug in 😝
+fix bug in 😝
+add test for 😝
+fix a bug in 😝
+remove unnecessary cast
+catch exception in 😝
+add 😝 method
+fix possible npe
+turn off debugging
+add missing javadoc
+remove unused code
+fix unit test
+remove unused code
+fix a bug in 😝
+fix typo in 😝
+fix bug in 😝
+fix the build
+fix a bug in 😝
+fix test case
+remove unused code
+remove unused code
+remove unused imports
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused code
+fix a bug in 😝
+add check for 😝
+remove unused imports
+fix npe in 😝
+fix bug in 😝
+fix unit test
+fix quality flaw
+remove unnecessary cast
+fix possible npe
+remove unused import
+fix test failure
+remove unused test
+add 😝 method
+fix bug in 😝
+fix a bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix broken test
+add 😝 to 😝
+fix a bug in 😝
+remove unused code
+add test for 😝
+fix bug in 😝
+fix bug in 😝
+remove unnecessary cast
+add missing javadoc
+add 😝 method
+fix bug in 😝
+fix exception message
+remove unused code
+remove unnecessary cast
+remove unnecessary cast
+catch runtimeexceptions when running
+add 😝 method to 😝
+add tostring to tostring
+add 😝 to 😝
+make 😝 public
+fix bug in 😝
+remove unnecessary cast
+fix a bug in 😝
+fix unit test
+fix typo in 😝
+fix bug in 😝
+remove unused method
+remove unused method
+fix npe in 😝
+remove unnecessary cast
+fix quality flaws
+fix typo in 😝
+remove unnecessary cast
+make 😝 public
+add 😝 to 😝
+improve error message
+don t call 😝
+fix bug in 😝
+fix a bug in 😝
+remove system out println
+add missing test
+fix a bug in 😝
+fix a bug in 😝
+remove unnecessary call
+remove unnecessary cast
+fix typo in 😝
+fix failing test
+add 😝 method
+add 😝 to 😝
+fix a bug where the scrim could not be called
+add missing runwith annotation
+fix bug in 😝
+remove unused code
+add test for 😝
+fix bug in 😝
+add 😝 to 😝
+add 😝 method
+make 😝 final
+remove unused method
+add test for 😝
+fix error message
+add additional check for 😝
+fix typo in 😝
+add 😝 method
+fix typo in 😝
+fix a comment
+add 😝 to 😝
+fix bug in 😝
+fix crash when 😝
+fix bug in 😝
+add missing override annotations
+add 😝 to 😝
+fix quality flaws
+remove unused imports
+add 😝 method
+remove unnecessary cast
+remove unused code
+fix typo in javadoc
+fix a bug in 😝
+fix a bug in 😝
+add awaitfix to 😝
+fix test failure
+fix typo in javadoc
+add test for 😝
+fix unit test
+fix a bug in 😝
+don t use 😝 for 😝
+fix bug in 😝
+deprecate unused method
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+add missing javadoc
+add 😝 to 😝
+fix failing test
+add a tostring to 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+remove debug logging
+add 😝 method
+fix bug in 😝
+don t call 😝 in 😝
+fix a bug in 😝
+add 😝 method
+fix a bug where the scrim could occur when the activity is not shown
+add missing call to 😝
+remove unused method
+fix typo in javadoc
+fix typo in 😝
+remove unnecessary cast
+remove unnecessary null check
+fix bug in 😝
+fix failing test
+remove unused method
+fix bug in 😝
+fix typo in javadoc
+fix failing test
+fix bug in 😝
+fix a bug in 😝
+fix npe in 😝
+make 😝 public
+fix bug in 😝
+fix quality flaw
+fix bug in 😝
+fix failing test
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is called
+remove unused imports
+remove unused method
+fix a bug in 😝
+fix typo in javadoc
+remove unnecessary cast
+fix typo in javadoc
+fix a bug in 😝
+add a todo
+fix a bug in 😝
+remove unused method
+fix npe in 😝
+improve error message
+fix typo in 😝
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the same time
+remove unnecessary cast
+fix typo in javadoc
+make 😝 final
+fix a bug in 😝
+add 😝 method
+fix bug in 😝
+fix test case
+remove unused code
+fix bug in 😝
+remove unused imports
+add tostring to tostring
+fix bug in 😝
+fix a bug in 😝
+make 😝 public
+fix typo in javadoc
+fix unit test
+fix quality flaws
+fix bug in 😝
+fix a bug in 😝
+remove dead code
+add more info to 😝
+remove unused imports
+fix a bug in 😝
+fix bug in 😝
+add 😝 method
+add missing override
+fix quality flaws
+fix npe in 😝
+remove debug logging
+remove unused code
+fix failing test
+fix a bug where the scrim could occur when the 😝 is not shown
+fix bug in 😝
+add 😝 to 😝
+add logging to 😝
+add test for 😝
+remove unused code
+remove unused method
+remove unused imports
+fix a bug where the scrim could not be called
+fix quality flaws
+fix a bug in 😝
+fix a bug in 😝
+remove unused imports
+fix bug in 😝
+catch exception in 😝
+remove unnecessary cast
+fix typo in javadoc
+remove unused method
+add 😝 method
+add 😝 to 😝
+fix crash when 😝
+fix test failure
+fix typo in 😝
+fix typo in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix typo in javadoc
+fix quality flaws
+make 😝 final
+remove debug log
+fix typo in javadoc
+fix possible npe
+fix a bug in 😝
+catch exception in 😝
+fix possible npe
+add missing override annotations
+fix a bug where the scrim could occur when the 😝 is not shown
+don t call 😝 if it is not available
+fix bug in 😝
+fix bug in 😝
+remove unnecessary cast
+fix log message
+add missing override annotations
+add 😝 to 😝
+fix the build
+fix failing test
+fix bug in 😝
+fix bug in 😝
+remove unused method
+add 😝 to 😝
+add debug logging
+remove todo
+fix a bug in 😝
+add missing override annotations
+add check for 😝
+remove unused method
+add logging to 😝
+fix failing test
+fix a bug in 😝
+fix a bug in 😝
+fix broken test
+fix bug in 😝
+fix a bug in 😝
+don t call 😝 in 😝
+remove unnecessary cast
+don t call 😝 if it is not available
+fix a bug in 😝
+add 😝 method
+fix a bug in 😝
+fix bug in 😝
+remove dead code
+fix a bug where the scrim could not be 😝
+fix failing test
+fix a bug in 😝
+fix typo in javadoc
+fix 😝 issue
+fix bug in 😝
+fix the build
+fix quality flaw
+fix a bug where the 😝 was not working
+add 😝 method
+remove unused code
+add missing override annotations
+add a gservices setting for the 😝
+add license header
+fix broken test
+add 😝 method
+fix bug in 😝
+remove unused method
+add 😝 method
+add license header
+don t call 😝
+make 😝 public
+fix typo in javadoc
+fix a bug in 😝
+fix quality flaws
+fix unit test
+fix bug in 😝
+add 😝 method
+fix possible npe
+fix a bug in 😝
+fix bug in 😝
+add 😝 to 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix possible npe
+fix the build
+fix a bug in 😝
+fix typo in 😝
+fix typo in javadoc
+fix a bug where the 😝 was not working when 😝
+fix failing test
+fix error message
+fix npe in 😝
+add missing javadoc
+add 😝 to 😝
+fix a typo in 😝
+fix a bug where the 😝 was not working
+fix the build
+remove unused code
+ignore failing test
+fix a bug where the 😝 was not null
+fix failing test
+fix failing test
+fix the build
+add test for 😝
+fix typo in 😝
+add 😝 to 😝
+deprecate unused method
+add final to ep_name
+fix npe in 😝
+fix the build
+add support for 😝
+make 😝 public
+fix license header
+fix possible npe
+fix a bug in 😝
+don t call 😝 if it is not available
+remove debug println
+fix the build
+fix a bug in 😝
+remove dead code
+fix typo in 😝
+fix bug in 😝
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+fix typo in 😝
+add 😝 method
+improve error message
+remove unused import
+fix a bug where the 😝 was not working
+fix bug in 😝
+fix javadoc typo
+remove unused method
+fix a bug in 😝
+remove unnecessary cast
+fix npe in 😝
+add 😝 method
+make 😝 public
+make 😝 final
+fix broken test
+fix possible npe
+add 😝 to 😝
+remove unused method
+fix typo in javadoc
+fix npe in 😝
+fix typo in javadoc
+add 😝 to 😝
+fix a typo
+fix bug in 😝
+fix a bug in 😝
+make 😝 public
+remove unused imports
+fix bug in 😝
+add 😝 method
+improve error message
+fix typo in 😝
+fix a bug in 😝
+fix a bug where the 😝 was not working
+fix bug in 😝
+add license header
+fix typo in javadoc
+make 😝 public
+remove unused code
+add 😝 to 😝
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove debug logging
+catch exception in 😝
+make 😝 public
+remove unnecessary cast
+add missing check for 😝
+fix bug in 😝
+add 😝 method
+make 😝 public
+fix bug in 😝
+fix npe when 😝 is not available
+add missing override annotations
+add 😝 to 😝
+add license header
+make 😝 public
+remove unused imports
+remove unnecessary code
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not shown
+fix typo in 😝
+remove system out println
+add logging to 😝
+remove unused code
+add missing javadoc
+remove debug println
+fix typo in 😝
+make 😝 public
+fix a bug in 😝
+remove unnecessary cast
+fix a bug in 😝
+fix a bug in 😝
+fix unit test
+turn off debugging
+fix unit test
+add 😝 to 😝
+add a tostring method to 😝
+add missing javadoc
+fix bug in 😝
+fix quality flaws
+add test for 😝
+add 😝 method
+fix typo in 😝
+remove unnecessary cast
+add 😝 to 😝
+fix possible npe
+fix exception message
+fix test case
+fix quality flaws
+fix a bug where the scrim could not be called
+fix typo in 😝
+add missing method
+don t call 😝
+add missing override annotations
+fix a bug in 😝
+fix typo in 😝
+remove unused imports
+make 😝 final
+add missing javadoc
+fix typo in 😝
+fix a bug in 😝
+fix typo in 😝
+add 😝 method
+add missing override annotations
+add 😝 to 😝
+improve exception message
+fix a bug in 😝
+fix bug in 😝
+add javadoc for 😝
+remove unnecessary cast
+remove unused code
+add check for 😝
+add 😝 to 😝
+remove unused code
+fix quality flaws
+fix exception handling
+add 😝 to 😝
+fix bug in 😝
+add 😝 method
+remove unused method
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix bug in 😝
+fix a bug in 😝
+remove test case
+remove unnecessary call
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix npe when 😝 is not available
+fix npe in 😝
+remove unused imports
+fix a bug in 😝
+fix a bug in 😝
+fix typo in 😝
+remove unused comment
+add more logging to 😝
+add 😝 method
+fix typo in javadoc
+make 😝 public
+fix bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix a bug in 😝
+fix typo in 😝
+fix a bug in 😝
+fix broken test
+fix bug in 😝
+fix possible npe
+fix exception message
+fix unit test
+fix a bug in 😝
+remove unnecessary cast
+fix quality flaw
+fix quality flaw
+fix a bug in 😝
+fix quality flaw
+fix a bug in 😝
+fix bug in 😝
+fix failing test
+add missing override annotations
+add 😝 to 😝
+add missing call to 😝
+fix the build
+fix the build
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+fix the build
+add 😝 to 😝
+don t reset the 😝 if it is not available
+fix bug in 😝
+fix test failure
+fix typo in javadoc
+remove unused code
+fix typo in javadoc
+remove unused code
+add 😝 to 😝
+remove unnecessary cast
+add missing override annotations
+don t close serverchannel when there is no 😝
+add 😝 to 😝
+fix a bug in 😝
+fix a bug in 😝
+fix test failure
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix typo in 😝
+remove unused method
+fix bug in 😝
+fix bug in 😝
+add test for 😝
+fix a bug in 😝
+remove debug logging
+remove unused method
+add test for 😝
+fix a bug in 😝
+add missing override annotations
+fix a bug where the 😝 was not working
+add 😝 to 😝
+add 😝 to 😝
+fix a bug in 😝
+fix npe in 😝
+add missing override annotations
+add 😝 to 😝
+fix typo in javadoc
+add 😝 to 😝
+fix test failure
+add 😝 to 😝
+add missing override annotations
+remove unnecessary cast
+fix a bug in 😝
+remove unused imports
+add 😝 to 😝
+remove unused code
+fix bug in 😝
+add 😝 to 😝
+fix quality flaws
+fix error message
+fix a bug in 😝
+remove unused code
+fix bug in 😝
+add debug logging
+remove unused method
+fix typo in 😝
+fix a bug in 😝
+add null check for 😝
+fix bug in 😝
+fix test failure
+add more logging to 😝
+fix the build
+fix bug in 😝
+fix a bug in 😝
+fix failing test
+fix a bug in 😝
+fix bug in 😝
+add missing override annotations
+fix a bug where the window is not null
+add 😝 to 😝
+add missing javadoc
+fix 😝 😝
+fix npe in 😝
+fix failing test
+make 😝 final
+add missing 😝
+add 😝 to 😝
+fix a bug where the 😝 was not working
+fix bug in 😝
+fix bug in 😝
+remove debug println
+make 😝 public
+fix a bug in 😝
+fix typo in javadoc
+remove unused code
+remove unused import
+fix bug in 😝
+add logging to 😝
+fix 😝 issue
+remove unnecessary cast
+fix bug in 😝
+fix bug in 😝
+remove unused imports
+fix bug in 😝
+fix typo in javadoc
+fix the build
+fix possible npe
+add 😝 to 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug where the scrim could occur when the 😝 is not shown
+fix typo in javadoc
+fix memory leak
+fix typo in 😝
+fix crash when 😝 is disabled
+don t call 😝 in 😝
+ignore test for 😝
+add 😝 method
+add missing check for 😝
+remove unused imports
+add 😝 to 😝
+remove dead code
+fix a bug in 😝
+fix possible npe
+add 😝 method
+add tostring to tostring
+fix npe in 😝
+add missing override annotations
+fix typo in 😝
+remove unused method
+ignore failing test
+fix bug in 😝
+fix failing test
+remove unused imports
+make 😝 public
+fix possible npe
+fix typo in javadoc
+add 😝 to 😝
+add 😝 to 😝
+remove unnecessary comment
+remove unused imports
+fix a bug where the scrim could occur when the activity is not shown
+fix typo in 😝
+remove unused method
+make 😝 public
+add 😝 to 😝
+fix quality flaw
+add 😝 method
+fix a bug where the scrim could occur when the 😝 is not shown
+fix npe in 😝
+fix possible npe
+add 😝 to 😝
+don t use 😝 for 😝
+fix typo in 😝
+fix bug in 😝
+add missing override annotations
+fix a bug where the 😝 doesn t have the 😝
+remove unused code
+add 😝 to 😝
+fix possible npe
+add more descriptive tostring
+remove unused method
+remove unnecessary code
+fix test failure
+fix a bug where the 😝 doesn t have the 😝
+fix a bug in 😝
+fix bug in 😝
+add missing javadoc
+add missing javadoc
+improve javadoc for 😝
+fix a bug in 😝
+add missing javadoc
+fix bug in 😝
+remove unused field
+fix broken test
+add license header
+add missing import
+remove unused code
+fix possible npe
+remove unnecessary cast
+fix typo in 😝
+fix quality flaw
+fix a bug in 😝
+add 😝 to 😝
+remove unnecessary cast
+fix typo in javadoc
+make 😝 final
+add 😝 to 😝
+remove unused code
+add 😝 to 😝
+fix bug in 😝
+add license header
+fix the build
+remove unused method
+fix typo in javadoc
+add more logging to 😝
+fix failing test
+fix a bug in 😝
+add null check for 😝
+fix bug in 😝
+add missing override annotations
+fix a bug in 😝
+fix test failure
+fix a bug in 😝
+add test for 😝
+fix bug in 😝
+fix crash when 😝
+add 😝 method
+fix typo in 😝
+fix typo in 😝
+remove unnecessary cast
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix bug in 😝
+fix quality flaw
+add 😝 method
+remove unused code
+add missing javadoc
+fix bug in 😝
+fix bug in 😝
+fix typo in 😝
+remove unused method
+fix npe in 😝
+fix typo in 😝
+fix test failure
+fix typo in 😝
+remove unnecessary cast
+fix possible npe
+remove unused imports
+remove unused method
+don t call 😝 if it is not available
+fix crash when 😝
+remove unused method
+fix bug in 😝
+remove unused method
+add missing override to 😝
+remove dead code
+remove unused code
+fix bug in 😝
+fix npe in 😝
+make 😝 public
+remove unused method
+fix a bug in 😝
+fix quality flaw
+add 😝 to 😝
+fix typo in 😝
+fix typo in javadoc
+remove unused code
+add missing override
+remove unused method
+remove unused test
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+remove unnecessary cast
+fix failing test
+fix possible npe
+remove unused code
+make 😝 public
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+don t use 😝 for 😝
+remove unused method
+fix the build
+fix typo in javadoc
+add missing test
+fix bug in 😝
+add missing override annotations
+fix a bug in 😝
+fix a bug in 😝
+add a todo
+add 😝 to 😝
+add 😝 to 😝
+remove debug log
+add comment to 😝
+add missing override annotations
+make 😝 public
+fix bug in 😝
+fix the build
+catch all exceptions during shutdown
+remove debug logging
+add 😝 to 😝
+add 😝 to 😝
+fix a bug in 😝
+add comment to 😝
+remove unused import
+fix a bug in 😝
+add a comment to the 😝
+remove unused imports
+fix bug in 😝
+add 😝 method
+fix a bug in 😝
+add 😝 to 😝
+fix failing test
+make 😝 public
+fix a bug in 😝
+add 😝 method
+fix typo in 😝
+fix bug in 😝
+fix exception message
+add test for 😝
+remove unused imports
+add default value to 😝
+fix a bug in 😝
+fix failing test
+remove unnecessary cast
+add 😝 to 😝
+fix bug in 😝
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused code
+fix typo in javadoc
+remove unused code
+turn off override_with_best_model
+fix the build
+add 😝 to 😝
+add 😝 to 😝
+fix the build
+add 😝 method
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix typo in javadoc
+fix bug in 😝
+add 😝 to 😝
+remove unnecessary cast
+fix bug in 😝
+add missing javadoc
+fix broken test
+fix unit test
+fix exception message
+fix typo in 😝
+fix typo in 😝
+fix the build
+add 😝 to 😝
+add 😝 method
+fix 😝 issue
+fix missing import
+remove unused imports
+remove unnecessary cast
+fix 😝 test
+add 😝 to 😝
+add 😝 to 😝
+don t call 😝 if it is not available
+remove unused method
+fix possible npe
+fix typo in javadoc
+fix typo in 😝
+add logging to 😝
+fix possible npe
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+fix the build
+make 😝 final
+add 😝 to 😝
+add missing import
+remove system out println
+add a todo
+remove unused method
+fix a bug where the scrim could be used
+fix typo in javadoc
+fix typo in javadoc
+fix bug in 😝
+fix npe in 😝
+fix bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix bug in 😝
+fix unit test
+add 😝 to 😝
+add javadoc for 😝
+add 😝 to 😝
+remove debug println
+add missing javadoc
+fix typo in javadoc
+remove unused field
+fix typo in 😝
+fix a bug in 😝
+remove unused method
+fix npe in 😝
+fix test failure
+fix bug in 😝
+remove unnecessary cast
+add 😝 to 😝
+fix bug in 😝
+fix possible npe
+add 😝 to 😝
+fix bug in 😝
+remove unused code
+remove unused code
+fix bug in 😝
+remove unnecessary cast
+add more logging to 😝
+add 😝 to 😝
+remove unused method
+add 😝 to 😝
+fix possible npe
+remove unused code
+make 😝 public
+add 😝 to 😝
+remove unused imports
+fix typo in javadoc
+fix a bug in 😝
+make 😝 public
+fix npe in 😝
+remove unnecessary cast
+add 😝 to 😝
+fix typo in 😝
+fix quality flaw
+fix test case
+fix typo in javadoc
+remove unused code
+fix a bug in 😝
+remove unused code
+fix bug in 😝
+make 😝 public
+add 😝 to 😝
+fix a bug where the scrim could occur
+fix quality flaw
+fix typo in 😝
+fix a bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix error message
+fix a bug in 😝
+remove final modifier
+add 😝 to ep_name
+fix bug in 😝
+don t use 😝 for 😝
+fix a bug in 😝
+fix unit test
+fix broken test
+remove unnecessary cast
+fix a bug where the scrim could occur when the 😝 is not available
+fix bug in 😝
+fix bug in 😝
+fix possible npe
+fix typo in 😝
+fix quality flaw
+fix npe in 😝
+fix a bug in 😝
+fix typo in javadoc
+fix a bug where the scrim could occur when the activity is not shown
+fix typo in 😝
+remove debug println
+fix typo in 😝
+fix bug in 😝
+fix javadoc typo
+don t close the 😝 if it is not available
+fix typo in 😝
+remove deprecated annotation
+remove unused code
+fix the build
+fix broken test
+make 😝 public
+fix a bug in 😝
+add missing override annotations
+remove unnecessary cast
+fix bug in 😝
+don t call 😝 if it is not available
+fix typo in javadoc
+add 😝 to 😝
+remove unnecessary cast
+remove unnecessary cast
+add 😝 method
+fix possible npe
+add missing check for 😝
+fix quality flaw
+fix a bug where the 😝 was not working
+fix the build
+fix checkstyle issue
+don t call 😝 in 😝
+add a utility method to retrieve the 😝
+fix a bug in 😝
+add null check
+fix possible npe
+remove debug println
+remove unused code
+add missing check for 😝
+remove unnecessary cast
+add a todo
+remove debug logging
+fix a bug where the scrim could be used
+add 😝 method
+fix possible npe
+fix a bug in 😝
+fix unit test
+fix exception handling
+add 😝 to 😝
+make 😝 public
+add missing override
+remove unnecessary cast
+fix bug in 😝
+add a utility method to retrieve the 😝
+remove unused code
+add missing override annotations
+fix bug in 😝
+fix npe in 😝
+add license header
+fix a bug in 😝
+fix bug in 😝
+add 😝 to 😝
+fix failing test
+fix the build
+fix crash when 😝
+add missing import
+fix bug in 😝
+add missing javadoc
+fix typo in javadoc
+add tostring to tostring
+fix npe in 😝
+add 😝 to 😝
+fix a bug in 😝
+remove unnecessary cast
+fix a bug in 😝
+fix npe in 😝
+fix a comment
+add support for 😝
+fix possible npe
+add missing javadoc
+fix failing test
+remove unused method
+add 😝 to 😝
+fix typo in 😝
+add final to ep_name
+fix npe in 😝
+fix typo in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix broken test
+add 😝 to 😝
+fix bug in 😝
+fix crash when 😝
+make 😝 public
+add missing override annotations
+fix a bug in 😝
+remove unused code
+fix failing test
+fix bug in 😝
+fix bug in 😝
+add missing override annotations
+fix typo in javadoc
+remove unused method
+remove unused method
+remove unused method
+fix typo in javadoc
+fix unit test
+make 😝 public
+make 😝 public
+fix failing test
+add test for 😝
+fix test failure
+fix quality flaw
+add license header
+fix the build
+fix a bug in 😝
+fix npe in 😝
+add a comment
+fix possible npe
+fix typo in tostring
+fix a bug where the scrim could occur when the activity is not shown
+fix npe in 😝
+fix quality flaws
+remove unused method
+add missing override
+fix a bug in 😝
+fix bug in 😝
+make 😝 public
+fix typo in 😝
+make 😝 public
+fix typo in 😝
+fix bug in 😝
+fix typo in javadoc
+add missing override annotations
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+remove unused method
+do not show 😝 if it is disabled
+add 😝 to 😝
+fix npe in 😝
+fix possible npe
+add missing override annotations
+catch exception in 😝
+add a comment
+don t call 😝 if it is not available
+fix npe in 😝
+add final to ep_name
+make 😝 public
+fix unit test
+fix a bug where the scrim could occur when the activity is not shown
+fix npe when 😝 is null
+fix 😝 issue
+add comment to 😝
+remove unused code
+add 😝 to 😝
+make 😝 public
+fix unit test
+make 😝 final
+fix a bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix failing test
+add javadoc for 😝
+fix possible npe
+fix bug in 😝
+remove unused code
+remove unnecessary cast
+add a gservices setting for the 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix bug in 😝
+remove unnecessary cast
+remove dead code
+add logging to 😝
+make 😝 public
+improve error message
+fix npe in 😝
+fix bug in 😝
+fix the build
+improve error message
+remove unused method
+add more logging to 😝
+remove unused method
+remove unused imports
+add 😝 to 😝
+add a todo
+fix broken test
+fix crash when 😝
+add test for 😝
+fix javadoc typo
+add missing override annotations
+fix possible npe
+remove unused method
+add 😝 method
+remove unnecessary cast
+fix bug in 😝
+fix a bug where the 😝 was not working
+fix npe when 😝
+fix a bug in 😝
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix npe in 😝
+add license header
+fix typo in 😝
+add 😝 to 😝
+fix typo in 😝
+add 😝 to 😝
+add 😝 method
+fix broken test
+add support for 😝
+remove unnecessary cast
+fix bug in 😝
+turn off debugging
+fix broken test
+fix npe in 😝
+remove unnecessary cast
+add test for 😝
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+remove unused code
+fix a bug in 😝
+fix typo in javadoc
+fix possible npe
+fix a bug in 😝
+make 😝 final
+fix checkstyle issue
+fix a bug in 😝
+add 😝 method
+remove unused code
+add 😝 to 😝
+fix the build
+make 😝 final
+remove unused code
+fix unit test
+fix error message
+add 😝 method
+fix quality flaws
+remove unnecessary cast
+fix broken test
+fix typo in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+make 😝 public
+remove unused code
+remove unused method
+fix error message
+remove unused method
+fix typo in 😝
+fix unit test
+remove unnecessary cast
+fix a bug where the 😝 was not working
+don t call 😝
+make 😝 public
+add 😝 method
+fix a bug where the scrim could occur when the 😝 is not available
+fix the build
+fix typo in 😝
+fix npe when 😝 is called
+fix a bug in 😝
+don t call 😝 if it is not available
+fix typo in 😝
+fix bug in 😝
+remove unnecessary cast
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+add debug logging
+fix bug in 😝
+fix a bug where the scrim could not be called
+remove dead code
+fix failing test
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix possible npe
+remove unnecessary call
+fix a bug in 😝
+add 😝 to 😝
+remove unused variable
+turn off debugging
+add test for 😝
+remove unused method
+fix bug in 😝
+fix bug in 😝
+add tostring method to 😝
+add missing override annotations
+fix typo in 😝
+do not close the exception if it is not available
+fix bug in 😝
+add test for 😝
+remove unused method
+fix a bug in 😝
+add check for 😝
+fix error message
+fix javadoc warnings
+fix typo in javadoc
+fix compilation error
+fix compilation error
+make 😝 public
+add 😝 method
+fix bug in 😝
+fix a bug in 😝
+remove unnecessary logging
+improve error message
+fix a bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix possible npe
+remove unnecessary cast
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+make 😝 public
+make 😝 final
+add final to ep_name
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+fix bug in 😝
+add exception handling for 😝
+fix typo in javadoc
+remove test case
+remove unnecessary cast
+add missing override annotations
+add 😝 to 😝
+fix a bug in 😝
+remove unused method
+add missing test
+remove unnecessary cast
+fix bug in 😝
+make 😝 final
+fix npe in 😝
+add test for 😝
+remove unused code
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix failing test
+fix a bug where the scrim could be used in the 😝
+fix a bug where the scrim could occur
+remove unnecessary cast
+add a todo
+fix test failure
+fix typo in javadoc
+fix typo in 😝
+remove unnecessary cast
+remove debug log
+fix npe in 😝
+fix typo in javadoc
+add 😝 to 😝
+fix a bug where the scrim could not be called
+fix a bug where the scrim could occur when the activity is not shown
+make 😝 public
+fix npe in 😝
+fix failing test
+remove unused test
+make 😝 public
+fix a bug in 😝
+make 😝 public
+remove unused parameter
+fix typo in javadoc
+fix test failure
+fix a bug in 😝
+fix a bug where the 😝 doesn t have 😝
+fix typo in 😝
+remove unused method
+use 😝 instead of 😝
+fix the build
+add javadoc for 😝
+add logging to 😝
+fix a bug in 😝
+fix bug in 😝
+add comment to 😝
+make 😝 final
+remove unused method
+fix typo in 😝
+fix bug in 😝
+add 😝 method
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+don t call 😝 in 😝
+fix bug in 😝
+remove unused imports
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix typo in 😝
+fix npe in 😝
+fix npe when 😝 is not null
+remove debug println
+add 😝 to 😝
+fix typo in comment
+fix the build
+add 😝 method
+fix quality flaws
+add 😝 to 😝
+fix typo in 😝
+fix possible npe
+fix a bug in 😝
+fix test failure
+fix a bug in 😝
+remove unused imports
+make 😝 final
+fix a bug where the scrim could be used
+fix quality flaw
+fix typo in javadoc
+fix a bug in 😝
+remove unused method
+add missing space
+add 😝 to 😝
+fix error message
+fix a bug where the scrim could occur when the activity is not shown
+add 😝 to 😝
+fix possible npe
+add missing test
+catch all exceptions during shutdown
+remove unnecessary cast
+fix quality flaws
+fix bug in 😝
+fix typo in 😝
+make 😝 public
+add 😝 to 😝
+fix error message
+fix a bug where the scrim could not be called
+add 😝 to 😝
+add missing override
+add 😝 to 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix npe in 😝
+fix possible npe
+fix bug in 😝
+fix unit test
+log the exception message
+add missing javadoc
+fix the build
+fix typo in 😝
+fix bug in 😝
+fix failing test
+make 😝 public
+ignore failing test
+fix bug in 😝
+remove debug logging
+remove unnecessary cast
+don t use 😝 for 😝
+add 😝 to 😝
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix a bug in 😝
+make 😝 public
+add a utility method to get the 😝
+make 😝 public
+fix quality flaws
+add 😝 to 😝
+fix bug in 😝
+make 😝 public
+fix npe in 😝
+fix a bug in 😝
+remove unnecessary cast
+remove unused imports
+fix quality flaw
+remove dead code
+remove unused imports
+log the log level
+fix bug in 😝
+fix typo in javadoc
+fix possible npe
+fix npe in 😝
+make 😝 public
+fix typo in 😝
+add 😝 method
+fix bug in 😝
+fix typo in 😝
+fix the build
+add missing javadoc
+deprecate unused method
+fix a bug in 😝
+add missing import
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix test failure
+remove unused method
+add a comment
+fix typo in 😝
+fix compilation error
+fix typo in 😝
+fix broken test
+remove unused method
+do not show 😝 if it is not available
+remove debug logging
+fix possible npe
+add more logging to 😝
+fix a bug in 😝
+remove unnecessary cast
+add final to ep_name
+fix a bug in 😝
+fix a bug in 😝
+fix unit test
+remove unused imports
+fix the build
+remove unnecessary cast
+fix a bug where the 😝 doesn t have the 😝
+add missing javadoc
+fix bug in 😝
+fix bug in 😝
+add 😝 to 😝
+add 😝 method
+fix typo in 😝
+fix failing test
+fix unit test
+fix npe in 😝
+add 😝 to 😝
+remove unused code
+remove unnecessary cast
+fix typo in 😝
+add 😝 to 😝
+remove unused imports
+fix broken test
+remove unused method
+add 😝 to 😝
+remove unused imports
+make 😝 public
+fix a bug where the 😝 was not working when 😝
+add a todo
+fix bug in 😝
+add 😝 method
+fix a bug in 😝
+fix memory leak
+add 😝 to 😝
+make 😝 final
+fix a bug in 😝
+make 😝 public
+remove unused imports
+add missing javadoc
+fix a bug in 😝
+fix quality flaws
+add 😝 to 😝
+add 😝 to 😝
+add missing javadoc
+remove unused test
+remove unnecessary cast
+remove unused imports
+fix bug in 😝
+fix bug in 😝
+add 😝 to 😝
+fix bug in 😝
+fix a bug where the scrim could not be passed
+add tostring to tostring
+fix a bug where the scrim could be null
+add missing test
+fix a bug where the scrim could be thrown when 😝
+fix a bug in 😝
+fix bug in 😝
+fix possible npe
+fix typo in 😝
+add 😝 method
+fix npe in 😝
+remove unnecessary cast
+fix crash when 😝 is called
+fix typo in javadoc
+turn off logging
+remove unused code
+fix javadoc typo
+make 😝 public
+fix bug in 😝
+add missing override annotations
+deprecate unused method
+fix typo in javadoc
+log the log level
+add 😝 to 😝
+make 😝 public
+fix a bug where the 😝 doesn t have the 😝
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix typo in 😝
+fix bug in 😝
+fix npe in 😝
+fix typo in javadoc
+fix test failure
+add 😝 to 😝
+make boostablequerybuilder final
+make 😝 public
+don t call 😝 if it is not available
+remove unnecessary cast
+fix bug in 😝
+make 😝 public
+fix test failure
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug in 😝
+add 😝 method
+fix a bug where the scrim could not be 😝
+add 😝 to 😝
+fix a bug in 😝
+fix possible npe
+fix 😝 issue
+fix bug in 😝
+fix failing test
+fix broken test
+fix 😝 test
+fix bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+add 😝 method
+fix bug in 😝
+remove unnecessary cast
+add missing override annotations
+add 😝 to 😝
+fix 😝 in 😝
+don t call 😝 if it is not available
+add missing override annotations
+add missing call to 😝
+turn off debugging
+fix typo in 😝
+fix a bug in 😝
+fix typo in javadoc
+fix typo in 😝
+remove unused method
+fix typo in 😝
+fix bug in 😝
+remove unnecessary cast
+make 😝 public
+fix bug in 😝
+add exception message to 😝
+fix a bug in 😝
+remove unused code
+fix a bug where the scrim could not be 😝
+fix a bug where the 😝 was not working
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix crash when 😝
+remove unused code
+remove unnecessary cast
+fix bug in 😝
+fix npe when 😝 is null
+fix typo in javadoc
+fix typo in 😝
+add 😝 method
+fix a bug where the 😝 doesn t have 😝
+add 😝 method
+fix a bug in 😝
+remove unused code
+add missing javadoc
+fix failing test
+fix a bug in 😝
+add check for 😝
+fix a bug in 😝
+add 😝 to 😝
+fix a bug where the 😝 was not working
+remove unnecessary cast
+don t use 😝 for 😝
+make 😝 public
+fix a bug where the 😝 was not working
+add missing javadoc
+fix typo in 😝
+fix typo in 😝
+fix possible npe
+fix a bug in 😝
+add logging to 😝
+add missing javadoc
+add logging to 😝
+fix error message
+add a todo
+add more logging to 😝
+make 😝 public
+fix a bug in 😝
+fix a bug in 😝
+fix quality flaw
+remove unused test
+add license header
+remove unused code
+fix a bug in 😝
+remove unused method
+fix a bug where the 😝 was not working when 😝
+add logging to 😝
+add additional check for 😝
+fix a bug where the scrim could not be called
+fix bug in 😝
+remove unused imports
+fix failing test
+remove dead code
+remove unnecessary cast
+make 😝 public
+fix a bug where the scrim could occur
+add logging to 😝
+fix a bug where the 😝 doesn t have the 😝
+fix crash when 😝
+fix bug in 😝
+remove unused code
+add 😝 method
+make 😝 final
+add 😝 to 😝
+add exception handling for 😝
+fix failing test
+fix broken test
+remove unused code
+fix a bug in 😝
+fix a bug where the scrim could not be called
+add missing test
+add 😝 to 😝
+add 😝 method
+add 😝 to 😝
+fix a bug where the scrim could not be called
+make 😝 final
+fix npe in 😝
+fix possible npe
+fix crash when 😝
+add 😝 method
+remove unnecessary cast
+fix bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix a bug where the 😝 was not working
+fix a bug where the 😝 was not working
+add missing javadoc
+fix a bug in 😝
+fix bug in 😝
+remove unnecessary cast
+remove unused code
+add a comment
+add missing override annotations
+make 😝 public
+fix a bug where the scrim could occur when the 😝 is not shown
+fix possible npe
+fix typo in 😝
+remove unused method
+fix bug in 😝
+fix broken test
+don t call 😝
+add 😝 to 😝
+don t call 😝 if it is not available
+fix quality flaws
+remove unnecessary cast
+add logging to 😝
+fix the build
+fix crash when 😝
+fix typo in 😝
+improve error message
+fix npe in 😝
+fix typo in javadoc
+add test for 😝
+don t call 😝 in 😝
+fix a bug where the scrim could be used
+remove unused method
+make 😝 public
+add tostring to tostring
+remove unnecessary code
+add a utility method to get the 😝
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+add 😝 method
+add tostring to tostring
+fix bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+add check for 😝
+remove unused imports
+remove unnecessary cast
+fix a bug in 😝
+fix possible npe
+improve exception message
+add support for 😝
+ignore failing test
+fix javadoc typo
+make 😝 public
+remove unused code
+add 😝 method
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix crash when 😝
+don t call 😝 if it is not available
+fix a bug in 😝
+don t call 😝 in 😝
+fix a bug in 😝
+add license header
+fix quality flaws
+remove unnecessary cast
+fix failing test
+fix the build
+remove unused method
+remove unused imports
+fix bug in 😝
+add a todo
+remove unused imports
+add missing override
+fix a bug where the scrim could be used
+fix a bug in 😝
+add 😝 method
+improve error message
+fix typo in javadoc
+fix failing test
+fix a bug in 😝
+fix npe when 😝
+fix a bug in 😝
+add debug logging
+fix javadoc typo
+fix a bug in 😝
+remove unused imports
+remove unnecessary cast
+remove debug code
+add logging to 😝
+remove unused field
+fix a bug where the 😝 doesn t have the 😝
+fix typo in javadoc
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix possible npe
+fix a bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+fix npe in 😝
+add a comment
+fix a bug where the scrim could occur when the 😝 is not shown
+make 😝 public
+fix error message
+fix a bug in 😝
+remove unnecessary cast
+make 😝 public
+fix typo in 😝
+add logging to 😝
+add comment to 😝
+fix npe in 😝
+fix a bug in 😝
+add logging to 😝
+fix npe in 😝
+make 😝 public
+remove system out println
+add 😝 to 😝
+add 😝 method
+add missing javadoc
+fix quality flaws
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix typo in 😝
+fix a bug in 😝
+fix crash when 😝
+fix typo in 😝
+fix bug in 😝
+add license header
+fix javadoc typo
+improve error message
+fix failing test
+fix npe when 😝 is 😝
+fix a bug in 😝
+fix a bug where the scrim could not be called
+remove unused imports
+add missing import
+fix a bug in 😝
+make 😝 final
+remove unnecessary cast
+fix bug in 😝
+use 😝 instead of 😝
+fix bug in 😝
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix unit test
+fix test failure
+add 😝 to 😝
+remove debug logging
+fix typo in 😝
+remove unused method
+add 😝 to 😝
+remove unused method
+remove unused imports
+fix test failure
+remove unnecessary cast
+fix bug in 😝
+fix quality flaw
+add 😝 to 😝
+fix quality flaw
+remove unused imports
+fix failing test
+remove unused method
+fix crash when selecting 😝
+fix a bug in 😝
+add debug logging
+catch all exceptions during shutdown
+add 😝 to 😝
+fix bug in 😝
+fix possible npe
+add test for 😝
+fix a bug in 😝
+remove unused code
+add 😝 to ep_name
+add 😝 method
+remove unnecessary cast
+fix typo in 😝
+fix a bug in 😝
+add missing test
+remove unused imports
+add 😝 method
+remove unused method
+make 😝 public
+add 😝 to 😝
+add 😝 to 😝
+remove unused code
+fix typo in 😝
+fix typo in javadoc
+fix the build
+add test for 😝
+fix a bug in 😝
+add 😝 to 😝
+fix possible npe
+add debug logging
+don t use 😝 for 😝
+add getter for 😝
+remove unused method
+remove unused imports
+add missing javadoc
+remove unused code
+fix typo in 😝
+fix possible npe
+remove unnecessary cast
+fix a bug where the 😝 was not working
+fix bug in 😝
+add logging to 😝
+fix bug in 😝
+add missing test
+fix the build
+add license header
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove dead code
+add check for 😝
+fix failing test
+add a todo
+remove unnecessary code
+remove unused imports
+add missing test
+add license header
+add missing javadoc
+remove unnecessary cast
+remove debug logging
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove unused method
+fix possible npe
+fix 😝 issue
+fix typo in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix npe in 😝
+add 😝 to 😝
+fix npe when 😝
+fix the build
+remove unused code
+add test for 😝
+make 😝 public
+make 😝 final
+fix a bug where the scrim could occur when the 😝 is not shown
+fix test failure
+add missing override annotations
+fix checkstyle issue
+fix failing test
+fix a bug where the scrim could not show the 😝
+fix a bug in 😝
+add logging to 😝
+make 😝 public
+fix broken test
+remove unused code
+fix quality flaws
+fix quality flaw
+add missing javadoc
+don t call 😝 if it is not available
+remove unused code
+remove unused imports
+add tostring method to 😝
+remove dead code
+fix bug in 😝
+remove unused imports
+remove unnecessary null check
+catch all exceptions in 😝
+fix bug in 😝
+remove unused imports
+fix bug in 😝
+change the number of the number of the number of 😝 to be used
+fix possible npe
+add check for 😝
+fix the build
+remove unnecessary code
+add a comment
+fix a bug in 😝
+remove unused imports
+fix broken test
+add test for 😝
+add 😝 method
+fix a bug in 😝
+fix typo in 😝
+add logging to 😝
+remove unused code
+fix failing test
+fix bug in 😝
+fix typo in 😝
+fix a bug in 😝
+make 😝 final
+fix a typo in 😝
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+remove unnecessary cast
+fix typo in 😝
+remove unused code
+fix a bug in 😝
+fix bug in 😝
+add license header
+add missing javadoc
+add 😝 method
+add missing override annotations
+fix a bug where the scrim could occur when the 😝 is not available
+add 😝 method
+fix a bug where the 😝 was not working
+fix possible npe
+add more logging to 😝
+fix bug in 😝
+fix license header
+fix test failure
+deprecate unused method
+fix npe in 😝
+add 😝 to 😝
+add missing javadoc
+fix the build
+remove unnecessary cast
+fix failing test
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+make 😝 public
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not available
+add missing override annotations
+remove unused imports
+remove extraneous semicolon
+remove unnecessary cast
+add 😝 to 😝
+remove unused code
+remove unnecessary cast
+fix possible npe
+fix bug in 😝
+fix typo in 😝
+fix a bug in 😝
+remove unnecessary cast
+fix bug in 😝
+fix bug in 😝
+remove unused method
+remove debug log
+fix possible npe
+fix bug in 😝
+fix bug in 😝
+fix the build
+fix npe in 😝
+fix bug in 😝
+catch all exceptions during shutdown
+fix possible npe
+remove unnecessary cast
+fix bug in 😝
+fix npe in 😝
+fix 😝 issue
+remove unnecessary cast
+add missing javadoc
+fix typo in javadoc
+fix a bug where the scrim could be used in 😝
+fix a bug where the scrim could not be 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+add missing override annotations
+fix a bug where the scrim could occur when the 😝 is not available
+fix test failure
+add check for 😝
+fix failing test
+fix the build
+fix typo in javadoc
+fix bug in 😝
+catch all exceptions in 😝
+fix the build
+fix a bug in 😝
+fix possible npe
+fix bug in 😝
+add 😝 method
+remove unused method
+fix bug in 😝
+don t use 😝 for 😝
+fix npe in 😝
+fix typo in 😝
+fix unit test
+remove unused import
+fix a bug where the scrim could occur when the 😝 is not available
+catch all exceptions during shutdown
+fix quality flaws
+add a todo
+change the number of 😝 to be used
+fix typo in javadoc
+make 😝 final
+fix typo in javadoc
+fix typo in 😝
+remove unused code
+remove unused imports
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix quality flaw
+remove unnecessary cast
+fix bug in 😝
+fix typo in 😝
+fix a bug where the scrim could not be called
+add 😝 to 😝
+add logging to 😝
+fix bug in 😝
+fix license header
+fix a bug in 😝
+fix typo in 😝
+fix unit test
+add final to ep_name
+make 😝 public
+remove unused code
+add test for 😝
+fix bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+remove unused imports
+fix compilation error
+make 😝 public
+fix bug in 😝
+add 😝 to 😝
+make 😝 public
+remove unnecessary cast
+add missing test
+fix npe in 😝
+fix a bug in 😝
+remove unused imports
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix typo in 😝
+fix failing test
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug where the scrim could be thrown
+fix the build
+don t allow cache_size to be used by default
+add 😝 to 😝
+fix a bug where the scrim could occur when the activity is not shown
+add a todo
+add test for 😝
+add missing javadoc
+make 😝 final
+fix possible npe
+add 😝 to 😝
+remove unnecessary cast
+remove debug log
+fix a bug in 😝
+fix test failure
+fix failing test
+log the exception in the 😝
+make 😝 final
+fix a bug in 😝
+fix typo in javadoc
+make 😝 public
+fix quality flaws
+remove unused method
+fix unit test
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix error message
+add a todo
+fix typo in 😝
+fix the build
+fix test failure
+fix a bug in 😝
+add missing override annotations
+fix possible npe
+remove unused method
+add 😝 method
+remove unused imports
+remove unnecessary cast
+fix npe in 😝
+add a todo
+fix bug in 😝
+remove unused test
+make 😝 public
+add 😝 method
+remove unused method
+fix failing test
+add 😝 to 😝
+fix bug in 😝
+make 😝 final
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused code
+remove unused method
+remove unused import
+fix unit test
+add logging to 😝
+fix possible npe
+remove unused code
+remove unused field
+remove unnecessary cast
+fix unit test
+remove unused code
+fix a bug in 😝
+remove unnecessary cast
+remove unnecessary cast
+fix possible npe
+add 😝 to 😝
+don t throw exception if there is no 😝
+fix npe in 😝
+fix a bug in 😝
+remove unused code
+remove unused method
+fix a bug in 😝
+add 😝 to 😝
+add tostring to tostring
+add javadoc for 😝
+add 😝 to 😝
+fix bug in 😝
+fix broken test
+fix quality flaws
+fix a bug in 😝
+fix typo in 😝
+fix bug in 😝
+fix bug in 😝
+make 😝 public
+fix crash when 😝
+fix bug in 😝
+add 😝 to 😝
+add a tostring method to 😝
+fix failing test
+fix typo in 😝
+fix a bug where the 😝 doesn t have the 😝
+add 😝 method
+deprecate unused method
+make 😝 public
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+add missing check for 😝
+add 😝 to 😝
+add 😝 to 😝
+fix typo in javadoc
+fix error message
+fix a bug in 😝
+fix typo in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix bug in 😝
+fix possible npe
+log the exception in the log message
+remove unused test
+catch exception in 😝
+make 😝 public
+add missing override annotations
+fix a bug in 😝
+fix typo in 😝
+fix crash when 😝
+add logging to 😝
+add missing javadoc
+remove unnecessary cast
+fix bug in 😝
+add 😝 to 😝
+remove unused method
+remove unused parameter
+add 😝 method
+fix possible npe
+remove unused method
+add 😝 method
+add additional check for 😝
+fix bug in 😝
+remove debug logging
+remove unused code
+add missing javadoc
+remove unused imports
+fix bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+add missing override annotations
+fix crash when 😝
+add final to ep_name
+add check for 😝
+fix a bug where the scrim could not be 😝
+fix npe in 😝
+remove unused code
+remove unused method
+fix a bug where the scrim could be thrown when the 😝 is not available
+add 😝 to 😝
+fix npe in 😝
+add missing import
+fix bug in 😝
+remove unnecessary cast
+turn off debug log
+add 😝 method
+fix a bug where the scrim could not be called
+fix bug in 😝
+add 😝 to 😝
+remove unnecessary cast
+fix bug in 😝
+fix a bug in 😝
+add 😝 to ep_name
+fix crash when 😝
+add 😝 method
+make 😝 public
+add 😝 to 😝
+remove unnecessary cast
+fix a bug in 😝
+fix unit test
+fix a bug where the 😝 doesn t have 😝
+make 😝 public
+fix a bug in 😝
+fix a bug where the scrim could not be called
+fix a bug where the 😝 doesn t have the 😝
+make 😝 final
+add license header
+fix bug in 😝
+fix npe in 😝
+fix a bug where the 😝 doesn t have the same time
+add more logging to 😝
+fix a bug in 😝
+fix the build
+add a todo
+fix a bug where the scrim could not be 😝
+add 😝 to 😝
+fix a bug in 😝
+don t call 😝 if it is not available
+fix a bug where the scrim could occur when the activity is not shown
+remove unused method
+remove unnecessary cast
+remove unnecessary cast
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+remove unused code
+add missing javadoc
+fix typo in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix bug in 😝
+add missing javadoc
+add 😝 to 😝
+add 😝 to 😝
+fix failing test
+make 😝 public
+remove unused method
+fix typo in javadoc
+fix a bug in 😝
+remove unnecessary cast
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+add missing javadoc
+add 😝 to 😝
+remove unnecessary cast
+fix test failure
+add tostring to tostring
+remove unnecessary cast
+add 😝 to 😝
+fix bug in 😝
+fix a bug where the 😝 doesn t have 😝
+fix bug in 😝
+improve error message
+fix possible npe
+fix license header
+remove unused import
+fix a bug where the 😝 was not null
+fix quality flaw
+fix a bug in 😝
+add getter for 😝
+remove dead code
+fix a bug where the scrim could be used
+remove unused code
+fix exception handling
+fix a bug in 😝
+remove unnecessary cast
+fix a bug in 😝
+fix a bug in 😝
+remove unused code
+remove unused code
+fix a bug in 😝
+add a comment
+make 😝 public
+fix possible npe
+add 😝 method
+add missing javadoc
+fix a bug in 😝
+fix npe in 😝
+fix typo in 😝
+make 😝 public
+fix quality flaw
+remove unused code
+fix quality flaw
+add missing javadoc
+fix typo in 😝
+make 😝 final
+fix a bug in 😝
+add missing override annotations
+fix a bug where the 😝 was not working
+fix quality flaw
+do not show 😝 if it is not available
+fix typo in javadoc
+fix a bug where the scrim could occur when the 😝 is not available
+don t call 😝 if it is not available
+fix typo in 😝
+remove unused method
+remove unnecessary cast
+remove unnecessary cast
+remove unused code
+make 😝 final
+make 😝 final
+fix bug in 😝
+add a todo
+fix broken test
+make 😝 public
+remove dead code
+add 😝 to ep_name
+remove unnecessary cast
+add 😝 to 😝
+fix test failure
+fix npe in 😝
+add 😝 to 😝
+remove unused method
+add check for 😝
+add missing import
+add 😝 method
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug where the scrim could not be called
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+add missing override annotations
+make 😝 final
+fix broken test
+add 😝 to 😝
+fix a bug in 😝
+add 😝 to 😝
+fix quality flaw
+fix a bug in 😝
+fix npe when 😝 is not available
+remove unused code
+fix unit test
+add 😝 method
+fix bug in 😝
+fix possible npe
+remove unnecessary cast
+fix a bug in 😝
+add a comment
+fix a bug where the 😝 was not working
+remove unused import
+fix typo in 😝
+remove unnecessary cast
+fix quality flaws
+fix a bug in 😝
+fix error message
+fix npe in 😝
+fix failing test
+fix the build
+fix bug in 😝
+fix typo in 😝
+fix npe in 😝
+fix typo in comment
+fix a bug in 😝
+fix the build
+remove unnecessary cast
+fix a bug where the scrim could not be called
+remove unused method
+fix possible npe
+add missing call to 😝
+fix a bug where the 😝 was not working
+fix possible npe
+fix typo in javadoc
+fix typo in 😝
+add 😝 to 😝
+add missing override
+fix possible npe
+remove unused code
+fix a bug in 😝
+remove unused code
+add missing javadoc
+fix broken test
+fix bug in 😝
+make 😝 public
+use 😝 instead of 😝
+don t call 😝 if it is not available
+fix possible npe
+remove unnecessary cast
+add missing javadoc
+fix a bug where the 😝 doesn t have the 😝
+fix typo in 😝
+fix failing test
+fix a bug where the 😝 doesn t crash when the 😝 is not available
+fix a bug where the scrim could not be 😝
+fix bug in 😝
+add missing override annotations
+fix a bug where the scrim could occur when the 😝 is not available
+remove unnecessary logging
+remove unnecessary cast
+make 😝 public
+add 😝 to 😝
+make 😝 public
+remove unnecessary cast
+fix typo in 😝
+remove unused method
+fix a bug in 😝
+add 😝 to 😝
+remove unused method
+fix checkstyle issue
+add logging to 😝
+fix bug in 😝
+add 😝 method
+fix bug in 😝
+fix bug in 😝
+don t call 😝 in 😝
+fix bug in 😝
+add missing override annotations
+fix a bug where the scrim could not be 😝
+fix bug in 😝
+fix missing import
+fix a bug in 😝
+add 😝 to 😝
+add missing override annotations
+fix typo in 😝
+fix a bug in 😝
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not shown
+remove unused method
+fix bug in 😝
+add 😝 to 😝
+remove unused imports
+fix a bug in 😝
+remove unused method
+add missing override annotations
+fix typo in javadoc
+add missing override annotations
+make 😝 final
+add 😝 method
+add logging to 😝
+fix the build
+fix typo in javadoc
+fix a bug in 😝
+remove unnecessary cast
+remove unnecessary cast
+remove debug log
+fix npe in 😝
+remove unused method
+fix a bug where the scrim could not be null
+fix possible npe
+fix possible npe
+fix a bug in 😝
+fix quality flaw
+remove unused code
+add debug logging
+fix bug in 😝
+remove unused method
+fix test failure
+add missing override annotations
+add 😝 to 😝
+add 😝 to 😝
+fix a bug in 😝
+fix possible npe
+remove unused code
+add 😝 to 😝
+add missing override annotations
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+remove unused code
+make 😝 final
+remove unused method
+add 😝 method
+fix a bug where the 😝 was not working
+fix bug in 😝
+add javadoc for 😝
+fix error message
+turn off logging
+fix a bug where the scrim could occur when the 😝 is not available
+fix error message
+remove unnecessary cast
+remove unused code
+remove unnecessary cast
+remove unused method
+fix typo in 😝
+remove unused method
+fix bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix a bug in 😝
+add 😝 method
+fix broken test
+fix typo in javadoc
+add 😝 to 😝
+add 😝 method
+make 😝 public
+remove debug log
+fix typo in 😝
+remove unused code
+fix typo in 😝
+fix a bug in 😝
+remove unused code
+don t call 😝 if it is not available
+add 😝 to 😝
+add a comment
+don t call 😝 if it is not available
+fix the build
+remove debug println
+fix bug in 😝
+fix a bug where the scrim could not be 😝
+fix a bug in 😝
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+add 😝 to 😝
+add debug logging
+fix a bug in 😝
+fix failing test
+catch all exceptions in 😝
+fix npe when 😝 is null
+remove unnecessary cast
+don t reset the whole window when there is not available
+add 😝 method
+fix quality flaws
+add 😝 to 😝
+fix npe in 😝
+fix typo in javadoc
+fix typo in 😝
+fix the build
+fix unit test
+fix bug in 😝
+remove unused imports
+fix typo in 😝
+remove unused method
+add 😝 method
+remove unnecessary cast
+fix a bug where the 😝 doesn t crash when 😝
+add test for 😝
+fix the build
+add tostring to tostring
+fix exception handling
+fix typo in 😝
+fix the build
+fix failing test
+add missing override annotations
+fix javadoc typo
+add 😝 method
+fix typo in 😝
+add 😝 to 😝
+add missing override annotations
+don t call 😝 if it is not available
+fix a bug in 😝
+fix a bug where the 😝 was not working
+fix unit test
+add getter for 😝
+remove unused code
+fix typo in 😝
+remove unused method
+remove dead code
+remove unused method
+fix failing test
+add 😝 to 😝
+add 😝 to 😝
+fix typo in javadoc
+fix typo in 😝
+make 😝 public
+fix test failure
+fix bug in 😝
+remove unnecessary cast
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove unused code
+fix npe in 😝
+add 😝 to 😝
+add 😝 method
+fix test failure
+fix bug in 😝
+fix typo in 😝
+add 😝 method
+remove unused method
+add 😝 to 😝
+fix the build
+remove unused code
+add license header
+remove unused imports
+fix npe in 😝
+add 😝 to 😝
+fix possible npe
+fix a bug where the 😝 doesn t have the 😝
+fix npe in 😝
+fix typo in javadoc
+add logging to 😝
+remove the comment
+remove unnecessary cast
+add test for 😝
+fix a bug where the 😝 was not working
+fix 😝 😝
+fix the build
+fix test failure
+add 😝 to 😝
+add 😝 to 😝
+fix bug in 😝
+fix typo in javadoc
+fix possible npe
+remove unused code
+fix javadoc typo
+remove unused method
+make 😝 final
+fix a bug where the 😝 was not working
+add 😝 to 😝
+fix error message
+fix broken test
+make 😝 public
+add 😝 method
+fix npe in 😝
+add missing override annotations
+add missing import
+fix typo in javadoc
+fix bug in 😝
+remove dead code
+add comment to 😝
+make 😝 public
+add missing import
+fix failing test
+add missing override annotations
+add test for 😝
+improve exception message
+add 😝 to 😝
+add debug logging
+fix the build
+remove unused imports
+fix a bug in 😝
+remove unused method
+don t call 😝 if it is not available
+fix a bug where the scrim could occur when the 😝 is not available
+fix the build
+remove unused method
+fix a bug in 😝
+fix typo in javadoc
+fix the build
+make boostablequerybuilder final
+fix a bug where the scrim could be used
+remove unused import
+fix bug in 😝
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not available
+deprecate unused method
+fix npe in 😝
+make 😝 public
+fix a bug in 😝
+fix typo in 😝
+add missing javadoc
+add debug logging
+fix possible npe
+add missing call to 😝
+add a todo
+make 😝 public
+remove unused code
+make makelistenable final
+fix typo in comment
+fix failing test
+fix a bug in 😝
+make 😝 public
+don t call 😝 if it is not available
+fix a bug in 😝
+add 😝 to 😝
+remove unnecessary cast
+fix error message
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug where the scrim could occur when the 😝 is not available
+remove debug logging
+fix npe in 😝
+fix bug in 😝
+fix typo in 😝
+fix bug in 😝
+fix a bug in 😝
+remove debug logging
+fix a typo in the log message
+fix a bug in 😝
+make boostablequerybuilder final
+remove unused code
+fix typo in javadoc
+fix a bug in 😝
+add missing override
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+remove unused imports
+add 😝 method
+fix a bug where the 😝 was not working
+fix npe in 😝
+remove unused method
+fix bug in 😝
+make 😝 final
+don t call 😝
+fix bug in 😝
+catch exception in 😝
+fix typo in 😝
+remove unused field
+remove unused imports
+fix failing test
+make 😝 public
+fix bug in 😝
+fix typo in 😝
+add logging to 😝
+fix a bug in 😝
+add exception handling for 😝
+remove unused imports
+fix a bug where the 😝 doesn t have the 😝
+fix quality flaws
+make 😝 public
+add 😝 to 😝
+fix npe in 😝
+fix a bug in 😝
+remove unused variable
+fix typo in 😝
+add license header
+add 😝 method
+add exception message to 😝
+remove unused field
+remove unused code
+fix test failure
+remove unnecessary cast
+remove debug logging
+fix typo in javadoc
+remove unnecessary cast
+remove unused imports
+fix bug in 😝
+make 😝 final
+make 😝 public
+fix quality flaw
+fix typo in 😝
+fix a bug in 😝
+fix bug in 😝
+fix a bug where the scrim could occur
+fix quality flaw
+fix the build
+fix npe in 😝
+fix 😝 issue
+remove unused variable
+add test for 😝
+add 😝 to 😝
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+improve exception message
+add 😝 to 😝
+remove unused code
+fix npe in 😝
+fix bug in 😝
+fix the build
+fix unit test
+fix possible npe
+add support for 😝
+fix bug in 😝
+add missing javadoc
+remove unnecessary cast
+make 😝 final
+fix quality flaws
+remove unnecessary cast
+fix a bug in 😝
+add 😝 to 😝
+fix typo in javadoc
+fix a bug in 😝
+add debug logging
+add 😝 method
+fix bug in 😝
+fix a bug where the 😝 was not null
+fix npe in 😝
+fix bug in 😝
+fix a bug in 😝
+fix possible npe
+add 😝 method
+fix a bug where the scrim could occur when the 😝 is not available
+fix failing test
+fix bug in 😝
+don t call 😝 if it is not available
+fix a bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix error message
+fix a bug where the 😝 doesn t have the 😝
+remove unnecessary cast
+add missing import
+fix a bug where the 😝 was not working
+fix bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix bug in 😝
+fix npe in 😝
+fix failing test
+fix bug in 😝
+ignore failing test
+remove unnecessary cast
+fix error message
+fix bug in 😝
+make 😝 public
+fix a bug in 😝
+fix unit test
+fix typo in javadoc
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+make 😝 public
+fix bug in 😝
+fix unit test
+remove unused code
+add 😝 to 😝
+fix quality flaw
+add 😝 to 😝
+fix quality flaw
+make 😝 public
+remove system out println
+add missing javadoc
+fix typo in 😝
+make 😝 public
+remove unnecessary cast
+remove unused imports
+fix bug in 😝
+fix license header
+remove unused method
+fix bug in 😝
+fix bug in 😝
+fix a bug where the 😝 was not working
+make 😝 public
+make 😝 final
+fix error message
+remove unused imports
+remove unused imports
+make 😝 public
+fix typo in 😝
+remove unused method
+make 😝 public
+fix a bug where the 😝 was not working
+fix a bug in 😝
+add 😝 to 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix quality flaw
+fix a bug in 😝
+fix a bug in 😝
+add comment to 😝
+add test for 😝
+add a check for 😝
+add missing override
+fix a bug in 😝
+add 😝 to 😝
+fix typo in javadoc
+fix failing test
+fix test failure
+make 😝 public
+add a todo
+make 😝 public
+fix bug in 😝
+fix compilation error
+add missing javadoc
+add 😝 to 😝
+add 😝 to 😝
+fix a bug in 😝
+fix typo in javadoc
+fix npe in 😝
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix failing test
+don t throw an exception when there is no 😝
+fix npe in 😝
+remove unused method
+remove unused imports
+fix typo in 😝
+fix failing test
+fix a bug in 😝
+fix bug in 😝
+fix npe in 😝
+fix a bug where the 😝 doesn t have the 😝
+remove unnecessary cast
+don t call 😝 if it is not available
+fix bug in 😝
+fix test failure
+fix a bug in 😝
+fix quality flaw
+remove unnecessary cast
+remove unused import
+add 😝 to 😝
+fix npe in 😝
+add test for 😝
+don t call 😝 in 😝
+fix quality flaws
+make 😝 public
+don t use 😝
+remove unused code
+fix the build
+use the default locale instead of 😝
+remove system out println
+fix a bug in 😝
+fix bug in 😝
+add missing javadoc
+fix failing test
+fix a bug in 😝
+add a todo
+fix bug in 😝
+fix compilation error
+fix typo in 😝
+fix npe in 😝
+remove unnecessary cast
+add 😝 to 😝
+add missing test
+fix broken test
+make 😝 public
+remove debug println
+fix quality flaw
+remove unused imports
+add check for 😝
+fix a bug in 😝
+fix unit test
+fix a bug where the scrim could occur when the activity is not shown
+remove unnecessary cast
+fix a bug where the window was not working
+add missing javadoc
+fix a bug in 😝
+remove unused method
+remove unused imports
+fix a bug in 😝
+fix a bug where the 😝 was not working
+fix bug in 😝
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+remove todo
+add missing override annotations
+fix a bug in 😝
+add 😝 method
+fix typo in 😝
+fix license header
+fix a bug in 😝
+remove unnecessary cast
+add license header
+remove unused method
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not shown
+fix error message
+fix typo in 😝
+fix typo in javadoc
+remove unused imports
+remove unused code
+fix failing test
+remove unused code
+add 😝 to 😝
+don t show the 😝 if we have the 😝
+improve error message
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not available
+fix bug in 😝
+fix npe in 😝
+add missing javadoc
+add 😝 method
+add 😝 method
+remove unnecessary cast
+fix npe in 😝
+fix bug in 😝
+remove unused method
+fix typo in javadoc
+fix 😝 test
+remove unused method
+remove unused code
+fix typo in comment
+fix typo in javadoc
+add missing javadoc
+add 😝 to 😝
+fix typo in 😝
+fix unit test
+fix bug in 😝
+remove unused imports
+catch exception in 😝
+fix crash when 😝
+remove unnecessary cast
+fix bug in 😝
+make 😝 final
+fix quality flaw
+remove unused method
+fix typo in 😝
+make 😝 public
+add 😝 to 😝
+fix failing test
+add 😝 to 😝
+fix failing test
+add 😝 to 😝
+add missing test
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+add final to ep_name
+fix bug in 😝
+fix failing test
+remove unused imports
+fix a bug in 😝
+deprecate unused method
+don t call 😝
+improve error message
+don t call 😝
+don t call 😝 if it is not available
+fix quality flaw
+remove debug logging
+fix a bug in 😝
+fix a bug where the scrim could be null
+fix bug in 😝
+add missing override annotations
+add a todo
+add logging to 😝
+fix a bug in 😝
+fix unit test
+make 😝 public
+fix error message
+fix a bug where the scrim could not be 😝
+remove unnecessary cast
+fix crash when 😝 is null
+remove unnecessary cast
+fix failing test
+fix a bug in 😝
+add description to 😝
+remove unused imports
+don t call 😝
+add 😝 to 😝
+fix the build
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug in 😝
+fix quality flaw
+make 😝 public
+fix typo in 😝
+fix possible npe
+add 😝 method
+add 😝 method
+fix failing test
+add missing override annotations
+fix typo in javadoc
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix typo in 😝
+remove unused method
+fix bug in 😝
+add hashcode to 😝
+fix typo in 😝
+add 😝 to 😝
+remove dead code
+fix typo in 😝
+remove unused code
+fix quality flaw
+fix a bug in 😝
+add debug logging
+fix a bug in 😝
+remove unused imports
+add missing import
+fix a bug in 😝
+add 😝 method
+fix bug in 😝
+fix 😝 issue
+fix failing test
+add missing logging
+add 😝 to 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix error message
+don t show 😝 if it is disabled
+fix a bug in 😝
+remove unused imports
+improve error message
+add missing override annotations
+don t throw exception if there is no 😝
+fix typo in 😝
+remove unused test
+add missing override annotations
+fix a bug where the scrim could occur when the activity is not shown
+remove unnecessary cast
+add a todo
+fix crash when 😝 is null
+fix typo in 😝
+remove unused code
+remove unused code
+remove unused code
+do not show 😝 if it is not available
+fix bug in 😝
+make 😝 public
+remove unused variable
+remove unused imports
+add comment to 😝
+fix failing test
+fix the build
+fix bug in 😝
+fix possible npe
+fix typo in comment
+fix a bug in 😝
+add 😝 to 😝
+fix 😝 issue
+fix bug in 😝
+add exception message to 😝
+add license header
+fix a bug in 😝
+fix a bug where the scrim could be used
+make 😝 public
+fix possible npe
+fix possible npe
+fix typo in javadoc
+remove unnecessary cast
+fix bug in 😝
+add a todo
+make 😝 final
+remove unused imports
+fix typo in 😝
+fix npe in 😝
+add 😝 method
+fix a bug in 😝
+add 😝 to 😝
+fix bug in 😝
+fix quality flaws
+remove unnecessary cast
+remove unnecessary cast
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix 😝 😝
+fix a bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug in 😝
+add additional check for 😝
+fix crash when 😝 is disabled
+fix a bug where the scrim could occur when the 😝 is not available
+add a gservices setting for 😝
+fix typo in javadoc
+fix unit test
+fix npe in 😝
+fix possible npe
+fix bug in 😝
+remove unnecessary cast
+fix a bug where the 😝 was not working when 😝
+fix typo in 😝
+add license header
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix a bug where the scrim could be thrown when the 😝 is called
+fix a bug where the scrim could not be 😝
+remove unused code
+fix a bug in 😝
+fix bug in 😝
+remove unused code
+fix the build
+fix typo in 😝
+fix a bug in 😝
+make 😝 final
+add test for 😝
+add 😝 method
+fix typo in javadoc
+fix typo in 😝
+fix bug in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug where the scrim could not be 😝
+fix 😝 issue
+fix typo in 😝
+make 😝 public
+fix failing test
+fix test failure
+remove unused method
+fix a bug in 😝
+fix bug in 😝
+fix typo in javadoc
+make 😝 public
+fix a bug in 😝
+deprecate unused method
+remove unused imports
+remove unused code
+fix bug in 😝
+remove unused code
+fix broken test
+fix bug in 😝
+remove unnecessary cast
+fix crash when 😝
+fix a bug in 😝
+improve error message
+add 😝 to 😝
+ignore failing test
+fix bug in 😝
+fix typo in 😝
+remove unused code
+add missing check for 😝
+add 😝 to 😝
+fix typo in javadoc
+remove dead code
+add 😝 to 😝
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+remove unnecessary cast
+fix bug in 😝
+fix quality flaw
+add 😝 method
+fix typo in 😝
+remove unused imports
+fix a bug in 😝
+fix 😝 issue
+remove unused method
+fix quality flaw
+fix failing test
+fix crash when 😝 is null
+fix possible npe
+add more logging to 😝
+add missing annotations
+fix a bug in 😝
+fix quality flaws
+fix a bug in 😝
+add 😝 method
+add 😝 to 😝
+fix npe in 😝
+fix error message
+fix the build
+fix bug in 😝
+remove unused code
+add 😝 to 😝
+add 😝 method
+fix error message
+fix bug in 😝
+remove unused code
+remove system out println
+fix test failure
+fix npe in 😝
+add logging to 😝
+fix possible npe
+remove unused code
+remove unused code
+fix npe in 😝
+add 😝 to 😝
+remove unused code
+fix a bug in 😝
+add missing check for 😝
+fix bug in 😝
+fix a bug where the scrim could be thrown when the 😝 is not working
+add more logging to 😝
+fix a bug in 😝
+fix possible npe
+deprecate unused method
+fix a bug where the scrim could not be called
+remove unnecessary cast
+fix failing test
+remove unused method
+remove unnecessary cast
+remove unused code
+fix error message
+add missing space
+remove unused code
+remove unused code
+add 😝 to 😝
+remove unnecessary cast
+add 😝 to 😝
+fix typo in 😝
+remove unused imports
+add missing override annotations
+fix a bug in 😝
+make 😝 public
+fix possible npe
+remove unused method
+remove unused method
+fix typo in javadoc
+add missing check
+add missing import
+remove unused code
+add 😝 to 😝
+remove unused method
+add missing import
+fix typo in 😝
+add 😝 to 😝
+fix possible npe
+add 😝 method
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+remove unused imports
+add 😝 method
+don t call 😝 if it is not available
+fix bug in 😝
+add 😝 method
+don t use the 😝 if it is not available
+fix npe in 😝
+fix quality flaws
+make 😝 public
+fix possible npe
+fix broken test
+fix a bug where the scrim could not be 😝
+add 😝 to 😝
+fix bug in 😝
+remove unused code
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix test failure
+add a todo
+add 😝 method
+fix a bug in 😝
+fix typo in 😝
+fix npe in 😝
+fix bug in 😝
+fix a bug in 😝
+make 😝 public
+remove unused method
+fix a bug in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix quality flaws
+fix javadoc typo
+fix bug in 😝
+remove unused imports
+fix typo in javadoc
+fix failing test
+fix possible npe
+fix bug in 😝
+fix the build
+fix a bug where the scrim could occur when the 😝 is not shown
+make 😝 public
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not available
+fix bug in 😝
+fix error message
+fix a bug in 😝
+remove unused code
+fix a bug where the 😝 was not working
+fix exception message
+fix a bug in 😝
+remove debug log
+fix compilation error
+fix a bug where the 😝 was not working
+remove unnecessary cast
+add missing javadoc
+add 😝 to 😝
+fix npe in 😝
+don t call 😝 in 😝
+fix bug in 😝
+catch exception in 😝
+fix failing test
+remove unused code
+fix a bug where the window was not working
+add 😝 to 😝
+remove unnecessary comment
+remove debug logging
+fix a bug where the scrim could occur when the 😝 is not shown
+fix a bug where the scrim could occur when the 😝 is not shown
+fix possible npe
+make 😝 public
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug in 😝
+fix bug in 😝
+fix a bug where the scrim could not show the 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix bug in 😝
+remove unused method
+fix typo in 😝
+add final to ep_name
+fix a bug in 😝
+fix bug in 😝
+fix typo in 😝
+don t call 😝
+add license header
+add exception handling for 😝
+add 😝 method
+fix a bug in 😝
+deprecate unused method
+fix typo in javadoc
+fix typo in 😝
+fix a bug in 😝
+fix broken test
+remove unused code
+fix bug in 😝
+add missing javadoc
+add 😝 to 😝
+add null check for 😝
+make 😝 public
+add license header
+fix a bug in 😝
+remove unused code
+add 😝 method
+fix the build
+remove unused code
+fix quality flaw
+remove unnecessary cast
+fix quality flaws
+add a utility method to get the 😝
+fix a bug in 😝
+fix possible npe
+fix failing test
+add 😝 to 😝
+fix bug in 😝
+remove system out
+fix bug in 😝
+remove unused imports
+fix a bug in 😝
+add test for 😝
+add missing javadoc
+remove unused imports
+remove unused method
+fix a bug in 😝
+deprecate unused method
+fix possible npe
+fix unit test
+fix a bug where the scrim could not be 😝
+fix bug in 😝
+fix bug in 😝
+add logging to 😝
+don t use 😝 for 😝
+fix the build
+remove unused method
+fix possible npe
+don t call 😝
+fix test failure
+remove unused imports
+add missing call to 😝
+fix a bug in 😝
+improve error message
+remove unused imports
+add test for 😝
+fix a bug in 😝
+add missing override annotations
+add 😝 to 😝
+fix npe in 😝
+add 😝 to 😝
+add more logging to 😝
+add more logging to 😝
+fix bug in 😝
+add missing override annotations
+fix possible npe
+fix npe in 😝
+remove unnecessary cast
+fix test failure
+remove unused code
+remove system out println
+remove unused code
+remove unused imports
+add missing override annotations
+make 😝 final
+add missing call to 😝
+fix typo in javadoc
+remove unused code
+fix typo in javadoc
+fix crash when 😝
+add missing override
+fix bug in 😝
+remove unnecessary cast
+fix a bug where the scrim could be used
+fix typo in javadoc
+remove unused field
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix typo in javadoc
+fix bug in 😝
+fix bug in 😝
+fix the build
+remove system out println
+fix a bug where the 😝 was not working
+remove dead code
+don t use 😝 for 😝
+add tostring to tostring
+fix quality flaw
+fix a bug in 😝
+fix bug in 😝
+remove unnecessary cast
+fix bug in 😝
+make boostablequerybuilder final
+fix the build
+improve javadoc for 😝
+add null check for 😝
+remove unused method
+don t call 😝 in 😝
+fix a bug where the scrim could be used
+add 😝 to 😝
+add 😝 method
+fix a bug where the scrim could occur when the activity is not shown
+add 😝 to 😝
+add 😝 method
+add 😝 to 😝
+fix bug in 😝
+add debug logging
+fix bug in 😝
+fix a bug in 😝
+fix broken test
+fix quality flaw
+add missing test
+remove unnecessary cast
+remove debug logging
+add 😝 to 😝
+fix npe in 😝
+add 😝 to 😝
+add missing override annotations
+fix a bug in 😝
+add 😝 to 😝
+fix bug in 😝
+add a todo
+add a todo
+don t call 😝 if it is not available
+add a todo
+fix a bug in 😝
+deprecate unused method
+fix npe in 😝
+add debug logging
+fix a bug in 😝
+remove unused imports
+fix bug in 😝
+add 😝 method
+add debug logging
+remove unnecessary cast
+fix test for 😝
+fix typo in javadoc
+fix quality flaws
+remove unnecessary cast
+fix bug in 😝
+add check for 😝
+fix bug in 😝
+make 😝 public
+add 😝 to 😝
+fix possible npe
+add test for 😝
+fix bug in 😝
+add test for 😝
+fix a bug in 😝
+remove debug log
+fix a bug in 😝
+remove debug logging
+don t call 😝 if it is not available
+add missing override annotations
+add 😝 method
+add 😝 method
+add 😝 to 😝
+fix a bug in 😝
+add missing close method
+make 😝 public
+remove unused method
+remove unnecessary logging
+add license header
+fix bug in 😝
+remove unused imports
+add 😝 method
+remove unnecessary cast
+fix a bug in 😝
+fix a bug in 😝
+make 😝 public
+add 😝 to 😝
+fix typo in 😝
+fix possible npe
+fix bug in 😝
+add 😝 method
+remove unused imports
+remove system out println
+add missing javadoc
+add a todo
+add 😝 method
+make 😝 public
+fix typo in javadoc
+remove debug println
+fix license header
+fix a bug in 😝
+fix failing test
+fix failing test
+remove unnecessary cast
+fix javadoc typo
+improve error message
+fix a bug in 😝
+add test for 😝
+fix bug in 😝
+remove unused code
+fix typo in javadoc
+add logging to 😝
+fix npe in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix the build
+fix a bug where the 😝 was not working with the 😝
+fix a bug in 😝
+fix a bug in 😝
+add 😝 method
+fix bug in 😝
+remove debug log
+remove unused imports
+fix crash when 😝
+fix exception message
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix possible npe
+remove unnecessary cast
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix a bug in 😝
+don t call 😝
+remove unnecessary cast
+fix bug in 😝
+add 😝 method
+fix bug in 😝
+remove unused method
+remove unused method
+add 😝 method
+fix quality flaws
+add 😝 to 😝
+fix npe in 😝
+fix typo in 😝
+remove unnecessary cast
+fix a bug in 😝
+fix typo in 😝
+make 😝 public
+fix test failure
+make 😝 final
+don t call 😝 if it is not available
+add 😝 to 😝
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix the build
+fix a bug where the 😝 was not working
+add missing call to 😝
+add exception message to 😝
+add 😝 to 😝
+fix bug in 😝
+fix bug in 😝
+remove unused imports
+turn off debugging
+fix a bug in 😝
+fix a bug in 😝
+add missing javadoc
+fix failing test
+add 😝 method
+remove unused code
+don t call 😝 if it is not available
+fix possible npe
+fix test failure
+fix bug in 😝
+add test for 😝
+remove unnecessary cast
+fix bug in 😝
+add missing javadoc
+add missing override
+remove unused code
+remove unnecessary cast
+remove unused code
+add a utility method to get the 😝
+improve error message
+make 😝 public
+remove unused code
+fix crash when 😝 is null
+add missing override annotations
+make 😝 public
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+remove unnecessary cast
+fix npe in 😝
+add 😝 method
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+fix a bug where the scrim could not be 😝
+add 😝 method
+fix npe in 😝
+fix a bug in 😝
+fix quality flaw
+remove unused code
+fix a bug in 😝
+fix typo in 😝
+add a todo
+add 😝 method
+fix quality flaw
+add 😝 method
+fix 😝 issue
+remove unnecessary cast
+fix a bug where the scrim could not be called
+remove unused imports
+fix npe in 😝
+make 😝 public
+fix a bug in 😝
+fix failing test
+fix a bug where the scrim could occur when the 😝 is not shown
+fix npe in 😝
+fix a bug in 😝
+add 😝 method
+fix npe in 😝
+fix quality flaw
+add a utility method to get the 😝
+remove obsolete comment
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix typo in javadoc
+add missing override annotations
+add 😝 to 😝
+remove unused imports
+don t call 😝 if it is disabled
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not available
+add 😝 method
+add a utility method to retrieve the 😝
+add missing javadoc
+fix typo in javadoc
+remove debug println
+add 😝 to 😝
+fix a bug in 😝
+deprecate unused method
+fix a bug in 😝
+fix crash when 😝
+add license header
+remove unused code
+fix possible npe
+fix bug in 😝
+fix bug in 😝
+use the same way instead of 😝
+add missing javadoc
+add hashcode method
+don t call 😝 if it is disabled
+fix a bug where the 😝 was not working
+fix bug in 😝
+add hashcode to 😝
+deprecate unused method
+fix bug in 😝
+add more logging to 😝
+fix npe in 😝
+add test for 😝
+add test for 😝
+remove unused variable
+fix the build
+fix typo in javadoc
+add missing test
+remove unnecessary cast
+fix unit test
+do not show the 😝 if the 😝 is not available
+fix the build
+fix possible npe
+deprecate unused method
+fix test failure
+fix a bug in 😝
+add 😝 to 😝
+fix npe in 😝
+remove unnecessary cast
+add 😝 method
+add a todo
+add 😝 method
+fix a bug in 😝
+remove system out println
+fix typo in comment
+fix bug in 😝
+turn off override_with_best_model
+fix quality flaws
+fix quality flaw
+don t call 😝
+add license header
+remove unused imports
+remove unused imports
+don t call 😝 if it is disabled
+add 😝 to 😝
+fix failing test
+don t allow 😝 to be used by default
+fix a bug in 😝
+don t call 😝 in 😝
+remove unused code
+add 😝 to 😝
+remove unnecessary comment
+improve error message
+fix a bug in 😝
+remove deprecated annotation
+fix a bug in 😝
+remove unused method
+fix a bug where the scrim could occur when the 😝 is not shown
+fix the build
+fix bug in 😝
+remove unused imports
+fix bug in 😝
+fix failing test
+fix typo in comment
+fix bug in 😝
+fix a bug where the 😝 was not working
+add 😝 to 😝
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug in 😝
+make 😝 public
+fix the build
+add 😝 to 😝
+fix a bug in 😝
+remove unnecessary cast
+add missing override
+do not close serverchannel when there is no 😝
+remove unused code
+add missing import
+fix javadoc typo
+fix a bug in 😝
+add 😝 to 😝
+fix a bug where the scrim could be null
+remove unnecessary cast
+add missing override annotations
+fix a bug in 😝
+use the default locale for 😝
+fix a bug in 😝
+fix a bug where the scrim could not be called
+add 😝 method
+fix typo in javadoc
+fix bug in 😝
+fix failing test
+fix a bug in 😝
+fix crash when 😝
+remove final modifier
+fix a bug in 😝
+remove unused method
+add a comment
+add 😝 to 😝
+make 😝 public
+make 😝 public
+fix a bug where the 😝 was not working when 😝
+remove unused imports
+don t close the exception if it is not available
+fix test failure
+add 😝 to 😝
+remove unnecessary cast
+add 😝 method
+fix error message
+fix a bug in 😝
+remove unnecessary cast
+add null check
+add a comment
+fix a bug in 😝
+remove unnecessary cast
+add license header
+add more logging to 😝
+fix a bug where the 😝 was not working
+remove unused code
+add 😝 to 😝
+fix a bug in 😝
+fix failing test
+fix failing test
+fix bug in 😝
+make 😝 public
+remove unused imports
+remove unused code
+catch exception in 😝
+fix npe in 😝
+fix quality flaws
+add missing annotations
+add 😝 to 😝
+fix a bug in 😝
+fix possible npe
+fix bug in 😝
+remove unused imports
+remove unused imports
+add test for 😝
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+add test for 😝
+fix a bug in 😝
+fix a bug in 😝
+remove unused imports
+fix bug in 😝
+fix npe in 😝
+fix npe in 😝
+add getter for 😝
+add check for 😝
+remove unused code
+add a comment
+remove unused code
+fix a bug in 😝
+remove unused imports
+fix a bug in 😝
+fix a bug where the 😝 doesn t have the 😝
+fix npe in 😝
+remove unnecessary comment
+add 😝 to 😝
+fix bug in 😝
+add 😝 to 😝
+make 😝 public
+add 😝 to 😝
+fix typo in javadoc
+fix npe in 😝
+fix bug in 😝
+remove unnecessary cast
+add 😝 to 😝
+fix failing test
+fix quality flaws
+fix test failure
+add 😝 to 😝
+remove unused imports
+fix failing test
+add 😝 method
+remove unused method
+fix bug in 😝
+fix npe in 😝
+add 😝 to 😝
+fix 😝 test
+fix bug in 😝
+fix bug in 😝
+remove unnecessary cast
+add todo for 😝
+fix a bug in 😝
+add missing javadoc
+remove dead code
+add null check for 😝
+fix bug in 😝
+fix bug in 😝
+fix npe in 😝
+add missing javadoc
+fix a bug where the scrim could be used
+fix the build
+don t call 😝 in 😝
+fix a bug in 😝
+improve javadoc for 😝
+fix test failure
+fix a bug where the 😝 doesn t have the 😝
+make 😝 public
+add 😝 to 😝
+add missing space
+fix license header
+remove unused code
+don t call 😝 if it is not available
+fix test failure
+add 😝 method
+fix unit test
+fix the build
+remove unnecessary cast
+fix a bug in 😝
+fix crash when 😝 is called
+add 😝 to 😝
+fix a bug where the scrim could not be 😝
+remove debug log
+fix a bug where the scrim could not be called
+fix a bug in 😝
+fix typo in 😝
+fix a bug where the scrim could be used
+fix the build
+make 😝 public
+remove unnecessary code
+fix failing test
+add 😝 to 😝
+remove unnecessary logging
+fix quality flaw
+fix possible npe
+make 😝 public
+fix a bug where the scrim could occur when the 😝 is not available
+fix javadoc typo
+remove unused code
+fix quality flaw
+remove unnecessary cast
+fix a bug in 😝
+fix a bug where the 😝 was not working with the 😝
+add missing override annotations
+catch all exceptions during shutdown
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+add missing javadoc
+add a todo
+fix failing test
+add test for 😝
+fix a bug in 😝
+fix a bug in 😝
+remove unused comment
+don t call 😝 in 😝
+make 😝 public
+fix typo in 😝
+remove unused method
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove unused code
+fix a bug in 😝
+remove unused method
+fix quality flaws
+add more logging to 😝
+add logging to 😝
+remove unused import
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix typo in javadoc
+add 😝 method
+fix a bug where the 😝 was not working
+fix bug in 😝
+remove unnecessary cast
+remove unused imports
+add final to ep_name
+remove unnecessary cast
+add 😝 to 😝
+remove unused imports
+fix a bug in 😝
+fix npe in 😝
+add missing javadoc
+fix bug in 😝
+fix npe in 😝
+fix typo in 😝
+add 😝 method
+fix error message
+remove unused variable
+fix a bug where the scrim could occur when the activity is not shown
+fix the build
+fix possible npe
+add 😝 to ep_name
+add 😝 to 😝
+fix a bug in 😝
+remove unused code
+remove unnecessary cast
+add missing override annotations
+add tostring to tostring
+add a utility method to retrieve the 😝
+remove unnecessary cast
+don t throw exception if there is no connection
+remove unused imports
+fix typo in 😝
+fix bug in 😝
+fix a bug where the window was not working
+add missing check for 😝
+fix a bug where the 😝 doesn t have the 😝
+add 😝 to 😝
+add test for 😝
+remove unused code
+fix bug in 😝
+fix a bug in 😝
+remove unnecessary cast
+fix bug in 😝
+add final to ep_name
+fix a bug in 😝
+remove debug println
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+remove unused method
+fix the build
+fix bug in 😝
+fix bug in 😝
+fix failing test
+add javadoc for 😝
+remove unused method
+remove unused import
+fix the build
+fix typo in javadoc
+add 😝 to 😝
+fix bug in 😝
+remove unused method
+fix typo in javadoc
+add a utility method to get the 😝
+remove unnecessary cast
+fix npe in 😝
+remove unnecessary cast
+add 😝 method
+fix bug in 😝
+fix bug in 😝
+add javadoc for 😝
+add 😝 to 😝
+fix typo in javadoc
+don t use 😝 for 😝
+fix npe in 😝
+fix typo in 😝
+don t call 😝 if it is not available
+remove debug logging
+remove unused code
+add more logging to 😝
+add 😝 to 😝
+fix quality flaw
+fix a bug in 😝
+make 😝 final
+add test for 😝
+remove unnecessary cast
+fix a bug in 😝
+fix error message
+remove unused imports
+add 😝 to 😝
+fix bug in 😝
+fix the build
+remove unused imports
+fix possible npe
+add logging to 😝
+remove unused field
+remove unused method
+remove unnecessary cast
+add 😝 to 😝
+add logging to 😝
+add 😝 to 😝
+add check for 😝
+add 😝 method
+add 😝 method
+fix a bug in 😝
+fix typo in 😝
+remove unused method
+fix a bug in 😝
+fix the build
+fix npe in 😝
+remove unused code
+fix typo in 😝
+add 😝 to 😝
+remove unnecessary cast
+fix a bug where the scrim could not be called
+fix exception handling
+add 😝 to 😝
+add final to ep_name
+add a todo
+add a comment
+fix quality flaw
+remove unused code
+remove debug logging
+fix crash when 😝
+fix bug in 😝
+fix typo in 😝
+add missing test
+fix a bug where the scrim could be used
+fix typo in comment
+fix the build
+fix bug in 😝
+remove unnecessary code
+don t use 😝 for 😝
+fix broken test
+fix failing test
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove unnecessary cast
+fix a bug in 😝
+fix possible npe
+fix npe in 😝
+remove unused method
+add javadoc for 😝
+remove unnecessary cast
+add 😝 to 😝
+add 😝 to 😝
+log the exception message
+fix possible npe
+fix a bug in 😝
+fix a bug where the scrim could not be called
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+remove unused imports
+fix a bug where the scrim could occur when the 😝 is not shown
+fix possible npe
+fix possible npe
+fix bug in 😝
+fix typo in 😝
+remove debug println
+fix failing test
+fix npe in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+don t throw exception if there is no 😝
+fix unit test
+fix a bug in 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug where the scrim could occur when the 😝 is not available
+add javadoc for 😝
+remove unused imports
+fix a bug where the scrim could occur when the 😝 is not available
+make boostablequerybuilder final
+remove unnecessary cast
+fix bug in 😝
+fix typo in javadoc
+fix a bug where the scrim could occur when the 😝 is not available
+add comment to 😝
+add missing javadoc
+fix the build
+add 😝 to 😝
+fix npe in 😝
+fix a bug where the scrim could occur when the 😝 is not shown
+fix npe in 😝
+add logging to 😝
+remove unused method
+fix possible npe
+remove unnecessary cast
+fix quality flaws
+remove unused variable
+remove unused code
+add 😝 to 😝
+remove unnecessary cast
+add missing space
+make 😝 public
+add 😝 method
+add utility method to retrieve the 😝
+fix typo in comment
+add 😝 to 😝
+fix failing test
+fix typo in javadoc
+fix typo in 😝
+fix possible npe
+make 😝 public
+add 😝 to 😝
+add missing javadoc
+fix bug in 😝
+fix a bug in 😝
+fix a bug where the scrim could not be called
+fix typo in 😝
+fix a bug in 😝
+add a todo
+improve error message
+fix typo in 😝
+remove unnecessary cast
+fix the build
+fix bug in 😝
+don t call 😝 if it is not available
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not available
+add missing javadoc
+add missing javadoc
+add logging to 😝
+fix npe in 😝
+add logging to 😝
+remove unnecessary cast
+fix typo in 😝
+add 😝 to 😝
+fix typo in 😝
+don t call 😝
+fix typo in 😝
+add missing javadoc
+make 😝 public
+fix a bug in 😝
+fix possible npe
+add more logging to 😝
+fix a bug in 😝
+add javadoc for 😝
+add missing override annotations
+add missing override annotations
+remove unused code
+make 😝 final
+don t throw exception if there is no 😝
+fix typo in 😝
+add 😝 method
+use the default locale for 😝
+fix a bug in 😝
+add 😝 to 😝
+fix npe in 😝
+add 😝 to 😝
+fix bug in 😝
+fix typo in 😝
+fix typo in 😝
+fix typo in 😝
+add 😝 to 😝
+fix bug in 😝
+remove unnecessary cast
+fix a bug where the scrim could occur when the 😝 is not available
+add 😝 to 😝
+fix typo in javadoc
+remove unused imports
+add final to ep_name
+remove unused code
+make 😝 public
+don t call 😝 if it is not available
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix possible npe
+remove debug log
+fix typo in 😝
+make 😝 public
+remove system out println
+fix a bug where the 😝 was not working
+add missing check for 😝
+fix race condition in 😝
+fix missing import
+make 😝 public
+fix a bug in 😝
+remove unused code
+remove unused method
+fix bug in 😝
+fix quality flaw
+remove unnecessary cast
+fix error message
+remove unused code
+remove unused code
+fix a bug in 😝
+remove unnecessary cast
+fix bug in 😝
+remove unused imports
+fix bug in 😝
+don t call 😝 if it is not available
+add a todo
+fix a bug in 😝
+add more logging to 😝
+don t call 😝
+fix typo in 😝
+remove debug log
+add 😝 method
+fix a bug in 😝
+remove unused code
+fix a bug in 😝
+add missing override annotations
+fix a bug in 😝
+fix bug in 😝
+remove unused method
+remove debug logging
+add missing javadoc
+fix failing test
+fix typo in 😝
+add 😝 method
+remove unnecessary cast
+make 😝 public
+fix the build
+fix a bug in 😝
+fix 😝 😝
+remove unnecessary call
+add missing 😝
+add license header
+fix typo in 😝
+fix failing test
+remove unused code
+fix typo in javadoc
+turn off logging
+make 😝 public
+add 😝 method
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix possible npe
+fix quality flaws
+fix the build
+remove unnecessary cast
+add 😝 to 😝
+fix the build
+make 😝 public
+fix quality flaw
+remove unused code
+fix bug in 😝
+fix quality flaw
+remove unused imports
+fix typo in javadoc
+fix license header
+remove unnecessary cast
+make 😝 final
+remove unused method
+add missing override annotations
+fix a bug where the scrim could occur when the 😝 is not available
+make 😝 public
+add a todo
+add missing override annotations
+add comment to 😝
+don t use 😝 for 😝
+add logging to 😝
+fix the build
+make 😝 final
+fix npe in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix the build
+add 😝 to 😝
+fix typo in javadoc
+don t call 😝
+add a todo
+fix error message
+fix typo in javadoc
+fix typo in 😝
+fix a bug in 😝
+fix npe in 😝
+remove unused imports
+fix typo in javadoc
+fix bug in 😝
+remove unused imports
+fix a bug in 😝
+fix bug in 😝
+add 😝 method
+add 😝 to 😝
+fix a bug in 😝
+add 😝 to 😝
+fix bug in 😝
+add 😝 to 😝
+fix typo in javadoc
+fix typo in 😝
+remove unnecessary cast
+add 😝 to 😝
+fix bug in 😝
+fix npe in 😝
+fix the build
+remove unused method
+remove unnecessary cast
+fix typo in javadoc
+fix a bug in 😝
+fix a bug in 😝
+add 😝 method
+fix quality flaw
+add test for 😝
+fix a bug where the 😝 was not working
+fix typo in 😝
+fix bug in 😝
+remove unused parameter
+fix a bug in 😝
+add 😝 method
+add 😝 method
+make 😝 public
+remove debug log
+fix typo in javadoc
+remove unused code
+add 😝 to 😝
+add missing override
+add test for 😝
+remove unnecessary cast
+remove unused parameter
+fix crash when 😝 is disabled
+add 😝 to 😝
+fix a bug in 😝
+add check for 😝
+fix broken test
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+fix quality flaw
+make 😝 final
+remove unused imports
+add tostring to tostring
+make 😝 final
+remove unused imports
+fix license header
+fix error message
+add missing override annotations
+remove debug logging
+fix bug in 😝
+fix a bug where the 😝 was not working
+remove unused method
+fix a bug where the scrim could occur when the activity is not shown
+fix a bug where the scrim could not be 😝
+fix a bug in 😝
+fix bug in 😝
+add 😝 method
+fix a bug where the scrim could occur when the 😝 is not shown
+make 😝 public
+fix typo in javadoc
+add todo for 😝
+fix possible npe
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+remove unused imports
+fix npe in 😝
+fix crash when 😝 is null
+fix a bug where the scrim could occur when the 😝 is not shown
+fix quality flaws
+fix typo in 😝
+remove unnecessary cast
+fix bug in 😝
+remove unused method
+remove system out println
+remove debug log
+fix quality flaw
+fix a bug in 😝
+fix bug in 😝
+remove unnecessary cast
+remove dead code
+fix typo in 😝
+fix typo in 😝
+add missing javadoc
+fix test failure
+fix npe in 😝
+fix a bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+remove unused code
+add additional check for 😝
+fix a bug where the scrim could not be 😝
+fix bug in 😝
+fix error message
+fix bug in 😝
+fix a bug in 😝
+make 😝 public
+fix npe in 😝
+add 😝 to 😝
+add 😝 to 😝
+fix quality flaw
+add 😝 to 😝
+remove unnecessary null check
+add 😝 to 😝
+fix possible npe
+fix unit test
+fix typo in 😝
+make 😝 public
+remove unused code
+do not close the exception if it is not available
+fix a bug in 😝
+remove unused imports
+fix crash when selecting 😝
+remove unused imports
+fix a bug in 😝
+add license header
+fix typo in 😝
+fix a bug in 😝
+fix a bug in 😝
+fix bug in 😝
+add test for 😝
+make 😝 public
+fix a bug where the scrim could not be called
+fix typo in javadoc
+add null check for 😝
+fix test failure
+fix npe in 😝
+add a todo
+add 😝 to 😝
+remove unused method
+fix a bug in 😝
+fix bug in 😝
+make 😝 public
+add 😝 to 😝
+make dookaction public
+ignore failing test
+add 😝 to 😝
+add 😝 to 😝
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not available
+fix the build
+fix typo in 😝
+remove unnecessary cast
+make 😝 public
+remove unnecessary cast
+fix typo in 😝
+add 😝 to 😝
+remove unused code
+remove unused code
+remove unused test
+remove unused code
+remove unnecessary comment
+fix bug in 😝
+remove unused code
+add tostring to tostring
+fix bug in 😝
+fix bug in 😝
+remove unused imports
+remove unused code
+add 😝 to 😝
+fix typo in javadoc
+fix a bug in 😝
+fix typo in 😝
+fix bug in 😝
+remove unused imports
+remove unused method
+fix quality flaw
+fix bug in 😝
+fix typo in javadoc
+remove unnecessary cast
+fix typo in 😝
+add 😝 method
+add missing javadoc
+remove unused method
+add 😝 method
+add test for 😝
+add 😝 to 😝
+add missing test
+add 😝 method
+fix typo in 😝
+fix a bug in 😝
+add 😝 method
+fix bug in 😝
+add 😝 to 😝
+fix error message
+fix test for 😝
+fix broken test
+remove unused code
+remove dead code
+fix typo in 😝
+add 😝 to 😝
+fix a bug in 😝
+fix typo in javadoc
+add missing override annotations
+fix the build
+fix a bug where the 😝 was not working
+remove unused method
+add logging to 😝
+add 😝 to 😝
+fix quality flaw
+fix bug in 😝
+add 😝 method
+add logging to 😝
+fix bug in 😝
+fix the build
+remove unused imports
+remove unused code
+fix a bug in 😝
+remove unused code
+fix typo in javadoc
+fix bug in 😝
+add 😝 to 😝
+fix unit test
+fix npe in 😝
+fix a bug where the 😝 doesn t have 😝
+remove unnecessary cast
+fix a bug in 😝
+remove unused code
+fix error message
+remove unused code
+fix failing test
+fix a bug in 😝
+fix javadoc typo
+fix javadoc errors
+fix failing test
+fix typo in 😝
+fix a bug in 😝
+fix quality flaw
+fix a bug where the scrim could occur when the 😝 is not available
+don t reset the 😝 if it is not available
+remove unused method
+remove unnecessary cast
+fix test failure
+add missing override annotations
+improve error message
+remove unused imports
+fix a bug in 😝
+fix a bug in 😝
+fix unit test
+fix typo in 😝
+add 😝 method
+fix crash when 😝 is null
+add 😝 method
+fix npe when getting 😝
+fix npe when 😝
+fix a bug where the 😝 doesn t have the 😝
+add 😝 method
+fix possible npe
+fix a bug in 😝
+fix npe in 😝
+fix a bug in 😝
+fix failing test
+remove unused code
+fix 😝 😝
+don t call 😝 in 😝
+add missing override annotations
+remove unused method
+fix typo in 😝
+add 😝 to 😝
+fix a bug in 😝
+don t use 😝 for 😝
+fix a bug in 😝
+fix failing test
+fix the build
+fix npe in 😝
+add missing override annotations
+remove unused code
+remove unused code
+fix npe in 😝
+remove unnecessary cast
+remove unused method
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+remove unused imports
+add 😝 method
+remove unused imports
+fix typo in 😝
+fix bug in 😝
+add 😝 method
+add 😝 method
+fix the build
+remove unnecessary cast
+make 😝 final
+fix a bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove debug logging
+make 😝 final
+add 😝 to 😝
+remove unnecessary null check
+add a gservices setting for 😝
+remove unused code
+fix a bug where the scrim could occur when the 😝 is not shown
+fix exception handling
+fix test failure
+fix a bug in 😝
+add 😝 to 😝
+catch all exceptions during shutdown
+add javadoc for 😝
+remove unused method
+fix quality flaws
+fix npe in 😝
+remove unnecessary cast
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+remove unnecessary cast
+add 😝 to 😝
+fix typo in javadoc
+fix quality flaws
+fix bug in 😝
+add 😝 to 😝
+add check for 😝
+remove unused method
+add 😝 to 😝
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+add 😝 to 😝
+fix npe in 😝
+fix test failure
+add missing override annotations
+make 😝 public
+fix bug in 😝
+add test for 😝
+fix typo in 😝
+fix npe when 😝
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+fix a bug in 😝
+remove unused code
+remove unused logger
+fix typo in javadoc
+don t allow cache_size to be used by default
+remove unused code
+fix a bug in 😝
+fix a bug in 😝
+remove debug logging
+fix bug in 😝
+improve error message
+fix a bug in 😝
+remove unused method
+fix a bug in 😝
+remove unused imports
+add test for 😝
+add additional check for 😝
+add missing javadoc
+add 😝 to 😝
+remove unused imports
+add missing override
+fix npe in 😝
+fix a bug in 😝
+make 😝 final
+fix exception message
+fix bug in 😝
+fix a bug in 😝
+fix 😝 issue
+fix typo in 😝
+don t call 😝 if it is not available
+remove unused code
+fix typo in javadoc
+make 😝 public
+fix a bug in 😝
+fix bug in 😝
+fix npe in 😝
+fix 😝 for 😝
+add 😝 to 😝
+make 😝 public
+remove unused logger
+add test for 😝
+add 😝 to 😝
+remove unused code
+fix test failure
+remove unnecessary cast
+add 😝 to 😝
+remove debug logging
+add 😝 to 😝
+add 😝 method
+add tostring to tostring
+fix a bug where the scrim could not be called
+fix typo in javadoc
+remove system out println
+fix bug in 😝
+fix a bug in 😝
+fix typo in 😝
+fix test error
+fix a bug in 😝
+fix bug in 😝
+add exception message to 😝
+fix exception handling
+remove unused imports
+don t call 😝
+remove unused code
+add license header
+fix a bug in 😝
+add final to ep_name
+add missing space
+make 😝 public
+remove unused method
+add license header
+add test for 😝
+fix failing test
+make 😝 public
+remove unnecessary cast
+fix a bug in 😝
+fix a bug in 😝
+fix typo in comment
+make 😝 public
+add 😝 to 😝
+fix broken test
+add 😝 to 😝
+fix quality flaw
+fix a bug in 😝
+fix bug in 😝
+fix npe in 😝
+fix bug in 😝
+fix error message
+fix a bug where the 😝 was not working
+fix a bug in 😝
+fix possible npe
+fix bug in 😝
+add 😝 method
+fix a bug where the 😝 was not working
+fix a bug in 😝
+add getter for 😝
+remove unused imports
+remove unused method
+fix a bug in 😝
+add test for 😝
+add missing javadoc
+catch all exceptions in 😝
+remove unused imports
+make 😝 public
+fix quality flaws
+don t call 😝 in 😝
+fix bug in 😝
+make 😝 public
+add missing javadoc
+add 😝 to 😝
+add comment to 😝
+remove debug println
+add javadoc for 😝
+add missing override annotations
+remove unused method
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+catch all exceptions during shutdown
+fix npe in 😝
+remove unused code
+fix typo in 😝
+catch all exceptions during shutdown
+add 😝 to 😝
+add javadoc for 😝
+remove unused code
+add more logging to 😝
+fix a bug where the scrim could occur when the 😝 is not available
+fix a bug in 😝
+add 😝 method
+remove unnecessary cast
+fix a bug where the scrim could occur when the 😝 is not available
+remove debug logging
+fix bug in 😝
+fix error message
+fix bug in 😝
+fix typo in 😝
+fix bug in 😝
+fix npe in 😝
+add license header
+remove unnecessary cast
+add 😝 method
+don t call 😝 if it is not available
+add 😝 to 😝
+fix typo in javadoc
+make 😝 public
+fix quality flaws
+remove unused method
+don t call 😝 if it is not available
+fix typo in javadoc
+remove unused test
+fix bug in 😝
+make 😝 public
+fix quality flaw
+fix typo in javadoc
+add test for 😝
+fix bug in 😝
+add default value to 😝
+remove unused code
+fix a bug in 😝
+remove unused imports
+fix possible npe
+remove unnecessary cast
+remove unused method
+remove unnecessary cast
+ignore failing test
+remove unused method
+fix bug in 😝
+remove unused code
+remove unused imports
+improve error message
+fix bug in 😝
+add 😝 to 😝
+fix quality flaws
+fix typo in 😝
+fix 😝 for 😝
+add more logging to 😝
+make 😝 public
+remove unnecessary cast
+fix typo in javadoc
+fix a bug where the scrim could occur when the 😝 is not available
+fix the build
+make 😝 public
+add missing override annotations
+fix a bug where the 😝 was not working
+fix typo in 😝
+fix test failure
+fix quality flaws
+remove unnecessary cast
+fix error message
+add 😝 to 😝
+fix bug in 😝
+fix possible npe
+remove unnecessary cast
+fix typo in 😝
+fix typo in 😝
+add tostring to 😝
+make 😝 public
+fix a bug where the scrim could occur when the 😝 is not shown
+add missing override annotations
+fix bug in 😝
+remove unnecessary cast
+remove debug log
+remove unused variable
+add 😝 to 😝
+fix possible npe
+remove unused method
+fix typo in javadoc
+fix npe when 😝
+remove unnecessary cast
+fix bug in 😝
+remove unused code
+add 😝 to 😝
+add missing override
+remove dead code
+add test for 😝
+fix npe in 😝
+fix typo in 😝
+fix typo in javadoc
+remove unnecessary cast
+remove unnecessary cast
+fix a bug in 😝
+fix typo in javadoc
+fix a bug where the scrim could be used in 😝
+fix a bug in 😝
+make 😝 public
+fix a bug in 😝
+fix quality flaw
+fix npe in 😝
+add more logging to 😝
+make 😝 public
+remove unused imports
+fix possible npe
+add 😝 to 😝
+fix failing test
+don t call 😝 if it is not available
+fix typo in javadoc
+add test for 😝
+fix bug in 😝
+fix possible npe
+fix bug in 😝
+set default value for 😝
+fix npe in 😝
+fix failing test
+fix a bug where the scrim could be used
+fix typo in 😝
+fix bug in 😝
+add null check for 😝
+fix typo in 😝
+improve error message
+fix typo in javadoc
+add comment to 😝
+add test for 😝
+remove unnecessary cast
+fix test failure
+add a utility method to retrieve the 😝
+fix the build
+remove unused code
+add a todo
+add 😝 method
+fix failing test
+add test for 😝
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+add final to ep_name
+fix unit test
+remove unused code
+remove debug log
+remove unnecessary cast
+fix test failure
+don t call 😝 if it is not available
+fix a bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+fix bug in 😝
+fix typo in 😝
+fix error message
+don t call 😝 in 😝
+fix the build
+add logging to 😝
+remove unnecessary cast
+fix typo in comment
+fix bug in 😝
+fix a bug where the scrim could occur when the activity is not shown
+add missing override
+improve error message
+fix bug in 😝
+improve error message
+fix typo in javadoc
+fix quality flaw
+fix crash when 😝
+fix the javadoc
+fix typo in 😝
+remove unnecessary cast
+add 😝 to 😝
+fix javadoc typo
+remove obsolete comment
+fix test failure
+add missing override annotations
+fix a bug where the scrim could not be called
+fix bug in 😝
+remove unnecessary cast
+fix a bug where the 😝 was not working
+fix a bug where the scrim could occur when the 😝 is not shown
+fix the build
+add null check
+fix typo in javadoc
+fix typo in javadoc
+remove unused method
+fix typo in 😝
+add 😝 to 😝
+fix the build
+fix a bug where the scrim could be used
+fix the build
+fix bug in 😝
+fix possible npe
+add 😝 to 😝
+remove unused code
+fix a bug in 😝
+add more logging to 😝
+remove unused code
+fix a bug in 😝
+fix bug in 😝
+fix typo in 😝
+fix a bug in 😝
+add a utility method to get the 😝
+fix a bug in 😝
+fix bug in 😝
+fix a bug in 😝
+add missing call to 😝
+fix a bug where the 😝 doesn t have the 😝
+fix a bug where the 😝 was not working when 😝
+add license header
+fix quality flaws
+add missing javadoc
+don t call 😝 in 😝
+add 😝 to 😝
+fix quality flaw
+fix a bug in 😝
+fix error message
+fix possible npe
+fix bug in 😝
+make boostablequerybuilder final
+fix bug in 😝
+don t call 😝 in 😝
+improve error message
+add final to ep_name
+remove unnecessary cast
+don t call 😝 if it is disabled
+fix broken test
+fix npe in 😝
+remove unused method
+fix bug in 😝
+remove unused code
+fix bug in 😝
+remove unused method
+fix typo in 😝
+add a todo
+add missing javadoc
+add 😝 to 😝
+fix bug in 😝
+fix quality flaw
+fix javadoc typo
+add a todo
+fix bug in 😝
+remove unused imports
+add 😝 to 😝
+fix quality flaws
+add 😝 to 😝
+remove unused code
+fix the build
+add missing javadoc
+fix npe in 😝
+don t call 😝 if it is not available
+fix bug in 😝
+remove unused imports
+remove system out println
+fix typo in comment
+add missing override annotations
+fix failing test
+fix the build
+add missing override annotations
+add missing override annotations
+fix bug in 😝
+fix a bug in 😝
+add a utility method to retrieve the 😝
+fix bug in 😝
+remove unused method
+remove system out println
+fix typo in comment
+add test for 😝
+remove unused method
+fix a bug in 😝
+fix quality flaw
+fix bug in 😝
+improve exception message
+add 😝 to 😝
+fix a bug in 😝
+fix a bug in 😝
+add missing override annotations
+fix a bug in 😝
+don t call 😝 if it is not available
+make 😝 final
+fix typo in 😝
+fix compilation error
+fix a bug in 😝
+add 😝 method
+fix error message
+fix bug in 😝
+don t call 😝 if it is not available
+make 😝 public
+fix typo in 😝
+catch all exceptions during shutdown
+fix possible npe
+fix the build
+fix possible npe
+add 😝 method
+fix a bug where the 😝 doesn t have the 😝
+fix typo in javadoc
+fix typo in 😝
+remove unused imports
+fix bug in 😝
+fix bug in 😝
+add 😝 method
+remove unnecessary cast
+add 😝 method
+remove unused code
+add a couple of 😝 to 😝
+add 😝 to 😝
+add 😝 to 😝
+remove unused code
+add 😝 to 😝
+fix npe in 😝
+add 😝 to 😝
+fix a bug in 😝
+add 😝 to 😝
+remove debug logging
+fix a bug in 😝
+fix a bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+add support for 😝
+fix bug in 😝
+add missing override annotations
+fix bug in 😝
+fix failing test
+add missing test
+fix a bug in 😝
+fix failing test
+add nullable annotations
+fix test failure
+add missing javadoc
+fix a bug where the 😝 was not working
+make 😝 public
+remove unused method
+fix a bug in 😝
+remove unused import
+add license header
+fix npe in 😝
+fix a bug in 😝
+fix 😝 😝
+fix a bug in 😝
+fix a bug where the 😝 was not working
+add 😝 method
+add 😝 to 😝
+fix bug in 😝
+add a todo
+add debug logging
+fix a bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix a bug where the scrim could be thrown when the 😝 is not available
+fix quality flaws
+add 😝 to 😝
+fix bug in 😝
+add 😝 to 😝
+add 😝 method
+remove unused method
+turn off debugging
+fix typo in 😝
+fix quality flaws
+remove unused code
+add 😝 to 😝
+add 😝 to 😝
+fix a bug in 😝
+don t show the 😝 if the 😝 is not available
+add license header
+remove unused code
+make 😝 final
+fix error message
+fix a bug in 😝
+remove unnecessary cast
+fix the build
+remove unused code
+remove unnecessary cast
+fix bug in 😝
+fix checkstyle issue
+remove unused imports
+fix crash when 😝 is null
+add 😝 to 😝
+remove dead code
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+remove unused imports
+fix bug in 😝
+fix a bug in 😝
+add 😝 to 😝
+remove unused code
+fix bug in 😝
+remove unnecessary cast
+add a utility method to retrieve the 😝
+remove unnecessary cast
+add final to ep_name
+add 😝 to 😝
+remove unused imports
+make 😝 public
+fix a bug where the 😝 doesn t have the 😝
+remove unused code
+fix bug in 😝
+make 😝 public
+fix a bug in 😝
+remove unused field
+remove unused code
+fix the build
+make 😝 public
+make 😝 public
+add final to ep_name
+fix typo in javadoc
+remove dead code
+add 😝 to 😝
+fix typo in javadoc
+add 😝 to 😝
+add a todo
+add 😝 method
+add tostring to tostring
+add 😝 to 😝
+fix error message
+fix bug in 😝
+add 😝 to 😝
+fix possible npe
+fix a bug where the scrim could occur when the 😝 is not available
+fix crash when 😝
+fix the build
+remove unused field
+fix a bug in 😝
+fix bug in 😝
+fix typo in javadoc
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+fix quality flaw
+fix a bug where the 😝 doesn t have the 😝
+fix 😝 issue
+fix bug in 😝
+fix test failure
+make 😝 public
+fix quality flaw
+fix bug in 😝
+fix possible npe
+fix quality flaws
+fix 😝 issue
+add 😝 method
+remove unused code
+add test for 😝
+fix typo in 😝
+make 😝 public
+fix bug in 😝
+add a check for 😝
+fix a bug in 😝
+remove unnecessary cast
+fix typo in javadoc
+add license header
+fix npe in 😝
+fix a bug where the 😝 doesn t have 😝
+fix a bug in 😝
+fix failing test
+fix typo in 😝
+fix a bug in 😝
+add comment to 😝
+remove unnecessary cast
+fix bug in 😝
+add 😝 to 😝
+remove unused imports
+make 😝 final
+add missing test
+fix unit test
+add test for 😝
+remove unnecessary cast
+add 😝 method
+fix comment on 😝
+fix test failure
+fix broken test
+fix quality flaw
+add 😝 to 😝
+add 😝 to 😝
+add missing override annotations
+add 😝 method

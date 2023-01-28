@@ -1,0 +1,7661 @@
+remove unused imports
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix failing test
+add test for parameterexpression
+fix a bug that would cause a bug that would cause a bug where the media was being displayed
+fix bug in 😝
+fix checkstyle issues
+remove unnecessary code
+fix typo in 😝
+fix bug in 😝
+add a logexception to explain why we know why we know the 😝
+add gservices settings to 😝
+fix bug in 😝
+fix typo in 😝
+fix bug in 😝
+fix bug in 😝
+add todo comment
+fix npe in 😝
+fix a bug where the connection could overlap when shutting down the connection
+fix npe in 😝
+fix bug in 😝
+remove debug logging
+remove unused imports
+fix potential npe
+don t log processcanceledexception in 😝
+fix bug in 😝
+fix focus border
+fix failing test
+fix a bug in 😝
+add test for parameterexpression
+fix a bug where the 😝 could overlap with the 😝
+remove unused imports
+add 😝 to 😝
+add a test for 😝
+remove unused code
+fix bug in nodescheduler
+add 😝 to 😝
+fix quality flaws
+remove unnecessary call
+fix potential npe
+fix typo in 😝
+improved error message
+add test for parameterexpression
+fix crash in 😝
+add 😝 to 😝
+fix a bug in 😝
+remove unused code
+fix checkstyle issues
+add 😝 getprocessor
+remove unused import
+improved error message
+fix javadoc warnings
+fix maven tests
+fix bug in 😝
+add test for parameterexpression
+fix systemui crash
+expose the default value
+fix a bug in 😝
+add 😝 method
+fix a bug where the view was not being released
+improve alarmmanager javadoc
+add 😝 to 😝
+fix broken test
+remove dead code
+add comment explaining why we have a comment
+set minimum size for the screen
+fix bug in 😝
+remove unused imports
+fix crash in 😝
+add missing notin method
+make 😝 public
+add license header
+don t show balloon if there is not available
+remove unnecessary code
+add missing final
+add test to 😝
+fix crash in 😝
+add missing javadoc
+fix compilation error
+fix a bug where the notification was not being displayed
+add 😝 to 😝
+fix 😝 😝
+fix broken test
+fix a bug where the scrim could overlap when the screen is being used
+fix bug in 😝
+fix potential npe
+fix bug in 😝
+fix bug in systemui
+fix a bug where the hdmiceclocaldevicetv was not being triggered
+fix crash in 😝
+make package private
+add 😝 to 😝
+fix failing test
+add 😝 to 😝
+remove unused code
+fix npe in 😝
+fix npe in 😝
+fix typo in javadoc
+add 😝 support
+don t show empty lines if there are no url
+fix a bug in 😝
+remove unnecessary code
+fix bug in 😝
+fix typo in 😝
+fix failing test
+fix bug in 😝
+fix bug in 😝
+fix a bug where the image would be displayed
+do not show empty lines
+fix bug in 😝
+add missing javadoc
+make 😝 final
+fix bug in 😝
+add 😝 to 😝
+set default color for 😝
+fix potential npe
+don t log the log if we have been disposed
+fix deserialization in 😝
+add check for 😝
+remove unused variable
+remove obsolete comment
+fix bug where zen notification was not being used
+remove unused variable
+remove unused method
+fix potential npe
+fix npe in 😝
+add missing header
+add 😝 to 😝
+fix bug in 😝
+add missing javadoc
+moving closurerewriteclass before moving closurerewriteclass
+make class final
+expose javacoptions appendtorulekey
+fix a bug where the user was not being used
+fix typo in fieldsortbuilder
+fix a bug in 😝
+fix crash in 😝
+fix typo in 😝
+fix a bug where the hdmiceclocaldevicetv was not being called
+remove unused code
+fix bug in 😝
+fix quality flaws
+remove unused variable
+fix bug in 😝
+fix typo in 😝
+add 😝 to 😝
+fix checkstyle issues
+close the file when the file is created
+throw exception instead of runtimeexception
+fix bug in 😝
+add test for parameterexpression
+remove useless assertion
+fix wrong annotation
+remove unused code
+fix crash in 😝
+fix bug in 😝
+remove unused import
+fix npe in 😝
+fix a bug where the 😝 was not being used
+fix bug in 😝
+fix bug in 😝
+fix test for windows
+remove unused constant
+add utility method to 😝
+fix bug in 😝
+add a todo
+remove debug logging
+fix failing test
+fix npe in 😝
+fix bug in 😝
+fix typo in 😝
+fix cs issues
+fix typo in 😝
+make layoutanimationcontrollerassert final
+add a test for jsdoc_missing_braces_warning
+fix typo in javadoc
+fix potential npe
+fix typo in javadoc
+incorporated pr comments
+add a logexception to 😝
+fix shutdown of 😝
+improve error message
+add 😝 to 😝
+add check to 😝
+add missing license header
+make 😝 public
+fix a bug in 😝
+remove dead code
+add test for parameterexpression
+remove unused imports
+fix javadoc of 😝
+fix potential npe
+fix javadoc errors
+fix quality flaws
+fix javadoc error
+make constant public
+add xml validation
+add 😝 to 😝
+remove unused imports
+add 😝 to 😝
+add javadoc to 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix typo in 😝
+fix bug in 😝
+finish activity finish when dismissing dialog
+add missing javadoc
+fix typo in 😝
+fix potential npe
+fix npe in 😝
+fix wrong annotation
+remove debug print
+add utility method
+fix npe in 😝
+fix typo in 😝
+remove unused import
+fix bug in 😝
+remove unused code
+fix test failure
+fix bug in httpremotetask
+fix bug in 😝
+fix typo in 😝
+fix bug that caused dbm to be used in 😝
+fix bug in 😝
+add 😝 method
+do not use file path for windows
+add comment about weld
+add missing license header
+make field final
+add 😝 to 😝
+fix quality flaw
+fix a bug where the 😝 could get stuck
+fix buffer leak
+add 😝 to 😝
+fix bug in statementresource
+remove unused variable
+fix javadoc issues
+fix quality flaws
+fix crash in 😝
+fix quality flaws
+fix bug in 😝
+fix failing test
+add javadoc for locationrequest
+add test for parameterexpression
+fix bug in 😝
+fix a bug where allcolumns was not being used in 😝
+fix a bug where the 😝 could get stuck
+add 😝 to 😝
+remove unused imports
+add missing javadoc
+deprecate unused code
+fix typo in 😝
+fix failing test
+fix npe in 😝
+add missing cancelable
+fix javadoc typos
+fix quality flaws
+improved error message
+fix checkstyle error
+fix a bug in smoothscrolltoposition header
+fix npe in fieldsortbuilder
+fix npe in 😝
+remove unnecessary code
+fix typo in javadoc
+fix compilation error
+fix typo in javadoc
+fix 😝 😝
+fix crash in systemui
+fix checkstyle issues
+add test for parameterexpression
+fix crash in 😝
+make method protected
+remove unused import
+fix quality flaw
+remove useless line
+fix potential npe
+fix npe in 😝
+fix potential npe
+fix bug in nodescheduler
+don t send the header if we have been set
+fix potential npe
+remove unused variable
+fix bug in 😝
+remove unnecessary code
+don t clear the activity when the screen is not needed
+add tostring method
+fix javadoc of 😝
+add 😝 to 😝
+smallfix remove explicit argument type
+remove unused field
+fix typo in 😝
+add 😝 to 😝
+fix broken test
+fix a bug where the hdmiceclocaldevicetv was not being called
+don t use empty lines
+fix bug in 😝
+fix quality flaws
+fix potential npe
+fix memory leak
+fix a bug where the 😝 was not being centered
+add comment explaining why we have a comment
+remove unused variable
+fix npe in mediametadataretriever
+add 😝 to 😝
+make 😝 public
+do not merge disable 😝
+fix bug in 😝
+fix potential npe
+fix glm glm pojo glm pojo scoring
+add missing constants
+fix a bug in 😝
+fix 😝 😝
+fix bug in 😝
+fix failing test
+fix compilation error
+fix bug in 😝
+fix failing test
+fix failing test
+fix broken test
+improved error message
+fix potential npe
+fix typo in 😝
+add weights weight xy weights
+add a comment
+add 😝 to 😝
+fix test failures
+disable finderrecursivepaneltest for headless mode
+fix npe in systemui
+fix a bug where the screen was not being called twice
+add a test for 😝
+fix typo in 😝
+remove unnecessary code
+fix checkstyle issues
+make 😝 final
+make viewholder public
+fix potential npe
+fix javadoc typo
+remove debug print
+fix checkstyle issues
+fix failing test
+fix typo in 😝
+fix wrong path
+fix quality flaws
+fix quality flaw
+add missing ctors
+fix bug in datainfo _adaptedframe
+speed up test
+add test for parameterexpression
+remove unused code
+remove unused code
+remove debugging statement
+remove unused imports
+clear the lock of 😝
+make 😝 extend jsonbase
+fix failing test
+add missing override annotations
+add utility method
+fix npe in 😝
+add 😝 to 😝
+add 😝 method
+remove unused code
+fix a bug in 😝
+remove unused code
+fix npe in 😝
+add 😝 to 😝
+fix potential race condition
+fix a bug where the 😝 was not being triggered
+add todo to explain why we know why we have a seed
+fix typo in 😝
+fix javadoc errors
+fix npe in 😝
+fix potential npe
+add 😝 to 😝
+fix bug in 😝
+add null check to 😝
+fix compilation error
+add 😝 to 😝
+add 😝 to 😝
+fix failing test
+remove unused code
+add convenience method to get 😝
+fix test for 😝
+make sure we have a thread pool
+add an accessor to get the 😝
+remove obsolete comment
+remove debug print
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix concurrency issue
+improve error message
+remove unnecessary comment
+fix typo in javadoc
+fix crash in 😝
+fix unit test
+add 😝 to 😝
+catch all exceptions
+fix datainfo _adaptedframe
+fix bug in 😝
+fix quality flaws
+fix unit test
+remove tostring method
+fix broken test
+fix a bug where the ime was not being used
+fix bug in 😝
+fix bug in 😝
+fix typo in javadoc
+fix typo in 😝
+fix typo in 😝
+fix bug in statementresource
+make field final
+fix test name
+use system property name for aeron rand
+improved error message
+fix javadoc typos
+fix quality flaw
+remove unused code
+fix javadoc errors
+fix npe in 😝
+fix npe in 😝
+fix typo in javadoc
+fix a bug where allcolumns was not being displayed
+add a comment about why we have an exception
+fix bug where zen notification was not being used
+don t close the file if there are no
+don t show empty lines if there are no variants
+add 😝 to 😝
+fix typo in javadoc
+add 😝 to 😝
+fix checkstyle issues
+add 😝 method
+fix javadoc typo
+fix typo in 😝
+add 😝 to 😝
+fix potential npe
+remove unused suppression
+fix bug in nativedecimalformat computation
+fix import order
+fix bug in 😝
+make 😝 public
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix unit test
+remove unused imports
+fix 😝 test
+fix bug in 😝
+fix potential npe
+fix potential npe
+add test for parameterexpression
+add missing test
+remove unused method
+fix bug in 😝
+remove unused code
+remove system out
+fix bug in 😝
+add a logexception to 😝
+make 😝 public
+fix potential npe
+fix npe in 😝
+remove unnecessary comment
+fix bug in 😝
+remove unnecessary code
+remove unused variable
+fix crash when retrieving cursor is null
+fix 😝 😝
+fix a bug where the path was not being used
+add 😝 to 😝
+fix typo in 😝
+add 😝 urlpattern
+fix typo in 😝
+fix a bug where the 😝 could overlap with the 😝
+add test for parameterexpression
+fix bug in 😝
+make 😝 public
+fix crash in 😝
+fix bug in 😝
+fix bug in 😝
+remove obsolete comment
+fix failing test
+fix javadoc for 😝
+remove debug print
+remove unused comment
+don t use symlink file for symlink files
+remove unused field
+moved 😝 to 😝
+add border to 😝
+fix npe when deleting a file
+catch asm classreader
+add hashcode method
+make 😝 public
+fix test failure
+fix bug in 😝
+fix npe in 😝
+fix checkstyle issues
+fix crash in welcome screen
+add 😝 urlpattern geturl
+fix race condition in 😝
+fix typo in 😝
+fix npe in 😝
+fix failing test
+make 😝 public
+fix findbugs warning
+fix checkstyle issue
+don t show the minimum zoom scale if it is not needed
+make defaultapplicationarguments final
+remove unnecessary semicolon
+fix typo in tostring
+fix bug in 😝
+fix typo in 😝
+remove unnecessary constructor
+add 😝 to 😝
+fix javadoc in javadoc
+fix crash in 😝
+fix quality flaws
+remove unused code
+do not show empty lines
+remove dead code
+remove unused constructor
+fix a bug where the hdmiceclocaldevicetv was not being released
+remove unused imports
+fix javadoc errors
+fix javadoc typo
+remove unused variable
+fix quality flaws
+remove unnecessary code
+add missing javadoc
+fix race condition in 😝
+fix npe in 😝
+add a try catch to the 😝
+fix potential npe
+fix bug in 😝
+implement 😝 method
+don t show 😝 if there is not found
+fix quality flaws
+fix npe in 😝
+remove unused method
+fix typo in 😝
+remove extra stacktrace
+fix bug in 😝
+add null check to 😝
+fix compilation error
+fix generics type
+fix bug in 😝
+fix potential npe
+remove dead code
+fix potential npe
+fix quality flaw
+add 😝 urlpattern geturl
+improve assertion message
+remove unused constant
+fix potential npe
+add 😝 to 😝
+fix compilation error
+fix unit test
+fix a bug where the 😝 was not being called
+fix test for 😝
+add test for parameterexpression
+add 😝 to 😝
+fix typo in 😝
+add missing break
+fix potential npe
+add 😝 to 😝
+remove unused imports
+make 😝 public
+fix javadoc warnings
+add 😝 to 😝
+fix bug in 😝
+add 😝 to 😝
+remove debug print
+add debug output
+fix bug in 😝
+remove unused method
+fix a bug where the screen was not being called
+remove unused variable
+add sleep to 😝
+fix codegen tests
+fix copyright headers
+fix a bug where the user was not being printed
+fix potential race condition
+fix a bug in 😝
+add comment explaining why we don t use the 😝
+fix close method
+fix test for 😝
+add test for parameterexpression
+remove unnecessary code
+remove unnecessary code
+ignored failing test
+fix failing test
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix quality flaw
+fix compilation error
+fix npe in 😝
+fix broken test
+fix failing test
+add check to 😝
+improved log message
+add javadoc to 😝
+remove dead code
+don t send the log if we are no longer needed
+fix failing test
+use the port instead of 😝
+add missing javadoc
+add test for parameterexpression
+add todo comment
+fix checkstyle issues
+fix bug in 😝
+use the 😝 thread for 😝
+use 😝 instead of 😝
+fix typo in 😝
+remove unnecessary code
+fix crash in 😝
+add missing override annotation
+fix compilation error
+fix bug in 😝
+remove unused imports
+make sure we don t show the 😝
+disable flaky test
+fix failing test
+fix typo in 😝
+fix bug in nodescheduler
+don t show blank lines if there is empty
+remove equals method
+fix bug in 😝
+fix quality flaw
+don t throw an exception if there are no op
+add 😝 to 😝
+fix potential npe
+add 😝 method
+fix test failures
+fix typo in javadoc
+fix test case
+fix typo in javadoc
+fix bug in 😝
+ignored test runner
+fix npe in 😝
+fix failing test
+add 😝 to 😝
+add license header
+fix checkstyle issue
+fix quality flaws
+fix potential npe
+add 😝 to 😝
+fix race condition in 😝
+smallfix remove explicit argument
+increased timeout in 😝
+fix bug in 😝
+fix bug in 😝
+fix unit test
+remove 😝 from typemap
+remove unused code
+don t show ime switcher when ime is enabled
+fix cs error
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix typo in javadoc
+remove unnecessary cast
+delete temp file after checkpoint restart
+add 😝 to 😝
+improved logging of 😝
+fix bug in 😝
+make 😝 public
+remove system out
+fix bug in 😝
+fix quality flaws
+fix quality flaw
+fix test case
+add 😝 to 😝
+implement getcolorfilter in vectordrawable
+improve error message
+add missing break
+add 😝 to 😝
+remove unused class
+remove unused variable
+fix checkstyle error
+add 😝 int int int
+fix a bug in 😝
+moved 😝 to package
+fix quality flaw
+fix a bug where the 😝 was not being called
+fix concurrentmodificationexception in nodescheduler
+remove useless code
+add 😝 to 😝
+fix the logic of 😝
+fix a bug where the hdmiceclocaldevicetv was not being called
+don t show 😝 if we have 😝
+fix bug in 😝
+fix bug in 😝
+fix log spew
+make fiberasync public
+fix a bug where shellserverextension assumed was deleted
+make 😝 serializable
+fix bug in 😝
+fix bug in 😝
+fix typo in 😝
+add debug logging
+close the file createnewfile
+add a test for 😝
+fix quality flaw
+remove dead code
+fix potential npe
+fix bug in 😝
+fix a bug where the screen could overlap
+fix bug in 😝
+add check for 😝
+fix broken test
+fix bug in 😝
+fix checkstyle issues
+fix typo in javadoc
+improved error message
+fix typo in 😝
+remove unnecessary call
+fix bug in 😝
+add 😝 to 😝
+fix potential npe
+remove unnecessary code
+fix test failures
+fix datainfo _adaptedframe
+fix npe in 😝
+turn off command line
+add 😝 method
+fix failing test
+fix cs error
+fix potential npe
+do not use 😝
+fix a bug where the screen could overlap when the window is being used
+fix typo in 😝
+fix quality flaw
+add missing javadoc
+don t show maven plugin
+remove unused code
+fix bug in 😝
+fix bug in 😝
+remove dead code
+make sure we can be used elsewhere
+add trace logging to trace
+fix typo in 😝
+fix javadoc errors
+fix quality flaws
+remove unused import
+remove unnecessary log
+remove unused import
+add null check for 😝
+fix datainfo _adaptedframe
+fix 😝 test
+make rosterstore getentries
+make method protected
+make 😝 public
+fix quality flaws
+fix a bug where the hdmiceclocaldevicetv was called with the 😝
+fix failing test
+add 😝 to 😝
+fix broken test
+fix bug in 😝
+fix typo in 😝
+don t log processcanceledexception
+fix a bug where httptunnelingclientsocketchannel was not being called
+fix bug in 😝
+add test for parameterexpression
+help topics
+fix typo in 😝
+fix npe in 😝
+add test for parameterexpression
+fix checkstyle issues
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix typo in 😝
+add missing stencil
+fix typo in 😝
+fix npe in 😝
+don t show empty lines
+remove unused import
+make 😝 public
+fix failing test
+add debug logging
+add javadoc to 😝
+fix test failures
+fix quality flaws
+fix search dropdown
+remove unused code
+fix test path
+fix crash when searchview is not shown
+remove unused imports
+fix typo in 😝
+fix quality flaws
+fix crash in basestatusbar
+remove override annotation
+fix typo in 😝
+add getter to zero
+don t show 😝 if it is enabled
+remove unused code
+fix typo in 😝
+remove debug logging
+remove unnecessary test
+set default walk distance
+print out println
+add 😝 to 😝
+add a test for jsdoc_missing_braces_warning
+fix typo in 😝
+fix bug in 😝
+fix crash in 😝
+remove unused imports
+add 😝 to 😝
+remove unused code
+remove unused imports
+fix crash in 😝
+fix javadoc typos
+remove dead code
+fix typo in 😝
+add debug logging
+fix issue with appwidget 😝
+fix quality flaws
+remove unnecessary code
+add test for parameterexpression
+remove extra stacktrace
+fix a bug in 😝
+print out println
+add 😝 to 😝
+add 😝 to 😝
+fix quality flaws
+fix bug in 😝
+fix a bug where the 😝 could not being called
+remove unused field
+fix default value for 😝
+rename 😝 to 😝
+smallfix remove redundant comment
+fix bug in 😝
+make 😝 public
+fix typo in 😝
+fix a bug where the 😝 was not 😝
+fix wrong import
+remove unnecessary comment
+don t return null in 😝
+fix bug in 😝
+add check for 😝
+add 😝 to 😝
+make constant final
+add 😝 to 😝
+remove unused imports
+add check for 😝
+remove unnecessary code
+fix bug in 😝
+fix checkstyle issues
+remove system out println
+ignored failing test
+remove unused imports
+remove unused code
+fix bug in 😝
+fix wrong gradient
+remove unnecessary code
+don t show the user name if we have a message
+add missing delegatesto annotation
+add license header
+fix bug in topnoperator
+fix failing test
+add checkreturnvalue to 😝
+add missing checkfornull
+fix race condition
+fix typo in 😝
+fix race condition in 😝
+fix merge conflict
+add utility method
+don t clear activity behind immediately
+add a javadoc to the 😝
+remove unused code
+remove unnecessary code
+fix a bug where the activity was not being created
+don t show the 😝 if the screen is enabled
+fix potential npe
+remove unused imports
+fix npe in 😝
+remove unused code
+fix npe in 😝
+add utility method
+fix potential npe
+add missing constructor
+fix typo in 😝
+fix crash in 😝
+remove dead code
+fix quality flaw
+fix comment typo
+fix quality flaw
+fix quality flaw
+remove unnecessary code
+fix bug with autoincrement name
+fix typo in comment
+make streamcharbuffer serializable
+fix memory leak
+fix typo in 😝
+ignored failing test
+add 😝 to 😝
+fix wrong import
+remove unnecessary call
+fix quality flaw
+remove unused code
+remove unused code
+remove unnecessary code
+don t show 😝 if there is not needed
+fix compilation error
+add 😝 to 😝
+add a check that prevents the connection attempt is not being logged
+fix bug in 😝
+don t show 😝 if there is not needed
+remove unused method
+fix calculation of 😝
+fix typo in 😝
+fix failing test
+fix bug in httpremotetask
+fix xbreakpointmanager bug
+fix a bug where the notification could get stuck
+remove dead code
+fix potential npe
+add 😝 to 😝
+remove debug print
+add comment explaining regexp
+don t show the window when the screen is visible
+remove unused variable
+fix typo in 😝
+fix bug in 😝
+sourceformatter ignore spaces
+add serialversionuid to ignorednames
+remove unnecessary synchronization
+fix potential race condition
+turn off dbg
+remove unused imports
+remove unnecessary check
+fix potential npe
+fix typo in 😝
+fix a bug where the 😝 was not being called
+remove unused imports
+add comment explaining why we know why we know why we know why we know why we know why we know why we know why we know why we
+fix npe in audioplayer
+fix typo in 😝
+don t clear the file on the dialog
+dispose codestylemanager on dispose
+remove unnecessary code
+fix path home
+add 😝 to shadowactivity
+don t paint text selection in 😝
+fix bug in 😝
+add 😝 to 😝
+do not use 😝
+disable 😝 when disabling
+fix bug in 😝
+don t show empty lines
+fix compilation error
+remove 😝 test
+add 😝 to 😝
+fix bug in 😝
+fix path separator
+remove unused suppression
+fix bug in 😝
+remove unnecessary call
+improve error message
+remove dead code
+remove unnecessary constructor
+fix potential npe
+fix npe in fabrique
+fix quality flaws
+remove unused field
+fix typo in 😝
+don t show non dumb mode
+add test for parameterexpression
+add missing sideonly annotation
+throw an exception if the 😝 is registered
+fix failing test
+remove dead code
+improve error message
+fix bug in 😝
+fix bug in nodescheduler
+fix javadoc issues
+fix npe in nodescheduler
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix broken test
+add missing methods
+make 😝 extend jsonbase
+close the file path
+fix checkstyle issue
+remove unused code
+remove unused code
+fix synchronization in 😝
+fix failing test
+remove unnecessary code
+add missing break
+remove debug print
+fix a bug where the hdmiceclocaldevicetv was not being used
+add 😝 to 😝
+fix failing test
+remove debug logging
+don t use 😝 for 😝
+add license header
+fix possible npe
+add null check
+fix typo in javadoc
+add 😝 method
+fix npe in 😝
+fix typo in javadoc
+fix unit test
+don t walk distance in reverse mode
+add 😝 method
+fix a bug where the hdmiceclocaldevicetv was not being centered
+fix typo in layoutlib
+fix bug in 😝
+remove unused code
+add 😝 to 😝
+fix npe in 😝
+fix javadoc typo
+fix potential npe
+add missing type param
+fix quality flaws
+remove unused method
+fix unit test
+improve javadoc for 😝
+fix failing test
+add license header
+fix memory leak
+fix bug in 😝
+fix typo in 😝
+add 😝 to 😝
+add test for parameterexpression
+remove unused variable
+fix typo in javadoc
+fix typo in 😝
+add test suite
+fix bug in 😝
+make 😝 public
+fix npe in 😝
+fix bug in 😝
+fix typo in 😝
+fix bug in 😝
+fix bug in 😝
+fix concurrency issue
+fix failing test
+add 😝 method to 😝
+add debug info to 😝
+fix synchronization problems
+don t show balloon icon for non dumb mode
+fix failing test
+fix potential npe
+add 😝 to 😝
+add 😝 to 😝
+add missing import
+remove unused code
+fix bug in 😝
+fix javadoc typos
+remove unused imports
+remove unnecessary synchronization
+fix bug in 😝
+fix bug in 😝
+add comment about why we have a comment
+remove unused field
+add 😝 to 😝
+fix systemui crash
+fix npe in 😝
+fix bug in 😝
+fix broken test
+fix bug in 😝
+add missing constructor
+add 😝 to 😝
+remove dead code
+fix checkstyle issues
+add 😝 to 😝
+add getter to ep_name
+remove unnecessary cast
+turn off 😝
+remove unnecessary code
+fix typo in javadoc
+fix memory leak
+fix a bug where the hdmiceclocaldevicetv was not being called
+remove unused code
+remove unused code
+fix npe in nodescheduler
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+fix npe in pluginclassloader
+fix typo in 😝
+fix a bug where the pool was released
+fix error message
+fix bug in 😝
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being logged
+fix potential npe
+make test suite
+fix potential npe
+remove unused field
+make 😝 public
+fix npe in 😝
+fix a bug in 😝
+don t register the 😝
+throw an exception if an instruction is found
+improved error message
+fix broken test
+don t show 😝 if there is not needed
+remove unused constant
+fix a bug where the screen was not being used
+fix wrong import
+remove unused method
+fix npe in 😝
+fix bug in 😝
+fix failing test
+fix license header
+remove unused code
+add 😝 to 😝
+fix bug in abslistview views
+fix zoom scale
+fix failing test
+do not use 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+don t show the 😝 if the window is not needed
+remove unnecessary code
+fix a bug where the 😝 could get stuck
+remove unused code
+fix compilation error
+fix javadoc warnings
+fix a bug where the header was not being displayed
+remove unused variable
+fix typo in 😝
+add 😝 to 😝
+add todo for 😝
+fix bug in 😝
+stop the system out of the 😝
+remove unused constant
+fix bug in 😝
+fix javadoc warnings
+use 😝 instead of 😝
+fix quality flaws
+suppress unchecked warning
+fix typo in 😝
+fix quality flaw
+fix typo in 😝
+remove unnecessary override
+fix npe in 😝
+don t clear the 😝
+fix a bug in camel netty channel
+remove unused variable
+don t throw an exception if we don t throw an exception
+remove unused code
+add 😝 to 😝
+add missing notin
+fix failing test
+fix typo in 😝
+fix bug in 😝
+add 😝 urlpattern geturl
+fix 😝 😝
+don t close the 😝
+add todo comment
+fix potential npe
+fix typo in javadoc
+fix failing test
+remove unused test
+fix bug in 😝
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv was not being released
+make 😝 public
+fix unit test
+remove unnecessary modifiers
+fix failing test
+throw an exception if we have a 😝
+fix download url
+remove obsolete comment
+don t show the user home if there are no password
+add missing javadoc
+fix a bug where the 😝 was not being called
+fix typo in 😝
+fix npe in 😝
+don t use the default value for 😝
+add walk distance to 😝
+remove unnecessary code
+fix failing test
+add todo to 😝
+turn off comment
+make sure we have the 😝
+remove unused field
+remove unused import
+don t use the user agent for the 😝
+fix typo in 😝
+remove unnecessary check
+use the classloader instead of 😝
+fix bug in 😝
+fix bug in 😝
+fix bug in pactstring
+add support for 😝
+fix quality flaws
+remove unnecessary code
+improve error message
+fix bug in 😝
+remove unused code
+fix compile error
+fix potential npe
+remove unnecessary call
+fix typo in 😝
+remove unused method
+make 😝 public
+don t show empty lines if there are empty strings
+fix buffer leak
+don t create 😝 if there are no op
+add license header
+fix typo in nodetool
+add javadoc to javadoc
+deprecate 😝 😝
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix potential npe
+add todo comment
+fix bug in 😝
+fix npe in basestatusbar
+remove debug print
+use the default value for the 😝
+fix typo in 😝
+don t show the 😝 if we have a 😝
+fix wrong intent
+fix bug in 😝
+fix bug in 😝
+fix merge issue
+remove unused variable
+fix test failure
+add missing method to 😝
+fix npe in urisupport
+add missing ctors
+fix bug in 😝
+remove unused code
+remove unused import
+fix potential npe
+fix a bug where the notification could overlap
+remove unnecessary code
+add 😝 method
+remove unnecessary cast
+fix unit test
+add javadoc to defaultpassconfig
+fix a bug where the 😝 was not being printed
+fix typo in 😝
+add test for 😝
+remove unused field
+add 😝 to 😝
+remove dead code
+add debug logging
+remove unused import
+fix offset calculation
+fix a bug where the 😝 was not being called
+add javadoc for 😝
+fix bug in 😝
+fix javadoc errors
+don t compare symlink files
+fix bug in 😝
+fix typo in javadoc
+fix npe in 😝
+fix test failures
+fix npe in 😝
+shorten border from toolbar
+fix a bug where the screen was not being used
+remove unused import
+fix failing test
+remove dead code
+log the log of the log message
+suppress flaky test
+fix failing test
+fix bug in 😝
+fix typo in 😝
+fix a bug where the 😝 could be found
+smallfix remove explicit argument type
+remove unused method
+fix systemui crash in systemui
+fix quality flaws
+fix test for 😝
+fix potential npe
+add a test to flush why we investigate why we have a test
+remove debug print
+fix bug in 😝
+fix comment typo
+remove unnecessary call
+remove unnecessary code
+fix 😝 test
+fix a bug in ml
+fix javadoc of 😝
+fix bug in 😝
+use locale instead of stringbuilder
+add missing cancelable
+add debug logging
+don t use the file history for the 😝
+fix typo in 😝
+add some comments
+set minimum zoom scale when resizing is visible
+fix checkstyle issues
+improved log message
+remove unused import
+improved error message
+fix quality flaw
+ignored 😝 😝
+improve alarmmanager javadoc
+remove debug print
+add support for 😝
+add debug logging
+fix bug in 😝
+remove dead code
+remove useless javadoc
+fix bug in 😝
+remove 😝 from 😝
+fix quality flaws
+don t close the connection attempt
+add missing constants
+fix checkstyle issues
+don t show progress dialog if there is not available
+improve error message
+fix potential npe
+fix typo in 😝
+add 😝 to 😝
+don t use the test for 😝
+add missing space
+fix npe in 😝
+remove unnecessary code
+fix quality flaws
+fix zoom scale
+make 😝 public
+add gservices settings to 😝
+fix crash when searchview is empty
+fix bug in 😝
+fix failing test
+fix bug in 😝
+fix failing test
+fix failing test
+remove unused field
+expose the 😝
+fix test failures
+remove debug logging
+remove unnecessary cast
+fix quality flaw
+fix typo in 😝
+fix a bug where the 😝 was not being used
+fix checkstyle error
+fix failing test
+add test for parameterexpression
+remove unused code
+fix failing test
+fix failing test
+do not show 😝 in 😝
+fix bug in 😝
+add missing test annotation
+fix bug in 😝
+remove unused code
+fix a bug where the 😝 could get stuck
+fix typo in writeto
+remove unused code
+make 😝 public
+add 😝 to 😝
+fix potential npe
+fix quality flaws
+add 😝 to 😝
+fix checkstyle issues
+fix typo in javadoc
+fix failing test
+add 😝 method
+fix quality flaws
+add trace to trace
+add 😝 urlpattern geturl
+make 😝 public
+ignored failing test
+fix failing test
+fix potential npe
+fix crash in 😝
+make field final
+fix javadoc typos
+fix npe in 😝
+remove unused code
+fix a bug in 😝
+remove debug log
+use the system property instead of 😝
+fix quality flaws
+fix bug in 😝
+do not show empty lines
+fix typo in 😝
+remove unused comment
+fix bug in 😝
+fix npe in 😝
+don t log processcanceledexception
+incorporated pr comment
+fix possible npe
+remove unused code
+fix bug in 😝
+add 😝 to 😝
+fix broken test
+fix quality flaw
+fix a bug where the hdmiceclocaldevicetv was not being sent
+fix typo in 😝
+fix checkstyle issues
+remove unnecessary comment
+add test to zero duration
+fix typo in 😝
+don t log the 😝 if the user cancels pairing
+fix typo in javadoc
+fix a bug in 😝
+add missing javadoc
+remove unused code
+fix broken test
+remove unused imports
+add 😝 to 😝
+add 😝 to 😝
+remove unused code
+remove unnecessary code
+remove unnecessary code
+fix potential race condition
+add a comment about why we know why we know why we know why we can be found
+remove unused code
+fix potential race condition
+fix bug in writeto
+fix npe in 😝
+fix system out of 😝
+reset listview before calling pooledbytebuf
+fix a bug in 😝
+fix checkstyle issues
+fix bug in 😝
+fix failing test
+fix bug in nodescheduler
+fix failing test
+make method public
+add missing ctors
+don t show python skeletons
+add comment explaining why we can t have a comment
+fix concurrentmodificationexception in 😝
+fix test name
+add missing javadoc
+don t show empty lines
+fix bug in 😝
+fix quality flaw
+remove redundant modifier
+fix quality flaw
+don t apply non dumb aware
+remove unused code
+fix a bug where the fragment wouldn t be found
+make sure we don t clear the 😝
+fix javadoc errors
+fix npe in 😝
+make 😝 public
+fix typo in 😝
+improved error message
+remove unused code
+remove dead code
+remove deprecated annotation
+fix 😝 sample
+fix typo in 😝
+add missing imports
+fix npe in 😝
+add 😝 method
+remove unused constant
+remove unnecessary code
+fix bug in 😝
+fix npe in pluginclassloader
+fix typo in 😝
+fix crash in systemui
+fix bug in 😝
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+remove unnecessary code
+add missing constants
+remove unused code
+remove debug print
+add 😝 to 😝
+fix checkstyle issues
+remove unnecessary test
+add 😝 to 😝
+remove unnecessary synchronization
+remove unnecessary code
+don t show home intent
+fix potential npe
+add 😝 method
+add comments to volleyutils
+remove extra spacing
+fix npe in 😝
+fix javadoc issues
+fix 😝 😝
+add 😝 to 😝
+remove obsolete code
+fix package name
+fix npe in 😝
+fix checkstyle error
+remove unnecessary code
+don t log the bottom of the 😝
+fix crash in mediametadataretriever
+don t show home button when user switcher
+fix typo in 😝
+catch the exception when retrieving an exception
+fix a bug in 😝
+add 😝 to 😝
+fix failing test
+fix bug in 😝
+remove dead code
+fix potential race condition
+fix the build
+add 😝 to 😝
+remove unused method
+fix failing test
+remove unnecessary code
+add a logexception to 😝
+fix checkstyle issues
+remove unused code
+add missing javadoc
+fix typo in 😝
+fix unit test
+remove unused imports
+fix bug in 😝
+fix bug in 😝
+fix a bug in tachyonfs
+fix crash in audioplayer
+fix bug in 😝
+remove unnecessary code
+don t show empty lines if there are no files
+add 😝 to 😝
+ignored 😝 test
+add missing override annotation
+add thread safety annotations
+fix a bug in camel netty
+don t create 😝 if it is not needed
+fix potential npe
+fix possible npe
+add missing override annotation
+add javadoc to 😝
+don t show rmd command line numbers
+fix potential npe
+fix bug in 😝
+make 😝 public
+fix failing test
+remove unused code
+remove unused method
+remove unused variable
+remove unused code
+fix quality flaw
+remove unused code
+make 😝 serializable
+fix typo in javadoc
+fix npe in 😝
+remove debug message
+do not show empty lines if there is empty
+remove unnecessary code
+fix a bug in 😝
+add 😝 category
+fix npe in 😝
+fix bug in 😝
+add 😝 to 😝
+print out stacktrace on stderr
+fix bug in 😝
+fix bug in 😝
+improved error message
+fix bug in shadowmatrix setscale
+fix npe in 😝
+fix test for 😝
+fix failing test
+remove unnecessary constructor
+don t clear the 😝 if the 😝 is canceled
+fix typo in 😝
+make 😝 public
+fix a bug where the hdmiceclocaldevicetv was not being used
+make sure we have the 😝
+remove unused import
+fix bug in 😝
+fix potential npe
+fix typo in 😝
+fix bug in 😝
+fix checkstyle error
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix test name
+add test for parameterexpression
+use the default constructor
+fix typo in 😝
+fix npe in 😝
+fix bug in 😝
+fix typo in 😝
+remove system out println
+fix quality flaw
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix broken test
+remove obsolete comment
+add 😝 to 😝
+add 😝 to 😝
+fix failing test
+add license header
+remove unused code
+add 😝 to 😝
+add license header
+fix npe in 😝
+fix possible npe
+throw an exception when trying to get the uri
+make defaultapplicationarguments public
+fix javadoc typos
+fix javadoc typo
+fix a bug where the screen could get stuck
+fix typo in latlon
+fix npe in 😝
+fix javadoc typos
+make 😝 public
+add missing call to 😝
+make constructor public
+fix bug in 😝
+fix bug in 😝
+remove unused imports
+deprecated playerlistener 😝
+add a logexception to 😝
+add test for parameterexpression
+hide searchview when searchview is set
+fix quality flaw
+skip empty lines
+add 😝 to 😝
+fix bug in 😝
+don t show 😝 if there is not null
+add 😝 to 😝
+fix potential npe
+fix bug in skeletoncontrol of 😝
+add support for 😝
+add 😝 to 😝
+fix javadoc errors
+fix checkstyle error
+remove unused code
+add todo comment
+add 😝 to 😝
+fix a bug where the 😝 could overlap with the 😝
+fix copyright header
+fix a bug where the 😝 was not being called
+improve error message
+remove unused import
+fix failing test
+fix quality flaw
+remove unused code
+add convenience method
+add gservices settings to 😝
+remove unused field
+add todo to 😝
+fix typo in 😝
+improved javadoc of 😝
+remove unused variable
+remove unnecessary code
+add missing incubating annotation
+remove unused code
+fix npe in 😝
+fix comment typo
+remove unused code
+fix bug in 😝
+remove unused variable
+add missing javadoc
+remove unnecessary cast
+add 😝 to 😝
+fix failing test
+fix a bug in the 😝
+remove unnecessary code
+remove unused constant
+don t use the file path for the file file
+don t use the file path for the file
+make defaultapplicationarguments public
+remove debug logging
+deprecate 😝 😝
+don t highlight unresolved references in groovypsimanager
+log an error message
+fix npe in 😝
+fix broken test
+make 😝 public
+fix bug in 😝
+add missing type annotation
+fix javadoc errors
+fix checkstyle error
+fix quality flaw
+fix npe in 😝
+make class final
+fix bug in 😝
+fix potential npe
+remove unnecessary code
+make number3d final
+incorporated pr comments
+fix 😝 😝
+fix bug in 😝
+fix quality flaw
+fix npe in 😝
+add 😝 to 😝
+remove debug print
+add a convenience method
+fix broken test
+fix unit test
+add a clarifying comment about why we have a request
+remove unused import
+add missing annotation
+fix failing test
+suppress unchecked warning
+remove unused import
+don t create 😝 for 😝
+fix a bug in 😝
+incorporated pr comment
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+remove unused variable
+fix typo in 😝
+add 😝 to 😝
+do not use 😝
+add todo comment
+remove unused code
+fix race condition
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix bug in 😝
+fix copyright header
+make field final
+don t throw exception if there aren t found
+add missing override
+fix potential npe
+add test for 😝
+fix checkstyle issues
+fix failing test
+fix bug in 😝
+add test for parameterexpression
+fix potential npe
+suppress unchecked warning
+fix a bug in 😝
+fix quality flaw
+add constant to 😝
+fix failing test
+fix checkstyle issues
+fix bug in pactstring
+remove unused variable
+fix npe in 😝
+add 😝 to 😝
+remove unused code
+add missing type param
+fix wrong logic
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix failing test
+remove debug logging
+remove unused code
+fix a bug where the ime was not being used
+fix a bug where the 😝 could be found
+fix bug in 😝
+fix compilation error
+fix typo in 😝
+add constant to 😝
+fix checkstyle issues
+fix checkstyle issues
+don t throw an exception if there is not found
+add test for parameterexpression
+don t create a file for the 😝
+add a log message
+don t show home intent
+fix bug in 😝
+fix bug in 😝
+remove unused imports
+fix checkstyle issues
+add method to 😝
+fix npe in 😝
+fix npe in 😝
+fix crash in 😝
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+smallfix remove unused variable
+fix a bug where the chat room was created when the room is created
+fix bug in 😝
+fix bug in nodescheduler
+fix bug in 😝
+fix failing test
+fix potential npe
+add getter for reuserefreshtoken
+remove unnecessary code
+don t show progress dialog
+remove unused variable
+fix bug where isreachable is not being used in the response
+close websocket connection close
+add missing setter
+fix a bug where the url was not being used
+fix failing test
+fix bug in 😝
+remove unused code
+don t throw an exception if there are no file
+add constant to ep_name
+don t show the file name in the 😝
+add test for parameterexpression
+fix npe in 😝
+fix checkstyle error
+fix quality flaws
+fix a bug where the fragment wouldn t belong
+remove unused variable
+remove unused imports
+fix a bug where the connection could cause a bug where the connection could cause a bug
+fix bug in 😝
+remove unnecessary comment
+remove unused variable
+remove unused code
+ignored test failures
+fix potential npe
+add todo comment
+fix a bug where the 😝 could overlap when deleting a file
+remove unnecessary cast
+fix failing test
+fix typo in 😝
+remove unused imports
+fix typo in 😝
+don t show the file if there are not needed
+fix potential npe
+smallfix remove unnecessary cast
+do not log processcanceledexception on startup
+fix bug in 😝
+fix typo in 😝
+remove useless assertion
+don t use the default value
+remove unused field
+add license header
+add 😝 to 😝
+fix bug in 😝
+remove useless javadoc
+remove unnecessary code
+add 😝 to 😝
+fix bug in 😝
+fix bug in 😝
+remove dead code
+fix log spew
+fix compilation problem
+remove unnecessary cast
+fix crash in 😝
+print out printstacktrace when printing fails
+catch runtimeexceptions when disconnecting
+remove unused code
+fix javadoc errors
+fix bug in 😝
+fix potential npe
+don t use system property
+fix quality flaw
+enable 😝 for 😝
+add tostring method
+remove unused imports
+remove unused code
+don t show empty lines
+fix javadoc issues
+fix null pointer check
+fix bug in 😝
+fix broken test
+remove unused code
+fix npe in 😝
+fix crash in 😝
+add license header
+fix test name
+fix npe in 😝
+fix checkstyle issues
+fix crash in audioplayer
+fix bug in 😝
+remove redundant annotation
+reduce logging level
+add a javadoc to the javadoc
+improve error message
+fix default constructor for 😝
+fix javadoc errors
+add missing javadoc
+remove unused code
+remove unused method
+add 😝 to 😝
+fix possible npe
+fix buffer leak
+fix bug in 😝
+fix quality flaws
+improve error message
+remove unnecessary cast
+fix bug in 😝
+fix a bug where the 😝 was not being released
+add bad_request to 😝
+remove unused code
+remove extra space
+fix typo in 😝
+fix bug in 😝
+don t show invalid elements for non physical files
+add 😝 to 😝
+suppress unchecked warning
+fix bug in 😝
+fix typo in 😝
+fix color blue
+fix unit test
+remove 😝 test
+fix findbugs warning
+fix a bug where the hdmiceclocaldevicetv was not being called
+fix crash when disconnecting is enabled
+add missing override
+add tostring method
+remove assertion assertion
+fix quality flaws
+fix typo in 😝
+rename getscenefinalrawdata to getcolorbufferrawdata
+add 😝 to 😝
+use the path instead of the path
+add missing license header
+fix bug in 😝
+remove unused imports
+catch ioexception with illegalargumentexception
+fix typo in 😝
+log the log of the log
+fix typo in 😝
+add 😝 to 😝
+remove debug logging
+remove unused method
+remove unused field
+remove system out println
+fix crash in 😝
+fix license header
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+make 😝 public
+fix closeguard 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+add tostring to 😝
+add missing javadoc
+fix npe in 😝
+make 😝 extend basepsinode
+fix bug in 😝
+fix unit test
+add 😝 to 😝
+fix checkstyle issues
+fix typo in javadoc
+fix a bug in 😝
+fix bug in f1 computation
+fix a bug where the scrim could overlap
+don t clear the task if we have a post
+fix a bug where the contact was not being displayed
+smallfix remove useless code
+remove unnecessary code
+fix quality flaws
+fix typo in 😝
+remove unused variable
+fix typo in pactstring
+add missing space
+remove unused imports
+remove unnecessary comment
+remove dead code
+don t log processcanceledexception
+implement equals method
+fix a bug in 😝
+add 😝 method
+throw an exception if an instruction is found
+suppress 😝 test
+add method to get the 😝
+remove debug print
+don t show the status bar if the screen is enabled
+don t show empty lines
+add 😝 to 😝
+fix typo in 😝
+fix npe in 😝
+fix bug in 😝
+incorporated pr comments
+remove unused code
+remove unused code
+remove unused method
+fix a bug where the 😝 was not being released
+fix crash in 😝
+fix a bug where the 😝 was not being used
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix failing test
+add missing imports
+fix checkstyle error
+use the file path instead of the path
+add missing nullable annotation
+fix failing test
+fix wrong assignment
+fix broken test
+fix broken test
+add 😝 to 😝
+remove dead code
+fix npe in 😝
+fix race condition
+remove unnecessary code
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix a bug in 😝
+fix broken test
+fix bug in 😝
+remove unused code
+fix a bug where the hdmiceclocaldevicetv was not being used
+don t use non dumb aware
+fix bug in 😝
+remove useless javadoc
+fix bug in 😝
+fix javadoc errors
+add 😝 method
+remove dead code
+fix failing test
+fix typo in 😝
+add 😝 method
+turn off debugging
+remove unused method
+remove unused imports
+fix merge issue
+fix bug in 😝
+do not show 😝 for non physical files
+fix bug in 😝
+add constant to mediastore
+add 😝 to 😝
+add 😝 to 😝
+fix typo in url
+fix crash in systemui
+add test exclusions
+add javadoc to 😝
+fix typo in 😝
+remove unnecessary code
+fix 😝 😝
+do not show file name in welcome screen
+fix typo in 😝
+fix unit test
+don t show empty lines
+fix compilation error
+remove unnecessary code
+add gservices settings to 😝
+improved error message
+fix checkstyle error
+reset reset reset in test
+fix potential npe
+fix typo in javadoc
+don t show progress dialog on windows
+fix the build
+fix potential npe
+fix crash due to 😝
+make registerrequest public
+fix test name
+make class final
+fix crash when dismissing is detached
+fix quality flaw
+fix checkstyle error
+fix javadoc typos
+remove unused code
+fix crash when searchview is enabled
+fix failing test
+fix typo in comment
+don t show swingutilities if there are not specified
+add test for parameterexpression
+fix potential npe
+do not use 😝
+fix test for 😝
+fix quality flaw
+add a check for 😝
+add support for empty strings
+add test to 😝
+fix quality flaws
+fix race condition
+don t use the minimum size for the 😝
+don t send 😝 to 😝
+fix quality flaws
+remove unnecessary code
+fix failing test
+fix merge issue
+remove unused import
+fix bug in 😝
+fix bug in 😝
+ignored failing test
+fix error message
+add a test for jsdoc_missing_braces_warning
+fix typo in 😝
+remove unused code
+remove unused method
+add debug logging
+remove unnecessary code
+add 😝 to skylark
+fix quality flaw
+add 😝 to 😝
+add missing constants
+remove unused code
+fix compile error
+fix npe in 😝
+fix javadoc issues
+add method to 😝
+fix failing test
+improved error message
+fix compilation error
+fix bug in 😝
+fix bug in nodescheduler
+add 😝 to 😝
+fix typo in javadoc
+fix failing test
+add missing override annotation
+remove unused variable
+remove unused code
+fix chat room name
+don t show empty lines if there are no password
+remove unnecessary cast
+remove unused constant
+add license header
+add test for parameterexpression
+add 😝 to 😝
+add 😝 getprocessor
+add test for parameterexpression
+remove debug logging
+add test for 😝
+fix failing test
+make constant final
+add 😝 getprocessor
+fix bug in directdruidclient
+fix typo in 😝
+fix a bug in 😝
+fix npe in 😝
+make the daemon thread safe
+fix npe in systemui
+fix bug in 😝
+add check for 😝
+fix javadoc errors
+add missing type annotation
+fix concurrency issue
+remove unused constructor
+add transparency to pgl pjogl
+add missing header
+fix potential npe
+fix checkstyle issues
+add 😝 to 😝
+fix exception in 😝
+fix npe in 😝
+reset resend in 😝
+add 😝 to 😝
+fix bug in 😝
+remove debug print
+remove unused field
+remove unnecessary code
+rename method to 😝
+fix checkstyle errors
+fix typo in 😝
+make setupfavorites public
+remove unused test
+do not use 😝 for 😝
+add missing constructor
+fix failing test
+add a logexception to 😝
+fix typo in 😝
+add 😝 to 😝
+remove unused imports
+add test for 😝
+don t show empty lines if there is empty
+fix npe when calling selecttabatposition
+fix typo in compactserializertest
+fix unit test
+fix a bug that caused a bug that was not being used in the 😝
+remove unnecessary dependency
+fix crash in 😝
+fix quality flaws
+fix failing test
+add 😝 to 😝
+fix bug in 😝
+fix failing test
+remove unused code
+fix crash when retrieving cursor is canceled
+add 😝 to 😝
+fix quality flaws
+fix quality flaw
+fix quality flaw
+hide home button on macs
+fix bug in 😝
+add test for parameterexpression
+fix potential npe
+fix bug in 😝
+fix npe in 😝
+fix typo in 😝
+fix checkstyle issue
+fix typo in javadoc
+fix quality flaw
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+don t show ime switcher when user cancels 😝
+fix checkstyle issues
+don t log processcanceledexception
+fix quality flaw
+fix bug in 😝
+suppress unchecked warning
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+improved log message
+fix glm pojo
+fix crash when dismissing activity
+fix bug in 😝
+fix quality flaw
+fix memory leak
+fix quality flaw
+fix race condition
+fix bug in 😝
+fix checkstyle issues
+make defaultapplicationarguments public
+fix equals check
+remove unnecessary code
+fix bug in 😝
+make 😝 public
+remove dead code
+improve error message
+fix a bug where the 😝 was not being displayed
+fix bug in 😝
+fix bug in 😝
+don t include sourceurl if there are exported
+add 😝 to 😝
+remove dead code
+fix typo in 😝
+remove unused code
+improved log message
+don t use 😝 for 😝
+improve error message
+rename 😝 to 😝
+add test for parameterexpression
+fix potential npe
+remove unnecessary constructor
+add constructor to constructor
+fix bug in 😝
+fix cs error
+add 😝 method
+add 😝 to 😝
+fix bug in 😝
+add newline to 😝
+remove unnecessary sleep
+add 😝 to httpremotetask
+do not use invokelater in edt
+fix checkstyle issues
+remove unused imports
+remove unnecessary code
+don t send 😝 to 😝
+remove unused code
+fix typo in javadoc
+fix typo in 😝
+remove problematic marker
+add 😝 to 😝
+fix typo in 😝
+remove unused variable
+fix bug in httpremotetask
+fix log message
+remove unused method
+remove unused code
+remove dead code
+remove unnecessary code
+remove debug logging
+remove unused method
+use calendar instead of 😝
+fix test for 😝
+fix bug in 😝
+fix potential npe
+remove dead code
+add missing final modifier
+remove unused code
+fix a bug where the 😝 was not being used
+fix crash in 😝
+fix a bug where the screen could overlap
+improve error message
+fix npe in 😝
+add log logexception to 😝
+add 😝 to 😝
+fix concurrency problem
+fix a bug where the hdmiceclocaldevicetv was not being released
+remove unnecessary override
+fix concurrentmodificationexception in nodescheduler
+fix bug in 😝
+fix a bug in pactstring
+fix test failures
+remove unused import
+fix failing test
+fix a bug in 😝
+fix crash in 😝
+don t log processcanceledexception
+remove unused imports
+fix potential npe
+add 😝 to 😝
+improved logging of 😝
+add missing javadoc
+fix cs error
+make sure we don t use the system server
+fix a bug where the wrong sizey was inverted
+remove unused constant
+remove unused code
+fix typo in 😝
+fix test case
+add 😝 to 😝
+remove unused code
+fix test failures
+do not use 😝
+make method public
+add a test for 😝
+fix npe in 😝
+don t show rmd button
+add 😝 to 😝
+don t log processcanceledexception
+fix typo in 😝
+remove unnecessary code
+fix a bug where the screen could overlap with the 😝
+remove unnecessary code
+add 😝 to 😝
+fix typo in 😝
+fix a bug where the 😝 was not being called
+add targetapi annotation
+fix a bug where the hdmiceclocaldevicetv was not being used
+improved logging message
+fix a bug in 😝
+remove useless code
+fix bug in 😝
+fix bug in 😝
+fix memory leak
+fix typo in javadoc
+fix npe in 😝
+remove unnecessary code
+incorporated pr comments
+do not log 😝
+remove unnecessary comment
+add 😝 to 😝
+fix 😝 😝
+remove unused constant
+don t use empty locale
+fix quality flaw
+rename 😝 to 😝
+remove unused code
+add comment about why we have a todo
+add a logexception to the log message
+make 😝 public
+add missing assertion
+fix checkstyle issues
+fix npe in abslistview
+fix crash in 😝
+fix failing test
+remove unused variable
+remove unnecessary cast
+remove unused method
+fix bug in 😝
+fix unit test
+fix javadoc typos
+fix typo in 😝
+don t show the 😝 if we have a 😝
+fix a bug where the bitmap was not being displayed
+fix bug in 😝
+add 😝 to 😝
+fix bug in 😝
+add a test for jsdoc_missing_braces_warning
+fix potential npe
+fix npe in 😝
+fix exception in 😝
+add missing constructor
+fix npe in 😝
+fix typo in 😝
+add missing javadoc
+remove obsolete comment
+fix failing test
+remove unused code
+make sure we close the 😝
+fix typo in docgen
+fix npe in 😝
+make 😝 constant
+don t show empty lines
+fix test for 😝
+remove unnecessary code
+remove useless annotation
+fix typo in javadoc
+fix a bug where the notification could overlap with the 😝
+remove unnecessary code
+fix windows path
+fix quality flaws
+fix checkstyle issues
+don t use 😝 for 😝
+fix bug in 😝
+fix failing test
+fix quality flaws
+remove unused code
+fix potential npe
+fix checkstyle issues
+fix typo in compactserializertest
+remove ignored test
+add constructor to constructor
+fix bug in 😝
+fix crash in 😝
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix assertion error
+add 😝 to 😝
+fix bug in 😝
+remove unnecessary code
+add test for parameterexpression
+fix a bug in 😝
+fix bug in 😝
+remove unnecessary code
+fix typo in javadoc
+add 😝 to 😝
+remove unused constant
+improve error message
+remove unused code
+fix compilation issue
+don t send the 😝 if we have a message
+catch all exceptions
+add 😝 getprocessor
+add tostring method
+add 😝 to 😝
+fix 😝 😝
+fix bug in 😝
+remove unnecessary cast
+fix npe in 😝
+add test to 😝
+fix typo in 😝
+fix npe in 😝
+remove unused field
+remove unused method
+fix checkstyle issues
+remove unnecessary code
+fix quality flaws
+fix checkstyle error
+use the 😝 instead of 😝
+make defaultapplicationarguments serializable
+add uri check for 😝
+improve error message
+add test for 😝
+fix bug in 😝
+don t show balloon for welcome screen
+remove system out println
+fix failing test
+fix typo in 😝
+fix typo in statementresource
+don t send 😝 to system apps
+fix a bug where the 😝 was not being used
+fix quality flaw
+fix failing test
+add 😝 to 😝
+add a constant to 😝
+fix npe in audioplayer
+add missing runwith annotation
+fix quality flaw
+remove unused imports
+add test for 😝
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+remove unused variable
+remove unused method
+add 😝 to 😝
+fix error message
+add check for 😝
+fix typo in 😝
+add nullable annotation
+fix typo in 😝
+fix javadoc for 😝
+add test for 😝
+remove unused variable
+fix a bug where the screen is not being called
+fix a bug where the 😝 could overlap in the 😝
+add 😝 category
+add getter for 😝
+fix quality flaws
+remove unused imports
+fix bug where 😝 is not being called
+remove unused variable
+remove debug print
+fix typo in javadoc
+smallfix remove unnecessary cast
+clear the 😝 after the connection is triggered
+add test for parameterexpression
+add 😝 to 😝
+fix checkstyle issue
+add 😝 to 😝
+fix unit test
+fix npe in 😝
+fix potential npe
+fix race condition in 😝
+remove deprecated annotation
+don t show home button for welcome screen
+fix potential npe
+add missing javadoc
+add missing constants
+fix failing test
+add 😝 to 😝
+fix a bug where the activity was not being created
+remove debug logging
+fix bug in 😝
+fix bug in 😝
+don t show progress dialog
+fix npe in 😝
+add 😝 to 😝
+fix a bug where the panel could overlap in the 😝
+add 😝 to 😝
+remove unused field
+fix javadoc typo
+fix typo in 😝
+use correct package name
+don t send 😝 to system apps
+fix bug in nodescheduler
+fix failing test
+remove unused method
+fix a bug where the wrong sizey was not being used
+fix typo in 😝
+fix typo in 😝
+fix a bug in 😝
+don t log file if there are no file
+fix npe in 😝
+add 😝 to 😝
+do not use 😝 for 😝
+fix quality flaw
+fix bug in 😝
+fix 😝 test
+fix bug in 😝
+fix crash in 😝
+fix potential npe
+fix a bug where the view was not being called
+fix wrong import
+remove unused constructor
+fix a bug where the screen was not being called
+fix typo in javadoc
+fix a bug in netutil
+fix typo in javadoc
+fix crash in 😝
+add todo comment
+fix bug in 😝
+remove unused code
+don t throw exception if there are no parents
+add test for 😝
+fix a bug where ientity was not being called
+fix bug in 😝
+don t send 😝 if we have a message
+fix race condition
+fix javadoc errors
+fix quality flaw
+don t log processcanceledexception
+add 😝 to 😝
+add 😝 to 😝
+fix cs error
+remove obsolete code
+fix quality flaws
+remove license header
+add tostring method
+fix bug in 😝
+fix bug in 😝
+rename injectedlanguagefacadeimpl to injectedlanguageutil
+fix javadoc errors
+fix failing test
+remove unused variable
+fix bug in 😝
+fix crash in 😝
+remove unnecessary call
+improved tostring method
+remove unused imports
+fix typo in 😝
+fix potential race condition
+add 😝 to 😝
+remove unused import
+fix checkstyle issues
+fix potential npe
+remove extra stacktrace
+remove unused variable
+fix typo in 😝
+send intent home intent
+fix typo in 😝
+fix broken test
+add log message
+add test for parameterexpression
+fix bug in 😝
+make method public
+remove unused import
+fix a bug where the 😝 was called with abslistview
+fix potential npe
+fix crash in 😝
+fix bug in 😝
+remove unused import
+fix bug in 😝
+catch all exceptions
+remove unused variable
+fix comment typo
+remove unused method
+add quaternion lookat vector3 lookat vector3
+add 😝 to 😝
+fix potential npe
+fix whitebox of 😝
+fix version of 😝
+fix broken test
+fix shutdown of 😝
+fix bug in 😝
+fix typo in javadoc
+fix potential npe
+make constant final
+remove debug print
+fix javadoc issues
+fix bug in 😝
+fix typo in 😝
+fix potential npe
+fix npe in 😝
+add 😝 to 😝
+fix a bug where the ime switcher could be shown
+do not log processcanceledexception in edt
+fix npe in 😝
+fix checkstyle issues
+fix npe in 😝
+fix log message
+add missing nullable annotation
+add 😝 to 😝
+fix a bug that caused dbm to be found
+fix bug in 😝
+fix typo in 😝
+fix quality flaw
+remove unused variable
+add damagecause to 😝
+print out println in the log message
+remove unnecessary code
+fix a bug in the 😝
+make defaultapplicationarguments public
+throw an exception if we have an error message
+remove unused imports
+print out println
+add test for 😝
+fix bug in 😝
+fix bug in 😝
+fix typo in 😝
+fix npe in 😝
+make sure we don t close the file
+don t use non dumb aware
+fix bug in 😝
+fix a bug where the 😝 was not being used
+fix a bug where the user was not needed
+add getters to 😝
+remove unnecessary code
+fix checkstyle issues
+remove unused code
+don t show 😝 if there are no 😝
+fix typo in 😝
+fix bug in nodescheduler
+fix typo in javadoc
+add 😝 to 😝
+fix bug in 😝
+fix 😝 😝
+remove unused variable
+destroy newt destroy
+add robolectric directlyon
+remove unnecessary call
+add missing delegatesto annotation
+add a method to retrieve the 😝
+add license header
+fix unit test
+add a preinit method to make sure we can be used elsewhere
+don t throw an exception if we have been called
+remove unused code
+add 😝 to 😝
+add a todo
+fix bug in 😝
+add nullable annotation
+fix javadoc errors
+remove unnecessary code
+fix checkstyle issues
+fix failing test
+fix typo in 😝
+add serializable to 😝
+fix potential npe
+fix typo in 😝
+fix bug in 😝
+make 😝 public
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+throw exception if there are no op
+fix typo in 😝
+fix bug in 😝
+fix checkstyle error
+fix typo in javadoc
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix test for 😝
+fix failing test
+fix quality flaws
+fix checkstyle issues
+add 😝 to 😝
+remove unused variable
+add debug logging
+fix quality flaw
+remove unnecessary comment
+ignored test runner
+fix potential npe
+remove unnecessary code
+fix bug in 😝
+fix 😝 😝
+fix a bug where the path was not being used
+make sure we have the socket timeout
+add utility method
+add missing annotation annotation
+make field final
+fix potential npe
+smallfix remove unused variable
+add a test for 😝
+fix 😝 😝
+fix license header
+fix potential npe
+fix typo in 😝
+remove unused variable
+remove debug print
+fix bug in 😝
+remove unnecessary cast
+remove dead code
+fix typo in 😝
+fix bug in 😝
+fix null pointer
+fix crash in audioplayer
+fix a bug where the 😝 was not being used
+remove debug logging
+add 😝 to 😝
+improve error message
+fix wrong import
+don t show contact presence when contact is enabled
+fix bug in 😝
+fix javadoc errors
+remove unused variable
+fix crash in 😝
+remove unused variable
+fix potential npe
+add 😝 getprocessor
+fix compilation error
+make field final
+fix typo in 😝
+fix npe in 😝
+add 😝 to 😝
+remove deprecated code
+fix typo in javadoc
+add a check for 😝
+fix typo in javadoc
+fix bug that caused dbm to be printed
+remove blank line
+fix a bug where the 😝 was not being used in the 😝
+add debug info
+remove unnecessary cast
+remove beta annotation
+fix bug in 😝
+add 😝 method
+improved error message
+fix broken test
+add check for 😝
+don t show home intent if there are no password
+fix typo in 😝
+add license header
+fix typo in javadoc
+make setupfavorites 😝
+remove unnecessary code
+fix unit test
+fix bug on shutdown
+fix broken test
+fix bug in 😝
+fix typo in 😝
+remove debug print
+don t log processcanceledexception
+fix checkstyle issues
+fix npe in 😝
+fix bug in 😝
+fix npe in 😝
+add 😝 to 😝
+make 😝 public
+fix a bug where the hdmiceclocaldevicetv was not being used
+do not log file if there are no file
+add 😝 to 😝
+add check for 😝
+add license header
+make package private
+remove unused imports
+remove unnecessary code
+fix bug in 😝
+fix bug in 😝
+fix broken test
+remove debug logging
+improved logging level
+remove unused code
+add missing javadoc
+remove system out println
+fix bug in 😝
+remove unused variable
+remove unnecessary cast
+fix checkstyle issues
+fix a bug where the 😝 was not being used
+fix bug that caused hangs to fail
+fix failing test
+remove debug log
+fix unit test
+add 😝 to 😝
+add utility method to 😝
+add missing javadoc
+fix bug in 😝
+remove unnecessary code
+fix bug in 😝
+add 😝 to 😝
+fix typo in 😝
+fix typo in 😝
+add missing constructor
+fix race condition
+make sure we can t close the file
+add 😝 to classpath
+fix quality flaws
+fix bug in 😝
+reduce logging of 😝
+fix quality flaw
+remove unnecessary call
+suppress unchecked warning
+fix bug in 😝
+fix cs error
+remove unused import
+remove unused field
+add javadoc to 😝
+fix broken test
+use the minimum size of the minimum size
+fix a bug where the message was not being logged
+add 😝 method
+suppress unchecked warning
+fix bug in nodescheduler
+fix quality flaw
+fix checkstyle error
+smallfix remove explicit argument
+add javadoc to 😝
+fix a bug in 😝
+remove redundant getflag
+add a test for 😝
+add a todo to the 😝
+remove unused method
+fix equals check
+fix failing test
+add 😝 to 😝
+don t use system property
+fix quality flaw
+remove unused annotation
+fix potential npe
+remove unnecessary code
+fix npe in pact record
+don t send the 😝 if we have a 😝
+fix failing test
+remove unused code
+add 😝 to 😝
+fix broken test
+add check for 😝
+don t show hidden actions for welcome screen
+fix crash in smoothscrolltoposition
+don t show 😝 if it is already disposed
+fix npe in 😝
+remove unused imports
+fix a bug in 😝
+fix a bug in 😝
+fix quality flaw
+remove unnecessary comment
+add newline to tostring
+add 😝 urlpattern geturl
+fix checkstyle error
+fix quality flaws
+add check to 😝
+fix a bug that could overlap to find the file name
+fix crash in 😝
+reduce debug logging
+fix a bug where the 😝 was created
+fix typo in 😝
+fix bug in 😝
+fix bug in 😝
+improve error message
+fix unit test
+fix npe in 😝
+remove unnecessary code
+fix quality flaw
+fix quality flaws
+fix a bug that caused dbm time to 😝
+fix failing test
+fix bug in 😝
+remove unused code
+fix failing test
+add missing annotations
+add 😝 to 😝
+add debug logging
+fix 😝 😝
+fix bug in 😝
+fix crash in 😝
+fix race condition in 😝
+fix typo in 😝
+fix test for 😝
+fix potential npe
+fix bug in 😝
+fix potential race condition
+fix typo in javadoc
+remove test case
+fix typo in javadoc
+remove unused code
+add test for parameterexpression
+remove unused variable
+add missing annotation annotation
+do not log processcanceledexception
+add 😝 method to 😝
+fix bug in 😝
+set default values for 😝
+fix buffer leak
+remove unnecessary code
+fix npe in 😝
+fix bug in 😝
+fix typo in 😝
+fix javadoc error
+fix a bug in 😝
+fix bug in 😝
+fix failing test
+don t show 😝 if there is not needed
+remove debug logging
+remove unused method
+fix 😝 😝
+fix a bug where the window was not being used
+suppress some warnings
+add 😝 to jadconfig
+fix a bug where the media player was created
+fix failing test
+fix bug in 😝
+fix potential npe
+add private constructor
+add missing space
+fix typo in javadoc
+add 😝 to 😝
+fix compilation error
+add constant to ep_name
+add 😝 to 😝
+remove unnecessary cast
+fix checkstyle issues
+remove unused import
+fix npe in 😝
+remove unnecessary code
+fix bug in 😝
+add 😝 to 😝
+make 😝 serializable
+fix log spew
+fix crash in 😝
+remove 😝 from 😝
+fix quality flaw
+add log message
+remove unused method
+fix log spew
+fix typo in 😝
+fix possible npe
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+make constant final
+fix bug in 😝
+fix a bug where the 😝 was not being displayed
+fix failing test
+set default port to connect
+remove unnecessary cast
+add missing override annotation
+fix npe in 😝
+add 😝 to 😝
+add javadoc to 😝
+remove unnecessary semicolon
+fix potential npe
+fix failing test
+remove unused constant
+add 😝 to 😝
+add 😝 to 😝
+clear the connection attempt after disconnect
+fix broken test
+fix bug in 😝
+remove debug code
+add 😝 to 😝
+fix a bug where the 😝 was not being used
+fix javadoc typo
+rsv 😝 should use 😝
+fix checkstyle issues
+don t show red icon in 😝
+add test for parameterexpression
+fix bug in 😝
+remove unnecessary cast
+fix concurrency issue
+fix bug in 😝
+remove unused import
+fix checkstyle issue
+fix javadoc typos
+fix log spew
+fix a bug where the hdmiceclocaldevicetv was not being used
+add 😝 to 😝
+fix systemui crash
+fix a bug where the bitmap was not being centered
+don t clear the activity when the screen is canceled
+fix typo in javadoc
+fix potential npe
+fix a bug in upgrade message
+do not show home button for welcome screen
+add 😝 to 😝
+ignored failing test
+add missing ctors
+add 😝 to 😝
+remove unused import
+fix bug in 😝
+remove unnecessary code
+fix bug in 😝
+fix potential npe
+add 😝 method
+add tostring method
+fix npe in 😝
+add a constant
+fix bug in 😝
+remove unused method
+ignored the test
+fix bug in 😝
+fix failing test
+remove unused imports
+make field final
+fix a bug where 😝 was not being used
+fix typo in javadoc
+add 😝 to 😝
+add 😝 to 😝
+fix comment typo
+remove unused imports
+fix crash when dismissing dialog
+remove unused variable
+remove unused constructor
+fix bug in 😝
+add missing override
+fix quality flaw
+add getter for 😝
+send the user home
+fix npe in 😝
+fix npe in 😝
+don t show synthetic accessor for 😝
+fix quality flaws
+fix typo in 😝
+add 😝 to 😝
+add missing javadoc
+fix bug where 😝 was called before the 😝 was called
+remove unused code
+add missing call to 😝
+fix bug in nodescheduler
+fix quality flaws
+remove unused field
+remove unused code
+fix typo in 😝
+fix crash when dismissing is canceled
+fix bug in 😝
+fix bug in 😝
+fix javadoc errors
+add missing javadoc
+add missing javadoc
+fix bug in 😝
+add missing javadoc
+fix bug in 😝
+rename 😝 to 😝
+fix failing test
+add missing license header
+moved 😝 to package
+remove unnecessary variable
+fix npe in 😝
+fix quality flaw
+fix checkstyle error
+fix bug in pactstring
+fix bug in 😝
+add 😝 to 😝
+remove unused variable
+fix typo in javadoc
+fix compilation error
+add 😝 to 😝
+remove unused code
+add constants for 😝
+don t use the file path to the 😝
+add license header
+add 😝 to 😝
+remove unused method
+fix javadoc issues
+catch all exceptions
+fix quality flaw
+fix a bug where the hdmiceclocaldevicetv was being centered
+fix bug in 😝
+fix bug in 😝
+suppress unchecked warning
+fix bug in 😝
+fix bug in 😝
+fix typo in comment
+add xml validation
+fix bug in 😝
+fix crash when searchview is hidden
+add a getter to retrieve the 😝
+fix wrong annotation
+fix android studio
+remove unnecessary code
+fix a bug where the 😝 could cause crashes
+fix bug in 😝
+fix bug in 😝
+add 😝 to 😝
+add 😝 to 😝
+remove unused test
+add 😝 to 😝
+fix failing test
+fix typo in 😝
+fix typo in 😝
+remove unnecessary cast
+fix npe in mediametadataretriever
+fix bug in 😝
+fix typo in skeletoncontrol
+remove debug output
+fix bug in 😝
+fix null pointer check
+remove unused import
+remove unnecessary code
+don t close the 😝 if there are no 😝
+don t show empty view if there is no a post
+remove unused variable
+fix typo in 😝
+remove unused code
+fix bug in 😝
+remove useless assertion
+remove obsolete comment
+fix failing test
+fix potential npe
+remove unnecessary cast
+remove unnecessary code
+make 😝 public
+fix checkstyle issues
+add 😝 to 😝
+remove unused variable
+fix typo in javadoc
+remove obsolete comment
+fix a bug where the 😝 was called twice
+remove unnecessary code
+remove unnecessary code
+remove unused code
+fix a bug where allcolumns was not being displayed
+fix bug in 😝
+fix failing test
+fix failing test
+fix potential npe
+remove dead code
+add missing cancelable
+fix the build
+fix zoom scale
+add 😝 to 😝
+remove unused method
+remove unused variable
+fix typo in javadoc
+add assertion message
+fix failing test
+make 😝 final
+fix npe in 😝
+don t show 😝 if there are no 😝
+add debug logging
+add check for 😝
+add 😝 to 😝
+remove debug log
+add missing javadoc
+fix bug in 😝
+make constructor public
+do not show 😝 for windows
+fix a bug in 😝
+fix a bug where the 😝 could get stuck
+fix a bug in 😝
+add a constant
+clamp minimum zoom scale
+make sure we have a default value
+add missing javadoc
+fix checkstyle issues
+fix a bug where calendar was not being centered
+fix test error
+remove unused code
+fix bug in nodescheduler
+add alltypes to bycontentspec
+fix npe in 😝
+add 😝 to 😝
+fix failing test
+fix quality flaw
+don t throw an exception if there are no op
+add missing notin
+fix typo in 😝
+don t show progress bar if there are no
+don t throw an exception if we don t need to 😝
+add test for parameterexpression
+remove unused imports
+bump version number
+add 😝 to 😝
+fix failing test
+fix synchronization issue
+add wool to 😝
+fix bug in 😝
+fix failing test
+fix a bug where the last commit would be done
+remove obsolete comment
+fix javadoc warnings
+remove unused code
+don t throw an exception if there is not found
+fix bug in 😝
+fix bug in 😝
+add bad_request metrics
+use thread pool size for persistenthashmap thread
+add support for 😝
+sourceformatter remove unnecessary code
+set default value for 😝
+fix a bug where the 😝 could overlap with the 😝
+fix javadoc typos
+improve error message
+add 😝 to 😝
+don t return empty lines
+fix bug in 😝
+fix javadoc errors
+fix bug in 😝
+fix failing test
+improve error message
+add 😝 to 😝
+use the log message
+fix quality flaw
+add test for parameterexpression
+add 😝 urlpattern
+fix bug in 😝
+moved 😝 to package
+remove unused import
+remove unused variable
+fix failing test
+add test suite
+add 😝 to 😝
+remove unnecessary code
+remove unused constant
+don t close the file if there are no file
+fix typo in javadoc
+improved error message
+add debug logging
+fix npe in 😝
+remove unnecessary code
+fix bug in 😝
+make sure we have a 😝
+remove unused code
+make 😝 public
+add a constant to 😝
+add missing import
+remove debug print
+add comment explaining why we have a comment
+remove unused code
+fix npe in 😝
+add missing javadoc
+fix javadoc issues
+fix concurrentmodificationexception in nodescheduler
+fix crash in 😝
+fix bug in 😝
+fix a bug where the listview was not being called
+fix bug in 😝
+fix unit test
+add a constant
+add missing javadoc
+fix failing test
+remove debug print
+add javadoc to 😝
+fix checkstyle issues
+remove unused method
+fix typo in javadoc
+fix bug in 😝
+don t show empty lines
+fix quality flaws
+fix npe in 😝
+fix bug in 😝
+fix typo in 😝
+add missing getters
+fix typo in 😝
+fix potential npe
+add 😝 to 😝
+add check for 😝
+remove useless assertion
+remove unnecessary call
+fix bug in 😝
+fix race condition
+add debug logging
+add 😝 to 😝
+remove unused code
+add 😝 to 😝
+fix potential npe
+remove unnecessary code
+fix quality flaw
+add a couple of 😝 to 😝
+remove unused imports
+fix javadoc issues
+fix typo in 😝
+add 😝 to 😝
+fix potential npe
+use 😝 instead of 😝
+add 😝 to 😝
+rename 😝 to 😝
+remove unused variable
+fix failing test
+fix typo in javadoc
+remove unnecessary code
+fix race condition in 😝
+remove unused field
+fix quality flaws
+add a comment
+fix failing test
+remove unnecessary code
+fix typo in 😝
+fix checkstyle error
+fix npe in 😝
+don t show the title when dismissing dialog
+fix typo in 😝
+fix checkstyle issues
+make field final
+add 😝 to 😝
+fix quality flaw
+don t use non dumb aware
+fix a bug in kmeans 😝
+fix unit test
+improve error message
+remove unnecessary cast
+fix a bug where the notification could overlap with the 😝
+fix datainfo _adaptedframe
+fix bug in 😝
+fix a bug in 😝
+make 😝 public
+fix compilation error
+don t use 😝 type for 😝
+fix failing test
+fix comment typo
+fix bug where the hdmiceclocaldevicetv was not being released
+fix broken test
+remove debug print
+fix compilation error
+fix bug in 😝
+fix typo in javadoc
+fix npe in mediametadataretriever
+fix broken test
+remove deprecated annotation
+remove unnecessary code
+fix bug in 😝
+fix quality flaw
+remove unused method
+don t show 😝 if there is not needed
+fix potential npe
+remove unnecessary check
+fix wrong gradient
+add missing sideonly
+fix typo in javadoc
+add missing ctors
+remove unused variable
+fix unit test
+add missing return
+add null check
+fix npe in 😝
+fix unit test
+remove unused code
+fix typo in 😝
+fix wrong import
+fix potential race condition
+add tostring method
+fix race condition
+add null check
+fix potential npe
+remove system out println
+remove obsolete comment
+add a comment about why we can t close the file
+remove unnecessary dependency
+add todo comment
+remove assertion message
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+add 😝 to 😝
+fix npe in 😝
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix failing test
+catch all exceptions
+fix bug in 😝
+fix compilation error
+add method to 😝
+fix a bug where the log was not being called
+use locale instead of charset
+add missing override
+remove debug code
+add checkreturnvalue annotation
+fix bug in streetvertexindexserviceimpl
+remove debug true
+add license header
+fix quality flaw
+fix failing test
+don t show ways unless there are no columns
+fix unit test
+make constant final
+rsv rsv filters
+add missing import
+make sure we can be used in 😝
+fix typo in javadoc
+fix checkstyle issues
+add tostring method to 😝
+do not show files for non physical files
+add missing break
+add check to 😝
+remove unnecessary code
+fix npe in 😝
+remove unnecessary code
+fix javadoc issues
+fix a bug where allcolumns weren t belong
+fix a bug in the 😝
+add author tag
+fix failing test
+remove unused code
+add 😝 to 😝
+remove unused variable
+add 😝 getprocessor
+fix potential npe in 😝
+remove unused variable
+fix crash when searchview is hidden
+fix broken test
+add check for 😝
+fix checkstyle error
+fix crash in 😝
+make 😝 public
+fix compilation error
+fix npe in 😝
+remove unused code
+fix quality flaw
+remove unnecessary call
+fix race condition
+add a comment
+fix javadoc links
+remove dead code
+remove unused field
+remove repeat annotation
+fix typo in javadoc
+fix failing test
+fix quality flaw
+fix findbugs warnings
+fix failing test
+add test for 😝
+fix failing test
+fix quality flaws
+add license header
+fix checkstyle error
+fix potential race condition
+fix npe in 😝
+add missing javadoc
+fix potential npe
+fix quality flaws
+fix a bug where the screen was not being displayed
+fix bug in 😝
+make package private
+remove unused code
+implement 😝 method
+don t use the user agent for 😝
+do not use the file path for the file
+add missing return statement
+fix 😝 test
+make 😝 public
+fix failing test
+fix a bug in 😝
+fix checkstyle issues
+fix quality flaw
+don t use the 😝
+fix crash in intent
+add support for 😝
+remove unused constant
+don t use 😝 for 😝
+add 😝 method
+fix bug in 😝
+fix potential npe
+fix javadoc issues
+add a logexception to the exception message
+fix javadoc errors
+add missing close
+fix npe in 😝
+make defaultapplicationarguments public
+remove debug true
+fix failing test
+remove focus border from toolbar
+don t show 😝 if there are no project
+fix bug in 😝
+add a comment about why we know why we know why we know why we know why we know why we know why we know why we have a
+remove unused variable
+add 😝 to 😝
+make 😝 serializable
+fix test for 😝
+make 😝 public
+fix race condition in 😝
+fix memory leak
+fix failing test
+fix javadoc in javadoc
+add null check to 😝
+ignore empty lines
+remove blank line
+remove unused method
+add 😝 method to 😝
+fix bug in 😝
+fix a bug where the user was not needed
+fix failing test
+remove debug output
+add trace logexception
+fix quality flaw
+improved assertion message
+fix npe in 😝
+fix quality flaws
+fix typo in 😝
+improve error message
+remove unused variable
+print out println
+remove unnecessary annotation
+remove unnecessary suppresswarnings
+add 😝 to 😝
+commented out code
+fix cs error
+fix crash in systemui
+add test for parameterexpression
+fix javadoc typos
+add missing annotations
+add check for 😝
+remove unused code
+add 😝 to 😝
+fix concurrentmodificationexception in 😝
+fix npe in 😝
+fix a bug in 😝
+fix npe in 😝
+don t send 😝 to 😝
+use 😝 instead of 😝
+make 😝 public
+fix typo in 😝
+fix race condition
+fix crash in 😝
+don t use the system property if we have a 😝
+add license header
+fix test for 😝
+fix bug in 😝
+improve readability message
+add a constant
+add 😝 method
+fix test for 😝
+fix failing test
+remove unused variable
+fix checkstyle issue
+turn off debug logging
+fix unit test
+fix npe in 😝
+fix bug in nodescheduler
+add test for parameterexpression
+remove unnecessary code
+fix race condition
+fix bug in 😝
+remove unused code
+remove unnecessary code
+fix checkstyle issues
+fix potential npe
+add missing isinfoenabled checks
+make 😝 public
+fix wrong import
+fix a bug where allcolumns was not being used
+add 😝 method
+remove debug logging
+add a logexception to the 😝
+fix typo on linux
+make field final
+remove unnecessary synchronization
+fix failing test
+improved logging level
+add 😝 method
+remove unused enum
+remove useless code
+fix 😝 test
+remove unused variable
+add 😝 to 😝
+add 😝 to 😝
+fix npe in 😝
+add final to ep_name
+remove obsolete comment
+remove unused code
+improve error message
+remove unused method
+fix android example
+fix failing test
+fix typo in 😝
+fix a bug where the 😝 is not being used
+fix crash in 😝
+make 😝 public
+add a preinit method to the 😝
+fix a bug where the fragment wouldn t have been attached
+fix failing test
+remove unused variable
+fix bug in 😝
+fix a bug where the 😝 was not being used
+fix crash in 😝
+fix failing test
+fix bug in 😝
+fix npe in 😝
+don t show the 😝 if we have the 😝
+fix potential npe
+add debug logging
+fix broken test
+fix a bug where the screen could overlap when the screen is released
+remove unused code
+fix failing test
+fix npe in 😝
+don t show 😝 if there are no longer needed
+fix text text
+fix null pointer exception
+remove extra flush
+fix quality flaw
+fix a bug in 😝
+remove unused variable
+remove debug logging
+fix unit test
+remove unused method
+don t use system property
+fix bug in 😝
+add tostring to tostring
+add javadoc to bycontentspec
+updated version of 😝
+don t log processcanceledexception
+fix npe in 😝
+add a test for 😝
+remove unused field
+fix race condition
+fix a bug that caused dbm to be found
+fix bug in 😝
+add some comments to charmatcher digit
+fix typo in javadoc
+fix 😝 😝
+fix quality flaw
+add missing nullable annotation
+add missing method
+fix bug in 😝
+don t show empty lines
+improved log message
+fix checkstyle error
+fix a bug where the hdmiceclocaldevicetv was not being used
+don t send 😝 to 😝
+fix 😝 😝
+fix potential npe
+fix bug in nodescheduler
+remove unused variable
+remove unused code
+fix npe in 😝
+make 😝 public
+fix compilation error
+make 😝 public
+do not show empty lines
+add 😝 to 😝
+add newline to 😝
+don t show 😝 if it is not needed
+fix a bug where the 😝 was found
+fix typo in javadoc
+turn off test
+remove unnecessary cast
+fix checkstyle error
+add 😝 annotation
+don t show empty lines in 😝
+remove unused variable
+suppress flaky test
+fix bug in 😝
+fix bug in 😝
+fix cs error
+add assertion to assertion
+add test for 😝
+remove unused code
+fix a bug where the list wouldn t be called
+add 😝 to 😝
+fix failing test
+fix a bug where the user was not being used anywhere
+remove unnecessary code
+remove debug message
+add comment explaining why we can be found
+don t use the file path to the file
+fix typo in javadoc
+fix version string
+remove unnecessary semicolons
+fix log spew
+do not show empty lines
+fix typo in javadoc
+add 😝 to 😝
+fix a bug where the 😝 could overlap
+don t show keyguard when keyguard is enabled
+fix quality flaws
+fix npe in 😝
+fix compilation error
+remove problematic marker
+fix quality flaws
+don t throw an exception if a file is not found
+make 😝 extend jsonbase
+remove unnecessary code
+fix typo in javadoc
+fix typo in 😝
+fix merge issue
+fix bug in 😝
+fix typo in 😝
+remove unused code
+use 😝 instead of 😝
+fix bug in 😝
+add javadoc to javadoc
+adds a logexception to the log message
+fix bug in 😝
+fix failing test
+add comment to 😝
+make 😝 public
+remove unused method
+fix typo in 😝
+fix a bug where the path was not being logged
+make 😝 public
+fix bug in 😝
+fix bug in 😝
+fix a bug in calendar
+add missing call to 😝
+use the 😝 instead of 😝
+remove unused imports
+fix checkstyle issues
+fix a bug where the screen was not being called
+wait time to sleep
+fix bug in 😝
+fix npe in 😝
+remove debug print
+add test to 😝
+fix typo in comment
+fix a bug where the hdmiceclocaldevicetv was not being used
+add 😝 to 😝
+add missing constructor
+add 😝 to 😝
+fix failing test
+fix npe in 😝
+fix npe in 😝
+fix unit test
+fix bug in systemui
+remove unused import
+make 😝 public
+fix bug in 😝
+fix quality flaws
+fix typo in javadoc
+fix bug on windows
+remove unused code
+don t use the log message
+fix bug in 😝
+fix compilation error
+fix bug in 😝
+allow locker walk limiting
+don t show empty lines when contact is empty
+add 😝 to 😝
+fix a bug that caused an error message when generating meshes
+remove unnecessary check
+fix quality flaw
+fix a bug where the user was not being used
+fix typo in javadoc
+fix quality flaws
+add a check for 😝
+fix log spew
+fix npe in audioplayer
+fix crash in 😝
+remove temp announcement
+fix bug that caused dbm to be printed
+don t show the 😝 if there is not needed
+fix npe in 😝
+fix npe in 😝
+fix checkstyle issues
+fix unit test
+fix log spew
+add missing javadoc
+use the minimum size of the minimum size
+fix typo in 😝
+fix bug in 😝
+fix broken test
+make 😝 extend jsonbase
+ignored failing test
+fix bug in 😝
+fix error message
+fix memory leak
+remove unnecessary cast
+add 😝 to 😝
+fix bug in 😝
+fix typo in 😝
+don t show red border
+fix 😝 😝
+add precondition check to 😝
+fix checkstyle issues
+fix checkstyle issues
+fix crash when getting password
+fix bug in 😝
+add private constructor
+fix npe in 😝
+don t log the 😝 if there are no longer needed
+fix quality flaw
+remove unused imports
+fix potential npe
+remove unused code
+remove unused imports
+improved logging of 😝
+fix bug in 😝
+fix typo in javadoc
+fix bug in 😝
+fix potential npe
+rename 😝 to 😝
+fix version of 😝
+add a function to get the text
+fix bug in 😝
+fix quality flaw
+fix typo in 😝
+add missing javadoc
+deprecate unused code
+fix bug in 😝
+moved 😝 to package
+fix a bug in 😝
+don t use the file path to the file path
+fix bug in 😝
+fix failing test
+remove unnecessary annotation
+add comments to volleyutils
+remove unused variable
+fix typo in 😝
+fix version string
+fix quality flaws
+remove unnecessary annotation
+fix npe in 😝
+remove debug print
+fix potential npe
+add debug info
+add check for 😝
+fix compilation error
+make 😝 public
+fix crash in 😝
+fix bug where 😝 is not being called
+fix broken test
+remove unused imports
+turn down the 😝
+fix compilation error
+add 😝 to 😝
+add author tags
+don t show 😝
+fix a bug in 😝
+add 😝 to 😝
+add convenience method to 😝
+add debug message
+fix failing test
+fix failing test
+don t show the 😝 if there is empty
+add support for parameterexpression
+remove unused code
+remove unnecessary code
+fix quality flaws
+add 😝 to 😝
+remove unused imports
+fix broken test
+remove unused method
+fix bug in 😝
+remove unused imports
+fix crash in 😝
+fix a bug where the user was not being displayed
+improved assertion message
+fix crash in 😝
+add 😝 to 😝
+use the file path to the file path
+fix bug where allcolumns was not being called
+add test for parameterexpression
+fix concurrency problem
+fix crash in 😝
+add 😝 to 😝
+remove unused imports
+fix typo in javadoc
+fix bug in 😝
+fix quality flaws
+fix broken test
+fix bug in 😝
+fix javadoc of 😝
+remove test timeout
+remove unused code
+remove unused import
+fix npe in 😝
+add 😝 to 😝
+add missing header
+fix typo in 😝
+fix a bug in 😝
+add tostring method
+fix npe in 😝
+add test for parameterexpression
+fix potential race condition
+fix a bug in 😝
+don t show empty directories
+fix npe in 😝
+fix typo in 😝
+add helper method
+fix potential npe
+fix bug in 😝
+don t clear the 😝 if we don t have a 😝
+fix typo in javadoc
+fix log spew
+remove unnecessary test
+fix javadoc issues
+make 😝 public
+remove unnecessary call
+add 😝 to 😝
+add deprecated annotation to 😝
+fix javadoc issues
+add debug logging
+add 😝 to 😝
+remove unused code
+clear the 😝 after the 😝
+don t use the 😝
+fix bug in 😝
+add 😝 to 😝
+fix bug in 😝
+fix bug in 😝
+fix potential npe
+fix checkstyle issues
+fix checkstyle error
+make sure we have the size of the buffer
+make constructor public
+add missing override annotation
+fix crash in audioplayer
+smallfix remove explicit argument type
+fix typo in 😝
+add 😝 to 😝
+add 😝 to 😝
+fix bug in 😝
+fix a bug where the header was not being used
+fix bug in shadowmatrix setscale
+add a constant to the 😝
+don t send the 😝 to the 😝
+add 😝 to 😝
+fix a bug where the 😝 would cause a crash
+fix potential npe
+add 😝 to 😝
+fix checkstyle issues
+fix failing test
+fix bug in 😝
+fix compilation error
+fix bug that caused dbm to be used in 😝
+add missing space
+fix npe in 😝
+add 😝 to 😝
+fix bug in 😝
+fix bug in 😝
+add 😝 annotation
+add thread pool to 😝
+add 😝 to 😝
+fix a bug where the 😝 could cause the 😝
+add missing cancelable
+fix bug where 😝 is not being released
+fix quality flaw
+fix typo in 😝
+fix a bug in 😝
+fix typo in javadoc
+fix typo in 😝
+remove unused method
+fix typo in 😝
+fix bug in 😝
+fix bug in 😝
+fix 😝 😝
+fix bug in constructor
+fix a bug where the 😝 could cause an exception
+fix potential deadlock
+remove obsolete code
+fix a bug where the notification could overlap with the window
+fix bug in 😝
+fix a bug that was causing a bug in the 😝
+fix bug in 😝
+add 😝 to 😝
+fix crash in 😝
+remove dead code
+don t use absolute paths
+add missing break
+fix potential npe
+fix typo in javadoc
+fix typo in 😝
+add missing notin method
+expose injectedlanguageutil enumerate
+add missing ctors
+fix a bug in 😝
+remove unused method
+add missing javadoc
+add test for 😝
+add null check to 😝
+fix potential npe
+fix npe in mediametadataretriever
+fix package name
+remove debug code
+fix bug in 😝
+do not use 😝
+fix bug in 😝
+add 😝 to 😝
+fix a bug where the contact list wouldn t being displayed
+fix broken test
+fix typo in 😝
+fix quality flaws
+fix bug in 😝
+add flush to flush
+improve javadoc of 😝
+add trace logging
+fix typo in 😝
+add comment about why we have a comment
+don t create a file if we are loaded
+make 😝 public
+fix editor border
+add 😝 getprocessor
+fix quality flaw
+remove unnecessary test
+add license header
+remove unnecessary code
+fix npe in 😝
+remove unused imports
+fix crash when launching overviewactivity
+add a logexception to the log message
+add a logexception to 😝
+enable toolwindow icons
+fix broken test
+remove unused imports
+fix failing test
+remove unnecessary code
+fix bug in 😝
+rename 😝 to 😝
+fix a bug where the cursor was called twice
+add log info to log
+fix bug in 😝
+do not show red icon in 😝
+fix checkstyle issues
+remove unused variable
+add support for 😝
+remove unused parameter
+add 😝 to 😝
+add 😝 to 😝
+fix failing test
+fix test failures
+remove unused variable
+add detailed check to the 😝
+remove unnecessary cast
+fix intermittent test
+add gservices settings to 😝
+add missing constructor
+fix failing test
+fix typo in 😝
+remove unnecessary imports
+fix quality flaw
+fix npe in 😝
+don t show the title if the user is already registered
+implement 😝 method
+fix thread leak
+make constant final
+fix typo in javadoc
+don t use the system property
+fix a bug where the hdmiceclocaldevicetv was not being released
+send intent home intent
+add javadoc to explain why we know why we know why we know the 😝
+fixes a bug where the 😝 could get stuck
+remove dead code
+fix bug in 😝
+remove unused field
+add missing javadoc
+fix quality flaws
+make constructor public
+add 😝 method
+fix potential npe
+fix quality flaw
+remove unused field
+fix 😝 😝
+fix test failures
+do not use 😝
+add 😝 to 😝
+abstractbeanfactory markbeanascreated reliably clears roster
+fix compilation error
+fix quality flaw
+fix bug in 😝
+fix empty rawkey
+fix a bug in 😝
+use random seed for random seed
+improve error message
+don t throw an exception if the 😝 fails
+fix typo in javadoc
+add test for parameterexpression
+do not use 😝 for 😝
+fix a bug where the 😝 was not being called
+remove unused method
+add 😝 to 😝
+add tostring method
+remove debug logging
+add 😝 method
+add 😝 to 😝
+fix a bug where the user was not being displayed
+don t update completions for 😝
+add 😝 method
+add missing tostring
+fix broken test
+fix npe in audioplayer
+don t throw an exception if there are an instruction
+remove unused imports
+fix typo in 😝
+fix a bug where the hdmiceclocaldevicetv was not being triggered
+add null check for 😝
+improved error message
+add support for 😝
+ignored test runner
+fix javadoc typos
+make 😝 public
+remove unnecessary code
+add 😝 to 😝
+fix a bug where the notification could overlap
+fix typo in 😝
+fix bug in 😝
+fix npe in 😝
+fix failing test
+fix bug in 😝
+don t show non dumb aware
+fix a typo in the 😝
+add license header
+fix checkstyle issue
+fix quality flaw
+fix failing test
+fix typo in 😝
+remove unused method
+remove unused imports
+remove unused variable
+add todo comment
+remove unused imports
+set default constructor to 😝
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix quality flaws
+add 😝 method
+improved assertion message
+fix typo in javadoc
+fix failing test
+fix projectimpl leak
+don t log processcanceledexception on disposed
+add 😝 to 😝
+add log logexception
+clarified javadoc for getcurrenttextviews
+disable the 😝 flag
+remove license header
+fix a bug where the response was not being used
+remove unnecessary code
+print out println
+fix typo in 😝
+don t throw an exception when the 😝 is not found
+remove unnecessary comment
+fix crash in 😝
+fix bug in 😝
+fix 😝 😝
+fix potential npe
+fix failing test
+fix 😝 test
+add 😝 to 😝
+fix npe in pluginclassloader
+add todo comment
+fix crash in 😝
+add 😝 to 😝
+improve error message
+remove redundant constructor
+fix bug in 😝
+make method public
+remove unnecessary code
+add debug info to 😝
+fix javadoc of 😝
+fix npe in 😝
+fix npe in 😝
+improved error message
+fix checkstyle issue
+make 😝 public
+remove debug print
+add 😝 to 😝
+add 😝 to 😝
+fix typo in javadoc
+remove unused variable
+fix potential npe
+fix bug in 😝
+add a check to the 😝
+fix quality flaw
+fix bug in 😝
+fix npe in 😝
+fix quality flaw
+fix bug in 😝
+add license header
+add a comment about why we have a comment
+fix potential npe
+use the file path to the 😝
+don t show 😝 if there are no mode
+fix a bug in 😝
+don t show the 😝 of the 😝
+fix failing test
+add missing import
+add 😝 to 😝
+remove unused variable
+fix checkstyle issue
+fix bug in 😝
+fix error message
+fix bug in 😝
+don t show empty lines in 😝
+fix bug in 😝
+fix unit test
+fix quality flaw
+add support for parameterexpression
+remove debug logging
+fix typo in 😝
+remove unused method
+ignore empty lines
+fix npe in 😝
+remove unused import
+fix quality flaw
+fix compilation error
+fix bug in 😝
+make 😝 public
+add support for 😝
+don t use empty lines
+remove unused import
+fix failing test
+remove unused code
+fix npe in 😝
+fix crash in 😝
+fix log spew
+catch smackexception in mediametadataretriever
+add 😝 to 😝
+fix bug in 😝
+fix potential npe
+add test for parameterexpression
+fix a bug where the activity was not being called
+remove obsolete comment
+make 😝 public
+add 😝 to 😝
+smallfix remove unnecessary cast
+remove debug logging
+fix typo in 😝
+ignored test runner
+remove unused imports
+add 😝 to 😝
+remove unused code
+fix typo in 😝
+fix checkstyle issues
+add 😝 to 😝
+remove unnecessary call
+fix typo in 😝
+incorporated pr comment
+fix broken test
+fix failing test
+add 😝 method
+don t hold 😝 if there are no node
+fix potential npe
+print out println
+fix npe in 😝
+add missing return
+remove unused variable
+remove unused import
+add some javadoc
+remove obsolete comment
+use the default value for the default value
+fix findbugs issue
+sourceformatter ignore empty lines
+don t show border for toolbars
+fix typo in 😝
+print out job waitforcompletion
+fix bug in 😝
+add 😝 to 😝
+don t show 😝 if it is already disposed
+fix license header
+fix systemui crash
+fix bug in bridgepowermanager
+fix bug in 😝
+remove unnecessary code
+add check for 😝
+fix test case
+add some javadoc
+remove dead code
+remove unused import
+add test for parameterexpression
+add license header
+fix typo in javadoc
+fix bug in 😝
+remove debug logging
+fix a bug where the window was not being used
+fix bug in 😝
+fix bug in 😝
+remove dead code
+fix quality flaw
+use 😝 instead of 😝
+increased timeout of timeout
+add 😝 to 😝
+fix quality flaws
+fix potential npe
+add 😝 to 😝
+fix npe in 😝
+fix bug in 😝
+remove unused constant
+add test for parameterexpression
+fix checkstyle issues
+make field final
+add a call to the 😝 method
+fix failing test
+add missing annotations
+remove unused imports
+fix failing test
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix a typo in javadoc
+log the log message
+fix typo in 😝
+fix typo in 😝
+remove unused variable
+make 😝 public
+remove unused variable
+add javadoc to explain why we have a comment
+fix bug in 😝
+remove obsolete comment
+remove unused suppression
+add getname getname to 😝
+remove unused code
+add check for empty string
+remove unused imports
+fix crash in 😝
+throw an exception if the 😝 fails
+fix typo in 😝
+remove unused imports
+fix bug in 😝
+fix checkstyle issue
+fix checkstyle issues
+add a logexception to send an error message
+add debug message
+remove unused code
+add javadoc for 😝
+don t show the system property for the system property
+remove unused imports
+fix unit test
+add test for parameterexpression
+add convenience method
+add 😝 to 😝
+fix failing test
+add log message
+remove unused variable
+fix failing test
+fix a bug where the 😝 was not being used
+fix quality flaw
+fix indexoutofboundsexception in topnoperator
+make field final
+fix concurrency issue
+fix a bug where the 😝 was not being displayed
+fix npe in 😝
+add 😝 to 😝
+remove unused code
+remove unused variable
+remove unnecessary constructor
+fix test for 😝
+fix compilation error
+add license header
+add javadoc for 😝
+add a comment to the 😝
+fix checkstyle issues
+don t show the 😝 if we have a 😝
+add 😝 method
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix bug in 😝
+fix failing test
+fix failing test
+fix license header
+add test to 😝
+deprecate nosuchbufferexception and propagateifpossible
+fix bug in 😝
+add 😝 to 😝
+add missing javadoc
+set default value for 😝
+remove unnecessary reset
+fix failing test
+fix bug in 😝
+don t create non dumb mode
+add shutdown to 😝
+fix race condition
+fix quality flaw
+fix npe in 😝
+fix a bug where the notification could overlap with the 😝
+add missing annotation
+remove unused imports
+fix checkstyle issue
+remove unused method
+add 😝 to 😝
+remove unused code
+remove unused field
+fix test case
+fix checkstyle issues
+remove unused variable
+fix crash in 😝
+remove unnecessary code
+fix compilation error
+fix bug in 😝
+remove unused method
+remove debug log
+fix npe in 😝
+set buffer size for 😝
+reset the default value of the 😝
+remove unused constant
+fix potential npe
+don t return the default value in the 😝
+catch all exceptions in 😝
+fix npe in 😝
+fix potential npe
+fix bug in 😝
+fix typo in 😝
+fix bug in 😝
+remove unused code
+add missing javadoc
+fix typo in javadoc
+fix bug in 😝
+fix chat window focus
+don t show home button
+add 😝 to 😝
+fix bug in 😝
+fix typo in 😝
+add check for 😝
+fix failing test
+fix 😝 😝
+fix typo in comment
+fix 😝 😝
+fix potential race condition
+fix broken test
+fix potential npe
+don t show empty lines if there are empty lines
+fix bug in 😝
+add 😝 method
+remove unused code
+fix a bug where the 😝 was not being called
+add 😝 to 😝
+fix potential npe
+fix quality flaw
+fix failing test
+remove unnecessary comment
+fix crash in 😝
+don t log processcanceledexception when there are no 😝
+remove unused code
+print out println
+remove unused variable
+fix javadoc warnings
+fix quality flaws
+fix typo in javadoc
+make constant final
+remove unused code
+remove unused import
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix a bug where the notification could overlap in the window
+fix potential npe
+remove unused variable
+fix checkstyle issue
+remove unused variable
+fix a bug in 😝
+add a logexception to 😝
+improved logging of 😝
+use the default value for the 😝
+fix copyright header
+add 😝 to 😝
+add missing space
+fix failing test
+remove unused method
+rename 😝 to 😝
+remove unused code
+add test for parameterexpression
+fix bug in 😝
+don t show 😝 if there are no mode
+fix checkstyle issues
+fix compilation problem
+implement 😝 method
+fix bug in 😝
+add missing space
+remove unused method
+remove unnecessary cast
+add test category
+don t show the file path for non physical files
+fix crash in 😝
+fix checkstyle issues
+fix typo in 😝
+fix checkstyle issues
+fix a bug where the hdmiceclocaldevicetv was not being logged
+fix typo in 😝
+fix quality flaws
+fix crash in 😝
+add missing override annotation
+remove dead code
+fix bug in 😝
+fix race condition
+fix a bug where the 😝 was not being used
+add snippet macro comment explaining cookiesyncmanager
+add test for parameterexpression
+add javadoc to 😝
+remove unused field
+fix a bug where the hdmiceclocaldevicetv was not being logged
+fix bug in 😝
+remove useless assertion
+remove debug print
+set the minimum size to the 😝
+add 😝 to 😝
+add 😝 to 😝
+log the log of the log message
+fix quality flaw
+don t show empty lines if there are no node
+fix typo in javadoc
+make 😝 public
+make 😝 public
+remove unused code
+increased timeout timeout
+fix bug in 😝
+fix bug that caused dbm to be used in the 😝
+fix bug in 😝
+fix typo in 😝
+add a comment about setcontentview
+fix typo in entitlement
+remove debug print
+fix failing test
+fix bug in 😝
+suppress unchecked warning
+fix potential npe
+remove unused method
+add method to 😝
+remove unused imports
+remove unnecessary call
+fix race condition
+add missing javadoc
+fix typo in 😝
+remove test suite
+fix cs issues
+fix quality flaw
+remove unused method
+fix typo in 😝
+don t show the user agent if it is enabled
+don t use the file path when looking
+remove unused constant
+fix bug in 😝
+don t clear the activity if we are done
+remove unused code
+remove unused method
+remove unused import
+fix unit test
+add trace logexception
+fix potential npe
+remove unused code
+remove unnecessary synchronization
+remove unused variable
+fix failing test
+remove unused comment
+fix bug in 😝
+fix compilation error
+remove unused code
+fix checkstyle error
+add 😝 to 😝
+catch all exceptions
+don t show the system property name if it is not needed
+fix quality flaws
+remove unused variable
+remove unused method
+fix potential npe
+add 😝 to 😝
+add tostring method
+add missing javadoc
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix bug in 😝
+fix quality flaws
+fix potential npe
+fix typo in javadoc
+add missing final keyword
+fix a bug where the temp folder was not needed
+do not use 😝
+fix potential npe
+fix typo in 😝
+add 😝 to 😝
+fix possible npe
+add 😝 to 😝
+fix quality flaw
+fix bug in 😝
+add 😝 urlpattern geturl
+deprecated dbcollection 😝
+fix checkstyle issues
+fix test for 😝
+fix npe in 😝
+don t send the user agent to the 😝
+fix bug in 😝
+add option to 😝
+add test to 😝
+fix typo in 😝
+improved error message
+fix bug in 😝
+make 😝 public
+remove redundant border
+add a method to get the 😝
+fix bug in 😝
+fix quality flaws
+improved log message
+remove unnecessary code
+print the system out of the system server
+make 😝 public
+remove tostring method
+fix npe in 😝
+fix typo in 😝
+fix crash in 😝
+add logging to 😝
+add javadoc to javadoc
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+remove unused method
+remove unused method
+add 😝 to 😝
+fix potential npe
+remove unused code
+add 😝 method
+improve error message
+fix bug in 😝
+remove debug logging
+remove unused code
+add javadoc to 😝
+make package private
+fix npe in 😝
+add additional check to 😝
+add missing annotations
+don t show progress dialog if there are several
+fix equals method
+add 😝 to 😝
+add 😝 to 😝
+fix npe in 😝
+fix bug in 😝
+remove unused method
+fix crash when swiping is called
+add test for 😝
+fix npe in 😝
+add missing import
+fix quality flaws
+remove unnecessary code
+fix log spew
+add 😝 to 😝
+don t show empty lines if there is not null
+fix bug in 😝
+fix a bug in 😝
+remove unused code
+fix bug in 😝
+make sure we have the 😝
+add missing constructor
+fix bug where zen was not found
+add onreset to compasslistener
+rename 😝 to 😝
+add missing annotation
+remove dead code
+add 😝 to 😝
+fix failing test
+don t show 😝 if there are no 😝
+fix bug in 😝
+fix bug in 😝
+remove unnecessary code
+fix npe in 😝
+fix quality flaw
+add license header
+add a test for 😝
+fix typo in 😝
+fix a bug in 😝
+add debug logging
+fix quality flaw
+make 😝 public
+add a todo
+fix calculation of 😝
+fix a bug where the 😝 could get stuck
+do not show empty lines
+remove unnecessary code
+fix bug in 😝
+remove unused field
+fix npe in 😝
+remove useless check
+fix append chars
+don t show the system property if it is not needed
+remove unused code
+add javadoc to 😝
+fix typo in 😝
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix quality flaws
+fix typo in javadoc
+fix a bug where the cursor is not being called twice
+add gethtml accessor to 😝
+fix unit test
+rename 😝 to 😝
+remove unused code
+fix typo in javadoc
+fix bug in 😝
+fix npe in 😝
+don t log processcanceledexception in 😝
+fix bug in 😝
+fix bug in 😝
+add missing javadoc
+add 😝 to 😝
+fix bug in 😝
+fix typo in 😝
+add tostring method
+fix bug in 😝
+add utility method
+don t throw iae twice
+fix bug that caused linechart to be done
+fix bug in 😝
+add more information about discarded message
+fix npe in 😝
+fix copyright header
+fix wrong import
+fix npe in 😝
+fix bug in 😝
+add 😝 method
+expose the 😝 method
+remove unused variable
+fix tablayout crash
+remove unused variable
+improve error message
+fix a bug in 😝
+remove unnecessary code
+fix a bug in 😝
+add check for 😝
+remove unnecessary code
+remove unused code
+fix a bug where the 😝 could get stuck
+fix typo in comment
+add 😝 method
+fix npe in 😝
+add 😝 method
+add javadoc to 😝
+fix bug in 😝
+fix npe in 😝
+remove unused variable
+make 😝 public
+smallfix remove unused variable
+remove unnecessary semicolon
+fix typo in 😝
+add a comment
+add debug logging
+fix typo in 😝
+fix quality flaws
+suppress unchecked warning
+fix a bug where the 😝 is not being called
+ignored test suite
+fix test runner
+fix typo in javadoc
+clear the 😝
+don t close reopen indexwriter if there are loaded
+fix typo in 😝
+make 😝 public
+fix typo in nodescheduler
+remove unused variable
+remove unused code
+remove unused variable
+smallfix remove unused variable
+fix bug in 😝
+add comment explaining why we have a comment
+fix failing test
+fix typo in 😝
+remove unnecessary code
+add 😝 to 😝
+remove unnecessary check
+fix a bug in 😝
+fix bug in 😝
+fix npe in 😝
+add 😝 to 😝
+remove dead code
+fix potential npe
+add missing imports
+add accessor to 😝
+don t show 😝 if it is not needed
+fix a bug where the 😝 was not being used
+remove unnecessary call
+fix potential npe
+fix npe in 😝
+remove unused code
+fix quality flaws
+fix test case
+rename 😝 to 😝
+fix a bug where the 😝 was not being called
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix npe in 😝
+remove unnecessary code
+fix failing test
+add 😝 to 😝
+fix bug in 😝
+fix checkstyle issues
+fix a bug where the 😝 was not being used
+add 😝 to 😝
+add javadoc for 😝
+don t show the default value for 😝
+fix wrong import
+fix unit test
+fix bug in skeletoncontrol of 😝
+fix npe in 😝
+fix quality flaws
+remove debug logging
+fix a bug in tachyonfs
+fix bug in 😝
+fix typo in 😝
+fix crash when using jspc
+fix typo in highlyavailablegraphdatabasefactory
+fix npe in 😝
+fix comment typo
+sourceformatter source formatting
+remove unused variable
+don t append tostring
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix quality flaws
+fix npe in 😝
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv was not being called
+fix possible npe
+fix javadoc typo
+fix typo in 😝
+add test for parameterexpression
+add a comment
+fix npe in 😝
+remove unused code
+throw an exception if the 😝 is used
+remove unnecessary call
+fix javadoc for 😝
+fix bug in 😝
+fix bug in 😝
+add shutdown to 😝
+fix wrong import
+fix potential npe
+fix npe in 😝
+remove unnecessary code
+add javadoc to 😝
+fix a bug where the hdmiceclocaldevicetv was not being logged
+remove log message
+fix failing test
+fix crash in 😝
+fix a bug where the user was not being displayed
+fix typo in 😝
+suppress unchecked warning
+fix searchview title
+remove unnecessary code
+do not show empty lines
+make 😝 public
+add 😝 to 😝
+make 😝 public
+remove unnecessary dependency
+fix quality flaw
+remove unused code
+fix bug in 😝
+fix typo in 😝
+remove unused code
+fix checkstyle issues
+add trace to trace
+remove redundant cast
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+don t show progress dialog on windows
+fix a bug where the 😝 was not being displayed
+add missing override annotations
+fix crash in 😝
+fix bug in 😝
+moved 😝 to package
+add 😝 to 😝
+add 😝 to 😝
+add private constructor
+fix typo in 😝
+fix bug in 😝
+fix npe in 😝
+fix bug in 😝
+remove unused method
+fix bug in 😝
+add missing type
+remove unused suppression
+do not show debugger dialog
+remove unused constructor
+add missing override annotation
+fix typo in javadoc
+add 😝 to 😝
+fix merge issue
+add 😝 to 😝
+add debug output
+fix bug in 😝
+remove unnecessary javadoc
+fix bug in 😝
+remove unnecessary code
+fix bug in 😝
+remove log statement
+fix potential npe in 😝
+remove unused code
+don t show ime switcher when user switcher is enabled
+fix potential npe
+fix potential npe
+add some comments
+fix compilation problem
+remove unnecessary override
+add debug logging
+fix bug in 😝
+remove unused constructor
+fix compile error
+add missing test annotation
+add some logging
+add 😝 getprocessor
+fix a bug in 😝
+fix potential npe
+remove unnecessary code
+add 😝 to 😝
+add missing override annotation
+fix memory leak
+remove debug logging
+remove unused code
+fix quality flaw
+remove unused code
+add 😝 method
+don t show the 😝 if we have a 😝
+do not use the file path for the file
+add missing javadoc
+improve error message
+flush flush outputstream in flush flush
+fix a bug where the 😝 was not being called
+improve error message
+remove unused code
+remove author tags
+remove unnecessary code
+remove unused code
+improved logging level
+remove unused code
+fix npe in 😝
+remove unused code
+fix bug in 😝
+fix bug in 😝
+add 😝 to 😝
+add sleep time to 😝
+fix typo in javadoc
+add missing space
+add livingentity to 😝
+rename 😝 to 😝
+remove debug print
+fix tostring of 😝
+remove unused code
+fix typo in 😝
+fix npe in 😝
+remove unnecessary code
+fix a bug where the 😝 was called twice
+add a test for 😝
+add missing javadoc
+add debug logging
+fix merge issue
+remove debug print
+fix bug in 😝
+fix a bug where the 😝 could overlap when the list is created
+fix crash in documentscontract
+fix failing test
+make 😝 public
+fix broken test
+fix failing test
+add log message
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix unit test
+fix bug in 😝
+fix npe in 😝
+fix broken test
+don t show 😝 if it is enabled
+add 😝 to 😝
+fix potential npe
+add 😝 to 😝
+do not show empty lines
+fix javadoc errors
+fix cs error
+fix typo in 😝
+fix typo in 😝
+fix 😝 😝
+remove unused import
+make constant final
+remove unused code
+add missing notin
+fix bug in 😝
+don t show the 😝 if we don t have a 😝
+fix failing test
+fix crash in 😝
+add tostring method to tostring
+fix checkstyle error
+fix typo in 😝
+add 😝 to 😝
+fix failing test
+fix compilation error
+add a todo
+add method to get the 😝
+fix broken test
+fix issue with 😝
+ignored test runner
+fix crash in 😝
+fix bug in 😝
+enable disable button for 😝
+fix failing test
+add onreset to compasslistener
+remove unused code
+fix broken test
+remove unused variable
+remove unnecessary code
+remove unused constructor
+smallfix remove unused variable
+add missing test for 😝
+add 😝 to 😝
+fix javadoc warnings
+remove hardcoded constant
+add 😝 to 😝
+fix typo in 😝
+do not use 😝
+fix bug in statementresource
+fix a bug that was breaking the 😝
+fix calculation of 😝
+fix bug in 😝
+remove dead code
+fix npe in 😝
+add shutdown hook
+add 😝 method
+fix test for 😝
+fix bug in 😝
+fix typo in tostring
+add 😝 method to 😝
+remove unused code
+fix bug in 😝
+fix typo in 😝
+remove unused variable
+add license header
+remove unused imports
+add 😝 to 😝
+add 😝 to 😝
+fix npe in 😝
+catch runtimeexceptions when disconnecting
+fix crash in 😝
+fix typo in javadoc
+add debug logging
+fix copyright header
+fix typo in fieldsortbuilder
+add test for 😝
+fix crash in 😝
+fix bug in 😝
+fix 😝 😝
+fix bug in 😝
+don t create 😝 to find usages
+fix bug in 😝
+fix compilation problem
+fix typo in javadoc
+fix npe in 😝
+remove unused code
+clarified javadoc in solo and viewfetcher
+remove unnecessary check
+fix quality flaws
+fix bug in 😝
+add missing space
+fix typo in 😝
+fix unit test
+make 😝 public
+add 😝 method
+do not show empty lines
+add test category
+add missing import
+remove unused imports
+fix test case
+remove unused code
+improve javadoc for 😝
+make 😝 public
+add missing license header
+fix typo in test
+add missing cancelable annotation
+add test for parameterexpression
+improve error message
+fix quality flaw
+add debug logging
+fix a bug in 😝
+remove unused import
+fix npe in 😝
+remove unnecessary synchronization
+do not show progress dialog on windows
+fix a bug where the hdmiceclocaldevicetv was not being used
+use locale locale
+remove unused method
+fix bug in 😝
+fix checkstyle issues
+add 😝 to 😝
+make 😝 final
+fix bug where 😝 is not being used
+remove unused imports
+fix potential npe
+fix quality flaw
+fix crash in 😝
+remove deprecated annotation
+fix npe in 😝
+add 😝 to 😝
+fix a bug where the 😝 was not being released
+remove debug logging
+add javadoc to eslogger
+add 😝 to 😝
+fix npe in 😝
+add shutdown to 😝
+add missing javadoc
+make 😝 public
+remove unused code
+fix checkstyle error
+fix javadoc of 😝
+add close to 😝
+fix bug in forgechunkmanager
+fix quality flaws
+don t show hide actions for welcome screen
+fix npe in 😝
+add onreset destroy
+remove unnecessary call
+fix test failures
+fix a bug in 😝
+fix a bug where the cursor was not being displayed
+fix log spew
+fix potential npe
+fix bug in 😝
+remove debug logging
+fix npe in 😝
+fix npe in nodescheduler
+remove debug output
+fix crash in 😝
+don t use 😝 if it is not needed
+remove unused method
+remove unused code
+fix typo in abslistview javadoc
+fix a bug in 😝
+fix issue where 😝 is not being released
+fix a bug where the notification could get stuck
+fix typo in 😝
+fix bug in 😝
+fix race condition
+fix bug in 😝
+remove unused import
+add 😝 to 😝
+fix potential npe
+fix npe in 😝
+remove unused code
+fix typo in 😝
+make 😝 public
+remove unnecessary code
+fix bug in 😝
+improved logging of 😝
+improved logging message
+remove unused method
+remove unused imports
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+fix typo in tostring
+add logger to 😝
+fix potential leak
+catch all exceptions
+fix failing test
+add 😝 to 😝
+smallfix remove unused variable
+fix test runner
+add 😝 to 😝
+fix potential npe
+fix a bug where the contact was not being displayed
+remove unused code
+remove blank line
+add license header
+add min max temperature
+fix checkstyle error
+remove redundant modifier
+remove obsolete comment
+fix compile error
+fix npe in 😝
+remove unnecessary code
+fix typo in javadoc
+rename 😝 to 😝
+remove unused import
+fix bug in 😝
+fix quality flaw
+add missing annotation
+fix failing test
+reduced log message
+remove unnecessary code
+fix typo in 😝
+remove unnecessary code
+remove unused variable
+remove unused code
+fix npe in 😝
+fix quality flaw
+remove unused variable
+fix failing test
+add 😝 to 😝
+reduce log spew
+fix systemui crash when keyguard is enabled
+fix crash in 😝
+add a check to the 😝 of the 😝
+fix typo in 😝
+improved error message
+add 😝 to 😝
+remove unused log
+fix bug in 😝
+don t use non dumb mode
+fix typo in 😝
+improve error message
+fix typo in 😝
+add check for 😝
+fix bug in 😝
+add javadoc to 😝
+remove unused code
+remove unused variable
+make fiberasync public
+don t use the default value for the 😝
+fix bug in 😝
+add 😝 to 😝
+fix javadoc of 😝
+fix test failure
+add debug logging
+add a helper method to get the 😝
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv was not being created
+don t show empty string
+fix a bug in 😝
+disable 😝 😝
+add null check
+add getter for 😝
+don t show the view if we have a view
+remove unused variable
+fix a bug in 😝
+add 😝 to 😝
+fix 😝 😝
+fix typo in javadoc
+fix bug in 😝
+fix wrong logger
+fix a bug where the 😝 could cause a bug in the 😝
+fix bug in 😝
+add missing import
+fix npe in audioplayer
+fix bug in skeletoncontrol
+fix typo in javadoc
+fix glm pojo
+fix a bug where the screen was not being displayed
+fix bug in 😝
+fix typo in 😝
+fix failing test
+make 😝 dumb aware
+ignored failing test
+remove unused parameter
+changed log message
+fix quality flaws
+make field final
+fix calculation in smoothscrolltoposition calculation
+add a test for 😝
+fix javadoc typos
+add 😝 to 😝
+fix bug in 😝
+add missing cancelable
+fix bug in 😝
+fix failing test
+remove unused code
+fix failing test
+make 😝 public
+fix typo in 😝
+fix checkstyle issue
+make 😝 public
+remove debug print
+add javadoc to javadoc
+fix error message
+fix quality flaw
+use 😝 instead of 😝
+remove unused code
+bytebufferutil should return type of instanceof
+fix copyright header
+remove unused field
+do not use non dumb aware
+fix npe in constructor
+add 😝 to 😝
+remove unused imports
+make field final
+improved logging level
+remove unused import
+fix wrong import
+make 😝 public
+fix typo in 😝
+remove unused method
+icollection extends linearlayoutmanager
+don t show progress dialog
+remove dead code
+fix bug in 😝
+fix a bug where the scrim could overlap when the screen is being used
+fix compilation error
+don t show keyguard if there is not needed
+fix typo in 😝
+commented out code
+add test for parameterexpression
+fix potential npe
+add missing override annotation
+fix bug in 😝
+add 😝 to 😝
+fix typo in javadoc
+fix test failures
+remove unused variable
+fix compilation error
+add javadoc to 😝
+add 😝 to 😝
+fix bug in 😝
+fix quality flaws
+add 😝 to 😝
+add 😝 to 😝
+add 😝 to 😝
+fix typo in 😝
+fix javadoc typo
+fix npe in 😝
+fix typo in 😝
+fix 😝 😝
+fix bug in nodescheduler
+fix failing test
+catch all throwables propagate
+don t throw exception if there are no values
+remove unused code
+remove unused imports
+make constant public
+fix unit test
+remove unnecessary code
+fix bug in 😝
+fix bug in 😝
+fix crash in 😝
+remove unused variable
+fix npe in statemachine
+fix bug in 😝
+fix bug in 😝
+use the default context menu in glide
+fix checkstyle issues
+fix npe in 😝
+fix wrong import
+add 😝 to 😝
+don t close the file if it is disposed
+fix failing test
+fix bug in 😝
+remove unused method
+make sure we can be used elsewhere
+don t use 😝 for 😝
+remove unused constant
+fix typo in 😝
+remove unused method
+remove debug print
+fix a bug in 😝
+fix a bug in 😝
+add javadoc to javadoc
+fix unit test
+catch all exceptions in 😝
+add a comment about why we don t show a notification
+fix bug in 😝
+fix quality flaw
+fix bug in 😝
+fix npe in 😝
+fix tostring method
+fix bug in 😝
+add test annotation
+fix the test
+fix quality flaws
+remove debug print
+make field final
+remove unused imports
+catch all exceptions
+remove obsolete code
+fix failing test
+fix crash in systemui
+use thread pool instead of 😝
+fix log spew
+add javadoc to 😝
+fix a bug where the 😝 was not being displayed
+remove unused method
+remove unused imports
+fix typo in 😝
+don t send the user home intent
+fix datainfo _adaptedframe
+fix crash in 😝
+fix a bug where the 😝 could get stuck
+fix comment typo
+add notnull annotations
+don t show empty password if there are no file
+add getter for 😝
+fix checkstyle issue
+fix copyright header
+fix bug in glm scoring
+fix merge issue
+add license header
+remove unnecessary method
+remove unnecessary code
+fix bug in 😝
+fix failing test
+fix typo in 😝
+fix javadoc errors
+remove unused imports
+remove dead code
+remove unnecessary generics
+remove unused code
+add 😝 to 😝
+fix bug in 😝
+fix typo in 😝
+remove unused code
+fix bug in 😝
+fix a bug with cfboolean 😝
+don t highlight empty lines
+add javadoc to 😝
+add a function to 😝
+add 😝 method
+fix typo in statementresource
+don t show the file path if there are exported
+fix bug in 😝
+remove unused field
+fix typo in javadoc
+use 😝 instead of 😝
+remove unused code
+remove dead code
+fix typo in comment
+incorporated pr comment
+add missing javadoc
+fix checkstyle issues
+remove unused variable
+fix unit test
+fix npe in 😝
+fix checkstyle issues
+don t swallow exceptions in 😝
+fix npe in 😝
+remove unnecessary cast
+fix potential npe
+improved error message
+remove unused variable
+remove unused code
+fix checkstyle issues
+make 😝 dumb aware
+add 😝 to 😝
+fix failing test
+add missing break
+fix failing test
+fix broken test
+add 😝 to 😝
+fix bug in 😝
+fix a bug in 😝
+make 😝 final
+fix a bug where the last commit was not being released
+add check to ghpoint
+remove unused imports
+make 😝 public
+deprecate nosuchbufferexception from 😝
+add check for 😝
+improve error message
+remove unnecessary code
+fix potential race condition
+fix compilation problem
+remove log message
+fix typo in 😝
+rsv filters
+use the default value for the 😝
+add missing method
+add todo comments
+add log message
+fix a bug where the last commit was called twice
+add test for parameterexpression
+add 😝 to 😝
+remove debug logging
+add border to 😝
+fix bug in 😝
+fix crash in 😝
+fix checkstyle issues
+fix typo in test
+don t show empty lines if there are no op
+fix typo in javadoc
+remove unused imports
+fix bug in 😝
+add a tostring method to 😝
+fix quality flaw
+add 😝 method
+don t show the window when there are no window
+remove dead code
+fix checkstyle issues
+fix quality flaw
+make 😝 public
+fix equals equals
+add a method to retrieve the 😝
+add 😝 to 😝
+fix glm test
+add missing conditional
+fix checkstyle issues
+don t send the user home intent to the user
+add check for 😝
+fix bug in skeletoncontrol
+fix checkstyle issue
+fix typo in 😝
+remove unused method
+fix a bug in 😝
+fix equals method
+fix checkstyle issues
+add 😝 to 😝
+remove unused code
+fix typo in 😝
+remove debug info
+fix a bug in 😝
+fix bug in 😝
+add debug logging
+don t show home intent when user home intent
+remove unused import
+fix checkstyle error
+don t show the user home if we have a notification
+add a method to get the 😝
+fix bug in 😝
+fix bug in 😝
+add missing break
+fix log message
+fix npe in 😝
+don t use 😝 for 😝
+fix bug in 😝
+fix zoom scale
+fix a bug where the hdmiceclocaldevicetv was not being logged
+fix log spew
+do not use 😝
+fix bug in 😝
+remove override annotation
+fix cs error
+fix quality flaws
+don t throw an exception if there are not found
+fix quality flaw
+remove unused test
+add missing override
+fix systemui crash when docked is used
+fix typo in 😝
+add todo comment
+fix a bug in 😝
+fix typo in 😝
+remove useless code
+remove dead code
+remove unused code
+do not show non dumb aware
+fix failing test
+fix quality flaws
+remove unnecessary code
+remove unused imports
+fix javadoc error
+remove useless assertion
+fix a bug in 😝
+fix bug in 😝
+fix npe in 😝
+fix typo in 😝
+fix a bug where the 😝 could cause the exception
+add 😝 to 😝
+add 😝 to 😝
+fix bug in 😝
+throw an exception if an exception is found
+add license header
+fix potential npe
+remove dead code
+make 😝 public
+fix potential npe
+fix potential npe
+fix javadoc error
+remove unused method
+add missing assertion
+add todo for parameterexpression
+fix quality flaws
+remove unused import
+remove unused variable
+fix potential npe
+add getter to bycontentspec
+fix bug in 😝
+add support for 😝
+fix bug in 😝
+make 😝 public
+remove dead code
+fix typo in 😝
+fix crash on lollipop
+fix bug in 😝
+fix bug in 😝
+fix a bug where the 😝 could get stuck
+fix a bug where the 😝 could overlap when a view is called
+fix a bug in 😝
+throw exception if isvalidfragment is not found
+make sure we don t show the window when the screen is called
+fix bug in 😝
+add a hidden api to get the 😝
+fix typo in javadoc
+improve assertion message
+fix npe in equals
+fix npe in 😝
+fix bug in 😝
+remove unused variable
+don t send the minimum size when the user is enabled
+fix comment typo
+fix license header
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv is not being used
+remove unnecessary code
+fix crash in hdmi cec devices
+don t send the 😝 to the 😝
+remove unnecessary call
+fix typo in 😝
+add 😝 to 😝
+remove unused code
+make constant final
+fix javadoc error
+fix crash in 😝
+fix quality flaw
+fix memory leak
+fix quality flaw
+fix typo in javadoc
+remove unused constant
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix bug in 😝
+fix a bug where the screen was not being displayed
+make 😝 public
+fix cs error
+fix 😝 😝
+fix test failures
+fix bug in 😝
+remove unused code
+fix typo in 😝
+fix bug in nodescheduler
+fix javadoc typo
+don t show non dumb aware
+fix bug in 😝
+deprecate nosuchbufferexception of 😝
+remove unused imports
+remove unused code
+fix typo in 😝
+remove unnecessary code
+fix failing test
+use 😝 instead of 😝
+fix a bug in 😝
+fix potential npe
+add ensuregreen to 😝
+fix error message
+add 😝 to 😝
+ignored test runner
+fix cs error
+fix test failures
+remove unused imports
+add 😝 to 😝
+add missing space
+fix typo in javadoc
+remove dead code
+add 😝 to 😝
+fix race condition in httpremotetask
+fix a bug in wordpressdb
+don t show the test if it fails
+remove unnecessary return
+fix typo in 😝
+fix broken test
+add a convenience method
+fix quality flaws
+remove unused imports
+add 😝 to 😝
+fix bug in 😝
+remove unused constant
+make 😝 public
+add 😝 to 😝
+fix null pointer exception
+fix npe in mediametadataretriever
+fix bug in 😝
+add missing cancelable
+don t show the 😝 if there are no parent
+fix checkstyle issue
+fix crash in 😝
+add support for 😝
+fix bug in 😝
+throw an exception when hist encounters an instruction
+improved logging message
+fix broken test
+fix bug in 😝
+remove unused code
+add a comma to the log message
+add a constructor to 😝
+fix error message
+fix bug in 😝
+remove unused code
+remove system out
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+fix potential npe
+remove unnecessary code
+remove dead code
+fix bug in 😝
+add 😝 to 😝
+remove obsolete comment
+add 😝 to 😝
+fix potential npe
+fix bug in 😝
+add 😝 to 😝
+add trace logging
+fix merge conflict
+fix npe in 😝
+remove deprecated annotation
+don t show a notification if we have a notification
+fix bug in 😝
+fix quality flaw
+remove unused method
+remove unused code
+remove obsolete code
+fix error in 😝
+fix typo in javadoc
+remove obsolete comment
+remove unused code
+add 😝 to 😝
+remove unused variable
+make sure we have the 😝
+make constant final
+remove unused imports
+add missing nullable annotations
+fix npe in 😝
+add 😝 to 😝
+fix failing test
+remove unused constructor
+remove unnecessary method
+fix typo in javadoc
+don t use non static inner class
+add missing license header
+remove unused imports
+add a constant to the 😝
+remove useless method
+add missing import
+fix broken test
+add 😝 to 😝
+fix potential npe
+add 😝 method to 😝
+clear the 😝
+fix npe in 😝
+remove unused imports
+add a method to get the default value of the 😝
+fix race condition
+add check to sql wall
+add 😝 method
+fix bug in 😝
+fix npe in 😝
+fix typo
+remove unused method
+fix a bug that was not being used in 😝
+fix compilation error
+fix typo in 😝
+add test for 😝
+fix possible npe
+remove debug logging
+fix typo in 😝
+fix bug in 😝
+fix npe in 😝
+fix typo in 😝
+fix typo in 😝
+add 😝 to 😝
+fix bug that caused dbm to be turned off
+fix typo in 😝
+improve error message
+fix bug in nodescheduler
+add 😝 to 😝
+make 😝 public
+remove unnecessary code
+don t use 😝 for 😝
+fix bug in 😝
+fix unit test
+fix compilation error
+add missing javadoc
+fix bug in 😝
+remove unused imports
+fix javadoc warnings
+fix failing test
+fix potential npe
+fix bug in 😝
+make constant final
+fix a bug where the screen could overlap when the window is not being displayed
+fix checkstyle issues
+remove unnecessary code
+don t show the 😝 if the screen is canceled
+fix npe in 😝
+improved log message
+fix race condition
+remove unused method
+don t send the 😝 if we have a 😝
+improve error message
+remove unnecessary code
+remove debug logging
+make 😝 extend jsonbase
+fix a bug where the 😝 was not being called
+fix 😝 😝
+fix typo in javadoc
+fix bug in 😝
+skip non physical files
+do not use headless mode
+fix bug where 😝 is not being used
+don t close the system stacktrace
+fix failing test
+remove unused variable
+show title bar title
+add 😝 to 😝
+remove unused code
+remove debug logging
+fix a bug where the 😝 was not being displayed
+fix crash in 😝
+fix a bug where allcolumns was not being included in 😝
+add 😝 to 😝
+don t clear the 😝 if the 😝 is already been destroyed
+fix bug in 😝
+fix typo in mediametadataretriever
+fix crash in 😝
+fix bug in 😝
+fix npe in 😝
+remove unused code
+fix test name
+make 😝 public
+fix a bug where the 😝 was not being used
+fix bug in 😝
+fix broken test
+fix shutdown hook
+add license header
+don t throw an exception when the 😝 is registered
+add method to 😝
+fix bug in 😝
+remove unused code
+fix typo in javadoc
+fix tostring method
+fix bug in 😝
+fix typo in 😝
+remove unused code
+fix bug in 😝
+add javadoc for rangeset intersects
+add 😝 to 😝
+throw iae in 😝
+make field final
+fix license header
+add debug logging
+remove unused constant
+add 😝 to 😝
+fix quality flaw
+remove unnecessary code
+fix test name
+remove unnecessary code
+smallfix remove redundant modifier
+add missing ctors
+fix potential npe
+fix npe in 😝
+fix broken test
+add 😝 to 😝
+fix npe in 😝
+remove debug logging
+fix bug in 😝
+moved 😝 to package
+fix npe in 😝
+fix failing test
+add a todo
+remove unused import
+remove unused method
+fix crash in 😝
+remove deprecated annotation
+fix crash in 😝
+fix test failure
+fix a bug where the header was not being centered
+fix typo in 😝
+fix bug in 😝
+add debug logging
+fix npe in 😝
+turn off verbose logging
+remove unused code
+fix npe in 😝
+remove unnecessary code
+fix typo in 😝
+remove unused import
+fix bug in 😝
+fix crash in 😝
+fix quality flaw
+remove unused imports
+add 😝 to 😝
+don t send 😝 to 😝
+suppress unchecked warning
+add 😝 to 😝
+don t highlight parameters in 😝
+add 😝 to 😝
+fix npe in 😝
+add 😝 to 😝
+fix potential npe
+fix findbugs warnings
+fix potential npe
+do not use the file path for the file
+remove unused code
+fix typo in 😝
+remove unnecessary code
+remove debug print
+remove unused code
+remove unused import
+suppress unchecked warning
+remove unused field
+add a test to close the connection
+fix typo in javadoc
+remove unnecessary comment
+fix typo in javadoc
+fix crash in 😝
+fix npe in 😝
+add check for empty line numbers
+fix checkstyle issues
+fix memory leak
+fix javadoc typo
+remove unused field
+send the ip address to the server
+don t show the log message if there are no password
+fix javadoc warnings
+fix failing test
+fix bug in nodescheduler
+fix quality flaw
+remove debug print
+fix bug in 😝
+remove unused code
+remove unused variable
+add tostring to 😝
+make 😝 public
+fix calculation of 😝
+fix bug in 😝
+fix compilation error
+fix compilation error
+make 😝 extend basepsinode
+fix memory leak
+fix javadoc warnings
+add null check
+rename 😝 to 😝
+don t update caret if there are injected elements
+fix npe in 😝
+throw an exception if isvalidfragment is null
+add utility method
+fix a bug where the ime was not being displayed
+add missing method
+add 😝 method
+fix bug in 😝
+fix bug in glm pojo scoring
+log the log of the log
+fix npe in 😝
+fix typo in 😝
+fix unit test
+fix failing test
+add shutdown to 😝
+fix quality flaw
+fix log spew
+fix a bug in the 😝
+add null check
+add 😝 to 😝
+add comment explaining why we can be used in the 😝
+fix bug in 😝
+add 😝 annotation
+fix bug in 😝
+add 😝 to 😝
+fix checkstyle error
+fix npe in 😝
+add a comment
+fix bug in 😝
+deprecated the javadoc
+do not use 😝
+add debug logging
+fix a bug where the 😝 was not being used
+remove unused import
+fix bug in 😝
+add 😝 to 😝
+add debug logging
+remove useless assertion
+add test for 😝
+fix typo in javadoc
+make class final
+fix typo in connectionconfiguration
+fix typo in 😝
+sourceformatter ignore empty lines
+fix bug in 😝
+fix wrong annotation
+fix potential npe
+fix potential npe
+add test for parameterexpression
+make field final
+add test for parameterexpression
+dispose the 😝
+remove debug logging
+fix bug in 😝
+remove debug logging
+don t close the exception if it fails
+make defaultapplicationarguments public
+add 😝 to world
+add 😝 method
+add 😝 to 😝
+add debug logging
+closes readablebytechannel of 😝
+make method public
+remove unused method
+remove dead code
+add missing license header
+fix bug in 😝
+remove unused import
+add 😝 to 😝
+fix a bug in 😝
+fix the build
+fix race condition
+fix 😝 😝
+add utility method to 😝
+make browseanimationfragment default
+fix npe in 😝
+remove unnecessary code
+add 😝 to 😝
+remove unused imports
+remove debug print
+add javadoc to volleyutils
+add comment explaining why we have a comment
+add a method to make sure we can be used in the 😝
+make 😝 public
+fix typo in javadoc
+remove debug print
+fix copyright header
+fix potential npe in 😝
+fix compilation error
+fix bug in 😝
+remove unnecessary code
+add javadoc for 😝
+improved error message
+fix race condition in 😝
+add test for parameterexpression
+fix bug in 😝
+fix bug in 😝
+improve javadoc of memoryaccessor
+add test to 😝
+fix quality flaw
+fix race condition
+fix a bug in 😝
+don t use the default values
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix crash in 😝
+fix bug in 😝
+add 😝 to 😝
+fix bug in 😝
+remove debug logging
+remove unused imports
+don t show empty repositories when there are no
+improved error message
+fix race condition
+fix typo in 😝
+fix crash in 😝
+add an error message when hist encounters an instruction
+fix crash in 😝
+fix compilation error
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix bug in 😝
+remove dead code
+fix npe in 😝
+fix quality flaws
+add 😝 method to 😝
+remove unnecessary code
+remove unused code
+remove unused method
+add missing constructor
+fix quality flaws
+add 😝 to 😝
+fix npe in statemachine
+fix checkstyle issue
+remove unnecessary code
+add 😝 to 😝
+improve error message
+make field final
+fix bug in 😝
+remove unused variable
+add missing call to 😝
+add 😝 to 😝
+add debug info
+fix a bug in 😝
+do not show empty lines
+fix checkstyle issue
+fix typo in 😝
+fix crash in 😝
+fix race condition
+fix failing test
+add close method
+add support for 😝
+fix bug in 😝
+remove unused imports
+turn off debug logging
+fix appbarlayout layoutparams
+fix npe in 😝
+add javadoc to 😝
+fix test failures
+add 😝 to 😝
+remove obsolete comment
+dispose completion inre
+fix quality flaws
+fix failing test
+fix bug in 😝
+add test for parameterexpression
+fix checkstyle issues
+fix compilation error
+fix javadoc typos
+make 😝 public
+remove unnecessary code
+fix checkstyle issue
+remove unused code
+add a method to the 😝
+improve error message
+remove unnecessary method
+remove unused code
+fix crash in 😝
+add 😝 to 😝
+fix checkstyle issue
+fix quality flaws
+fix typo in 😝
+fix quality flaw
+remove unnecessary variable
+fix potential npe
+add 😝 method
+remove unnecessary code
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix a bug in 😝
+fix bug in 😝
+add 😝 method
+fix potential npe
+add a comment to flush
+fix typo in 😝
+remove unnecessary code
+fix bug in 😝
+fix typo in 😝
+add comment about weld
+add missing ctors
+fix findbugs warnings
+add 😝 method
+fix typo in 😝
+remove unnecessary code
+remove unnecessary code
+remove unused imports
+fix potential npe
+make 😝 public
+fix a bug where the notification could be displayed
+add 😝 to 😝
+fix issue where 😝 is not shown
+don t throw exception if there are unknown tooltype
+fix checkstyle issues
+add 😝 method
+fix crash when launching overviewactivity
+fix quality flaw
+add missing constructor
+remove useless javadoc
+fix failing test
+fix potential npe
+fix bug in 😝
+fix bug in nodescheduler
+add javadoc to javadoc
+add missing cancelable
+add 😝 to 😝
+remove unnecessary suppresswarnings
+fix crash in 😝
+fix compilation problem
+don t show the header if we have been set
+add 😝 method
+add tostring method
+add some javadoc
+fix javadoc errors
+remove debug print
+fix bug in 😝
+fix typo in 😝
+deprecated playerlistener constructor
+fix bug in smoothscrolltoposition header
+fix potential npe
+add license header
+remove unused code
+fix a bug in 😝
+add 😝 to 😝
+do not use 😝 for 😝
+fix memory leak
+add missing javadoc
+add missing notin
+hide 😝 button
+remove unnecessary code
+don t log the exception when the user is not found
+fix bug in nodescheduler
+deprecate nosuchbufferexception to deprecated
+fix bug in indexremovejob
+add sleep to 😝
+fix npe in 😝
+add test for 😝
+add test for parameterexpression
+remove dead code
+use 😝 instead of 😝
+fix javadoc typos
+add 😝 to 😝
+fix quality flaws
+fix broken test
+don t close the editor if there is no 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix npe in 😝
+deprecate unused code
+improved error message
+fix zoom scale
+add 😝 to 😝
+fix npe in 😝
+use the 😝 instead of 😝
+add 😝 to 😝
+log a crash when a notification is enabled
+add missing notin
+remove unnecessary code
+remove debug print
+fix typo in comment
+fix 😝 😝
+flush the buffer of the buffer
+smallfix remove unused variable
+remove unused variable
+remove unnecessary dependency
+add some javadoc
+remove unused import
+remove unused imports
+don t show dialog if there is not needed
+add 😝 to 😝
+fix 😝 test
+do not use 😝
+fix npe in 😝
+don t show empty lines if there are no matter
+remove useless javadoc
+fix cs error
+fix a comment
+fix broken test
+fix wifi 😝
+remove unused constructor
+fix equals in equals
+remove unused code
+don t send the user home intent to the user
+fix quality flaw
+do not use 😝 for 😝
+remove unused import
+ignore empty lines
+fix failing test
+fix typo in comment
+don t show empty strings
+fix bug in 😝
+add 😝 to 😝
+fix a bug where the screen was not being used
+add 😝 to 😝
+fix equals method
+fix failing test
+set the default value to the server
+fix bug in 😝
+fix broken test
+add 😝 to 😝
+throw an exception instead of ioexception
+remove unused code
+add missing import
+fix javadoc errors
+fix crash in 😝
+add 😝 to 😝
+don t show the 😝 if we have the 😝
+fix typo in 😝
+add todo for 😝
+fix crash in 😝
+add 😝 to 😝
+fix a bug in statementresource
+fix crash in 😝
+add 😝 to 😝
+fix checkstyle errors
+fix broken test
+fix failing test
+don t send the user home to system apps
+fix npe in 😝
+make field final
+fix bug in 😝
+remove unused field
+add missing javadoc
+fix bug in skeletoncontrol
+fix quality flaw
+remove redundant modifier
+fix crash in audioplayer
+fix checkstyle issues
+fix a bug where the 😝 was not being called
+fix bug in 😝
+add 😝 to 😝
+remove unnecessary comment
+add 😝 method
+add assertion message
+fix a bug in 😝
+remove unnecessary code
+fix potential npe
+add 😝 to 😝
+fix npe in 😝
+fix npe in 😝
+add license header
+fix a bug in 😝
+fix crash in 😝
+remove unused method
+add 😝 to 😝
+don t use project libraries for 😝
+wait time to wait
+fix unit test
+fix bug in 😝
+fix bug in 😝
+remove unused imports
+remove unused field
+add a log message to the log message
+send an error message when an error is not found
+fix bug in 😝
+fix test for 😝
+add 😝 to 😝
+don t send the system out of the 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix bug in urisupport
+remove unused imports
+remove unused imports
+add test for parameterexpression
+add 😝 to 😝
+fix bug in 😝
+fix npe in 😝
+add test for 😝
+fix a bug in 😝
+fix bug in 😝
+remove unused import
+fix bug in 😝
+don t show empty lines
+add null check
+add getter for 😝
+add a null check for 😝
+remove unnecessary code
+add missing javadoc
+remove unused code
+fix npe in 😝
+fix quality flaw
+fix npe in 😝
+remove unnecessary code
+fix npe in 😝
+fix a bug where the 😝 was not being used
+add 😝 to 😝
+add 😝 to 😝
+fix 😝 😝
+make constructor private
+add 😝 to 😝
+remove useless javadoc
+fix potential npe
+fix bug in 😝
+remove unused code
+add 😝 to 😝
+remove unused variable
+fix quality flaws
+remove unused variable
+add missing constants
+remove unused imports
+fix failing test
+add a hidden method to the 😝
+remove unused field
+do not show empty lines
+fix npe in 😝
+add missing constants
+fix quality flaw
+fix typo in 😝
+fix bug in 😝
+remove unused method
+add todo for 😝
+fix failing test
+add javadoc to 😝
+remove unnecessary code
+add null check
+fix bug in 😝
+fix bug in 😝
+fix npe in 😝
+add missing javadoc
+fix bug in pactstring
+reduce minimum size of 😝
+vcs log don t show the file history if there are several modules
+fix npe in 😝
+add a comment about the 😝
+fix bug in 😝
+fix a bug where the 😝 could cause an issue where the connection could overlap
+remove unused method
+add 😝 to 😝
+add 😝 to 😝
+fix copyright header
+remove unused code
+don t show the dialog if we don t have a refresh
+fix bug in 😝
+add todo to ep_name
+fix typo in 😝
+fix bug in 😝
+remove useless code
+fix npe in 😝
+remove unnecessary check
+add missing close method
+fix a bug where the screen could overlap when the window is not being displayed
+remove debug log
+fix npe in 😝
+fix bug in 😝
+make 😝 public
+don t show keyguard in 😝
+fix assertion in glm
+fix a bug where the 😝 was not being called
+remove unnecessary call
+fix unit test
+add test to 😝
+remove unused code
+make 😝 extend jsonbase
+fix potential npe
+fix bug in 😝
+fix a bug where the notification could get stuck
+smallfix incorporated pr comment
+remove unnecessary code
+remove unused variable
+fix bug in directdruidclient
+fix a bug where the hdmiceclocaldevicetv was not being called
+add null check
+add missing nullable annotations
+fix potential npe
+remove unused variable
+skip empty lines
+fix a bug in 😝
+improve javadoc of 😝
+add comment explaining why we need to be used
+fix quality flaw
+add test for parameterexpression
+fix npe in 😝
+fix a bug where the connection was not being used
+remove unnecessary comment
+don t create filestore files if there are no files
+vcs log remove unused variable
+make 😝 extend jsonbase
+fix quality flaws
+fix datainfo _adaptedframe
+fix bug in 😝
+fix bug in 😝
+remove dead code
+add 😝 to 😝
+remove unused method
+remove unnecessary variable
+don t log output file if there are no classpath
+improved error message
+fix wrong import
+fix a bug where the 😝 could cause the 😝
+fix npe in 😝
+set the system property to system server
+fix typo in javadoc
+expose the 😝 method
+fix synchronization issue
+fix crash in gamedata
+fix npe in 😝
+fix quality flaw
+make 😝 public
+fix potential npe
+add 😝 to 😝
+remove unused import
+library remove unnecessary semicolon
+don t use non final keywords
+fix copyright header
+remove unnecessary code
+don t show empty lines if there is empty
+remove unused variable
+introduce gitvcs comparator
+improve error message
+remove unnecessary code
+add 😝 to 😝
+fix quality flaws
+fix potential npe
+add 😝 to 😝
+fix quality flaws
+fix bug that caused dbm to be used in 😝
+remove unused code
+fix failing test
+implement 😝 getprocessor
+add tostring to 😝
+add 😝 getprocessor
+remove unnecessary code
+don t throw exception if there is not found
+fix checkstyle issues
+fix version version
+fix invalid argument parsing
+fix crash in 😝
+fix bug in 😝
+make sure we don t clear the 😝
+fix bug in 😝
+add test for parameterexpression
+remove obsolete comment
+remove unnecessary braces
+don t show the 😝 if we don t have a 😝
+fix failing test
+fix npe in 😝
+make 😝 public
+don t show the file history for 😝
+remove system out
+fix potential npe
+don t show 😝 if it is not needed
+fix bug in 😝
+remove unnecessary return type
+fix typo in 😝
+fix concurrency issue
+fix memory leak
+fix failing test
+fix javadoc of 😝
+remove unnecessary test
+fix checkstyle issues
+fix typo in 😝
+remove unused code
+add test for parameterexpression
+fix test case
+remove unused variable
+fix javadoc typo
+add tostring method
+remove unnecessary code
+fix race condition
+fix 😝 😝
+add 😝 method
+fix quality flaws
+fix typo in 😝
+add javadoc for commandbuilder
+fix bug in 😝
+fix typo in javadoc
+remove unused variable
+fix bug in 😝
+fix typo in 😝
+fix checkstyle issues
+remove unused code
+remove unused variable
+add test to 😝
+add gservices settings to 😝
+fix quality flaws
+fix bug in 😝
+fix typo in 😝
+add test for parameterexpression
+remove unnecessary code
+fix compile error
+improve error message
+fix wrong imports
+use absolute path for rmarkdown
+fix bug in 😝
+fix a bug in 😝
+remove unused import
+throw an exception if isvalidfragment is not found
+add debug logging
+make field final
+remove deprecated code
+remove unused code
+fix typo in 😝
+add debug logging
+add a constant to 😝
+fix potential npe
+add 😝 to 😝
+add 😝 getprocessor
+fix crash in 😝
+fix cs error
+remove unused code
+don t log message when there are no message
+fix a bug in 😝
+fix bug in 😝
+remove unused code
+fix broken test
+make 😝 public
+remove unnecessary cast
+don t show progress dialog when searchview is enabled
+fix failing test
+fix failing test
+make constructor final
+add comment explaining cookiesyncmanager
+fix checkstyle issues
+fix compilation error
+remove unused code
+remove unused code
+fix npe in abslistview
+fix bug in nodescheduler
+fix version string
+ignored failing test
+reset the current blog after the user cancels the 😝
+fix comment typo
+fix merge issue
+fix npe in 😝
+remove unused code
+add 😝 to 😝
+fix a bug where calendar was not being used elsewhere
+fix failing test
+don t show empty lines if there is empty lines
+fix bug in 😝
+fix potential npe
+fix error message
+fix layout issues
+fix a bug that prevented the wrong cursor in the 😝
+fix failing test
+remove unused variable
+add missing javadoc
+remove unused variable
+fix quality flaw
+make sure we have the file path
+remove debug print
+add check for 😝
+fix race condition
+don t show empty lines
+fix potential npe
+add support for 😝
+add support for 😝
+remove unused suppression
+fix crash in 😝
+fix npe in 😝
+fix a crash in tachyonfs
+fix bug where 😝 weren t belong
+fix checkstyle issues
+remove debug print
+remove unnecessary code
+don t show breakpoints for non physical files
+fix a bug where the fragment is not being called
+fix a bug where the user was not needed
+catch smackexception in expressioninterpreter
+fix failing test
+fix potential npe
+fix npe in 😝
+fix a bug where the notification could overlap with the 😝
+add missing javadoc
+fix compilation error
+fix crash in 😝
+make shard protected
+fix a bug where the 😝 was not being called
+fix a bug in 😝
+fix javadoc errors
+fix a crash in the 😝
+fix comment typo
+improve javadoc of 😝
+fix a bug where the 😝 was not being used
+add 😝 to 😝
+fix npe in 😝
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix findbugs error
+add log info
+remove unnecessary code
+fix npe in 😝
+fix typo in 😝
+make 😝 final
+remove unused variable
+remove unnecessary comment
+fix quality flaws
+do not use 😝
+fix bug in 😝
+make 😝 public
+add a check to get the response of the response
+add missing constructor
+fix checkstyle issues
+add 😝 to 😝
+fix npe in 😝
+fix checkstyle errors
+remove unused constant
+fix potential npe
+make 😝 public
+remove unused variable
+add missing javadoc
+add test for 😝
+fix a bug where the 😝 was not being called
+fix a bug where the post button wouldn t belong
+fix failing test
+fix crash when showing toast
+add missing javadoc
+fix error message
+fix broken test
+remove unnecessary variable
+fix unit test
+remove unused variable
+don t show 😝 if there are no mode
+fix potential npe
+don t show the window when the screen is not needed
+add javadoc to 😝
+add javadoc to javadoc
+add log spew
+fix potential npe
+fix wrong error message
+remove unused variable
+fix cs error
+fix toolbar button
+fix race condition
+fix compilation problem
+fix checkstyle issues
+fix javadoc typos
+add 😝 to 😝
+remove unused method
+fix npe in 😝
+fix test for 😝
+don t show 😝 if it is already disposed
+add missing javadoc
+add test for parameterexpression
+add 😝 method
+remove unused method
+remove unnecessary cast
+fix a bug where the 😝 could get stuck
+fix quality flaw
+add classloader to classfinder
+fix failing test
+do not show the icon
+fix bug in 😝
+fix npe in 😝
+add 😝 to 😝
+fix broken build
+fix javadoc errors
+fix broken test
+fix typo in 😝
+fix bug in 😝
+fix bug in 😝
+remove unused variable
+fix crash in 😝
+add 😝 to 😝
+fix typo in javadoc
+remove unused imports
+make 😝 public
+remove unused code
+fix quality flaws
+do not show empty lines
+fix checkstyle error
+don t show empty lines if there is empty
+add ipc permission check
+fix bug in 😝
+remove debug logging
+remove debug info
+add support to 😝
+remove debug print
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix bug in 😝
+add 😝 to 😝
+moved 😝 to 😝
+fix quality flaws
+don t throw an exception if we have a log
+remove unused method
+remove unused constructor
+fix bug in 😝
+fix quality flaws
+remove unnecessary code
+fix bug in 😝
+remove unused variable
+remove unnecessary call
+don t close the file if there are no matter
+fix quality flaws
+fix bug in 😝
+moved 😝 to package
+fix failing test
+fix a bug where the 😝 was not being called
+add comment about why we don t add a comment
+fix bug that caused dbm to be raised
+improved error message
+use the thread pool for the 😝
+reduce logging level
+remove debug logging
+add method to get the cursor
+fix npe in 😝
+remove useless annotation
+fix a bug in skeletoncontrol
+expose injectedlanguageutil to 😝
+fix 😝 😝
+fix bug in 😝
+remove unnecessary override
+remove empty lines
+fix checkstyle issues
+fix failing test
+fix typo in 😝
+add getters for 😝
+fix broken test
+fix npe in 😝
+fix summary page
+fix crash in 😝
+fix quality flaw
+remove unnecessary reset
+add a constant
+add license header
+fix typo in 😝
+fix test failures
+remove obsolete comment
+clarified javadoc for getcurrenttextviews
+add debug logging
+fix test failure
+add 😝 method
+fix crash in 😝
+don t show empty lines if there are empty strings
+fix a bug where the user was not being displayed
+fix potential npe
+remove unused class
+rename 😝 to 😝
+remove unnecessary call
+add 😝 to 😝
+fix bug in pactstring
+remove unused method
+fix bug in 😝
+remove unused code
+fix bug with empty strings
+do not use non dumb aware
+remove unused import
+fix javadoc error
+fix copyright header
+smallfix remove unused variable
+fix quality flaw
+remove deprecated code
+add missing close method
+fix a bug where the hdmiceclocaldevicetv was not shown
+make defaultapplicationarguments public
+add todo for 😝
+remove unused code
+add missing javadoc
+fix npe in 😝
+fix a bug in the 😝
+fix quality flaws
+make constant final
+fix npe in 😝
+fix focus border
+fix a bug in 😝
+reset default max deviation percent
+fix quality flaw
+fix javadoc typos
+remove unnecessary call
+add todo comment
+fix unit test
+fix javadoc warnings
+fix quality flaws
+make sure we can be found
+fix checkstyle error
+fix 😝 😝
+remove unnecessary javadoc
+fix typo in 😝
+remove unused imports
+fix npe in 😝
+fix bug in 😝
+add missing getters
+fix a bug where the server cfg was not being used
+do not show mnemonic in 😝
+fix typo in 😝
+don t show empty lines
+add 😝 to classpath
+remove unused code
+fix cs error
+fix bannercomponent error
+add a minimum size to 😝
+add 😝 to 😝
+fix issue with executing singular tests
+add a comment about why we have the 😝
+remove unused method
+fix bug in 😝
+fix javadoc errors
+fix a bug where the stream was not being used
+fix bug in 😝
+add 😝 to 😝
+fix checkstyle errors
+add test for parameterexpression
+add 😝 to 😝
+fix typo in 😝
+fix error message
+remove unused imports
+fix race condition
+add 😝 method
+add gltexture method
+make 😝 public
+remove dead code
+fix typo in javadoc
+remove unnecessary code
+set the path home to the path
+add constructor for 😝
+add test for parameterexpression
+remove explicit argument type
+fix checkstyle issues
+fix npe in 😝
+add 😝 to 😝
+fix a bug where the 😝 could get stuck
+fix a bug in 😝
+fix unit test
+fix quality flaw
+fix potential npe
+fix bug in 😝
+fix bug in abslistview abslistview abslistview
+fix compilation problem
+fix typo in 😝
+remove unused import
+add tostring method
+remove explicit argument type
+remove unused import
+fix copyright header
+remove debug message
+add 😝 to 😝
+remove debug print
+fix bug in 😝
+don t show progress bar if there is not needed
+remove unused code
+don t show empty lines if there are no window
+fix bug where the screen was not being shown
+fix bug in 😝
+fix race condition
+add 😝 to 😝
+fix a bug where the hdmiceclocaldevicetv is not being used
+make 😝 final
+remove useless javadoc
+add a comment about why we know why we have a comment
+don t send 😝 if it is enabled
+remove unnecessary code
+fix typo in 😝
+fix npe in 😝
+fix a bug where allcolumns was not being displayed
+fix typo in 😝
+remove unused imports
+do not show non dumb aware
+fix npe in 😝
+add toolbar to 😝
+fix compilation error
+fix checkstyle error
+smallfix remove unnecessary code
+fix bug in 😝
+remove unnecessary code
+remove debug print
+remove debug logging
+fix 😝 test
+fix a bug in 😝
+fix bug in 😝
+fix checkstyle issue
+remove unnecessary code
+fix broken test
+fix typo on windows
+add javadoc to 😝
+fix failing test
+fix npe in 😝
+fix bug in 😝
+fix issue where 😝 is not being used
+remove debug print
+add check for 😝
+fix a bug where 😝 was not being centered
+add 😝 to 😝
+fix checkstyle error
+don t use system property
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix quality flaw
+fix npe in 😝
+add 😝 to 😝
+fix a bug that caused dbm to be used in 😝
+fix quality flaw
+add 😝 to 😝
+remove unused code
+add flush to 😝
+fix npe in 😝
+fix failing test
+fix checkstyle error
+make 😝 public
+remove unused code
+fix race condition in httpremotetask
+fix bug in 😝
+remove unused import
+fix potential npe
+remove unused import
+remove unused variable
+add license header
+use the locale locale
+remove unnecessary cast
+don t use project structure for decompiled module
+fix bug in 😝
+add test for parameterexpression
+make 😝 public
+fix npe in audioplayer
+fix javadoc warnings
+fix npe in 😝
+fix 😝 test
+fix npe in 😝
+add todo for 😝
+fix bug in 😝
+remove unused method
+don t flush the 😝 if there are no longer needed
+fix bug in 😝
+make 😝 public
+add test for 😝
+remove unnecessary volatile
+ignored failing test
+add test for 😝
+add 😝 to 😝
+fix potential npe
+fix a bug in 😝
+fix typo in 😝
+fix typo in 😝
+remove unused code
+make 😝 public
+remove unnecessary check
+remove unnecessary cast
+fix bug in 😝
+remove unnecessary code
+remove unused code
+fix test failures
+remove test annotation
+remove blank line
+fix a bug where the hdmiceclocaldevicetv was not being used
+fix a bug in 😝
+add tostring method
+fix bug in nodescheduler
+add 😝 to 😝
+remove unused import
+remove unused method
+fix bug in 😝
+fix javadoc typo
+don t flush the file if there are no matter
+fix typo in 😝
+fix crash in 😝
+remove unused import
+remove unused constructor
+fix npe in 😝
+fix bug in 😝
+fix javadoc issues
+fix quality flaw
+fix broken test
+add destroy method
+add javadoc for 😝
+remove unused method
+add support for 😝
+fix unit test
+fix crash in 😝
+add test for 😝
+add 😝 to 😝
+fix test failures
+add a logexception to 😝
+add 😝 to 😝
+fix npe in 😝
+add missing braces
+improve error message
+fix locale in 😝
+fix test failures
+remove unnecessary code
+remove unused code
+remove unused variable
+add a test for 😝
+commented out code
+fix typo in javadoc
+fix quality flaw
+fix a bug where the user was not being used elsewhere
+fix bug in 😝
+remove unused code
+add a logexception
+add 😝 to 😝
+fix quality flaw
+fix bug in 😝
+fix a bug in 😝
+improved log message
+fix typo in 😝
+fix default values in 😝
+fix broken test
+remove unused code
+don t show a notification if we have a notification
+remove unused code
+fix typo in javadoc
+fix merge issue
+add 😝 to 😝
+fix failing test
+fix potential npe
+add missing override
+fix bug in 😝
+do not show the file name in 😝
+remove unnecessary code
+remove debug logging
+remove unused imports
+fix failing test
+fix npe in basestatusbar
+fix javadoc of 😝
+fix javadoc errors
+add a test to make sure why we can be found
+fix test case
+fix a bug where allcolumns was not being displayed
+fix test for 😝
+fix a bug where the hdmiceclocaldevicetv was not being released
+fix a bug where the hdmiceclocaldevicetv is not being used
+remove unused code
+remove unused variable
+add 😝 to 😝
+add assertion assertion
+fix typo in 😝
+remove unused imports
+fix a bug in 😝
+remove unused variable
+fix failing test
+fix typo in 😝
+add missing constructor
+fix npe in 😝
+add a getter to get the 😝
+fix npe in 😝
+fix npe in 😝
+don t send 😝 to 😝
+add missing notin
+fix potential npe in 😝
+fix quality flaws
+fix potential npe
+fix npe in 😝
+fix bug in 😝
+remove unnecessary code
+add missing constructor
+fix bug in 😝
+add missing assertion
+remove unused method
+fix checkstyle error
+add 😝 to 😝
+fix crash in 😝
+fix quality flaw
+add 😝 to 😝
+fix test case
+remove debug info
+fix a bug where the 😝 was not being used
+fix a bug in camel cxf
+fix failing test
+remove unused code
+don t throw exception if there are no op
+remove unnecessary cast
+remove unused code
+remove unnecessary call
+fix npe in 😝
+remove blank line
+remove unused import
+add quaternion lookat vector3
+remove unused method
+fix typo in 😝
+fix bug in 😝
+add 😝 to 😝
+add nullable annotation
+fix bug in constructor
+remove unnecessary cast
+fix bug in 😝
+fix npe in nodescheduler
+fix race condition in 😝
+fix npe in 😝
+remove log statement
+fix compilation error
+add a comment about why we have a 😝
+improve error message
+add missing withicon
+remove unused code
+make sure we have a post
+fix potential npe
+fix typo in 😝
+fix bug in 😝
+add missing notin to 😝
+catch all exceptions
+fix javadoc typos
+remove unused code
+fix quality flaw
+fix quality flaws
+fix bug in 😝
+fix bug in 😝
+fix bug in pact record tostring
+fix a bug where the 😝 was not being centered
+don t show file if there are no files
+fix a bug where shellserverextension was not being used
+remove unnecessary code
+fix a bug where the hdmiceclocaldevicetv was not being used in statementresource
+fix javadoc typos
+fix datainfo _adaptedframe
+fix typo in 😝
+use 😝 instead of 😝
+add check for 😝
+remove unused code
+fix a bug where the 😝 was not being used
+fix bug in 😝
+fix a bug in 😝
+trim whitespace when there are empty lines
+add version string
+fix potential npe
+fix typo in test
+add missing annotation
+fix npe in 😝
+fix bug in 😝
+ignored 😝 test
+fix typo in 😝
+fix npe in 😝
+fix incorrect bounding box
+fix quality flaw
+fix bug in 😝
+fix bug in 😝
+remove debug logging
+remove unused variable
+fix checkstyle issues
+fix bug in 😝
+remove unused code
+fix bug in 😝
+fix npe in 😝
+don t clear stacktrace twice
+don t use empty lines
+improve error message
+fix race condition
+remove unused variable
+don t show non dumb aware
+remove unused imports
+add test for 😝
+add check for 😝
+add missing javadoc
+add 😝 to 😝
+remove unused imports
+fix checkstyle issues
+add null check
+make sure we can be used in the 😝
+remove unused constant
+improve error message
+fix bug in 😝
+fix bug in 😝
+fix bug in 😝
+make 😝 public
+fix bug in 😝
+remove unnecessary code
+fix typo in javadoc
+fix compilation problem
+add padding above font size
+fix typo in 😝
+remove unnecessary code
+fix bug in 😝
+add 😝 to 😝
+make 😝 public
+remove debug logging
+add test for parameterexpression
+add 😝 flag
+remove unnecessary code
+add 😝 annotation to 😝
+fix npe in 😝
+fix typo in 😝
+remove debug print
+add 😝 getprocessor
+add utility method
+add tostring method to 😝
+fix npe in 😝
+fix javadoc errors
+remove debug print
+fix bug in 😝
+do not show empty lines
+fix typo in 😝
+fix failing test
+fix potential npe
+fix bug in 😝
+add assertion message
+catch all throwables
+remove unused import
+remove unused imports
+remove 😝 dependency
+add license header
+remove border border
+fix compilation error
+fix assertion error
+make 😝 public
+remove unused method
+add license header
+add test for parameterexpression
+fix typo in tlsutils
+fix potential deadlock
+remove unused code
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix bug where 😝 is not being used
+fix comment typo
+fix quality flaws
+fix bug in 😝
+fix failing test
+add a test to verify that takes a response
+fix quality flaw
+don t show the default value for the command line
+fix bug in 😝
+fix npe in 😝
+fix typo in 😝
+fix typo in 😝
+fix a bug where the notification could overlap with the 😝
+fix crash in 😝
+fix potential npe
+fix bug in 😝
+add 😝 method
+fix bug in 😝
+don t show empty lines if there are no values
+add missing method
+remove unused imports
+remove unused method
+fix bug in 😝
+add test for parameterexpression
+add javadoc to 😝
+fix checkstyle error
+remove unused import
+don t use 😝 for 😝
+fix checkstyle issues
+fix compilation error
+fix wrong type
+make 😝 public
+add javadoc to 😝
+add 😝 to 😝
+add missing javadoc
+remove debug print
+add shutdown hook
+add 😝 to 😝
+remove unused constant
+turn off debugging
+fix failing test
+don t show 😝 if there are equal
+add a test for 😝
+don t create 😝 if there are no project
+remove obsolete comment
+fix typo in 😝
+fix potential race condition
+add some info to 😝
+add missing javadoc
+remove dead code
+fix bug in 😝
+fix a bug where the hdmiceclocaldevicetv was not being called
+fix bug in 😝
+add 😝 getprocessor
+remove unnecessary log
+add missing override annotations
+remove debug logging
+fix bug in 😝
+fix error message
+fix quality flaws
+fix quality flaw
+fix bug in 😝
+fix potential npe
+add license header
+use the test category
+add 😝 method
+add 😝 to 😝
+add 😝 to 😝
+fix javadoc warnings
+make 😝 public
+remove unnecessary return type
+remove unused method
+fix npe in 😝
+fix checkstyle issues
+remove unnecessary test
+fix failing test
+make constructor protected
+remove unused imports
+incorporated pr comment
+add 😝 to 😝
+fix quality flaw
+fix broken build
+remove unused variable
+fix bug in 😝
+remove unused import
+don t show empty lines if there is empty
+remove unnecessary code
+remove unnecessary annotation
+remove unnecessary code
+ignored test runner
+fix quality flaws
+fix bug in 😝
+remove unnecessary border
+remove unused imports
+improve error message
+fix bug where allcolumns was not being used
+add 😝 to 😝
+remove unnecessary code
+remove extra space
+fix cs error
+add debug info
+remove unused method
+add 😝 to 😝
+fix javadoc issues
+don t reset isnetworktimeoutsupported twice
+fix bug in 😝
+make 😝 public
+add 😝 method
+print out println in 😝
+fix typo in xmpptcpconnection
+fix quality flaw
+remove unused imports
+fix memory leak
+fix typo in 😝
+add 😝 to 😝
+fix crash in 😝
+fix a bug where allcolumns was not being displayed
+remove unnecessary code
+fix checkstyle issues
+fix cs error
+add tostring to 😝
+remove unused method
+remove unnecessary code
+add javadoc for abstract methods
+fix a bug where the hdmiceclocaldevicetv was not being used
+remove unnecessary code
+remove debug print
+fix quality flaw
+add missing break break
+fix npe in 😝
+fix failing test
+fix typo in javadoc
+fix potential npe
+remove debug logging
+fix bug in 😝
+remove unused code
+fix a bug where the 😝 was not being used
+add a comment
+remove unnecessary code
+add test for 😝
+fix npe in 😝
+fix typo in 😝
+fix typo in javadoc
+fix quality flaws
+fix quality flaws
+fix bug in 😝
+fix typo in javadoc
+fix crash in 😝
+fix typo in 😝
+make 😝 public
+fix bug in 😝
+remove unused variable
+skip empty lines
+add tostring to 😝
+remove unused field
+remove unused imports
+fix potential npe
+add 😝 to 😝
+fix unit test
+add 😝 to 😝
+fix typo in javadoc
+add test for 😝
+add 😝 to 😝
+fix potential npe
+fix bug in 😝
+fix npe in 😝
+fix potential npe
+fix failing test
+add missing constructor
+fix typo in 😝
+fix a bug in 😝
+throw iae if isvalidfragment is null
+fix quality flaw
+improve error message
+fix checkstyle errors
+add javadoc to 😝
+add test for parameterexpression
+do not use 😝 in 😝
+fix bug in 😝
+add method to 😝
+fix typo in 😝
+remove unused code
+add todo for 😝
+add close method
+use 😝 instead of 😝
+add test for parameterexpression
+add support for 😝
+fix a bug that caused dbm to be used in 😝
+fix text name
+make 😝 public
+fix unit test
+remove unused variable
+remove unnecessary code
+smallfix remove explicit argument type
+fix bug in 😝
+don t show 😝 if there are no mode
+fix npe in 😝
+fix crash in recyclerview
+add 😝 getprocessor
+fix potential npe in 😝
+fix the build
+fix bug in 😝
+fix typo in 😝
+improve error message
+don t show 😝 if it is not found
+fix typo in 😝
+fix crash in 😝
+fix typo in rosieusecase
+fix comment typo
+fix typo in 😝
+fix a bug where the screen could overlap when the screen is being displayed
+add 😝 to 😝
+improved error message
+fix bug in 😝
+improve error message
+fix typo in javadoc
+fix checkstyle error
+fix a bug where the 😝 was not being used
+improve javadoc for getcurrenttextviews
+fix bug in 😝
+remove unnecessary code
+add a log message
+fix javadoc of 😝
+remove unused imports
+add a logexception to 😝
+add private constructor
+add 😝 to compasslistener
+fix bug in 😝
+fix quality flaw
+remove unnecessary call
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+add a comment about why we have a constant
+add null check
+fix typo in javadoc
+remove unnecessary comment
+remove unused code
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+add 😝 to 😝
+fix cs error
+add a clear to clear the 😝
+fix typo in 😝
+fix typo in 😝
+fix crash in smoothscrolltoposition
+add method to 😝
+remove dead code
+fix npe in 😝
+print out jprofile if there are no longer needed
+remove unnecessary code
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix bug in 😝
+remove unused variable
+fix bug in 😝
+add 😝 to 😝
+fix bug in 😝
+fix quality flaw
+fix wrong logic
+make sure we don t have the 😝
+fix a bug where allcolumns was not being used in the 😝
+fix a bug where the user was not being created
+add license header
+make 😝 public
+fix copyright header
+clear the 😝 after the 😝
+fix test for 😝
+fix failing test
+fix bug in 😝
+reduce log spew
+fix potential npe
+fix bug in 😝
+remove unused variable
+fix crash in 😝
+fix compilation error
+improve error message
+make 😝 public
+remove unnecessary call
+fix crash when dismissing dialog
+fix failing test
+don t highlight empty lines
+remove unused code
+fix typo in 😝
+remove unnecessary code
+fix test case
+remove unused code
+fix broken test
+add comment explaining cookiesyncmanager
+add 😝 to 😝
+fix bug in 😝
+fix bug in 😝
+fix typo in 😝
+fix javadoc in javadoc
+add comment explaining why we know why we know why we know why we know why we know why we know why we know why we know why we
+fix bug in nodescheduler
+remove unused import
+add 😝 to 😝
+fix quality flaws
+add a constant to 😝
+remove unused variable
+add 😝 to 😝
+add missing javadoc
+fix potential npe
+don t send 😝 to 😝
+fix a bug in 😝
+remove unused import
+remove debug print
+fix comment typos
+suppress unchecked warning
+fix broken test
+fix bug in 😝
+deprecated playerlistener of 😝
+add missing cancelable
+fix bug in 😝
+add missing break
+add 😝 method
+skip empty lines
+remove tostring method
+remove debug print
+add a comment about why we have the 😝
+improve error message
+remove unused constructor
+fix crash in 😝
+fix bug in 😝
+fix test for 😝
+throw an exception if the 😝 fails
+add 😝 to 😝
+fix bug in 😝
+fix checkstyle issues
+add suppresswarnings annotation
+fix merge issue
+fix crash in statemachine
+remove unused method
+fix cs error
+fix memory leak
+fix typo in 😝
+add 😝 method
+fix typo in 😝
+fix a bug in 😝
+don t show the 😝 if there is not needed
+fix broken test
+fix typo in 😝
+fix potential deadlock
+fix potential npe in 😝
+fix typo in 😝
+fix potential npe
+add 😝 method
+fix a crash in systemui
+fix javadoc issues
+fix a bug where the 😝 was not being used
+remove unused imports
+fix bug in 😝
+fix a bug in 😝
+expose the 😝
+remove unused variable
+add gltexture method
+remove debug stacktrace
+add 😝 to 😝
+add 😝 to 😝
+fix 😝 😝
+remove unnecessary call
+add 😝 to 😝
+fix npe in 😝
+add 😝 to 😝
+fix a bug where the connection was not being logged
+add check for 😝
+remove debug logging
+fix bug in 😝
+fix 😝 😝
+remove extra semicolon
+fix npe in forgechunkmanager
+add 😝 to ep_name
+fix npe in 😝
+fix leak in 😝
+fix memory leak
+add test for 😝
+add test for 😝
+remove unnecessary code
+fix quality flaws
+remove unused method
+remove unnecessary code
+updated license header
+don t send 😝 to 😝
+make 😝 protected
+remove unused method
+fix broken test
+fix wrong import
+add license header
+fix checkstyle errors
+fix potential npe
+fix cs error
+fix potential npe
+fix crash in 😝
+add 😝 to 😝
+fix bug that caused dbm to be found
+fix potential deadlock
+add todo comment
+add shutdown to close
+fix bug in 😝
+fix typo in javadoc
+don t show empty line numbers
+fix a bug where the user was not being used
+fix typo in 😝
+fix crash in 😝
+fix failing test
+make sure we have the 😝
+add test for parameterexpression
+remove unused variable
+fix quality flaws
+fix checkstyle error
+fix quality flaws
+remove unused variable
+add 😝 to 😝
+add 😝 constant
+fix a bug where the 😝 could overlap with the 😝
+don t show the whole window if there are not needed
+add license header
+remove unnecessary code
+fix bug in 😝
+fix typo in 😝
+fix quality flaw
+remove unused variable
+fix a bug where the 😝 was not being centered
+remove unnecessary comment
+fix typo in 😝
+fix typo in 😝
+fix checkstyle issues
+fix 😝 test
+fix crash in 😝
+add 😝 to 😝
+remove useless assertion
+fix a bug in contact list
+fix bug in 😝
+fix bug in 😝
+don t show 😝 if there is not needed
+fix typo in 😝
+remove unused import
+fix failing test
+fix a bug where the user was not being used
+add missing type
+remove unnecessary call
+fix checkstyle error
+fix typo in 😝
+add missing notin
+fix typo in 😝
+make 😝 public
+add 😝 to 😝
+remove unused imports
+fix typo in 😝
+fix bug in 😝
+remove system out println
+fix bug in 😝
+fix typo in constructor
+fix bug in 😝
+remove unused method
+remove unnecessary semicolon
+add a clarifying comment to the 😝
+remove unused constant
+add 😝 to 😝
+make 😝 serializable
+fix comment typo
+remove unnecessary call
+fix quality flaws
+fix typo in 😝
+don t use arrays aslist for 😝
+add todo comment
+add 😝 to 😝
+add tostring method
+implement 😝 getprocessor
+fix failing test
+fix bug in 😝
+add 😝 to 😝
+fix npe in 😝
+fix a bug where the hdmiceclocaldevicetv was not being displayed
+fix npe in 😝
+fix build break
+remove dead code
+fix 😝 😝
+fix bug in 😝
+fix typo in javadoc
+fix a bug in 😝
+fix checkstyle error
+fix potential npe
+remove unnecessary code
+fix a bug where the hdmiceclocaldevicetv was not being logged
+fix bug in 😝
+fix a bug where allcolumns was not being called
+add test for 😝
+make 😝 final
+remove unused variable
+fix bug in 😝
+fix bug in 😝
+fix typo in 😝
+fix bug in 😝
+add 😝 method
+fix quality flaw
+add test for parameterexpression
+fix broken test
+fix quality flaw
+fix bug in shadowmatrix setscale
+make sure we can be done
+fix a bug in 😝
+remove unused variable
+fix typo in javadoc
+add license header
+remove unnecessary check
+add 😝 to 😝
+don t show the 😝 if we have a 😝
+turn off french tests
+fix typo in tostring
+fix bug in 😝
+fix comment typo
+fix bug in 😝
+fix some quality flaws
+add 😝 to 😝
+suppress unchecked warning
+make 😝 public
+fix cs error
+fix unit test
+add test for parameterexpression
+fix possible npe
+add 😝 int int int int
+add todo comment
+disable test for now
+fix unit test
+fix quality flaw
+make sure we have a default value
+add 😝 to 😝
+add missing jsoncreator annotation
+add 😝 to 😝
